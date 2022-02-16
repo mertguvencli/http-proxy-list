@@ -1,23 +1,23 @@
 
-    # Free HTTP Proxy List 🌍
+# Free HTTP Proxy List 🌍
 
-    [![Hourly Update](https://github.com/mertguvencli/http-proxy-list/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/mertguvencli/http-proxy-list/actions/workflows/main.yml)
+[![Hourly Update](https://github.com/mertguvencli/http-proxy-list/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/mertguvencli/http-proxy-list/actions/workflows/main.yml)
 
-    It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
+It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-    ## Usage
+## Usage
 
-    Click the file that you want and copy the URL.
+Click the file that you want and copy the URL.
 
-    |File|Content|
-    |----|-------|
-    |[data.txt](/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|
-    |[data.json](/proxy-list/data.json)|`ip, port`|
-    |[data-with-geolocation.json](/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|
+|File|Content|
+|----|-------|
+|[data.txt](/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|
+|[data.json](/proxy-list/data.json)|`ip, port`|
+|[data-with-geolocation.json](/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|
 
-    ## Sources
+## Sources
 
-    * [free-proxy-list.net](https://free-proxy-list.net)
+* [free-proxy-list.net](https://free-proxy-list.net)
 * [us-proxy.org](https://www.us-proxy.org)
 * [proxydb.net](http://proxydb.net)
 * [free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)
@@ -29,11 +29,11 @@
 * [github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)
 
 
-    ## Sample Proxies With Geolocation Info
+## Sample Proxies With Geolocation Info
 
-    |#|Ip|Port|Country|City|Internet Service Provider|
-    |-|--|----|-------|----|-------------------------|
-    |1|47.254.173.137|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
+|#|Ip|Port|Country|City|Internet Service Provider|
+|-|--|----|-------|----|-------------------------|
+|1|47.254.173.137|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
 |2|89.219.25.42|3128|Kazakhstan|Almaty|Jusan Mobile JSC|
 |3|140.83.37.196|8080|Japan|Tokyo|Oracle Corporation|
 |4|50.250.56.129|46456|United States|Lawrence|Comcast Cable Communications, LLC|
@@ -46,9 +46,8 @@
 
 
 
-    ## Contributing
+## Contributing
 
-    Contributions are welcome, and they are greatly appreciated! Every
-    little bit helps, and credit will always be given.
+Contributions are welcome, and they are greatly appreciated! Every
+little bit helps, and credit will always be given.
 
-    

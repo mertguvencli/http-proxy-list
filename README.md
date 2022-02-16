@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3105** proxies at the latest update. Usable proxies are below.
+> Scraper found **3974** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|368|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|368|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|368|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|419|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|419|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|419|
 
 ## Sources
 
@@ -38,26 +38,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|2|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
-|3|129.226.148.192|443|Singapore|Singapore|Tencent Cloud Computing (Beijing) Co|
-|4|173.197.167.242|8080|United States|Ontario|Spectrum|
-|5|140.227.199.207|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
-|6|91.208.206.179|5006|Moldova|Chisinau|Alexhost SRL|
-|7|45.160.74.1|999|Chile|Santiago|Besthost Spa|
-|8|80.240.202.218|8080|Kenya|Nairobi|Liquid Telecommunications Ltd|
-|9|187.189.116.231|999|Mexico|Ciudad Delicias|Total Play Telecomunicaciones SA De CV|
-|10|1.2.252.65|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|11|107.178.9.186|8080|United States|Decatur|Nextlink Broadband|
-|12|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|13|121.52.145.162|8080|Pakistan|Islamabad|HEC|
-|14|190.71.27.179|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
-|15|200.32.80.54|999|Colombia|Ubaque|Level 3 Colombia S.A|
-|16|176.37.150.254|41890|Ukraine|Kyiv|Lanet Network|
-|17|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
-|18|37.1.41.35|53281|Russia|Serpukhov|Rial Com JSC|
-|19|98.12.195.129|443|United States|New York|Spectrum|
-|20|77.233.5.68|55443|Russia|Krasnodar|Yug-Link|
+|1|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
+|2|181.224.207.18|999|Dominican Republic|Castanuelas|BW TELECOM|
+|3|18.228.14.120|7890|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
+|5|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|6|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|7|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
+|8|194.233.73.107|443|Singapore|Singapore|Contabo Asia Private Limited|
+|9|194.233.73.103|443|Singapore|Singapore|Contabo Asia Private Limited|
+|10|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
+|11|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|12|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|13|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|14|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|15|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
+|16|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
+|17|188.156.240.240|8118|Hungary|Szeged|Magyar Telekom plc.|
+|18|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|59.61.160.129|16790|China|Fuzhou|Chinanet|
+|20|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

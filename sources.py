@@ -118,4 +118,12 @@ SOURCES = [
             "txt": {},
         }
     },
+    {
+        "id": "github.com/monosans/proxy-list",
+        "url": "https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt",
+        "method": "GET",
+        "parser": {
+            "txt": {},
+        }
+    },
 ]

@@ -14,7 +14,7 @@ logging.basicConfig(
 )
 user_agent = UserAgent()
 HEADERS = {'User-Agent': user_agent.random}
-MAX_WORKER = 300
+MAX_WORKERS = 300
 AVAILABLE_PROXIES = []
 USABLE_PROXIES = []
 
@@ -142,14 +142,14 @@ def geolocation_info(batch_ips):
 
 
 def main():
-    global MAX_WORKER
+    global MAX_WORKERS
 
     for config in SOURCES:
         scraper = Scraper(config)
         scraper.run()
 
     list_of_proxies = list(AVAILABLE_PROXIES)
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKER) as executor:
+    with concurrent.futures.ThreadPoolExecutor(MAX_WORKERSs=MAX_WORKERS) as executor:
         worker_to_queue = {
             executor.submit(ProxyItem, x['ip'], x['port']): x for x in list_of_proxies
         }
@@ -163,14 +163,21 @@ def main():
         for x in USABLE_PROXIES:
             f.write(f'{x.get("ip")}:{x.get("port")}\n')
 
+    geolocations = []
     with open("proxy-list/data-with-geolocation.json", "w") as f:
-        geolocation = geolocation_info(USABLE_PROXIES)
-        json.dump(geolocation, f, indent=4)
+        geolocations = geolocation_info(USABLE_PROXIES)
+        json.dump(geolocations, f, indent=4)
 
     logging.info(f'{len(list_of_proxies)} proxies are crawled.')
     logging.info(f'{len(USABLE_PROXIES)} proxies are usable.')
 
-    update_readme()
+    update_readme(metrics={
+        "counts": {
+            "found": len(list_of_proxies),
+            "usable": len(USABLE_PROXIES),
+            "geolocation": len(geolocations),
+        }
+    })
 
 
 if __name__ == '__main__':

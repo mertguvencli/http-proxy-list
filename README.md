@@ -11,9 +11,9 @@ Click the file that you want and copy the URL.
 
 |File|Content|
 |----|-------|
-|[data.txt](/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|
-|[data.json](/proxy-list/data.json)|`ip, port`|
-|[data-with-geolocation.json](/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|
 
 ## Sources
 

@@ -6,6 +6,7 @@ import pandas as pd
 from fake_useragent import UserAgent
 import itertools
 from sources import SOURCES
+from readme import update_readme
 
 logging.basicConfig(
     format='%(asctime)s %(name)s - %(levelname)s - %(message)s',
@@ -163,10 +164,13 @@ def main():
             f.write(f'{x.get("ip")}:{x.get("port")}\n')
 
     with open("proxy-list/data-with-geolocation.json", "w") as f:
-        json.dump(geolocation_info(USABLE_PROXIES), f, indent=4)
+        geolocation = geolocation_info(USABLE_PROXIES)
+        json.dump(geolocation, f, indent=4)
 
     logging.info(f'{len(list_of_proxies)} proxies are crawled.')
     logging.info(f'{len(USABLE_PROXIES)} proxies are usable.')
+
+    update_readme()
 
 
 if __name__ == '__main__':

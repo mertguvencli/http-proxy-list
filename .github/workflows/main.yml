@@ -1,10 +1,7 @@
-name: Hourly proxy-list update
+name: Hourly Update
 on:
-  workflow_dispatch
-  #schedule:
-    # * is a special character in YAML so you have to quote this string
-    # - cron:  '*/30 * * * *'
-    #- cron:  '0 1 * * *'
+  schedule:
+    - cron: '0 * * * *'
 
 jobs:
   update:

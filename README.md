@@ -5,15 +5,18 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
+> Scraper found **869** proxies at the latest update. Usable proxies are below.
+
 ## Usage
 
-Click the file that you want and copy the URL.
+Click the file format that you want and copy the URL.
 
-|File|Content|
-|----|-------|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|
+
+|File|Content|Count|
+|----|-------|-----|
+|[data.txt](/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|33|
+|[data.json](/proxy-list/data.json)|`ip, port`|33|
+|[data-with-geolocation.json](/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|33|
 
 ## Sources
 
@@ -33,16 +36,26 @@ Click the file that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.88.250.73|3128|South Korea|Suwon|DLIVE|
-|2|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
-|3|82.202.160.205|8118|Russia|Irkutsk|SERVER|
-|4|85.114.112.22|8080|Palestine|Gaza|fusion services|
-|5|103.227.254.118|2018|Indonesia|Jakarta|PT Raja Mitra Informatika|
+|1|98.12.195.129|443|United States|New York|Spectrum|
+|2|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|3|182.100.68.3|17754|China|Shangdundu|Chinanet|
+|4|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
 |6|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|124.107.167.225|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
-|8|201.150.117.160|999|Mexico|Mixquiahuala de Juarez|Hulux Telecomunicaciones|
-|9|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|10|95.216.64.229|20019|Finland|Helsinki|Hetzner Online GmbH|
+|7|115.220.1.139|17890|China|Ningbo|Chinanet|
+|8|138.185.190.46|8080|Brazil|Pio IX|Virtex Ltda|
+|9|5.16.7.213|1256|Russia|St Petersburg|Enforta-MSK|
+|10|82.200.107.98|3128|Russia|Omsk|ZSTTK|
+|11|1.180.156.226|65001|China|Changning|Chinanet|
+|12|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
+|13|88.255.101.228|8080|Turkey|Antalya|Turk Telekomunikasyon Anonim Sirketi|
+|14|110.39.133.114|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|15|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|16|77.236.252.187|1256|Russia|Perm|JSC "ER-Telecom Holding"|
+|17|120.72.22.101|8080|Philippines|Magugpo Poblacion|Dctech Micro Services|
+|18|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|19|119.15.95.158|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|20|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
 
 
 

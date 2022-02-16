@@ -33,16 +33,16 @@
 
     |#|Ip|Port|Country|City|Internet Service Provider|
     |-|--|----|-------|----|-------------------------|
-    |1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|140.83.37.196|8080|Japan|Tokyo|Oracle Corporation|
-|3|89.219.25.42|3128|Kazakhstan|Almaty|Jusan Mobile JSC|
-|4|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|5|180.254.102.86|8080|Indonesia|Yogyakarta|PT. TELKOM INDONESIA|
-|6|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|7|103.152.100.187|8080|Pakistan|Lahore|Homenet Private Limited|
-|8|45.238.21.210|999|Chile|Santiago|Airpoint Telecomunicaciones Limitada|
-|9|177.129.253.133|3128|Brazil|Promissao|Maxcomm Ltda EPP|
-|10|47.254.173.137|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
+    |1|47.254.173.137|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
+|2|89.219.25.42|3128|Kazakhstan|Almaty|Jusan Mobile JSC|
+|3|140.83.37.196|8080|Japan|Tokyo|Oracle Corporation|
+|4|50.250.56.129|46456|United States|Lawrence|Comcast Cable Communications, LLC|
+|5|200.54.194.13|53281|Chile|Providencia|Telefonica Empresas|
+|6|38.101.122.186|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|7|103.194.175.86|8080|Indonesia|Bandung|MYNET|
+|8|181.224.162.200|999|Colombia|Buenaventura|Level 3 Communications, Inc.|
+|9|188.233.97.32|80|Russia|Volgograd|JSC "ER-Telecom Holding"|
+|10|181.49.100.190|8080|Colombia|Pitalito|Telmex Colombia S.A.|
 
 
 

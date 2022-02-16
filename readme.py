@@ -9,15 +9,18 @@ README = """
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
+> Scraper found **{{NUMBER_OF_TOTAL_PROXIES}}** proxies at the latest update. Usable proxies are below.
+
 ## Usage
 
-Click the file that you want and copy the URL.
+Click the file format that you want and copy the URL.
 
-|File|Content|
-|----|-------|
-|[data.txt](/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|
-|[data.json](/proxy-list/data.json)|`ip, port`|
-|[data-with-geolocation.json](/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|
+
+|File|Content|Count|
+|----|-------|-----|
+|[data.txt](/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|{{NUMBER_OF_USABLE_PROXIES}}|
+|[data.json](/proxy-list/data.json)|`ip, port`|{{NUMBER_OF_USABLE_PROXIES}}|
+|[data-with-geolocation.json](/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|{{NUMBER_OF_USABLE_GEO_PROXIES}}|
 
 ## Sources
 
@@ -38,7 +41,7 @@ little bit helps, and credit will always be given.
 """  # noqa
 
 
-def update_readme():
+def update_readme(metrics):
     global README
 
     SOURCES_MD = ''
@@ -56,7 +59,7 @@ def update_readme():
             tmp["port"] = x["port"]
             tmp['row_num'] = i
             formatted.append(tmp)
-            if i == 10:
+            if i == 20:
                 break
 
         for x in formatted:
@@ -64,6 +67,9 @@ def update_readme():
 
     README = README.replace('{{SOURCES}}', SOURCES_MD)
     README = README.replace('{{PROXY_LIST}}', PROXY_LIST_MD)
+    README = README.replace('{{NUMBER_OF_TOTAL_PROXIES}}', metrics['counts']['found'])
+    README = README.replace('{{NUMBER_OF_USABLE_PROXIES}}', metrics['counts']['usable'])
+    README = README.replace('{{NUMBER_OF_USABLE_GEO_PROXIES}}', metrics['counts']['geolocation'])
 
     with open('README.md', 'w') as f:
         f.write(README)

@@ -1,0 +1,33 @@
+name: Hourly proxy-list update
+on:
+  workflow_dispatch
+  #schedule:
+    # * is a special character in YAML so you have to quote this string
+    # - cron:  '*/30 * * * *'
+    #- cron:  '0 1 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v2
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Run the scraper
+      run: python main.py
+    - name: Commit results
+      run: |
+        set -e
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git config --global user.name "github-actions[bot]"
+        d="$(date --rfc-3339=s)"
+        git add --all
+        git commit --allow-empty -m "auto-update 📦 $d"
+        git push origin main

@@ -126,4 +126,12 @@ SOURCES = [
             "txt": {},
         }
     },
+    {
+        "id": "github.com/TheSpeedX/PROXY-List",
+        "url": "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt",
+        "method": "GET",
+        "parser": {
+            "txt": {},
+        }
+    },
 ]

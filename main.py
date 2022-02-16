@@ -13,7 +13,7 @@ logging.basicConfig(
     format='%(asctime)s %(name)s - %(levelname)s - %(message)s',
     level=logging.DEBUG
 )
-ssl._create_default_https_context = ssl._create_unverified_context
+# ssl._create_default_https_context = ssl._create_unverified_context
 user_agent = UserAgent()
 HEADERS = {'User-Agent': user_agent.random}
 MAX_WORKER = 300

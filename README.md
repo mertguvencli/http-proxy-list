@@ -5,8 +5,6 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-**{{NUMBER_OF_TOTAL_PROXIES}}** proxies found.
-
 ## Usage
 
 Click the file that you want and copy the URL.

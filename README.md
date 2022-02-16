@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3974** proxies at the latest update. Usable proxies are below.
+> Scraper found **4108** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|419|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|419|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|419|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|516|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|516|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|516|
 
 ## Sources
 
@@ -38,26 +38,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
-|2|181.224.207.18|999|Dominican Republic|Castanuelas|BW TELECOM|
-|3|18.228.14.120|7890|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
-|5|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|6|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|7|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|194.233.73.107|443|Singapore|Singapore|Contabo Asia Private Limited|
-|9|194.233.73.103|443|Singapore|Singapore|Contabo Asia Private Limited|
-|10|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
-|11|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|12|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|13|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|14|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
-|15|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
-|16|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
-|17|188.156.240.240|8118|Hungary|Szeged|Magyar Telekom plc.|
-|18|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|59.61.160.129|16790|China|Fuzhou|Chinanet|
-|20|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|190.107.136.10|8080|Honduras|San Pedro Sula|Telgua|
+|3|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|4|190.109.6.113|999|Colombia|Medellín|Lazus Medellin|
+|5|154.212.7.26|999|Mexico|San Luis de la Paz|Ientc S De RL De CV|
+|6|181.48.23.250|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|7|110.74.199.16|63141|Cambodia|Phnom Penh|EZECOM limited|
+|8|45.191.196.253|999|Peru|Lima|Softbutterfly SAC|
+|9|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
+|10|91.242.213.247|8080|Russia|Murom|NAVIGATOR-MUROM|
+|11|62.133.171.178|8080|Russia|Ufa|DSL|
+|12|103.148.39.50|82|India|Bengaluru|Broadway Communication Pvt Ltd|
+|13|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|14|196.41.61.115|3128|Tanzania|Dar es Salaam|Liquid Telecommunications Ltd|
+|15|91.242.213.247|8080|Russia|Murom|NAVIGATOR-MUROM|
+|16|77.43.86.212|8080|Italy|Rome|Irideos S.P.A.|
+|17|168.227.56.104|8080|Brazil|Votuporanga|RF Connect Provedor de Acesso LTDA|
+|18|204.199.106.180|999|Colombia|Riosucio|CTL Colombia|
+|19|77.236.230.177|1256|Russia|Moscow|Enforta-MSK|
+|20|109.73.40.42|8080|Russia|Moscow|JSC Mastertel|
 
 
 

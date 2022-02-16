@@ -1,7 +1,6 @@
 from sources import SOURCES
 import json
 
-
 README = """
 # Free HTTP Proxy List 🌍
 
@@ -18,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|{{NUMBER_OF_USABLE_PROXIES}}|
-|[data.json](/proxy-list/data.json)|`ip, port`|{{NUMBER_OF_USABLE_PROXIES}}|
-|[data-with-geolocation.json](/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|{{NUMBER_OF_USABLE_GEO_PROXIES}}|
+|[data.txt]({{GITHUB_RAW_URL}}/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|{{NUMBER_OF_USABLE_PROXIES}}|
+|[data.json]({{GITHUB_RAW_URL}}/proxy-list/data.json)|`ip, port`|{{NUMBER_OF_USABLE_PROXIES}}|
+|[data-with-geolocation.json]({{GITHUB_RAW_URL}}/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|{{NUMBER_OF_USABLE_GEO_PROXIES}}|
 
 ## Sources
 
@@ -40,9 +39,12 @@ little bit helps, and credit will always be given.
 
 """  # noqa
 
+GITHUB_RAW_URL = 'https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main'  # noqa
+
 
 def update_readme(metrics: dict):
     global README
+    global GITHUB_RAW_URL
 
     SOURCES_MD = ''
     for config in SOURCES:
@@ -67,6 +69,7 @@ def update_readme(metrics: dict):
 
     README = README.replace('{{SOURCES}}', SOURCES_MD)
     README = README.replace('{{PROXY_LIST}}', PROXY_LIST_MD)
+    README = README.replace('{{GITHUB_RAW_URL}}', GITHUB_RAW_URL)
     README = README.replace('{{NUMBER_OF_TOTAL_PROXIES}}', str(metrics['counts']['found']))
     README = README.replace('{{NUMBER_OF_USABLE_PROXIES}}', str(metrics['counts']['usable']))
     README = README.replace('{{NUMBER_OF_USABLE_GEO_PROXIES}}', str(metrics['counts']['geolocation']))

@@ -149,7 +149,7 @@ def main():
         scraper.run()
 
     list_of_proxies = list(AVAILABLE_PROXIES)
-    with concurrent.futures.ThreadPoolExecutor(MAX_WORKERSs=MAX_WORKERS) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         worker_to_queue = {
             executor.submit(ProxyItem, x['ip'], x['port']): x for x in list_of_proxies
         }

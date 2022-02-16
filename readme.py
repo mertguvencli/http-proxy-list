@@ -41,7 +41,7 @@ little bit helps, and credit will always be given.
 """  # noqa
 
 
-def update_readme(metrics):
+def update_readme(metrics: dict):
     global README
 
     SOURCES_MD = ''
@@ -67,9 +67,9 @@ def update_readme(metrics):
 
     README = README.replace('{{SOURCES}}', SOURCES_MD)
     README = README.replace('{{PROXY_LIST}}', PROXY_LIST_MD)
-    README = README.replace('{{NUMBER_OF_TOTAL_PROXIES}}', metrics['counts']['found'])
-    README = README.replace('{{NUMBER_OF_USABLE_PROXIES}}', metrics['counts']['usable'])
-    README = README.replace('{{NUMBER_OF_USABLE_GEO_PROXIES}}', metrics['counts']['geolocation'])
+    README = README.replace('{{NUMBER_OF_TOTAL_PROXIES}}', str(metrics['counts']['found']))
+    README = README.replace('{{NUMBER_OF_USABLE_PROXIES}}', str(metrics['counts']['usable']))
+    README = README.replace('{{NUMBER_OF_USABLE_GEO_PROXIES}}', str(metrics['counts']['geolocation']))
 
     with open('README.md', 'w') as f:
         f.write(README)

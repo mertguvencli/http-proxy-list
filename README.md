@@ -33,16 +33,16 @@ Click the file that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.254.173.137|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
-|2|89.219.25.42|3128|Kazakhstan|Almaty|Jusan Mobile JSC|
-|3|140.83.37.196|8080|Japan|Tokyo|Oracle Corporation|
-|4|50.250.56.129|46456|United States|Lawrence|Comcast Cable Communications, LLC|
-|5|200.54.194.13|53281|Chile|Providencia|Telefonica Empresas|
-|6|38.101.122.186|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
-|7|103.194.175.86|8080|Indonesia|Bandung|MYNET|
-|8|181.224.162.200|999|Colombia|Buenaventura|Level 3 Communications, Inc.|
-|9|188.233.97.32|80|Russia|Volgograd|JSC "ER-Telecom Holding"|
-|10|181.49.100.190|8080|Colombia|Pitalito|Telmex Colombia S.A.|
+|1|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|2|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
+|3|82.202.160.205|8118|Russia|Irkutsk|SERVER|
+|4|85.114.112.22|8080|Palestine|Gaza|fusion services|
+|5|103.227.254.118|2018|Indonesia|Jakarta|PT Raja Mitra Informatika|
+|6|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|124.107.167.225|8080|Philippines|Makati City|Philippine Long Distance Telephone Co.|
+|8|201.150.117.160|999|Mexico|Mixquiahuala de Juarez|Hulux Telecomunicaciones|
+|9|103.70.79.3|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|10|95.216.64.229|20019|Finland|Helsinki|Hetzner Online GmbH|
 
 
 

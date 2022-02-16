@@ -1,5 +1,3 @@
-import time
-import ssl
 import json
 import logging
 import concurrent.futures
@@ -13,7 +11,6 @@ logging.basicConfig(
     format='%(asctime)s %(name)s - %(levelname)s - %(message)s',
     level=logging.DEBUG
 )
-# ssl._create_default_https_context = ssl._create_unverified_context
 user_agent = UserAgent()
 HEADERS = {'User-Agent': user_agent.random}
 MAX_WORKER = 300
@@ -30,12 +27,11 @@ class ProxyItem:
             'https': f'http://{self.ip}:{self.port}'
         }
         self.is_valid = self.check()
-        print(self.__dict__)
+        logging.debug(f'Checking Proxy: {self.__dict__}')
 
     def check(self) -> bool:
         global USABLE_PROXIES
         try:
-            start_time = time.time()
             requests.get(
                 url='https://ipecho.net/plain',
                 proxies=self.proxy,
@@ -43,7 +39,7 @@ class ProxyItem:
             )
             USABLE_PROXIES.append({'ip': self.ip, 'port': self.port})
             return True
-        except: # noqa
+        except:
             return False
 
 
@@ -69,6 +65,7 @@ class Scraper:
 
     def parse(self) -> list:
         proxies = []
+
         try:
             response = self.crawl()
             if self.parser_type == "pandas":
@@ -84,7 +81,7 @@ class Scraper:
                             ip = combined.split(':')[0].strip()
                             port = int(combined.split(':')[1])
                             proxies.append({'ip': ip, 'port': port})
-            
+
             if self.parser_type == "json":
                 data = response.json()[self.parser_config.get('data')]
                 for x in data:
@@ -101,7 +98,7 @@ class Scraper:
                             'ip': x.split(':')[0].strip(),
                             'port': int(x.split(':')[1].strip())
                         })
-        except Exception as e:  # noqa
+        except:
             self.is_succeed = False
             logging.error(f'Source: {self.config.get("id")}', exc_info=True)
 
@@ -110,17 +107,44 @@ class Scraper:
     def run(self) -> bool:
         global AVAILABLE_PROXIES
         proxies = self.parse()
+
         if len(proxies) > 0:
             AVAILABLE_PROXIES = itertools.chain(AVAILABLE_PROXIES, proxies)
 
         return self.is_succeed
 
 
+def geolocation_info(batch_ips):
+    def batch_request(data):
+        response = requests.post("http://ip-api.com/batch", json=data, timeout=10)
+        if response.status_code == 200:
+            return response.json()
+        return None
+
+    batch_limit = 100
+    ip_api_results = []
+    list_of_ip = [x["ip"] for x in batch_ips]
+    for start in range(0, len(list_of_ip), batch_limit):
+        batch = list_of_ip[start: start + batch_limit]
+        geo = batch_request(batch)
+        if geo:
+            ip_api_results = itertools.chain(ip_api_results, geo)
+
+    proxy_dict = dict([(x["ip"], x["port"]) for x in batch_ips])
+    model = []
+    for x in list(ip_api_results):
+        ip = x['query']
+        port = proxy_dict[ip]
+        model.append({"ip": ip, "port": port, "geolocation": x})
+
+    return model
+
+
 def main():
     global MAX_WORKER
 
-    for item in SOURCES:
-        scraper = Scraper(item)
+    for config in SOURCES:
+        scraper = Scraper(config)
         scraper.run()
 
     list_of_proxies = list(AVAILABLE_PROXIES)
@@ -131,8 +155,15 @@ def main():
         for worker in concurrent.futures.as_completed(worker_to_queue):
             worker_to_queue[worker]
 
-    with open("proxy-list.json", "w") as f:
+    with open("proxy-list/data.json", "w") as f:
         json.dump(USABLE_PROXIES, f, indent=4)
+
+    with open("proxy-list/data.txt", "w") as f:
+        for x in USABLE_PROXIES:
+            f.write(f'{x.get("ip")}:{x.get("port")}\n')
+
+    with open("proxy-list/data-with-geolocation.json", "w") as f:
+        json.dump(geolocation_info(USABLE_PROXIES), f, indent=4)
 
     logging.info(f'{len(list_of_proxies)} proxies are crawled.')
     logging.info(f'{len(USABLE_PROXIES)} proxies are usable.')

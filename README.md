@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3511** proxies at the latest update. Usable proxies are below.
+> Scraper found **3256** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|214|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|214|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|214|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|98.12.195.129|443|United States|New York|Spectrum|
 |2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|3|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|4|8.142.142.177|80|China|Beijing|Hangzhou Alibaba Advertising Co.|
-|5|150.95.178.151|8888|Japan|Chiyoda|GMO Internet, Inc|
-|6|190.205.42.43|999|Venezuela|Ciudad Bolívar|CANTV Servicios, Venezuela|
-|7|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|8|116.254.119.31|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|9|1.180.156.226|65001|China|Changning|Chinanet|
-|10|45.175.160.41|999|Argentina|Tunuyan|OSORIO SERGIO ANGELINO(NETVDU).|
-|11|177.53.154.213|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
-|12|179.49.161.58|999|Colombia|Samana|Integra Multisolutions|
-|13|181.40.80.177|999|Paraguay|Asunción|Telecel S.A.|
-|14|103.250.68.10|8080|Bangladesh|Paltan|Next Online Limited|
-|15|161.97.64.194|3128|Germany|Nuremberg|Contabo GmbH|
-|16|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
-|17|202.180.21.107|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|18|200.32.80.56|999|Colombia|Ubaque|Level 3 Communications, Inc.|
-|19|186.0.176.147|443|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
-|20|144.91.66.128|3128|Germany|Nuremberg|Contabo GmbH|
+|3|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
+|4|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|6|197.157.219.169|48625|Nigeria|Lagos|KKONTECH|
+|7|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
+|8|178.134.155.82|48146|Georgia|K'alak'i T'bilisi|JSC "Silknet"|
+|9|14.160.29.90|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|10|180.193.222.138|8080|Philippines|Sibalom|Philippine Long Distance Telephone Co.|
+|11|82.202.160.205|8118|Russia|Irkutsk|SERVER|
+|12|168.227.222.78|8080|Brazil|Porangatu|Norte.com TelecomunicaÔÔes LTDA ME|
+|13|103.55.48.206|8080|Timor-Leste|Suai|Telekomunikasi Indonesia International (T.L.) S.A.|
+|14|192.3.116.131|6689|United States|Chicago|ColoCrossing|
+|15|114.5.199.194|8182|Indonesia|Bandung|PT. INDOSAT Tbk|
+|16|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|17|85.115.166.241|3128|Russia|Yekaterinburg|JSC "ER-Telecom Holding" Yekaterinburg branch|
+|18|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|20|46.38.44.81|8082|Russia|Moscow|TEL|
 
 
 

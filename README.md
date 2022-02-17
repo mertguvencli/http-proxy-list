@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3119** proxies at the latest update. Usable proxies are below.
+> Scraper found **3137** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|98.12.195.129|443|United States|New York|Spectrum|
-|2|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|139.99.99.165|3128|Singapore|Singapore|OVH SAS|
-|5|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|6|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
-|7|51.83.231.87|3128|Poland|Warsaw|OVH SAS|
-|8|23.249.16.91|24000|Japan|Koto|KLAYER|
-|9|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|10|45.177.110.1|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|11|51.77.61.153|3128|Poland|Warsaw|OVH SAS|
-|12|51.75.35.220|3128|Poland|Warsaw|OVH SAS|
-|13|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
-|14|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|15|109.86.243.250|30318|Ukraine|Kharkiv|Triolan|
-|16|54.38.51.128|3128|Poland|Warsaw|OVH SAS|
-|17|157.100.53.106|999|Ecuador|Machala|Nedetel S.A.|
-|18|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|19|51.77.61.152|3128|Poland|Warsaw|OVH SAS|
-|20|116.58.229.186|8080|Thailand|Ban Kha|CAT-BB|
+|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|3|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|168.227.56.104|8080|Brazil|Votuporanga|RF Connect Provedor de Acesso LTDA|
+|6|181.36.121.150|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|7|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
+|8|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|9|187.194.248.175|10101|Mexico|Huejotzingo|Uninet S.A. de C.V.|
+|10|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
+|11|45.79.230.234|443|United States|Fremont|Linode, LLC|
+|12|94.136.197.126|3128|Russia|Yaroslavl|TENSORTELECOM|
+|13|103.146.196.35|3127|Indonesia|Banyuwangi|RIYADNETWORK|
+|14|103.215.72.148|8080|Indonesia|Kuningan Barat|Argon Data Network|
+|15|51.79.144.52|8080|Singapore|Singapore|OVH SAS|
+|16|116.254.116.99|8080|Indonesia|Semarang|PT Media Sarana Data|
+|17|185.238.239.92|8090|Poland|Wroclaw|LUKASZ KUZMINSKI trading as RADIO|
+|18|178.153.4.180|8080|Qatar|Doha|Ooredoo-MBB|
+|19|190.24.134.106|999|Colombia|Funza|ETB - Colombia|
+|20|177.101.55.34|9090|Brazil|Piracicaba|Snell TelecomunicaÔÔes Ltda. ME|
 
 
 

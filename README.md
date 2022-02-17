@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **4007** proxies at the latest update. Usable proxies are below.
+> Scraper found **3584** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|337|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|337|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|337|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -38,26 +38,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|201.150.117.160|999|Mexico|Mixquiahuala de Juarez|Hulux Telecomunicaciones|
-|2|98.12.195.129|443|United States|New York|Spectrum|
-|3|152.249.233.249|8080|Brazil|Mogi das Cruzes|Vivo|
-|4|37.204.157.91|41890|Russia|Moscow|NCNET|
-|5|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|165.16.27.14|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|7|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
-|8|96.9.77.8|8080|Cambodia|Phnom Penh|SIGROUPS|
-|9|69.43.44.106|8080|United States|Morgantown|CityNet|
-|10|84.53.247.204|53281|Russia|Vladimir|Elcom ISP|
-|11|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|124.156.174.58|10000|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
-|13|113.160.132.117|8081|Vietnam|Hung Yen|VietNam Post and Telecom Corporation|
-|14|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|15|181.48.101.245|3128|Colombia|Medellín|Telmex Colombia S.A.|
-|16|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
-|17|200.37.199.190|999|Peru|Piura|Telefonica del Peru S.A.A.|
-|18|45.86.180.17|8080|Russia|Yekaterinburg|INTERNET-PRO|
-|19|185.141.10.227|34082|Iraq|Baghdad|Hulum Almustakbal Company Communication Engineering and Services Ltd|
-|20|181.188.216.151|8080|Ecuador|Quito|Nedetel S.A|
+|1|98.12.195.129|443|United States|New York|Spectrum|
+|2|131.100.48.179|999|Colombia|Florencia|Fibernet TV SAS|
+|3|170.233.235.249|3128|Argentina|Campo Largo|Video Vision Centro S.A.|
+|4|201.144.14.232|53281|Mexico|La Barca|Uninet S.A. de C.V|
+|5|50.43.104.32|8118|United States|Beaverton|Ziply Fiber|
+|6|190.90.154.196|999|Colombia|Bogotá|Internexa Brasil Operadora De Telecomunicacoes S.A|
+|7|72.80.242.101|8080|United States|Roslyn Heights|MCI Communications Services, Inc. d/b/a Verizon Business|
+|8|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|9|47.115.6.196|3389|China|Shenzhen|Addresses CNNIC|
+|10|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|11|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
+|12|182.23.79.162|39902|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|13|182.18.83.42|7777|China|Beijing|China Mobile|
+|14|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|15|102.141.197.17|8080|Somalia|Mogadishu|Amtel LTD|
+|16|186.208.81.214|3129|Brazil|Passo Fundo|RazaoInfo Internet Ltda|
+|17|45.5.92.94|8137|Mexico|Monclova|Señal Interactiva, S.A De C.V|
+|18|179.189.125.222|8080|Brazil|Parnaiba|IP CARRIER BRASIL|
+|19|114.67.236.208|9999|China|Beijing|IDC, China Telecommunications Corporation|
+|20|45.179.200.73|999|Colombia|Riosucio|NET&COM LTDA.|
 
 
 

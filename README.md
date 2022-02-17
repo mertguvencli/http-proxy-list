@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3545** proxies at the latest update. Usable proxies are below.
+> Scraper found **3626** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|318|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|318|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|318|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|98.12.195.129|443|United States|New York|Spectrum|
 |2|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
-|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
-|5|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|8|18.228.14.120|7890|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|45.229.33.223|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|10|178.150.148.38|8282|Ukraine|Kharkiv|Triolan|
-|11|45.172.111.18|999|Argentina|Villa Media Agua|GPS SANJUAN SRL.|
-|12|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|13|59.63.108.232|41979|China|Beijing|Chinanet|
-|14|81.91.137.43|8080|Iran|Tajrīsh|DATAK Internet Engineering, Inc|
-|15|185.37.211.222|50330|Portugal|Amadora|Vodafone Portugal - Communicacoes Pessoais S.A.|
-|16|59.61.160.6|16790|China|Fuzhou|Chinanet|
-|17|176.236.141.30|10001|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
-|18|45.156.31.4|9090|Turkey|Istanbul|ATLANTIS|
-|19|190.2.210.250|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|200.24.132.204|6969|Ecuador|Guayaquil|Nedetel S.A.|
+|3|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|4|34.145.237.227|80|United States|Washington|Google LLC|
+|5|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
+|6|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|5.35.14.167|40016|Russia|Moscow|INFOLINE|
+|8|79.170.154.180|8083|Russia|Moscow|Igor Vladimirovich Gorodkov|
+|9|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|10|183.89.11.211|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|11|187.115.192.227|8081|Brazil|Belo Horizonte|TELEFÔNICA BRASIL S.A|
+|12|181.48.23.250|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|13|110.77.236.178|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
+|14|203.124.60.109|8080|Pakistan|Sialkot|COMSATS|
+|15|59.63.108.232|41979|China|Beijing|Chinanet|
+|16|81.174.37.114|8080|Italy|Milan|NGI|
+|17|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|18|177.73.112.3|9090|Brazil|Natal|MGNET INFORMATICA E SERVIÔOS LTDA|
+|19|46.173.214.14|8118|Russia|Moscow|Garant-Park-Internet LLC|
+|20|188.133.158.51|1256|Russia|Moscow|Enforta-MSK|
 
 
 

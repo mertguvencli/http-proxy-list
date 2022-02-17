@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3908** proxies at the latest update. Usable proxies are below.
+> Scraper found **3020** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|409|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|409|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|409|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -38,26 +38,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|98.12.195.129|443|United States|New York|Spectrum|
-|2|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|18.228.14.120|7890|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|216.66.76.238|8080|United States|Chicago|Hurricane Electric LLC|
-|6|79.135.219.223|8080|Ukraine|Odessa|ICN Ltd.|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|186.216.198.166|80|Brazil|Duque de Caxias|YIPI Telecom LTDA.|
-|9|165.16.22.150|9999|Libya|Al Marj|Aljeel Aljadeed For Technology|
-|10|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|11|186.13.50.16|8080|Argentina|Córdoba|Techtel LMDS Comunicaciones Interactivas S.A.|
-|12|45.70.201.51|999|Ecuador|Quito|Nedetel S.A.|
-|13|20.81.62.32|3128|United States|Ashburn|Microsoft Corporation|
-|14|85.194.198.114|8080|Iraq|Baghdad|ScopeSky for communications, internet and technology services LLC|
-|15|115.79.198.18|55443|Vietnam|Ho Chi Minh City|VIETELftth|
-|16|187.111.176.65|8080|Brazil|Sorocaba|super midia tv a cabo ltda|
-|17|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|18|160.16.233.90|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|19|94.244.28.246|31280|Ukraine|Kyiv|Ukrdatakom LTD|
-|20|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
+|2|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
+|3|161.22.34.101|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|4|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
+|5|41.190.11.94|8080|Nigeria|Lekki|Emerging Markets Telecommunication Services (EMTS) Limited|
+|6|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
+|7|14.207.144.47|9080|Thailand|Sam Phran|Triple T Internet Company Limited|
+|8|78.92.231.44|55443|Hungary|Budapest|Szatmarnet|
+|9|217.29.26.194|8080|Kyrgyzstan|Bishkek|Saimanet Telecomunications|
+|10|103.12.160.85|31231|Cambodia|Phnom Penh|KingCorp Inc|
+|11|181.49.158.165|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|1.179.136.98|8080|Thailand|Sankhaburi|TOT Public Company Limited|
+|13|185.139.95.150|8080|Germany|Friedrichshafen|regionetz.net|
+|14|98.12.195.129|443|United States|New York|Spectrum|
+|15|85.25.95.231|5566|France|Strasbourg|INTERGENIA|
+|16|154.0.15.166|46547|South Africa|Pretoria|Cisp IP3|
+|17|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|18|161.22.34.101|999|Venezuela|Caracas|MDS TELECOM C.A.|
+|19|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|20|82.147.118.164|8080|Russia|Perm|JSC "ER-Telecom Holding"|
 
 
 

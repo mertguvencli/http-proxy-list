@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3889** proxies at the latest update. Usable proxies are below.
+> Scraper found **3908** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|409|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|409|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|409|
 
 ## Sources
 
@@ -38,26 +38,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
-|2|18.228.14.120|7890|Brazil|São Paulo|Amazon Technologies Inc.|
-|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|5|18.228.14.120|7890|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
-|7|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
-|8|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|9|45.235.15.31|999|Ecuador|Guayaquil|Anibal Humberto Enriquez Moncayo(Comunicate)|
-|10|190.90.242.208|999|Colombia|Ocaña|Internexa Brasil Operadora De Telecomunicacoes S.A|
-|11|201.28.102.234|8080|Brazil|Itu|Vivo|
-|12|103.142.108.145|8080|India|Tirupur|World Phone Internet Services Pvt. Ltd.|
-|13|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|14|91.225.226.39|44388|Ukraine|Kyiv|HomeNet|
-|15|103.208.200.115|23500|India|New Delhi|Gigantic|
-|16|190.110.99.99|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
-|17|180.246.196.111|80|Indonesia|Sleman|PT. TELKOM INDONESIA|
-|18|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|19|116.68.161.54|55443|Indonesia|Batam|PT. Sumber Data Indonesia|
-|20|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|98.12.195.129|443|United States|New York|Spectrum|
+|2|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|18.228.14.120|7890|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|216.66.76.238|8080|United States|Chicago|Hurricane Electric LLC|
+|6|79.135.219.223|8080|Ukraine|Odessa|ICN Ltd.|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|186.216.198.166|80|Brazil|Duque de Caxias|YIPI Telecom LTDA.|
+|9|165.16.22.150|9999|Libya|Al Marj|Aljeel Aljadeed For Technology|
+|10|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
+|11|186.13.50.16|8080|Argentina|Córdoba|Techtel LMDS Comunicaciones Interactivas S.A.|
+|12|45.70.201.51|999|Ecuador|Quito|Nedetel S.A.|
+|13|20.81.62.32|3128|United States|Ashburn|Microsoft Corporation|
+|14|85.194.198.114|8080|Iraq|Baghdad|ScopeSky for communications, internet and technology services LLC|
+|15|115.79.198.18|55443|Vietnam|Ho Chi Minh City|VIETELftth|
+|16|187.111.176.65|8080|Brazil|Sorocaba|super midia tv a cabo ltda|
+|17|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|18|160.16.233.90|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|19|94.244.28.246|31280|Ukraine|Kyiv|Ukrdatakom LTD|
+|20|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 

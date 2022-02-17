@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3256** proxies at the latest update. Usable proxies are below.
+> Scraper found **3065** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -40,24 +40,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|98.12.195.129|443|United States|New York|Spectrum|
 |2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|3|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
-|4|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|6|197.157.219.169|48625|Nigeria|Lagos|KKONTECH|
-|7|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
-|8|178.134.155.82|48146|Georgia|K'alak'i T'bilisi|JSC "Silknet"|
-|9|14.160.29.90|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|10|180.193.222.138|8080|Philippines|Sibalom|Philippine Long Distance Telephone Co.|
-|11|82.202.160.205|8118|Russia|Irkutsk|SERVER|
-|12|168.227.222.78|8080|Brazil|Porangatu|Norte.com TelecomunicaÔÔes LTDA ME|
-|13|103.55.48.206|8080|Timor-Leste|Suai|Telekomunikasi Indonesia International (T.L.) S.A.|
-|14|192.3.116.131|6689|United States|Chicago|ColoCrossing|
-|15|114.5.199.194|8182|Indonesia|Bandung|PT. INDOSAT Tbk|
-|16|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|17|85.115.166.241|3128|Russia|Yekaterinburg|JSC "ER-Telecom Holding" Yekaterinburg branch|
-|18|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|20|46.38.44.81|8082|Russia|Moscow|TEL|
+|3|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|4|187.189.116.231|999|Mexico|Ciudad Delicias|Total Play Telecomunicaciones SA De CV|
+|5|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|6|159.192.253.18|8080|Thailand|Bangkok|CAT-BB|
+|7|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
+|8|186.47.83.126|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|9|179.189.125.222|8080|Brazil|Parnaiba|IP CARRIER BRASIL|
+|10|69.75.140.157|8080|United States|Sylmar|Spectrum|
+|11|190.186.18.161|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|12|94.75.76.10|8080|Poland|Warsaw|ASTER Sp. z o.o|
+|13|190.248.153.162|8080|Colombia|Arauca|EPM Telecomunicaciones S.A. E.S.P.|
+|14|36.93.2.50|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|15|51.79.144.52|8080|Singapore|Singapore|OVH SAS|
+|16|194.114.128.149|61213|Russia|Sochi|OOO "Matritsa"|
+|17|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
+|18|102.134.127.15|8080|South Africa|Kempton Park|Fixed Mobile Telecommunications (Pty) LTD|
+|19|12.90.37.182|8181|United States|Morristown|AT&T Services, Inc.|
+|20|190.2.210.249|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 

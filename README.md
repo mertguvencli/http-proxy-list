@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3314** proxies at the latest update. Usable proxies are below.
+> Scraper found **3486** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -39,25 +39,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|98.12.195.129|443|United States|New York|Spectrum|
-|2|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
-|3|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|4|189.154.142.106|999|Mexico|Chihuahua City|Uninet S.A. de C.V|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|7|179.61.229.164|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|8|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|9|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|10|190.110.99.101|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
-|11|89.218.58.122|8080|Kazakhstan|Nur-Sultan|JSC Kazakhtelecom|
-|12|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|13|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
-|14|159.69.66.224|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|176.56.107.184|52210|Spain|Cehegín|Aire Networks|
-|16|45.65.132.148|8080|Brazil|Carlos Chagas|Aspeednet Telecom ME|
-|17|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|18|103.1.104.14|8080|Malaysia|Seremban|Tmnet, Telekom Malaysia Bhd.|
-|19|51.250.17.27|8080|Russia|Moscow|Yandex.Cloud LLC|
-|20|163.172.75.81|5566|France|Paris|Online S.A.S.|
+|2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|3|66.94.97.238|443|United States|New York|Contabo Inc.|
+|4|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|5|201.20.110.54|55443|Brazil|Fortaleza|Mob Servicos de Telecomunicacoes Ltda|
+|6|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|187.189.116.231|999|Mexico|Ciudad Delicias|Total Play Telecomunicaciones SA De CV|
+|8|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|102.68.129.54|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|10|123.231.221.242|6969|Indonesia|Makassar|PT Aplikanusa Lintasarta|
+|11|189.203.10.141|999|Mexico|Santa Cruz Amilpas|Total Play Telecomunicaciones SA De CV|
+|12|103.145.141.114|8080|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|13|191.102.74.113|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|103.11.23.0|8085|Indonesia|Jakarta|Faasri Utama Sakti|
+|15|187.189.176.155|999|Mexico|Monterrey|Total Play Telecomunicaciones SA De CV|
+|16|187.62.67.170|45005|Brazil|Aracaju|GN TELECOM|
+|17|78.188.118.233|9090|Turkey|Istanbul|TurkTelecom|
+|18|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
+|19|190.116.90.45|999|Peru|Lima|America Movil Peru S.A.C.|
+|20|98.12.195.129|443|United States|New York|Spectrum|
 
 
 

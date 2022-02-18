@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3159** proxies at the latest update. Usable proxies are below.
+> Scraper found **3079** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -38,26 +38,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|98.12.195.129|443|United States|New York|Spectrum|
-|2|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|98.12.195.129|443|United States|New York|Spectrum|
+|3|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
 |4|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
-|5|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
-|8|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|9|138.3.223.120|3128|Japan|Tokyo|Oracle Corporation|
-|10|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|177.234.196.187|999|Ecuador|Naranjito|Nedetel S.A.|
-|12|45.224.153.58|999|Ecuador|Esmeraldas|Nedetel S.A|
-|13|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
-|14|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|15|139.196.215.123|8080|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|16|125.87.84.2|8901|China|Chongqing|Chinanet|
-|17|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|18|197.210.141.218|8080|Nigeria|Lagos|MTN NIGERIA Communication limited|
-|19|187.189.116.231|999|Mexico|Ciudad Delicias|Total Play Telecomunicaciones SA De CV|
-|20|89.189.128.183|8080|Russia|Ufa|JSC "Ufanet"|
+|5|180.180.144.112|8080|Thailand|Bangkok|TOT Public Company Limited|
+|6|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|7|41.84.135.102|8080|Kenya|Nairobi|SOHO-REGIONAL|
+|8|177.39.136.163|8080|Brazil|Fazenda Rio Grande|VBR ALARMES E INTERNET LTDA|
+|9|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|10|47.116.112.227|7788|China|Shanghai|Addresses CNNIC|
+|11|202.162.198.188|3333|Indonesia|Medan|PT. Media Antar Nusa|
+|12|179.1.129.137|999|Colombia|San Martin|Internexa S.a. E.S.P|
+|13|185.82.96.210|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|14|190.24.119.55|999|Colombia|Ibague|ETB - Colombia|
+|15|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|16|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
+|17|190.90.8.74|8080|Colombia|Pereira|Internexa S.a. E.S.P|
+|18|68.208.51.61|8080|United States|Jackson|AT&T Corp|
+|19|37.54.13.78|8081|Ukraine|Kyiv|UKRTELECOM|
+|20|188.133.155.215|1256|Russia|Moscow|Enforta-MSK|
 
 
 

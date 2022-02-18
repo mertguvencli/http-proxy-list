@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3051** proxies at the latest update. Usable proxies are below.
+> Scraper found **3109** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -38,26 +38,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|98.12.195.129|443|United States|New York|Spectrum|
-|3|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|4|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
-|5|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|104.223.88.232|8118|United States|Atlanta|QuadraNet Enterprises LLC|
-|9|181.196.205.250|38178|Ecuador|Ayacucho|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|10|181.129.248.122|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|11|36.67.27.153|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|190.7.58.55|3128|Argentina|Santa Elena|Gigared S.A.|
-|13|41.220.114.154|8080|Kenya|Nairobi|COMMSOL|
-|14|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|15|45.185.206.76|999|Argentina|Neuquén|Escom Comunicaciones SRL|
-|16|203.189.137.137|8080|Cambodia|Phnom Penh|ONLINE|
-|17|47.116.112.227|7788|China|Shanghai|Addresses CNNIC|
-|18|188.133.152.25|1256|Russia|Moscow|Enforta-MSK|
-|19|103.78.75.91|8080|Indonesia|Gandul|PT Indonesia Comnets Plus|
-|20|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|3|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|4|46.98.251.182|8081|Ukraine|Dnipro|ISP "Fregat"|
+|5|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
+|6|170.79.91.203|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|7|23.140.80.52|8080|Dominican Republic|Santiago de los Caballeros|MOVI-R|
+|8|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|9|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|10|45.230.172.13|8080|Mexico|Culiacán|Opsicome SA De CV|
+|11|98.12.195.129|443|United States|New York|Spectrum|
+|12|89.219.25.42|3128|Kazakhstan|Almaty|Jusan Mobile JSC|
+|13|189.89.175.138|8080|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
+|14|34.145.237.227|80|United States|Washington|Google LLC|
+|15|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|16|49.156.42.210|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|17|116.58.229.186|8080|Thailand|Ban Kha|CAT-BB|
+|18|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
+|19|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
+|20|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
 
 
 

@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **3284** proxies at the latest update. Usable proxies are below.
+> Scraper found **2637** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|261|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|261|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|261|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|121|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|121|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|121|
 
 ## Sources
 
@@ -38,26 +38,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|98.12.195.129|443|United States|New York|Spectrum|
-|2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|134.209.42.113|8892|United States|Clifton|DigitalOcean, LLC|
-|5|212.174.242.102|8080|Turkey|Niğde|TurkTelecom|
-|6|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
-|7|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
-|8|81.222.112.202|3128|Russia|Moscow|PJSC "Vimpelcom"|
-|9|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|10|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|11|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|31.192.232.41|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
-|13|177.53.221.89|39310|Brazil|Propria|Sergipeweb Provedores De Internet Ltda|
-|14|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|15|194.163.128.225|3128|Germany|Düsseldorf|Contabo GmbH|
-|16|167.86.103.14|5006|Germany|Nuremberg|Contabo GmbH|
-|17|45.228.52.37|999|Ecuador|Cañaquemada|ORBINET|
-|18|139.99.99.165|3128|Singapore|Singapore|OVH SAS|
-|19|187.189.132.173|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|20|139.99.99.165|3128|Singapore|Singapore|OVH SAS|
+|1|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|2|185.193.25.187|80|Lithuania|Vilnius|UAB Rakrejus|
+|3|187.189.116.231|999|Mexico|Ciudad Delicias|Total Play Telecomunicaciones SA De CV|
+|4|37.57.15.43|33761|Ukraine|Kharkiv|Triolan|
+|5|191.97.9.189|999|Colombia|Chaparral|TV AZTECA SUCURSAL COLOMBIA|
+|6|64.210.67.19|999|Argentina|Buenos Aires|Level 3 Communications, Inc.|
+|7|70.186.128.126|8080|United States|Shawnee|Cox Communications Inc.|
+|8|78.29.36.210|9080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
+|9|188.133.155.215|1256|Russia|Moscow|Enforta-MSK|
+|10|80.83.26.242|8080|Lebanon|Beirut|VISP Networks|
+|11|176.110.2.15|8080|Ukraine|Syeverodonets'k|Lanet Network|
+|12|181.143.224.43|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|13|104.223.88.232|8118|United States|Atlanta|QuadraNet Enterprises LLC|
+|14|98.12.195.129|443|United States|New York|Spectrum|
+|15|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|16|138.204.171.134|8118|Mexico|Mexico City|Fast Serv Inc|
+|17|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|77.236.236.38|10000|Russia|Moscow|Enforta-MSK|
+|19|177.52.221.111|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|20|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
 
 
 

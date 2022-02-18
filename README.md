@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **2637** proxies at the latest update. Usable proxies are below.
+> Scraper found **3159** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -38,26 +38,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|2|185.193.25.187|80|Lithuania|Vilnius|UAB Rakrejus|
-|3|187.189.116.231|999|Mexico|Ciudad Delicias|Total Play Telecomunicaciones SA De CV|
-|4|37.57.15.43|33761|Ukraine|Kharkiv|Triolan|
-|5|191.97.9.189|999|Colombia|Chaparral|TV AZTECA SUCURSAL COLOMBIA|
-|6|64.210.67.19|999|Argentina|Buenos Aires|Level 3 Communications, Inc.|
-|7|70.186.128.126|8080|United States|Shawnee|Cox Communications Inc.|
-|8|78.29.36.210|9080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
-|9|188.133.155.215|1256|Russia|Moscow|Enforta-MSK|
-|10|80.83.26.242|8080|Lebanon|Beirut|VISP Networks|
-|11|176.110.2.15|8080|Ukraine|Syeverodonets'k|Lanet Network|
-|12|181.143.224.43|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|13|104.223.88.232|8118|United States|Atlanta|QuadraNet Enterprises LLC|
-|14|98.12.195.129|443|United States|New York|Spectrum|
-|15|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|16|138.204.171.134|8118|Mexico|Mexico City|Fast Serv Inc|
-|17|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|18|77.236.236.38|10000|Russia|Moscow|Enforta-MSK|
-|19|177.52.221.111|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|20|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|1|98.12.195.129|443|United States|New York|Spectrum|
+|2|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
+|5|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
+|8|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|9|138.3.223.120|3128|Japan|Tokyo|Oracle Corporation|
+|10|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|177.234.196.187|999|Ecuador|Naranjito|Nedetel S.A.|
+|12|45.224.153.58|999|Ecuador|Esmeraldas|Nedetel S.A|
+|13|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
+|14|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|15|139.196.215.123|8080|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|16|125.87.84.2|8901|China|Chongqing|Chinanet|
+|17|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|18|197.210.141.218|8080|Nigeria|Lagos|MTN NIGERIA Communication limited|
+|19|187.189.116.231|999|Mexico|Ciudad Delicias|Total Play Telecomunicaciones SA De CV|
+|20|89.189.128.183|8080|Russia|Ufa|JSC "Ufanet"|
 
 
 

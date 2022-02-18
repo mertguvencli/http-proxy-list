@@ -2,8 +2,11 @@
 # Free HTTP Proxy List 🌍
 
 [![Hourly Update](https://github.com/mertguvencli/http-proxy-list/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/mertguvencli/http-proxy-list/actions/workflows/main.yml)
+![GitHub](https://img.shields.io/github/license/mertguvencli/http-proxy-list)
+![GitHub last commit](https://img.shields.io/github/last-commit/mertguvencli/http-proxy-list)
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
+
 
 > Scraper found **3118** proxies at the latest update. Usable proxies are below.
 

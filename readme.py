@@ -5,10 +5,13 @@ README = """
 # Free HTTP Proxy List 🌍
 
 [![Hourly Update](https://github.com/mertguvencli/http-proxy-list/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/mertguvencli/http-proxy-list/actions/workflows/main.yml)
+![GitHub](https://img.shields.io/github/license/mertguvencli/http-proxy-list)
+![GitHub last commit](https://img.shields.io/github/last-commit/mertguvencli/http-proxy-list)
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **{{NUMBER_OF_TOTAL_PROXIES}}** proxies at the latest update. Usable proxies are below.
+
+> Scraper found **{NUMBER_OF_TOTAL_PROXIES}** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,19 +20,19 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt]({{GITHUB_RAW_URL}}/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|{{NUMBER_OF_USABLE_PROXIES}}|
-|[data.json]({{GITHUB_RAW_URL}}/proxy-list/data.json)|`ip, port`|{{NUMBER_OF_USABLE_PROXIES}}|
-|[data-with-geolocation.json]({{GITHUB_RAW_URL}}/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|{{NUMBER_OF_USABLE_GEO_PROXIES}}|
+|[data.txt]({GITHUB_RAW_URL}/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|{NUMBER_OF_USABLE_PROXIES}|
+|[data.json]({GITHUB_RAW_URL}/proxy-list/data.json)|`ip, port`|{NUMBER_OF_USABLE_PROXIES}|
+|[data-with-geolocation.json]({GITHUB_RAW_URL}/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|{NUMBER_OF_USABLE_GEO_PROXIES}|
 
 ## Sources
 
-{{SOURCES}}
+{SOURCES}
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-{{PROXY_LIST}}
+{PROXY_LIST}
 
 
 ## Contributing
@@ -67,12 +70,14 @@ def update_readme(metrics: dict):
         for x in formatted:
             PROXY_LIST_MD += template.format(**x)
 
-    README = README.replace('{{SOURCES}}', SOURCES_MD)
-    README = README.replace('{{PROXY_LIST}}', PROXY_LIST_MD)
-    README = README.replace('{{GITHUB_RAW_URL}}', GITHUB_RAW_URL)
-    README = README.replace('{{NUMBER_OF_TOTAL_PROXIES}}', str(metrics['counts']['found']))
-    README = README.replace('{{NUMBER_OF_USABLE_PROXIES}}', str(metrics['counts']['usable']))
-    README = README.replace('{{NUMBER_OF_USABLE_GEO_PROXIES}}', str(metrics['counts']['geolocation']))
+    data = {
+        'SOURCES': SOURCES_MD,
+        'PROXY_LIST': PROXY_LIST_MD,
+        'GITHUB_RAW_URL': GITHUB_RAW_URL,
+        'NUMBER_OF_TOTAL_PROXIES': str(metrics['counts']['found']),
+        'NUMBER_OF_USABLE_PROXIES': str(metrics['counts']['usable']),
+        'NUMBER_OF_USABLE_GEO_PROXIES': str(metrics['counts']['geolocation']),
+    }
 
     with open('README.md', 'w') as f:
-        f.write(README)
+        f.write(README.format(**data))

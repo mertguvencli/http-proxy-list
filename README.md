@@ -5,7 +5,7 @@
 
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
-> Scraper found **2863** proxies at the latest update. Usable proxies are below.
+> Scraper found **2684** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -14,9 +14,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -38,26 +38,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|98.12.195.129|443|United States|New York|Spectrum|
-|3|95.67.19.181|3128|Ukraine|Kyiv|Cosmonova|
-|4|121.151.223.96|1337|South Korea|Yeongju|Korea Telecom|
-|5|181.143.235.98|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|6|204.16.245.214|2010|United States|Pittsburgh|TeraSwitch Networks Inc.|
-|7|202.169.252.113|8181|Indonesia|Kuningan Barat|PT. Rabik Bangun Pertiwi|
-|8|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
-|9|36.67.93.158|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|120.39.221.140|9001|China|Qingzhou|Fuzhou|
-|11|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|12|34.145.237.227|80|United States|Washington|Google LLC|
-|13|187.189.116.231|999|Mexico|Ciudad Delicias|Total Play Telecomunicaciones SA De CV|
-|14|185.193.25.187|80|Lithuania|Vilnius|UAB Rakrejus|
-|15|113.160.206.37|55138|Vietnam|Nam Định|VietNam Post and Telecom Corporation|
-|16|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|17|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
-|18|77.222.52.199|3128|Russia|St Petersburg|Spaceweb network|
-|19|36.91.98.115|8181|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|20|181.47.104.64|8080|Argentina|Buenos Aires|Telecentro S.A.|
+|1|98.12.195.129|443|United States|New York|Spectrum|
+|2|125.25.33.80|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|3|120.55.48.72|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|4|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
+|5|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
+|6|62.133.171.178|8080|Russia|Ufa|DSL|
+|7|181.129.183.19|53281|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|8|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|9|103.76.12.42|80|Indonesia|Bogor|MORATELINDO|
+|10|176.56.107.184|52210|Spain|Cehegín|Aire Networks|
+|11|77.236.230.177|1256|Russia|Moscow|Enforta-MSK|
+|12|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|13|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
+|14|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
+|15|76.81.164.246|8080|United States|Garden Grove|Spectrum|
+|16|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|17|103.236.193.225|83|India|Jagtial|Go WiFi Networking Solutions Pvt Ltd|
+|18|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|19|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|20|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

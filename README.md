@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2710** proxies at the latest update. Usable proxies are below.
+> Scraper found **2811** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|98.12.195.129|443|United States|New York|Spectrum|
-|3|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
-|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|50.233.42.98|51696|United States|North Miami|Comcast Cable Communications, LLC|
-|6|201.184.181.68|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|7|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|8|209.45.97.110|999|Peru|Ica|Red Cientifica Peruana|
-|9|123.231.221.242|6969|Indonesia|Makassar|PT Aplikanusa Lintasarta|
-|10|201.157.252.38|9999|Brazil|Salvador|TASCOM TELECOMUNICAÇÕES LTDA|
-|11|101.51.139.179|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|12|103.124.226.61|3127|Bangladesh|Shibganj|Level3|
-|13|103.35.132.18|83|India|Pune|Shah Infinite Solutions Pvt. Ltd|
-|14|178.153.4.180|8080|Qatar|Doha|Ooredoo-MBB|
-|15|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
-|16|85.187.195.177|8080|Bulgaria|Kardzhali|Netroniks EOOD|
-|17|61.216.156.222|60808|Taiwan|Neihu|Chunghwa Telecom Co., Ltd.|
-|18|194.1.232.160|8080|Russia|Gryazovets|Electrica LLC|
-|19|51.159.5.133|3128|France|Paris|SCALEWAY|
-|20|179.105.100.191|8080|Brazil|Vitória|Claro S.A.|
+|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|2|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|3|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|4|72.80.242.101|8080|United States|Roslyn Heights|MCI Communications Services, Inc. d/b/a Verizon Business|
+|5|140.227.229.54|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
+|6|200.32.80.56|999|Colombia|Ubaque|Level 3 Communications, Inc.|
+|7|150.129.148.88|35101|India|Veraval|Gtpl Sorath Telelink Pvt ltd|
+|8|157.100.56.180|999|Ecuador|El Pangui|Nedetel S.A.|
+|9|140.227.213.98|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
+|10|80.78.237.2|55443|Bulgaria|Gotse Delchev|UltraNET - Halil Network|
+|11|1.179.144.41|8080|Thailand|Sankhaburi|TOT Public Company Limited|
+|12|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|13|98.12.195.129|443|United States|New York|Spectrum|
+|14|45.181.224.86|999|Venezuela|Valencia|CHIRCALNET TELECOM, C.A.|
+|15|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|16|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|17|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|18|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|19|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|20|185.82.96.51|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
 
 
 

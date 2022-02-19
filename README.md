@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3370** proxies at the latest update. Usable proxies are below.
+> Scraper found **3202** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|202|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|202|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|202|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.243.57.202|8118|United States|Los Angeles|DediPath|
-|2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|176.197.95.2|3128|Russia|Novokuznetsk|Goodline.info|
-|6|140.130.19.44|808|Taiwan|Douliu|T-YCRC.EDU.TW|
-|7|157.100.56.179|999|Ecuador|El Pangui|Nedetel S.A.|
-|8|14.207.144.47|9080|Thailand|Sam Phran|Triple T Internet Company Limited|
-|9|210.14.104.230|8080|Myanmar|Yangon|Frontiir Co., Ltd|
-|10|210.77.87.71|3128|China|Beijing|CSTNET|
-|11|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
-|12|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|13|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|14|110.139.171.8|8080|Indonesia|Samarinda|Telekomunikasi Indonesia|
-|15|182.253.162.210|8080|Indonesia|Jakarta|BIZNET|
-|16|189.252.148.132|999|Mexico|Los Mochis|Uninet S.A. de C.V.|
-|17|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
-|18|88.255.12.23|8080|Turkey|Adana|Turk Telekomunikasyon Anonim Sirketi|
-|19|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
-|20|103.159.200.3|8080|India|Kolhapur|Maxtech Broadband Pvt Ltd|
+|1|152.228.128.48|8118|France|Strasbourg|OVH SAS|
+|2|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|3|112.16.118.6|7890|China|Wenzhou|China Mobile Communications Corporation|
+|4|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|5|45.91.81.132|1080|United States|Los Angeles|Kurun Cloud Inc|
+|6|116.206.243.50|80|Indonesia|Rowotengu|CBN|
+|7|158.140.169.86|80|Indonesia|Surabaya|MYREPUBLIC|
+|8|103.102.13.70|8080|Indonesia|Rembangan|GLOBALMEDIANET|
+|9|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|10|37.120.192.154|8080|Netherlands|Amsterdam|M247 Ltd|
+|11|161.132.122.60|999|Peru|Lima|Optical Technologies S.A.C.|
+|12|175.101.85.1|8080|India|Vijayawada|ExcellMedia Pvt Ltd|
+|13|1.179.148.9|55636|Thailand|Sankhaburi|TOT Public Company Limited|
+|14|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
+|15|200.32.80.56|999|Colombia|Ubaque|Level 3 Communications, Inc.|
+|16|116.0.4.54|8080|Indonesia|Jakarta|PT Hasindo Net|
+|17|103.145.163.99|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|18|120.29.124.131|8080|Philippines|San Mateo|ComClark Network & Technology Corp|
+|19|190.8.47.190|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|20|102.68.135.129|8080|Libya|Tripoli|Rawafed|
 
 
 

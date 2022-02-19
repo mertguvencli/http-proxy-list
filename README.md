@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2811** proxies at the latest update. Usable proxies are below.
+> Scraper found **3995** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|642|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|642|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|642|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|2|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|3|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|4|72.80.242.101|8080|United States|Roslyn Heights|MCI Communications Services, Inc. d/b/a Verizon Business|
-|5|140.227.229.54|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
-|6|200.32.80.56|999|Colombia|Ubaque|Level 3 Communications, Inc.|
-|7|150.129.148.88|35101|India|Veraval|Gtpl Sorath Telelink Pvt ltd|
-|8|157.100.56.180|999|Ecuador|El Pangui|Nedetel S.A.|
-|9|140.227.213.98|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
-|10|80.78.237.2|55443|Bulgaria|Gotse Delchev|UltraNET - Halil Network|
-|11|1.179.144.41|8080|Thailand|Sankhaburi|TOT Public Company Limited|
-|12|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|13|98.12.195.129|443|United States|New York|Spectrum|
-|14|45.181.224.86|999|Venezuela|Valencia|CHIRCALNET TELECOM, C.A.|
-|15|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|16|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|17|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|18|135.125.4.232|9090|France|Strasbourg|OVH SAS|
-|19|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|20|185.82.96.51|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|217.150.150.17|80|Germany|Spremberg|belongs to|
+|3|45.79.230.234|443|United States|Fremont|Linode, LLC|
+|4|121.40.162.46|8001|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|6|178.88.185.2|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|7|112.16.118.6|7890|China|Wenzhou|China Mobile Communications Corporation|
+|8|96.2.228.18|8080|United States|Sioux Falls|Midcontinent Communications|
+|9|45.182.190.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|95.216.12.141|20009|Finland|Helsinki|Hetzner Online GmbH|
+|12|194.233.67.98|443|Singapore|Singapore|Contabo Asia Private Limited|
+|13|95.216.12.141|20009|Finland|Helsinki|Hetzner Online GmbH|
+|14|50.233.42.98|51696|United States|North Miami|Comcast Cable Communications, LLC|
+|15|190.248.153.162|8080|Colombia|Arauca|EPM Telecomunicaciones S.A. E.S.P.|
+|16|193.112.118.176|52018|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|17|123.56.124.235|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
+|18|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|19|103.79.35.135|39049|India|Tilda|Smart Internet Services|
+|20|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

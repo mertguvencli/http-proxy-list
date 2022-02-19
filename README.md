@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3256** proxies at the latest update. Usable proxies are below.
+> Scraper found **3132** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|161|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|161|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|161|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|187.237.121.46|80|Mexico|Akumal|Uninet S.A. de C.V.|
-|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|88.255.101.229|8080|Turkey|Antalya|Turk Telekomunikasyon Anonim Sirketi|
-|5|177.69.180.171|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
-|6|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|7|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|8|159.89.199.136|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|10|96.2.228.18|8080|United States|Sioux Falls|Midcontinent Communications|
-|11|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|12|31.42.57.1|8080|Ukraine|Smila|Limited Liability Company CENTRTELECOM|
-|13|180.183.136.210|8080|Thailand|Bangkok|Triple T Internet Company Limited|
-|14|180.250.170.210|59778|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|15|190.109.205.253|999|Honduras|San Pedro Sula|Metrored S.a. De C.V.|
-|16|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
-|17|77.222.52.199|3128|Russia|St Petersburg|Spaceweb network|
-|18|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
-|19|78.92.231.44|55443|Hungary|Budapest|Szatmarnet|
-|20|191.102.107.235|999|Colombia|Malaga|TV AZTECA SUCURSAL COLOMBIA|
+|1|96.36.8.51|8080|United States|Fenton|Spectrum|
+|2|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|3|177.128.115.189|999|Chile|Melipilla|Binet Networking Data Limitada|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|103.49.30.8|3128|Indonesia|Embongkaliasin|PT Pascal Solusi Nusantara|
+|6|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
+|7|176.56.107.206|41053|Spain|Cehegín|Aire Networks|
+|8|187.189.176.155|999|Mexico|Monterrey|Total Play Telecomunicaciones SA De CV|
+|9|180.193.216.208|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|10|201.28.102.234|8080|Brazil|Itu|Vivo|
+|11|14.161.9.28|1412|Vietnam|Ho Chi Minh City|VNPT|
+|12|185.136.242.188|8080|Iraq|Kirkuk|Medya Net LLC|
+|13|96.9.77.71|8080|Cambodia|Phnom Penh|SIGROUPS|
+|14|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|15|103.217.213.125|55443|India|Guntur|E Net Entertainment Pvt Ltd|
+|16|175.101.14.115|83|India|Hyderabad|ExcellMedia Pvt Ltd|
+|17|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|18|45.224.153.39|999|Ecuador|Esmeraldas|Nedetel S.A|
+|19|190.110.111.148|999|Chile|Las Condes|Silica Networks Argentina S.A.|
+|20|51.195.188.28|9090|United Kingdom|London|OVH SAS|
 
 
 

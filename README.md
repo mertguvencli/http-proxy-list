@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3941** proxies at the latest update. Usable proxies are below.
+> Scraper found **3917** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|555|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|555|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|555|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.223.88.232|8118|United States|Atlanta|QuadraNet Enterprises LLC|
-|2|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|3|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|4|115.29.11.157|80|China|Qingdao|Hangzhou Alibaba Advertising Co|
-|5|66.94.97.238|443|United States|New York|Contabo Inc.|
-|6|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|183.88.60.196|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|9|158.140.170.183|8085|Indonesia|Semarang|MYREPUBLIC|
-|10|142.93.108.181|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|103.156.249.71|8080|Indonesia|Surabaya|Trans Media Telekomunikasi|
-|12|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|13|190.0.17.66|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|109.73.40.45|8080|Russia|Moscow|JSC Mastertel|
-|15|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|16|103.81.212.192|82|India|Faridabad|Hps Digital Broadband|
-|17|185.136.151.138|41890|Iraq|Erbil|Kurdistan Net 19|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|104.223.88.232|8118|United States|Atlanta|QuadraNet Enterprises LLC|
+|3|104.223.88.232|8118|United States|Atlanta|QuadraNet Enterprises LLC|
+|4|31.192.232.41|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
+|5|45.224.153.39|999|Ecuador|Esmeraldas|Nedetel S.A|
+|6|185.58.18.225|8080|Ireland|Dublin|Model Telecom Ltd|
+|7|45.235.15.15|999|Ecuador|Guayaquil|Anibal Humberto Enriquez Moncayo(Comunicate)|
+|8|167.86.103.14|5006|Germany|Nuremberg|Contabo GmbH|
+|9|201.238.242.38|999|Chile|Santiago|Gtd Internet S.A|
+|10|103.145.168.74|82|India|Delhi|Nikhil Network Solution|
+|11|1.0.230.120|8888|Thailand|Phang Khon|TOT Public Company Limited|
+|12|190.181.16.206|999|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|186.47.97.122|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|14|1.20.169.58|8080|Thailand|Chanthaburi|TOT-MOBILE|
+|15|181.47.104.64|8080|Argentina|Buenos Aires|Telecentro S.A.|
+|16|204.199.113.26|999|Colombia|Bogotá|CTL Colombia|
+|17|181.209.117.50|8080|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
 |18|173.249.57.9|443|Germany|Nuremberg|Contabo GmbH|
-|19|190.13.84.172|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|19|200.58.100.111|80|Argentina|Rosario|Dattatec.com|
+|20|31.192.232.41|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
 
 
 

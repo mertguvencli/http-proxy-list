@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3132** proxies at the latest update. Usable proxies are below.
+> Scraper found **3338** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|202|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|202|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|202|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|96.36.8.51|8080|United States|Fenton|Spectrum|
-|2|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
-|3|177.128.115.189|999|Chile|Melipilla|Binet Networking Data Limitada|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|103.49.30.8|3128|Indonesia|Embongkaliasin|PT Pascal Solusi Nusantara|
-|6|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
-|7|176.56.107.206|41053|Spain|Cehegín|Aire Networks|
-|8|187.189.176.155|999|Mexico|Monterrey|Total Play Telecomunicaciones SA De CV|
-|9|180.193.216.208|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|10|201.28.102.234|8080|Brazil|Itu|Vivo|
-|11|14.161.9.28|1412|Vietnam|Ho Chi Minh City|VNPT|
-|12|185.136.242.188|8080|Iraq|Kirkuk|Medya Net LLC|
-|13|96.9.77.71|8080|Cambodia|Phnom Penh|SIGROUPS|
-|14|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|15|103.217.213.125|55443|India|Guntur|E Net Entertainment Pvt Ltd|
-|16|175.101.14.115|83|India|Hyderabad|ExcellMedia Pvt Ltd|
-|17|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|18|45.224.153.39|999|Ecuador|Esmeraldas|Nedetel S.A|
-|19|190.110.111.148|999|Chile|Las Condes|Silica Networks Argentina S.A.|
-|20|51.195.188.28|9090|United Kingdom|London|OVH SAS|
+|1|45.5.119.242|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|2|201.238.242.38|999|Chile|Santiago|Gtd Internet S.A|
+|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|6|45.230.172.11|8080|Mexico|Culiacán|Opsicome SA De CV|
+|7|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|8|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|9|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
+|10|152.231.25.114|8080|Colombia|Neiva|Colombiatel Telecomunicaciones|
+|11|190.90.154.197|999|Colombia|Bogotá|Internexa Brasil Operadora De Telecomunicacoes S.A|
+|12|59.63.108.232|41979|China|Beijing|Chinanet|
+|13|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
+|14|103.160.201.76|8080|Indonesia|South Tangerang|PT Viriya Surya Abadi|
+|15|176.120.193.111|55443|Russia|Makhachkala|SUBNET05|
+|16|223.100.215.26|8080|China|Shenyang|China Mobile communications corporation|
+|17|45.171.242.2|8083|Brazil|Atibaia|Lucknet Telecom|
+|18|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|19|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|20|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
 
 
 

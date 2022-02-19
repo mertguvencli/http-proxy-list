@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3442** proxies at the latest update. Usable proxies are below.
+> Scraper found **3317** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|3|95.216.12.141|20020|Finland|Helsinki|Hetzner Online GmbH|
-|4|66.94.97.238|443|United States|New York|Contabo Inc.|
-|5|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|177.23.149.170|3128|Brazil|Rio de Janeiro|SpeedWeb Net Telecomunicacoes|
-|7|222.186.133.26|18080|China|Qinnan|Chinanet|
-|8|101.35.115.136|20012|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|91.214.31.234|8080|Ukraine|Zaporizhzhia|TOV "Telza"|
-|10|200.229.147.2|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|11|123.56.124.235|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
-|12|103.174.4.107|8080|Pakistan|Rawalpindi|Ain Dice (Private) Limited|
-|13|144.91.104.118|12345|Germany|Nuremberg|Contabo GmbH|
-|14|176.120.202.231|8080|Russia|Makhachkala|SUBNET05|
-|15|188.134.88.222|8080|Russia|St Petersburg|Interzet|
-|16|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
-|17|80.93.212.42|3153|Turkey|Eyuepsultan|Fibersunucu|
-|18|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|19|96.9.72.180|46487|Cambodia|Phnom Penh|SIGROUPS|
-|20|161.49.116.131|1337|Philippines|Lucban|Converge ICT Solution Inc|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|3|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|4|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|6|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
+|7|103.11.106.219|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|8|182.52.236.134|8080|Thailand|Trang|TOT Public Company Limited|
+|9|165.16.27.3|1981|Libya|Al Qubbah|Aljeel Aljadeed For Technology|
+|10|103.209.88.66|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
+|11|101.35.115.136|20012|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|12|139.5.151.179|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|13|103.125.162.134|84|India|Hyderabad|CtrlS Datacenters Ltd.|
+|14|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|15|103.156.216.194|80|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
+|16|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|17|103.172.70.18|8080|Indonesia|Gemolong|AZNET|
+|18|202.70.75.233|8080|Nepal|Hetauda|Nepal Telecom|
+|19|123.200.17.107|8080|Bangladesh|Gulshan|Link3 Technologies Limited|
+|20|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
 
 
 

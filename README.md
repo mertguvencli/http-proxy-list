@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3995** proxies at the latest update. Usable proxies are below.
+> Scraper found **4239** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|642|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|642|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|642|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|560|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|560|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|560|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|217.150.150.17|80|Germany|Spremberg|belongs to|
-|3|45.79.230.234|443|United States|Fremont|Linode, LLC|
-|4|121.40.162.46|8001|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|6|178.88.185.2|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|7|112.16.118.6|7890|China|Wenzhou|China Mobile Communications Corporation|
-|8|96.2.228.18|8080|United States|Sioux Falls|Midcontinent Communications|
-|9|45.182.190.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|95.216.12.141|20009|Finland|Helsinki|Hetzner Online GmbH|
-|12|194.233.67.98|443|Singapore|Singapore|Contabo Asia Private Limited|
-|13|95.216.12.141|20009|Finland|Helsinki|Hetzner Online GmbH|
-|14|50.233.42.98|51696|United States|North Miami|Comcast Cable Communications, LLC|
-|15|190.248.153.162|8080|Colombia|Arauca|EPM Telecomunicaciones S.A. E.S.P.|
-|16|193.112.118.176|52018|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|17|123.56.124.235|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
-|18|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|19|103.79.35.135|39049|India|Tilda|Smart Internet Services|
-|20|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
+|1|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
+|2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|3|189.154.142.106|999|Mexico|Chihuahua City|Uninet S.A. de C.V|
+|4|142.93.108.181|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|5|45.190.79.164|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
+|6|190.107.232.138|999|Ecuador|Ibarra|CINECABLE TV|
+|7|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|8|5.8.95.174|8080|Japan|Tokyo|G-Core Labs S.A.|
+|9|186.183.220.2|8080|Colombia|Bucaramanga|Telebucaramanga S.a. E.S.P.|
+|10|88.255.12.23|8080|Turkey|Adana|Turk Telekomunikasyon Anonim Sirketi|
+|11|200.24.135.226|999|Ecuador|Guayaquil|Nedetel S.A.|
+|12|186.3.9.219|999|Ecuador|Guayaquil|Telconet S.A|
+|13|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
+|14|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|15|51.223.244.240|8080|Saudi Arabia|Riyadh|Saudi Telecom Company JSC|
+|16|46.219.8.201|41890|Ukraine|Zhytomyr|o3 core|
+|17|125.25.184.51|8080|Thailand|Si Racha|TOT Public Company Limited|
+|18|45.224.153.58|999|Ecuador|Esmeraldas|Nedetel S.A|
+|19|180.183.10.17|8080|Thailand|Pathum Thani|Triple T Internet Company Limited|
+|20|128.199.108.29|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

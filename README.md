@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3895** proxies at the latest update. Usable proxies are below.
+> Scraper found **4216** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|486|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|486|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|486|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|456|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|456|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|456|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.192.232.41|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
-|2|34.145.237.227|80|United States|Washington|Google LLC|
-|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
-|5|45.95.18.102|8118|Germany|Frankfurt am Main|UK Dedicated Servers Limited|
-|6|194.233.73.107|443|Singapore|Singapore|Contabo Asia Private Limited|
-|7|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|8|177.242.148.14|999|Mexico|Tizayuca|Mega Cable, S.A. de C.V.|
-|9|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
-|10|194.233.73.103|443|Singapore|Singapore|Contabo Asia Private Limited|
-|11|182.18.83.42|7777|China|Beijing|China Mobile|
-|12|45.190.79.164|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
-|13|183.89.64.243|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|14|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
-|15|194.233.73.106|443|Singapore|Singapore|Contabo Asia Private Limited|
-|16|190.113.40.10|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|17|179.1.65.98|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|18|103.10.22.234|8080|Mongolia|Ulan Bator|Kewiko LLC|
-|19|190.109.205.253|999|Honduras|San Pedro Sula|Metrored S.a. De C.V.|
-|20|95.0.219.234|8080|Turkey|Ulus|TurkTelecom|
+|1|177.242.148.14|999|Mexico|Tizayuca|Mega Cable, S.A. de C.V.|
+|2|190.104.230.132|8082|Argentina|Baradero|CPS|
+|3|190.116.90.45|999|Peru|Lima|America Movil Peru S.A.C.|
+|4|103.4.167.46|8080|Indonesia|Jakarta|FIBERNET|
+|5|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|6|196.44.117.51|8080|Nigeria|Uyo|Ecoband Ltd|
+|7|119.235.17.105|55443|Indonesia|Jakarta|PT Inet Global Indo|
+|8|157.230.34.152|41583|Singapore|Singapore|DigitalOcean, LLC|
+|9|103.151.22.5|8080|Indonesia|Jakarta|TERABYTE|
+|10|186.67.26.182|999|Chile|Santiago|Entel Chile S.A.|
+|11|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
+|12|46.34.132.236|3128|Russia|Moscow|OOO WestCall Ltd.|
+|13|197.157.193.9|8080|Burundi|Bujumbura|Spidernet Network|
+|14|116.206.243.50|80|Indonesia|Rowotengu|CBN|
+|15|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|16|36.92.140.113|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|17|177.73.112.206|9090|Brazil|Natal|MGNET INFORMATICA E SERVIÔOS LTDA|
+|18|36.92.134.71|999|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|19|204.195.136.34|80|United States|Miami|Atlantic Broadband Finance, LLC|
+|20|27.131.179.207|10443|Thailand|Wang Thonglang|KIRZ Company Limited|
 
 
 

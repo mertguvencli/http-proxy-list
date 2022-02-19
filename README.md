@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3317** proxies at the latest update. Usable proxies are below.
+> Scraper found **3256** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|161|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|161|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|161|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|3|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|4|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|6|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
-|7|103.11.106.219|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|8|182.52.236.134|8080|Thailand|Trang|TOT Public Company Limited|
-|9|165.16.27.3|1981|Libya|Al Qubbah|Aljeel Aljadeed For Technology|
-|10|103.209.88.66|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
-|11|101.35.115.136|20012|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|12|139.5.151.179|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|13|103.125.162.134|84|India|Hyderabad|CtrlS Datacenters Ltd.|
-|14|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|15|103.156.216.194|80|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
-|16|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|17|103.172.70.18|8080|Indonesia|Gemolong|AZNET|
-|18|202.70.75.233|8080|Nepal|Hetauda|Nepal Telecom|
-|19|123.200.17.107|8080|Bangladesh|Gulshan|Link3 Technologies Limited|
-|20|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|187.237.121.46|80|Mexico|Akumal|Uninet S.A. de C.V.|
+|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|88.255.101.229|8080|Turkey|Antalya|Turk Telekomunikasyon Anonim Sirketi|
+|5|177.69.180.171|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|6|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|7|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|8|159.89.199.136|3128|Singapore|Singapore|DigitalOcean, LLC|
+|9|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|10|96.2.228.18|8080|United States|Sioux Falls|Midcontinent Communications|
+|11|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|12|31.42.57.1|8080|Ukraine|Smila|Limited Liability Company CENTRTELECOM|
+|13|180.183.136.210|8080|Thailand|Bangkok|Triple T Internet Company Limited|
+|14|180.250.170.210|59778|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|190.109.205.253|999|Honduras|San Pedro Sula|Metrored S.a. De C.V.|
+|16|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
+|17|77.222.52.199|3128|Russia|St Petersburg|Spaceweb network|
+|18|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
+|19|78.92.231.44|55443|Hungary|Budapest|Szatmarnet|
+|20|191.102.107.235|999|Colombia|Malaga|TV AZTECA SUCURSAL COLOMBIA|
 
 
 

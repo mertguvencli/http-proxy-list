@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3261** proxies at the latest update. Usable proxies are below.
+> Scraper found **2823** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.19.240.58|8080|Brazil|Araguari|Celerix Tecnologia De Telecomunicacoes Ltda|
-|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|3|14.207.148.1|8080|Thailand|Nakhon Pathom|Triple T Internet Company Limited|
-|4|181.48.23.250|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|5|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
-|6|116.254.113.154|8080|Indonesia|Jakarta|PT Media Sarana Data|
-|7|103.156.115.43|8080|Indonesia|Bandung|MYREPUBLIC|
-|8|167.86.103.14|5006|Germany|Nuremberg|Contabo GmbH|
-|9|91.103.31.147|81|Armenia|Yerevan|MTS Armenia CJSC|
-|10|110.235.250.155|8080|Cambodia|Phnom Penh|COGETEL Co|
-|11|179.61.229.165|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|12|165.16.22.150|9999|Libya|Al Marj|Aljeel Aljadeed For Technology|
-|13|182.18.83.42|7777|China|Beijing|China Mobile|
-|14|45.230.48.94|999|Chile|Talagante|Telecomunicaciones Mauricio Andres Kasendra Larenas E.I.R.L.|
-|15|190.124.30.43|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|16|115.220.1.139|17890|China|Ningbo|Chinanet|
-|17|118.193.145.210|59394|United States|San Jose|Anchnet Asia Limited|
-|18|1.186.85.38|1111|India|Bengaluru|D-VoiS Broadband Private Limited|
-|19|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|20|121.232.67.253|35036|China|Qinnan|Chinanet|
+|1|167.86.103.14|5006|Germany|Nuremberg|Contabo GmbH|
+|2|103.1.104.14|8080|Malaysia|Seremban|Tmnet, Telekom Malaysia Bhd.|
+|3|190.171.168.90|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|4|185.101.97.24|8118|United States|Fremont|BHost|
+|5|213.32.75.44|9300|France|Gravelines|OVH SAS|
+|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|7|117.157.197.18|3128|China|Shenzhen|China Mobile communications corporation|
+|8|182.253.93.4|53281|Indonesia|Jakarta|BIZNET|
+|9|186.3.7.209|999|Ecuador|Quito|Telconet S.A|
+|10|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|11|161.49.116.131|1337|Philippines|Lucban|Converge ICT Solution Inc|
+|12|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|13|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|14|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|15|165.0.50.110|8080|South Africa|Cape Town|RSAWEB (PTY) LTD|
+|16|46.0.203.186|8080|Russia|Samara|JSC "ER-Telecom Holding"|
+|17|181.47.104.64|8080|Argentina|Buenos Aires|Telecentro S.A.|
+|18|188.133.139.219|1256|Russia|Moscow|Enforta-MSK|
+|19|50.236.203.15|8080|United States|Oak Park|Comcast Cable Communications, LLC|
+|20|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
 
 
 

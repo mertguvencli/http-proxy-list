@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3774** proxies at the latest update. Usable proxies are below.
+> Scraper found **3351** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|218.238.214.45|8080|South Korea|Seoul|SK Broadband Co Ltd|
-|3|212.109.196.159|8118|Russia|Irkutsk|TheServer|
-|4|168.90.15.177|999|Colombia|Sachica|Media Commerce Partners S.A|
-|5|14.140.131.82|3128|India|Ahmedabad|Tata Communications Limited|
-|6|186.232.119.58|3128|Brazil|Claudio|G4 TELECOM COMERCIO E SERVICOS DE INFORMATICA|
-|7|187.95.114.125|3128|Brazil|Campo Mourao|COPEL TelecomunicaÔÔes S.A.|
-|8|177.190.80.226|8080|Brazil|Pinheiral|Adsnet Telecom Ltda ME|
-|9|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|10|160.19.232.85|3128|South Africa|Caledon|TWK Communications|
-|11|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
-|12|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|13|5.104.174.199|23500|Bulgaria|Dobrich|DobrudjaCable Ltd.|
-|14|46.161.195.107|1981|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|15|182.253.197.69|8080|Indonesia|Jepara|STIE-BPD|
-|16|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
-|17|139.59.119.137|80|Singapore|Singapore|DigitalOcean|
-|18|118.99.104.135|8080|Indonesia|Semarang|Biznet Networks|
-|19|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|20|202.21.110.82|8020|Mongolia|Ulan Bator|Mobinet LLC|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
+|3|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
+|4|45.189.116.21|999|Peru|Lima|Fiber Digital S.R.L|
+|5|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|200.8.19.18|999|Venezuela|Barquisimeto|Corporación Telemic C.A.|
+|8|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
+|9|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|10|132.255.210.116|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|11|14.207.148.1|8080|Thailand|Nakhon Pathom|Triple T Internet Company Limited|
+|12|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|13|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|14|181.78.18.93|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|15|45.5.57.122|8080|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
+|16|82.202.160.205|8118|Russia|Irkutsk|SERVER|
+|17|193.57.43.193|81|Ukraine|Kharkiv|Pitline Ltd|
+|18|190.12.56.58|8080|Ecuador|Machala|Puntonet S.A.|
+|19|177.39.136.163|8080|Brazil|Fazenda Rio Grande|VBR ALARMES E INTERNET LTDA|
+|20|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÔOS DE COMUNICAÔÔO EM INFORMATICA LTD|
 
 
 

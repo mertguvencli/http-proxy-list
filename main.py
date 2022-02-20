@@ -141,6 +141,10 @@ def geolocation_info(batch_ips):
     return model
 
 
+def what_is_my_ip():
+    logging.info(f"Current IP Address: {requests.get(url='http://ipecho.net/plain').text}")
+
+
 def main():
     global MAX_WORKERS
 
@@ -182,3 +186,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    what_is_my_ip()

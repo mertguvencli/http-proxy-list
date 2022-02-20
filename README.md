@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3819** proxies at the latest update. Usable proxies are below.
+> Scraper found **3967** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|558|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|558|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|558|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|34.145.237.227|80|United States|Washington|Google LLC|
-|3|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|4|93.115.97.203|3128|France|Faubourg de France|global|
-|5|139.224.234.249|7890|China|Shanghai|Addresses CNNIC|
-|6|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|7|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|8|39.105.44.117|33080|China|Beijing|Hangzhou Alibaba Advertising Co|
-|9|79.120.177.106|8080|Hungary|Budapest|Invitech ICT Services Kft.|
-|10|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|11|183.89.13.168|8080|Thailand|Ko Kha|Triple T Broadband Public Company Limited|
-|12|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
-|13|36.94.2.138|443|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|186.125.59.8|46316|Argentina|Florentino Ameghino|Telecom Argentina S.A.|
-|15|188.246.186.142|41890|Russia|Moscow|OOO WestCall Ltd|
-|16|103.197.206.17|8080|Bangladesh|Tejgaon|Cosmopolitan Communications Limited|
-|17|222.252.156.61|62694|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|188.133.157.61|10000|Russia|Moscow|Enforta-MSK|
-|19|103.125.179.201|8080|Pakistan|Pindi Bhattian|Pakistan Telecommuication company limited|
-|20|114.67.236.208|9999|China|Beijing|IDC, China Telecommunications Corporation|
+|1|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
+|2|64.225.65.54|8118|Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|167.86.103.14|5006|Germany|Nuremberg|Contabo GmbH|
+|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|5|51.159.5.133|3128|France|Paris|SCALEWAY|
+|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|7|212.109.196.159|8118|Russia|Irkutsk|TheServer|
+|8|45.5.68.82|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|9|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|10|142.93.108.181|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|11|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|12|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|13|158.69.52.218|9300|Canada|Montreal|OVH SAS|
+|14|103.1.104.14|8080|Malaysia|Seremban|Tmnet, Telekom Malaysia Bhd.|
+|15|45.176.95.51|999|Dominican Republic|Concepción de la Vega|Exito Vision Cable S.A.S|
+|16|180.193.222.138|8080|Philippines|Sibalom|Philippine Long Distance Telephone Co.|
+|17|101.35.115.136|20011|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|18|201.20.110.35|666|Brazil|Fortaleza|Mob Servicos de Telecomunicacoes Ltda|
+|19|165.16.71.1|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|20|49.12.43.32|5555|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 

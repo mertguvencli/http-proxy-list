@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3657** proxies at the latest update. Usable proxies are below.
+> Scraper found **3445** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|377|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|377|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|377|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|213.239.214.141|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|3|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|4|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
-|5|103.1.104.14|8080|Malaysia|Seremban|Tmnet, Telekom Malaysia Bhd.|
-|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|7|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
-|8|88.255.185.254|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|9|45.190.79.164|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
-|10|45.5.58.34|999|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
-|11|81.24.117.250|18080|Russia|St Petersburg|JSC "Severen-Telecom"|
-|12|109.232.106.236|49565|Russia|Elektrostal|CJSC Thyphone Communications 106|
-|13|186.3.7.209|999|Ecuador|Quito|Telconet S.A|
-|14|187.102.209.223|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
-|15|202.180.20.10|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|16|82.202.160.205|8118|Russia|Irkutsk|SERVER|
-|17|103.239.200.246|1337|Philippines|San Juan|Sky Cable Corporation|
-|18|131.108.118.27|8080|Brazil|Catalao|CatalÔo Bandnet ServiÔos MultimÔdia LTDA - ME|
-|19|179.152.53.251|3128|Brazil|Porto Alegre|Claro S.A.|
-|20|77.238.129.14|55443|Russia|Voronezh|LLC Intercon|
+|1|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
+|2|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|190.112.219.57|999|Argentina|Rosario|WNet Internet y Hosting|
+|5|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|6|50.233.228.147|8080|United States|Denver|Comcast Cable Communications, LLC|
+|7|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|8|182.18.83.42|7777|China|Beijing|China Mobile|
+|9|181.188.216.151|8080|Ecuador|Quito|Nedetel S.A|
+|10|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
+|11|36.37.81.135|8080|Indonesia|Jakarta|LINTASARTA|
+|12|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|13|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
+|14|51.159.5.133|3128|France|Paris|SCALEWAY|
+|15|5.16.0.186|8080|Russia|St Petersburg|Enforta-MSK|
+|16|213.6.199.94|49044|Palestine|Jenin|Palestine Telecommunications Company|
+|17|66.94.97.238|443|United States|New York|Contabo Inc.|
+|18|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|19|190.116.90.45|999|Peru|Lima|America Movil Peru S.A.C.|
+|20|117.121.202.62|8080|Indonesia|Purwokerto|PT Sekawan Global Komunika|
 
 
 

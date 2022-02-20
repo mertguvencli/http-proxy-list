@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4075** proxies at the latest update. Usable proxies are below.
+> Scraper found **4410** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|496|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|496|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|496|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|629|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|629|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|629|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
-|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|47.254.173.137|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
-|5|142.93.108.181|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
-|8|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|182.18.83.42|6666|China|Beijing|China Mobile|
-|10|182.100.68.3|17754|China|Shangdundu|Chinanet|
-|11|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|12|77.236.243.125|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|13|201.103.52.61|8081|Mexico|Mexico City|Uninet S.A. de C.V.|
-|14|39.105.44.117|33080|China|Beijing|Hangzhou Alibaba Advertising Co|
-|15|115.75.5.17|38351|Vietnam|Ho Chi Minh City|VIETELxdsl|
-|16|138.59.150.198|8080|Brazil|Santo André|Wireless Comm Services LTDA|
-|17|102.68.135.229|8080|Libya|Tripoli|Rawafed|
-|18|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|19|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|20|103.11.106.48|8080|Indonesia|Madiun|PT. Pascal Indonesia|
+|1|96.95.164.41|3128|United States|Boston|Comcast Cable Communications, LLC|
+|2|47.254.173.137|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
+|3|34.145.237.227|80|United States|Washington|Google LLC|
+|4|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|5|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|6|101.133.138.238|8118|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|7|177.234.196.187|999|Ecuador|Naranjito|Nedetel S.A.|
+|8|181.78.18.93|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|9|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|10|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|11|8.142.142.177|80|China|Beijing|Hangzhou Alibaba Advertising Co.|
+|12|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|13|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|14|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|15|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
+|16|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|17|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|18|139.162.60.194|8080|Singapore|Singapore|Linode, LLC|
+|19|105.112.83.165|8080|Nigeria|Lagos|Airtel Networks Limited|
+|20|77.39.38.31|8080|Russia|Pyatigorsk|Stavropol branch of OJSC Rostelecom|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3046** proxies at the latest update. Usable proxies are below.
+> Scraper found **3036** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|282|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|282|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|282|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|437|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|437|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|437|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|157.100.53.248|999|Ecuador|Ventanas|Nedetel S.A.|
-|3|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
-|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|5|45.189.116.21|999|Peru|Lima|Fiber Digital S.R.L|
-|6|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|52.130.254.126|7000|China|Pudong|Shanghai Blue Cloud Technology Co., Ltd|
-|9|203.153.125.242|8080|Indonesia|Tangerang|GMNUSANTARA|
-|10|190.110.111.148|999|Chile|Las Condes|Silica Networks Argentina S.A.|
-|11|1.180.156.226|65001|China|Changning|Chinanet|
-|12|190.121.157.133|999|Colombia|Cúcuta|Media Commerce Partners S.A|
-|13|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|14|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|15|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|16|159.69.66.224|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|201.174.104.222|999|Mexico|Chihuahua City|Transtelco Inc|
-|18|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|19|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|20|165.16.0.97|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|1|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
+|2|89.204.214.142|8080|Ireland|Kilcock|O2 Ireland Fixed Broadband - Eircom White Label|
+|3|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|4|201.184.107.26|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|5|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|6|45.5.68.18|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|7|157.100.53.248|999|Ecuador|Ventanas|Nedetel S.A.|
+|8|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|9|181.48.91.92|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|189.203.180.233|999|Mexico|Oaxaca City|Total Play Telecomunicaciones SA De CV|
+|11|190.186.18.161|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|12|103.213.105.190|8080|Afghanistan|Kabul|Ankabut 002|
+|13|45.71.108.230|8080|Brazil|Itabuna|Sigaon Servicos Telecomunicacoes Eirele|
+|14|186.3.9.218|999|Ecuador|Guayaquil|Telconet S.A|
+|15|138.0.188.134|10001|Brazil|Araguari|WN TELECOM LTDA - ME|
+|16|192.140.42.83|31511|Brazil|Boa Vista do Jauato|Allfiber Telecom ServiÔos de TelecomunicaÔÔes|
+|17|45.230.171.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|18|190.113.42.141|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|19|170.0.87.203|999|Argentina|Andresito|Dardo Rene Schroder|
+|20|36.95.211.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 

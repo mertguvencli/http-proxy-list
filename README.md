@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3351** proxies at the latest update. Usable proxies are below.
+> Scraper found **3907** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|486|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|486|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|486|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
-|3|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
-|4|45.189.116.21|999|Peru|Lima|Fiber Digital S.R.L|
-|5|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|200.8.19.18|999|Venezuela|Barquisimeto|Corporación Telemic C.A.|
-|8|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
-|9|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|10|132.255.210.116|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|11|14.207.148.1|8080|Thailand|Nakhon Pathom|Triple T Internet Company Limited|
-|12|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|13|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|14|181.78.18.93|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|15|45.5.57.122|8080|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
-|16|82.202.160.205|8118|Russia|Irkutsk|SERVER|
-|17|193.57.43.193|81|Ukraine|Kharkiv|Pitline Ltd|
-|18|190.12.56.58|8080|Ecuador|Machala|Puntonet S.A.|
-|19|177.39.136.163|8080|Brazil|Fazenda Rio Grande|VBR ALARMES E INTERNET LTDA|
-|20|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÔOS DE COMUNICAÔÔO EM INFORMATICA LTD|
+|2|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|3|45.229.34.26|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|181.143.235.92|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|6|190.109.205.253|999|Honduras|San Pedro Sula|Metrored S.a. De C.V.|
+|7|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
+|8|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|9|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
+|10|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|11|190.232.120.63|999|Peru|Trujillo|Telefonica del Peru|
+|12|31.161.38.233|8090|Netherlands|Venray|KPN B.V|
+|13|170.79.91.204|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|14|187.111.160.8|42579|Brazil|Sorocaba|super midia tv a cabo ltda|
+|15|187.216.93.20|55443|Mexico|Hermosillo|Uninet S.A. de C.V.|
+|16|103.209.88.68|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
+|17|202.138.240.185|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
+|18|46.173.214.14|8118|Russia|Moscow|Garant-Park-Internet LLC|
+|19|103.248.93.5|8080|India|New Delhi|Ani Network Pvt Ltd|
+|20|201.186.131.56|999|Chile|Temuco|Telefonica del Sur S.A.|
 
 
 

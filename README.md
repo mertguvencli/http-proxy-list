@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4196** proxies at the latest update. Usable proxies are below.
+> Scraper found **4366** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|724|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|724|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|724|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|579|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|579|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|579|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
-|2|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
-|3|167.86.103.14|5006|Germany|Nuremberg|Contabo GmbH|
-|4|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|218.149.163.134|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|8|181.115.74.251|8080|Honduras|Tegucigalpa|Telgua|
-|9|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|10|200.46.65.66|8080|Panama|San Miguelito|Cable Onda|
-|11|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|12|200.24.135.226|999|Ecuador|Guayaquil|Nedetel S.A.|
-|13|5.104.174.199|23500|Bulgaria|Dobrich|DobrudjaCable Ltd.|
-|14|201.249.161.51|999|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|15|123.57.144.181|7777|China|Beijing|Hangzhou Alibaba Advertising Co|
-|16|119.82.239.37|8080|Indonesia|Jakarta|PT. Arsen Kusuma Indonesia|
-|17|117.54.11.85|3128|Indonesia|Jakarta|PT IndoInternet|
-|18|181.78.15.105|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|19|203.123.56.2|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|20|45.229.33.122|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
+|4|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|5|47.254.173.137|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
+|6|186.3.7.209|999|Ecuador|Quito|Telconet S.A|
+|7|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
+|8|185.136.151.138|41890|Iraq|Erbil|Kurdistan Net 19|
+|9|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|10|37.120.192.154|8080|Netherlands|Amsterdam|M247 Ltd|
+|11|101.99.31.69|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|12|103.15.140.121|44759|Bangladesh|Dhaka|ICC COMMUNICATION|
+|13|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|14|187.190.55.43|30000|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
+|15|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|16|39.105.44.117|33080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|17|41.191.245.59|8080|Ghana|Accra|BusyInternet Ghana Ltd|
+|18|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|19|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
+|20|176.235.99.103|9090|Turkey|Isparta|Tellcom Iletisim Hizmetleri A.S.|
 
 
 

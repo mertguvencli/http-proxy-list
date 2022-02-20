@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3967** proxies at the latest update. Usable proxies are below.
+> Scraper found **4075** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|558|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|558|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|558|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|496|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|496|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|496|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
-|2|64.225.65.54|8118|Netherlands|Amsterdam|DigitalOcean, LLC|
-|3|167.86.103.14|5006|Germany|Nuremberg|Contabo GmbH|
-|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|5|51.159.5.133|3128|France|Paris|SCALEWAY|
-|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|7|212.109.196.159|8118|Russia|Irkutsk|TheServer|
-|8|45.5.68.82|999|Peru|Lima|Wi-net Telecom S.A.C.|
-|9|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|10|142.93.108.181|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|12|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|13|158.69.52.218|9300|Canada|Montreal|OVH SAS|
-|14|103.1.104.14|8080|Malaysia|Seremban|Tmnet, Telekom Malaysia Bhd.|
-|15|45.176.95.51|999|Dominican Republic|Concepción de la Vega|Exito Vision Cable S.A.S|
-|16|180.193.222.138|8080|Philippines|Sibalom|Philippine Long Distance Telephone Co.|
-|17|101.35.115.136|20011|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|18|201.20.110.35|666|Brazil|Fortaleza|Mob Servicos de Telecomunicacoes Ltda|
-|19|165.16.71.1|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|49.12.43.32|5555|Germany|Falkenstein|Hetzner Online GmbH|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
+|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|47.254.173.137|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
+|5|142.93.108.181|8888|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|6|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|8|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|9|182.18.83.42|6666|China|Beijing|China Mobile|
+|10|182.100.68.3|17754|China|Shangdundu|Chinanet|
+|11|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|12|77.236.243.125|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|13|201.103.52.61|8081|Mexico|Mexico City|Uninet S.A. de C.V.|
+|14|39.105.44.117|33080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|15|115.75.5.17|38351|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|16|138.59.150.198|8080|Brazil|Santo André|Wireless Comm Services LTDA|
+|17|102.68.135.229|8080|Libya|Tripoli|Rawafed|
+|18|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|19|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|20|103.11.106.48|8080|Indonesia|Madiun|PT. Pascal Indonesia|
 
 
 

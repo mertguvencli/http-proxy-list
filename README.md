@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3481** proxies at the latest update. Usable proxies are below.
+> Scraper found **3819** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
-|2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|3|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
-|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|182.18.83.42|7777|China|Beijing|China Mobile|
-|6|218.149.163.134|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|176.110.2.15|8080|Ukraine|Syeverodonets'k|Lanet Network|
-|8|103.138.41.132|8080|Indonesia|Jakarta|PT. Bali Towerindo Sentra|
-|9|176.120.202.231|8080|Russia|Makhachkala|SUBNET05|
-|10|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
-|11|187.190.55.43|30000|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
-|12|182.18.83.42|7777|China|Beijing|China Mobile|
-|13|159.192.138.170|8080|Thailand|Chana|CAT-BB|
-|14|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|15|181.224.204.22|22800|Dominican Republic|Castanuelas|BW TELECOM|
-|16|103.161.164.115|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|17|183.88.232.207|8080|Thailand|Thanyaburi|Triple T Broadband Public Company Limited|
-|18|46.161.195.107|1976|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|19|209.97.161.34|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|187.189.132.173|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|34.145.237.227|80|United States|Washington|Google LLC|
+|3|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|4|93.115.97.203|3128|France|Faubourg de France|global|
+|5|139.224.234.249|7890|China|Shanghai|Addresses CNNIC|
+|6|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|7|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|8|39.105.44.117|33080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|9|79.120.177.106|8080|Hungary|Budapest|Invitech ICT Services Kft.|
+|10|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|11|183.89.13.168|8080|Thailand|Ko Kha|Triple T Broadband Public Company Limited|
+|12|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
+|13|36.94.2.138|443|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|186.125.59.8|46316|Argentina|Florentino Ameghino|Telecom Argentina S.A.|
+|15|188.246.186.142|41890|Russia|Moscow|OOO WestCall Ltd|
+|16|103.197.206.17|8080|Bangladesh|Tejgaon|Cosmopolitan Communications Limited|
+|17|222.252.156.61|62694|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|188.133.157.61|10000|Russia|Moscow|Enforta-MSK|
+|19|103.125.179.201|8080|Pakistan|Pindi Bhattian|Pakistan Telecommuication company limited|
+|20|114.67.236.208|9999|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 

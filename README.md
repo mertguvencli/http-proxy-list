@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3907** proxies at the latest update. Usable proxies are below.
+> Scraper found **3657** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|486|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|486|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|486|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|377|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|377|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|377|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
-|3|45.229.34.26|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|181.143.235.92|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|6|190.109.205.253|999|Honduras|San Pedro Sula|Metrored S.a. De C.V.|
-|7|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
-|8|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|9|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
-|10|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|11|190.232.120.63|999|Peru|Trujillo|Telefonica del Peru|
-|12|31.161.38.233|8090|Netherlands|Venray|KPN B.V|
-|13|170.79.91.204|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|14|187.111.160.8|42579|Brazil|Sorocaba|super midia tv a cabo ltda|
-|15|187.216.93.20|55443|Mexico|Hermosillo|Uninet S.A. de C.V.|
-|16|103.209.88.68|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
-|17|202.138.240.185|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|18|46.173.214.14|8118|Russia|Moscow|Garant-Park-Internet LLC|
-|19|103.248.93.5|8080|India|New Delhi|Ani Network Pvt Ltd|
-|20|201.186.131.56|999|Chile|Temuco|Telefonica del Sur S.A.|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|213.239.214.141|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|3|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|4|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
+|5|103.1.104.14|8080|Malaysia|Seremban|Tmnet, Telekom Malaysia Bhd.|
+|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|7|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|8|88.255.185.254|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|9|45.190.79.164|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
+|10|45.5.58.34|999|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
+|11|81.24.117.250|18080|Russia|St Petersburg|JSC "Severen-Telecom"|
+|12|109.232.106.236|49565|Russia|Elektrostal|CJSC Thyphone Communications 106|
+|13|186.3.7.209|999|Ecuador|Quito|Telconet S.A|
+|14|187.102.209.223|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
+|15|202.180.20.10|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|16|82.202.160.205|8118|Russia|Irkutsk|SERVER|
+|17|103.239.200.246|1337|Philippines|San Juan|Sky Cable Corporation|
+|18|131.108.118.27|8080|Brazil|Catalao|CatalÔo Bandnet ServiÔos MultimÔdia LTDA - ME|
+|19|179.152.53.251|3128|Brazil|Porto Alegre|Claro S.A.|
+|20|77.238.129.14|55443|Russia|Voronezh|LLC Intercon|
 
 
 

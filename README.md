@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3269** proxies at the latest update. Usable proxies are below.
+> Scraper found **3087** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
-|3|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
-|4|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
-|5|45.174.249.20|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|6|202.159.11.179|8080|Indonesia|Jakarta|PT IndoInternet|
-|7|190.211.81.211|3128|Argentina|Rivadavia|Patagonia Green S.A.|
-|8|79.175.176.254|3128|Iran|Tehran|AFranet Co|
-|9|45.189.116.21|999|Peru|Lima|Fiber Digital S.R.L|
-|10|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|11|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|12|103.148.24.219|3127|Indonesia|Lamongan|Menaksopal Link Nusantara|
-|13|124.223.74.115|7890|China|Jingshan|Shenzhen Tencent Computer Systems Company Limited|
-|14|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
-|15|138.117.84.161|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|16|201.144.14.232|53281|Mexico|La Barca|Uninet S.A. de C.V|
-|17|69.63.73.171|53281|Eswatini|Mbabane|Swaziland Posts & Telecommunications Corp.|
-|18|187.102.236.161|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos HYP|
-|19|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|20|41.84.143.226|8081|Kenya|Nairobi|SOHO-REGIONAL|
+|1|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|2|176.118.209.12|53281|Russia|Ryazan|OnTelecom LLC|
+|3|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|4|105.112.84.139|41890|Nigeria|Lagos|Airtel Networks Limited|
+|5|109.254.31.164|9090|Ukraine|Donetsk|Donbass Electronic Communications Ltd.|
+|6|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|7|154.66.124.51|41890|Malawi|Limbe|Globe MZ BBI 1|
+|8|109.167.134.253|30710|Russia|St Petersburg|JSC "ER-Telecom Holding"|
+|9|94.140.242.221|8080|Russia|Apatity|CityLink Ltd ISP|
+|10|181.129.98.146|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|122.3.41.154|8090|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|12|182.18.83.42|7777|China|Beijing|China Mobile|
+|13|163.172.75.81|5566|France|Paris|Online S.A.S.|
+|14|103.253.113.54|8080|Indonesia|Kuningan Barat|PT Media Andalan Nusa|
+|15|195.191.246.198|53281|Russia|Voronezh|SUDAK|
+|16|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|17|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|18|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
+|19|107.178.9.186|8080|United States|Decatur|Nextlink Broadband|
+|20|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
 
 
 

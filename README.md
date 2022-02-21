@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3163** proxies at the latest update. Usable proxies are below.
+> Scraper found **3436** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
-|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|183.89.69.10|8080|Thailand|Satuek|Triple T Broadband Public Company Limited|
-|5|86.125.122.27|80|Romania|Brasov|RCS & RDS|
-|6|208.113.200.100|3128|United States|Pelham|New Dream Network, LLC|
-|7|94.136.197.126|3128|Russia|Yaroslavl|TENSORTELECOM|
-|8|188.239.65.48|53281|Ukraine|Kremenchug|Telecommunication company "Link Telecom" LTD|
-|9|125.74.93.60|8083|China|Beijing|Chinanet|
-|10|168.181.196.76|8080|Brazil|Alfredo Chaves|Windx TelecomunicaÔÔes|
-|11|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|12|122.224.255.42|7890|China|Beijing|Chinanet|
-|13|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
-|14|189.199.106.202|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
-|15|140.227.127.228|80|Japan|Chiyoda|NTT PC Communications, Inc.|
-|16|78.186.99.214|10001|Turkey|Bolvadin|TurkTelecom|
-|17|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|18|103.124.136.90|63123|Indonesia|Cikupa|Global Media Data Prima|
-|19|103.150.226.118|8080|Indonesia|Jadirejo|ALGA|
-|20|123.200.17.107|8080|Bangladesh|Gulshan|Link3 Technologies Limited|
+|1|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
+|2|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
+|3|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|4|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|181.49.158.165|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|7|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|8|144.48.112.30|8080|Bangladesh|Dhaka|Net Cafe|
+|9|190.119.166.36|999|Peru|La Victoria|America Movil Peru S.A.C.|
+|10|190.24.119.55|999|Colombia|Ibague|ETB - Colombia|
+|11|191.102.107.235|999|Colombia|Malaga|TV AZTECA SUCURSAL COLOMBIA|
+|12|103.126.85.173|8080|Indonesia|Banyumas|BINTANGPERKASAORION|
+|13|38.10.246.84|999|Dominican Republic|Santa Cruz de Barahona|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|14|187.72.143.118|41890|Brazil|Guarulhos|ALGAR TELECOM S/A|
+|15|197.210.217.66|34808|Nigeria|Ibadan|MTN NIGERIA Communication limited|
+|16|187.251.117.228|999|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
+|17|103.228.118.78|8080|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|18|170.254.230.201|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|20|103.11.23.0|8085|Indonesia|Jakarta|Faasri Utama Sakti|
 
 
 

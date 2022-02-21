@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3694** proxies at the latest update. Usable proxies are below.
+> Scraper found **3324** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|220.87.41.150|8080|South Korea|Gyeyang-gu|Korea Telecom|
-|2|34.95.191.125|80|Brazil|Sao Paulo|Google LLC|
-|3|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|4|178.170.195.245|9999|Russia|Moscow|Cloud technology Limited (Ltd.)|
-|5|152.228.172.160|80|France|Gravelines|OVH SAS|
-|6|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|7|51.210.72.174|8118|France|Roubaix|OVH SAS|
-|8|139.59.119.137|80|Singapore|Singapore|DigitalOcean|
-|9|58.153.233.34|8888|Hong Kong|Sheung Shui|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|10|80.73.87.198|59175|Russia|Yakutsk|Sakhatelecom|
-|11|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|12|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
-|13|182.100.68.3|17754|China|Shangdundu|Chinanet|
-|14|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|15|51.159.5.133|3128|France|Paris|SCALEWAY|
-|16|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
-|17|142.93.108.181|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|106.14.215.148|8080|China|Shanghai|Alibaba (US) Technology Co|
-|19|202.69.45.22|8080|Pakistan|Karachi|Advertiese Flag|
-|20|202.69.38.82|8080|Pakistan|Lahore|Advertiese Flag|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
+|3|187.94.211.60|8080|Brazil|Alto Caparao|Acesse ComunicaÔÔo Ltda|
+|4|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|5|138.117.84.161|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|6|116.0.4.54|8080|Indonesia|Jakarta|PT Hasindo Net|
+|7|94.141.117.1|8080|Russia|Moscow|MediaCom LLC|
+|8|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|9|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
+|10|101.53.154.137|2005|India|Noida|NetMagic Solutions Pvt Ltd|
+|11|190.211.81.211|3128|Argentina|Rivadavia|Patagonia Green S.A.|
+|12|182.253.189.244|8080|Indonesia|Jakarta|BIZNET|
+|13|80.63.84.58|8081|Denmark|Frederiksberg|TDC A/S|
+|14|176.88.63.231|8080|Turkey|Antakya|Tellcom Iletisim Hizmetleri A.S.|
+|15|85.25.91.141|5566|Germany|Cologne|PlusServer GmbH|
+|16|103.148.24.219|3127|Indonesia|Lamongan|Menaksopal Link Nusantara|
+|17|91.242.213.247|8080|Russia|Murom|NAVIGATOR-MUROM|
+|18|124.223.74.115|7890|China|Jingshan|Shenzhen Tencent Computer Systems Company Limited|
+|19|46.209.196.146|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|20|139.162.36.36|8080|Singapore|Singapore|Linode, LLC|
 
 
 

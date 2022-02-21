@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3531** proxies at the latest update. Usable proxies are below.
+> Scraper found **3827** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|3|135.125.4.232|9090|France|Strasbourg|OVH SAS|
-|4|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
-|5|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
-|6|139.99.99.165|80|Singapore|Singapore|OVH SAS|
-|7|95.167.59.162|3128|Russia|Verkhnyaya Salda|Rostelecom Nets|
-|8|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|9|177.136.84.191|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|10|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|11|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|12|203.150.128.132|8080|Thailand|Watthana|Internet Thailand Company Ltd|
-|13|125.74.93.60|8083|China|Beijing|Chinanet|
-|14|210.77.87.71|3128|China|Beijing|CSTNET|
-|15|191.255.227.88|8080|Brazil|São Paulo|Vivo|
-|16|103.148.195.22|8080|Indonesia|Tabanan|Dinas Komunikasi DAN Informatika Kabupaten Tabanan|
-|17|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|18|186.3.7.209|999|Ecuador|Quito|Telconet S.A|
-|19|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
-|20|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
+|1|190.90.83.209|999|Colombia|Cúcuta|Internexa S.a. E.S.P|
+|2|143.255.18.196|8080|Brazil|Lavras|Datanet Provedor de Internet Ltda|
+|3|140.238.25.11|3128|South Korea|Seoul|Oracle Corporation|
+|4|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|5|177.52.221.111|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|6|195.187.63.42|8080|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|7|139.59.242.42|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|201.20.110.54|55443|Brazil|Fortaleza|Mob Servicos de Telecomunicacoes Ltda|
+|9|125.87.91.60|57114|China|Chongqing|Chinanet|
+|10|190.152.182.150|55443|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|11|91.93.42.114|10001|Turkey|Sungurlu|Tellcom Iletisim Hizmetleri A.S.|
+|12|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|13|110.74.198.158|56765|Cambodia|Phnom Penh|EZECOM limited|
+|14|103.53.76.50|8080|Indonesia|Surabaya|INTI|
+|15|190.113.40.19|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
+|16|125.163.160.41|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|17|202.159.101.43|8088|Indonesia|Jakarta|PT IndoInternet|
+|18|168.90.15.177|999|Colombia|Sachica|Media Commerce Partners S.A|
+|19|81.91.144.190|55443|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
+|20|152.249.233.249|8080|Brazil|Mogi das Cruzes|Vivo|
 
 
 

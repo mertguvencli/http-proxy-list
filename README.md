@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3827** proxies at the latest update. Usable proxies are below.
+> Scraper found **3516** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|476|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|476|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|476|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|443|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|443|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|443|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.90.83.209|999|Colombia|Cúcuta|Internexa S.a. E.S.P|
-|2|143.255.18.196|8080|Brazil|Lavras|Datanet Provedor de Internet Ltda|
-|3|140.238.25.11|3128|South Korea|Seoul|Oracle Corporation|
-|4|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|5|177.52.221.111|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|6|195.187.63.42|8080|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|7|139.59.242.42|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|201.20.110.54|55443|Brazil|Fortaleza|Mob Servicos de Telecomunicacoes Ltda|
-|9|125.87.91.60|57114|China|Chongqing|Chinanet|
-|10|190.152.182.150|55443|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|11|91.93.42.114|10001|Turkey|Sungurlu|Tellcom Iletisim Hizmetleri A.S.|
-|12|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|13|110.74.198.158|56765|Cambodia|Phnom Penh|EZECOM limited|
-|14|103.53.76.50|8080|Indonesia|Surabaya|INTI|
-|15|190.113.40.19|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|16|125.163.160.41|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|17|202.159.101.43|8088|Indonesia|Jakarta|PT IndoInternet|
-|18|168.90.15.177|999|Colombia|Sachica|Media Commerce Partners S.A|
-|19|81.91.144.190|55443|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
-|20|152.249.233.249|8080|Brazil|Mogi das Cruzes|Vivo|
+|1|45.77.125.208|59394|United States|Los Angeles|The Constant Company|
+|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|3|51.159.5.133|3128|France|Paris|SCALEWAY|
+|4|148.0.115.131|999|Dominican Republic|La Romana|Compañía Dominicana de Teléfonos S. A.|
+|5|103.107.71.192|1080|Indonesia|Surakarta|PT. Media Jaringan Indonesia|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|103.114.88.230|8080|Cambodia|Phnom Penh|BEE UNION (CAMBODIA) TELECOM CO.|
+|8|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|9|1.186.40.35|1111|India|Bengaluru|D-VoiS Broadband Private Limited|
+|10|103.167.34.104|8080|Indonesia|Adan-adan|PT Industri Kreatif Digital|
+|11|139.255.26.115|8080|Indonesia|Jakarta|PT. LINKNET|
+|12|103.126.249.82|8080|Thailand|Khlong Toei|Campana TARO Co., Ltd.|
+|13|170.80.65.153|8080|Brazil|Ribeirão das Neves|TelecomDados Ltda|
+|14|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
+|15|183.89.69.10|8080|Thailand|Satuek|Triple T Broadband Public Company Limited|
+|16|5.183.232.131|8080|Russia|Moscow|Elitel Telecom Group Ltd|
+|17|202.57.2.19|8080|Indonesia|South Tangerang|Primanet - ISP|
+|18|103.87.201.86|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|19|117.157.197.18|3128|China|Shenzhen|China Mobile communications corporation|
+|20|186.159.3.43|30334|Colombia|Medellín|Edatel S.a. E.S.P|
 
 
 

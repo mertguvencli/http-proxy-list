@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3247** proxies at the latest update. Usable proxies are below.
+> Scraper found **3269** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|27.156.80.80|16790|China|Fuzhou|Chinanet|
-|5|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
-|6|182.253.235.22|8080|Indonesia|Jakarta|BIZNET|
-|7|45.177.108.165|999|Colombia|Baraya|TV AZTECA SUCURSAL COLOMBIA|
-|8|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|124.223.74.115|7890|China|Jingshan|Shenzhen Tencent Computer Systems Company Limited|
-|10|34.145.237.227|80|United States|Washington|Google LLC|
-|11|45.43.63.230|10001|Singapore|Singapore|Zenlayer Inc|
-|12|45.189.116.21|999|Peru|Lima|Fiber Digital S.R.L|
-|13|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|14|41.84.143.226|8081|Kenya|Nairobi|SOHO-REGIONAL|
-|15|200.111.22.66|999|Chile|Panguipulli|Entel Chile S.A.|
-|16|203.150.128.170|8080|Thailand|Watthana|Internet Thailand Company Ltd|
-|17|121.232.67.253|35036|China|Qinnan|Chinanet|
-|18|188.133.138.197|8080|Russia|Moscow|Enforta-MSK|
-|19|178.151.34.43|8080|Ukraine|Kharkiv|Triolan|
-|20|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
+|3|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
+|4|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
+|5|45.174.249.20|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|6|202.159.11.179|8080|Indonesia|Jakarta|PT IndoInternet|
+|7|190.211.81.211|3128|Argentina|Rivadavia|Patagonia Green S.A.|
+|8|79.175.176.254|3128|Iran|Tehran|AFranet Co|
+|9|45.189.116.21|999|Peru|Lima|Fiber Digital S.R.L|
+|10|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|11|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|12|103.148.24.219|3127|Indonesia|Lamongan|Menaksopal Link Nusantara|
+|13|124.223.74.115|7890|China|Jingshan|Shenzhen Tencent Computer Systems Company Limited|
+|14|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
+|15|138.117.84.161|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|16|201.144.14.232|53281|Mexico|La Barca|Uninet S.A. de C.V|
+|17|69.63.73.171|53281|Eswatini|Mbabane|Swaziland Posts & Telecommunications Corp.|
+|18|187.102.236.161|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos HYP|
+|19|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|20|41.84.143.226|8081|Kenya|Nairobi|SOHO-REGIONAL|
 
 
 

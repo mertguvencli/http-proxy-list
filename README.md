@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3324** proxies at the latest update. Usable proxies are below.
+> Scraper found **3296** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|205|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|205|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|205|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
-|3|187.94.211.60|8080|Brazil|Alto Caparao|Acesse ComunicaÔÔo Ltda|
-|4|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|5|138.117.84.161|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|6|116.0.4.54|8080|Indonesia|Jakarta|PT Hasindo Net|
-|7|94.141.117.1|8080|Russia|Moscow|MediaCom LLC|
-|8|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|9|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
-|10|101.53.154.137|2005|India|Noida|NetMagic Solutions Pvt Ltd|
-|11|190.211.81.211|3128|Argentina|Rivadavia|Patagonia Green S.A.|
-|12|182.253.189.244|8080|Indonesia|Jakarta|BIZNET|
-|13|80.63.84.58|8081|Denmark|Frederiksberg|TDC A/S|
-|14|176.88.63.231|8080|Turkey|Antakya|Tellcom Iletisim Hizmetleri A.S.|
-|15|85.25.91.141|5566|Germany|Cologne|PlusServer GmbH|
-|16|103.148.24.219|3127|Indonesia|Lamongan|Menaksopal Link Nusantara|
-|17|91.242.213.247|8080|Russia|Murom|NAVIGATOR-MUROM|
-|18|124.223.74.115|7890|China|Jingshan|Shenzhen Tencent Computer Systems Company Limited|
-|19|46.209.196.146|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|20|139.162.36.36|8080|Singapore|Singapore|Linode, LLC|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|5|187.189.132.173|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|190.90.83.209|999|Colombia|Cúcuta|Internexa S.a. E.S.P|
+|8|190.2.210.139|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|10|134.209.42.113|8896|United States|Clifton|DigitalOcean, LLC|
+|11|170.79.235.3|999|Chile|Buin|TNA Solutions SpA|
+|12|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|13|212.129.15.88|8080|France|Paris|Online SAS|
+|14|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|15|180.244.35.86|8080|Indonesia|Tangerang|PT. TELKOM INDONESIA|
+|16|202.183.164.143|3128|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
+|17|178.93.151.100|8080|Ukraine|Kyiv|UKRTELECOM|
+|18|89.171.41.90|6969|Poland|Warsaw|Netia SA|
+|19|186.138.132.183|3128|Argentina|Buenos Aires|Telecom Argentina S.A|
+|20|176.120.213.241|41258|Russia|Makhachkala|SUBNET05|
 
 
 

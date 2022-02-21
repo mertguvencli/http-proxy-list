@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3484** proxies at the latest update. Usable proxies are below.
+> Scraper found **3330** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|269|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|269|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|269|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.88.57.119|8118|United States|Ashburn|Amazon Technologies Inc.|
+|1|185.243.57.202|8118|United States|Los Angeles|DediPath|
 |2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|3|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|4|45.95.18.102|8118|Germany|Frankfurt am Main|UK Dedicated Servers Limited|
-|5|213.32.75.88|9300|France|Gravelines|OVH SAS|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|34.95.191.125|80|Brazil|Sao Paulo|Google LLC|
-|8|140.238.42.240|3128|Japan|Tokyo|Oracle Corporation|
-|9|160.19.232.85|3128|South Africa|Caledon|TWK Communications|
-|10|95.0.168.56|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|11|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
-|12|139.255.26.115|8080|Indonesia|Jakarta|PT. LINKNET|
-|13|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
-|14|190.110.99.107|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
-|15|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
-|16|223.29.199.144|55443|India|Kolkata|Meghbela Cable & Broadband Services (P) Ltd|
-|17|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|18|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|19|143.92.158.138|9090|Saudi Arabia|Dammam|Saudi Telecom Company JSC|
-|20|187.189.176.155|999|Mexico|Monterrey|Total Play Telecomunicaciones SA De CV|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|6|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|7|206.62.163.30|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|8|182.18.83.42|6666|China|Beijing|China Mobile|
+|9|45.176.95.51|999|Dominican Republic|Concepción de la Vega|Exito Vision Cable S.A.S|
+|10|31.192.233.30|5006|United States|Atlanta|PDK LLC|
+|11|190.0.17.66|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|148.0.115.131|999|Dominican Republic|La Romana|Compañía Dominicana de Teléfonos S. A.|
+|13|125.74.93.60|8083|China|Beijing|Chinanet|
+|14|203.150.128.170|8080|Thailand|Watthana|Internet Thailand Company Ltd|
+|15|120.197.179.166|8080|China|Dongguan|China Mobile communications corporation|
+|16|1.186.85.38|1111|India|Bengaluru|D-VoiS Broadband Private Limited|
+|17|103.76.151.46|8181|Indonesia|Bogor|PT. Java Digital Nusantara|
+|18|77.236.231.11|1256|Russia|Moscow|Enforta-MSK|
+|19|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|20|109.70.188.46|11080|Russia|Makhachkala|LTD "Elektrosvyaz"|
 
 
 

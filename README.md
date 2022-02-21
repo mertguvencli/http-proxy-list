@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3436** proxies at the latest update. Usable proxies are below.
+> Scraper found **3196** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
-|2|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|3|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|4|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|181.49.158.165|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|7|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|8|144.48.112.30|8080|Bangladesh|Dhaka|Net Cafe|
-|9|190.119.166.36|999|Peru|La Victoria|America Movil Peru S.A.C.|
-|10|190.24.119.55|999|Colombia|Ibague|ETB - Colombia|
-|11|191.102.107.235|999|Colombia|Malaga|TV AZTECA SUCURSAL COLOMBIA|
-|12|103.126.85.173|8080|Indonesia|Banyumas|BINTANGPERKASAORION|
-|13|38.10.246.84|999|Dominican Republic|Santa Cruz de Barahona|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|14|187.72.143.118|41890|Brazil|Guarulhos|ALGAR TELECOM S/A|
-|15|197.210.217.66|34808|Nigeria|Ibadan|MTN NIGERIA Communication limited|
-|16|187.251.117.228|999|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
-|17|103.228.118.78|8080|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
-|18|170.254.230.201|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|19|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|20|103.11.23.0|8085|Indonesia|Jakarta|Faasri Utama Sakti|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|3|115.220.1.140|17890|China|Ningbo|Chinanet|
+|4|41.84.143.226|8081|Kenya|Nairobi|SOHO-REGIONAL|
+|5|58.27.255.98|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|6|86.110.27.165|3128|Russia|Moscow|Digit One LLC|
+|7|143.92.158.138|9090|Saudi Arabia|Dammam|Saudi Telecom Company JSC|
+|8|103.123.64.20|8888|Indonesia|Jakarta|CEPATNET|
+|9|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|10|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|11|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
+|12|182.18.179.129|83|India|Hyderabad|CtrlS Datacenters Ltd.|
+|13|85.25.198.22|5566|France|Strasbourg|Host Europe GmbH|
+|14|45.79.230.234|443|United States|Fremont|Linode, LLC|
+|15|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
+|16|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|17|216.66.76.238|8080|United States|Chicago|Hurricane Electric LLC|
+|18|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|19|45.173.6.98|999|Colombia|Zipaquirá|Columbus Networks Colombia|
+|20|77.236.238.179|8080|Russia|Moscow|ArtCommunications Ltd.|
 
 
 

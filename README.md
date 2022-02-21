@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3036** proxies at the latest update. Usable proxies are below.
+> Scraper found **3090** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|437|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|437|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|437|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
-|2|89.204.214.142|8080|Ireland|Kilcock|O2 Ireland Fixed Broadband - Eircom White Label|
-|3|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|4|201.184.107.26|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|5|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|6|45.5.68.18|999|Peru|Lima|Wi-net Telecom S.A.C.|
-|7|157.100.53.248|999|Ecuador|Ventanas|Nedetel S.A.|
-|8|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|9|181.48.91.92|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|10|189.203.180.233|999|Mexico|Oaxaca City|Total Play Telecomunicaciones SA De CV|
-|11|190.186.18.161|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|12|103.213.105.190|8080|Afghanistan|Kabul|Ankabut 002|
-|13|45.71.108.230|8080|Brazil|Itabuna|Sigaon Servicos Telecomunicacoes Eirele|
-|14|186.3.9.218|999|Ecuador|Guayaquil|Telconet S.A|
-|15|138.0.188.134|10001|Brazil|Araguari|WN TELECOM LTDA - ME|
-|16|192.140.42.83|31511|Brazil|Boa Vista do Jauato|Allfiber Telecom ServiÔos de TelecomunicaÔÔes|
-|17|45.230.171.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|18|190.113.42.141|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
-|19|170.0.87.203|999|Argentina|Andresito|Dardo Rene Schroder|
-|20|36.95.211.131|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
+|3|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|4|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|119.236.94.186|8888|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|7|193.226.199.62|53128|Hungary|Budapest|INVITEL Zrt.|
+|8|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|9|222.186.133.26|18080|China|Qinnan|Chinanet|
+|10|178.170.195.245|9999|Russia|Moscow|Cloud technology Limited (Ltd.)|
+|11|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|12|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|13|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|14|165.16.46.215|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|15|190.7.58.55|3128|Argentina|Santa Elena|Gigared S.A.|
+|16|58.27.255.98|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|17|217.196.20.150|8080|Kazakhstan|Oral|Jusan Mobile JSC|
+|18|203.170.222.4|8080|Thailand|Rayong|Advanced Wireless Network Company Limited|
+|19|88.225.232.154|8080|Turkey|Isparta|TurkTelecom|
+|20|202.53.171.114|80|Bangladesh|Dhaka|Agni Systems Ltd.|
 
 
 

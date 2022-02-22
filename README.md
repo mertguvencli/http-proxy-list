@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3426** proxies at the latest update. Usable proxies are below.
+> Scraper found **3573** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|345|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|345|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|345|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
-|3|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|4|51.81.32.81|8888|United States|Reston|OVH SAS|
-|5|135.125.4.232|9090|France|Strasbourg|OVH SAS|
-|6|186.3.7.209|999|Ecuador|Quito|Telconet S.A|
-|7|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|8|103.172.197.242|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
-|9|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|10|139.255.99.165|50031|Indonesia|Jakarta|PT. LINKNET|
-|11|177.82.85.134|3128|Brazil|Ribeirão Preto|Claro S.A.|
-|12|181.209.82.154|23500|Argentina|Caleta Olivia|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|103.146.30.178|8080|Indonesia|Jakarta|PT MITRA VISIONER PRATAMA|
-|14|122.3.41.154|8090|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|15|156.155.162.246|4415|South Africa|Boksburg|AxxessNetworks|
-|16|102.66.163.239|5050|South Africa|Hazyview|HERO TELECOMS (PTY) LTD|
-|17|165.22.59.84|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|187.94.211.60|8080|Brazil|Alto Caparao|Acesse ComunicaÔÔo Ltda|
-|19|194.114.128.149|61213|Russia|Sochi|OOO "Matritsa"|
-|20|154.64.211.145|999|United States|Miami|OSNET Wireless|
+|1|194.233.73.103|443|Singapore|Singapore|Contabo Asia Private Limited|
+|2|194.233.73.107|443|Singapore|Singapore|Contabo Asia Private Limited|
+|3|107.178.9.186|8080|United States|Decatur|Nextlink Broadband|
+|4|36.94.61.196|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|5|31.161.38.233|8090|Netherlands|Venray|KPN B.V|
+|6|103.220.204.101|59570|Bangladesh|Dhaka|KS Network|
+|7|203.128.83.115|8080|Indonesia|Jakarta|Neuviz Net|
+|8|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|9|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|10|201.150.51.30|45005|Brazil|Maceió|E. D. SERVIÔOS DE COMUNICAÔÔES LTDA|
+|11|186.16.206.162|999|Paraguay|Asunción|Telecel S.A.|
+|12|110.44.124.220|55443|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
+|13|200.233.92.222|20183|Brazil|Alfenas|Web Net Telecomunicacoes Ltda|
+|14|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|15|165.22.59.84|8080|Singapore|Singapore|DigitalOcean, LLC|
+|16|103.148.2.82|8181|Indonesia|Ketanon|PT PRISMA MEDIA NUSANTARA|
+|17|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
+|18|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
+|19|190.60.71.124|80|Colombia|Bogotá|IFX Corporation|
+|20|139.255.5.98|8080|Indonesia|Jakarta|PT. LINKNET|
 
 
 

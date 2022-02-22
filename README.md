@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2805** proxies at the latest update. Usable proxies are below.
+> Scraper found **3069** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.165.187.32|20011|United States|Portland|Amazon.com, Inc.|
-|2|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|3|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|4|121.88.250.73|3128|South Korea|Suwon|DLIVE|
-|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|7|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|8|187.49.75.250|3128|Brazil|Porto Alegre|Sygo Internet|
-|9|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
-|10|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
-|11|189.126.72.97|20183|Brazil|Beberibe|Provedornet Telecom. e ServiÔos de Internet Ltda|
-|12|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|13|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|14|103.78.73.93|3128|Indonesia|Gandul|ICONPLN|
-|15|203.150.128.24|8080|Thailand|Watthana|Internet Thailand Company Ltd|
-|16|103.214.100.162|8083|Indonesia|Batam|SMARTPLUS|
-|17|186.47.83.126|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|18|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|19|124.223.74.115|7890|China|Jingshan|Shenzhen Tencent Computer Systems Company Limited|
-|20|182.16.163.202|3128|Indonesia|Jakarta|SOLUSINET|
+|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|2|35.165.187.32|20011|United States|Portland|Amazon.com, Inc.|
+|3|45.230.172.11|8080|Mexico|Culiacán|Opsicome SA De CV|
+|4|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|5|177.93.34.218|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|7|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|8|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|9|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|10|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|11|14.161.9.28|1412|Vietnam|Ho Chi Minh City|VNPT|
+|12|200.24.157.116|999|Ecuador|Azogues|Nedetel S.A.|
+|13|182.16.163.202|3128|Indonesia|Jakarta|SOLUSINET|
+|14|163.172.75.81|5566|France|Paris|Online S.A.S.|
+|15|128.0.179.234|41258|Czechia|Prague|PODA a.s.|
+|16|83.221.208.217|1981|Russia|Rostov-on-Don|Macroregional South|
+|17|37.210.75.39|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|18|103.69.45.174|58199|India|Bhilai|Navyug Networks Info Private Limited|
+|19|190.226.32.218|8090|Argentina|Nueve de Julio|XF Comunicaciones S.A.|
+|20|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
 
 
 

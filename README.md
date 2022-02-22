@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3679** proxies at the latest update. Usable proxies are below.
+> Scraper found **3818** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|368|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|368|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|368|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|3|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
-|4|47.102.193.144|8888|China|Shanghai|Addresses CNNIC|
-|5|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
-|6|45.230.172.13|8080|Mexico|Culiacán|Opsicome SA De CV|
-|7|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|8|101.255.77.245|8080|Indonesia|Jakarta|PT Remala Abadi|
-|9|184.95.0.218|8080|Puerto Rico|Carolina|PREPA Networks|
-|10|103.159.90.14|83|India|Karimpur|Pegasuswave Private Limited|
-|11|79.135.219.223|8080|Ukraine|Odessa|ICN Ltd.|
-|12|186.3.7.209|999|Ecuador|Quito|Telconet S.A|
-|13|95.0.168.58|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|14|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|15|110.78.152.113|8080|Thailand|Samphanthawong|CAT-BB|
-|16|186.46.168.44|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|17|188.233.97.32|80|Russia|Volgograd|JSC "ER-Telecom Holding"|
-|18|51.81.32.81|8888|United States|Reston|OVH SAS|
-|19|154.221.17.106|7890|Hong Kong|Hong Kong|Guangzhou Yisu Cloud Limited|
-|20|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
+|1|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|2|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
+|3|51.81.32.81|8888|United States|Reston|OVH SAS|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|6|182.18.83.42|7777|China|Beijing|China Mobile|
+|7|221.144.56.29|4001|South Korea|Gwangju|Korea Telecom|
+|8|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|9|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|11|187.102.209.223|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
+|12|181.78.18.93|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|13|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|14|45.182.190.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|16|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|17|79.135.219.223|8080|Ukraine|Odessa|ICN Ltd.|
+|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|19|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|20|176.118.209.12|53281|Russia|Ryazan|OnTelecom LLC|
 
 
 

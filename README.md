@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3573** proxies at the latest update. Usable proxies are below.
+> Scraper found **3559** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|345|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|345|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|345|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.233.73.103|443|Singapore|Singapore|Contabo Asia Private Limited|
-|2|194.233.73.107|443|Singapore|Singapore|Contabo Asia Private Limited|
-|3|107.178.9.186|8080|United States|Decatur|Nextlink Broadband|
-|4|36.94.61.196|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|5|31.161.38.233|8090|Netherlands|Venray|KPN B.V|
-|6|103.220.204.101|59570|Bangladesh|Dhaka|KS Network|
-|7|203.128.83.115|8080|Indonesia|Jakarta|Neuviz Net|
-|8|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|9|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|10|201.150.51.30|45005|Brazil|Maceió|E. D. SERVIÔOS DE COMUNICAÔÔES LTDA|
-|11|186.16.206.162|999|Paraguay|Asunción|Telecel S.A.|
-|12|110.44.124.220|55443|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
-|13|200.233.92.222|20183|Brazil|Alfenas|Web Net Telecomunicacoes Ltda|
-|14|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|15|165.22.59.84|8080|Singapore|Singapore|DigitalOcean, LLC|
-|16|103.148.2.82|8181|Indonesia|Ketanon|PT PRISMA MEDIA NUSANTARA|
-|17|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|18|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
-|19|190.60.71.124|80|Colombia|Bogotá|IFX Corporation|
-|20|139.255.5.98|8080|Indonesia|Jakarta|PT. LINKNET|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|3|70.106.234.162|8118|United States|Ashburn|MCI Communications Services, Inc. d/b/a Verizon Business|
+|4|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|5|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|6|1.180.156.226|65001|China|Changning|Chinanet|
+|7|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|8|88.255.12.25|8080|Turkey|Adana|Turk Telekomunikasyon Anonim Sirketi|
+|9|94.125.55.169|8080|Russia|Khabarovsk|Redcom LIR 2|
+|10|173.196.205.170|8080|United States|Santa Ana|Charter Communications Inc|
+|11|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|13|190.69.153.82|999|Colombia|Facatativá|Colombia Telecomunicaciones S.a. ESP|
+|14|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|15|200.114.66.20|999|Chile|Los Vilos|Chile TV Cable S.A.|
+|16|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|17|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|180.251.15.210|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
+|19|5.8.95.29|8080|Japan|Tokyo|G-Core Labs S.A.|
+|20|190.113.40.12|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
 
 
 

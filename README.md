@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2855** proxies at the latest update. Usable proxies are below.
+> Scraper found **2805** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|2|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|3|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
-|4|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|1|35.165.187.32|20011|United States|Portland|Amazon.com, Inc.|
+|2|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|3|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|4|121.88.250.73|3128|South Korea|Suwon|DLIVE|
 |5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|6|177.93.43.110|8080|Colombia|Villa de Leyva|TV AZTECA SUCURSAL COLOMBIA|
-|7|103.156.17.63|8181|Indonesia|Bagjasari|RSTNET|
-|8|151.80.196.163|8010|France|Roubaix|OVH SAS|
-|9|178.151.34.43|8080|Ukraine|Kharkiv|Triolan|
-|10|82.114.231.155|8080|Russia|Saratov|SCTS|
-|11|51.81.32.81|8888|United States|Reston|OVH SAS|
-|12|103.156.218.232|8080|Indonesia|Bogor|MYREPUBLIC|
-|13|34.145.237.227|80|United States|Washington|Google LLC|
-|14|31.161.38.233|8090|Netherlands|Venray|KPN B.V|
+|6|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|7|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|8|187.49.75.250|3128|Brazil|Porto Alegre|Sygo Internet|
+|9|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
+|10|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|11|189.126.72.97|20183|Brazil|Beberibe|Provedornet Telecom. e ServiÔos de Internet Ltda|
+|12|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|13|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|14|103.78.73.93|3128|Indonesia|Gandul|ICONPLN|
 |15|203.150.128.24|8080|Thailand|Watthana|Internet Thailand Company Ltd|
-|16|186.159.20.210|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|17|36.95.245.5|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|88.255.101.227|8080|Turkey|Antalya|Turk Telekomunikasyon Anonim Sirketi|
-|19|180.149.235.39|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|20|170.80.49.160|8080|Brazil|Jaboatao dos Guararapes|Ponte Digital|
+|16|103.214.100.162|8083|Indonesia|Batam|SMARTPLUS|
+|17|186.47.83.126|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|19|124.223.74.115|7890|China|Jingshan|Shenzhen Tencent Computer Systems Company Limited|
+|20|182.16.163.202|3128|Indonesia|Jakarta|SOLUSINET|
 
 
 

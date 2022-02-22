@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3060** proxies at the latest update. Usable proxies are below.
+> Scraper found **3144** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|216|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|216|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|216|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|98.115.7.156|8080|United States|Philadelphia|MCI Communications Services, Inc. d/b/a Verizon Business|
-|3|176.56.107.95|52210|Spain|Cehegín|Aire Networks|
-|4|135.125.4.232|9090|France|Strasbourg|OVH SAS|
-|5|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
-|6|180.232.123.251|3128|Philippines|Baugo|Eastern Telecommunications Philippines, Inc.|
-|7|170.83.60.18|55443|Brazil|Santa Juliana|H-micro Assistencia Especializade EM Inform Ldta|
-|8|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|9|190.108.85.175|999|Peru|Huancayo|Internexa Peru S.A|
-|10|103.86.159.25|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|11|103.66.196.218|23500|Indonesia|Bogor|PT. Mora Telematika Indonesia|
-|12|190.14.224.244|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|13|31.131.67.14|8080|Ukraine|Yevpatoriya|PE Zinstein Hariton Vladimirovich|
-|14|202.180.20.66|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|15|202.152.12.202|8080|Indonesia|Dukuh|PT Aplikanusa Lintasarta|
-|16|45.179.200.113|999|Colombia|Riosucio|NET&COM LTDA.|
-|17|185.151.27.225|8081|Italy|San Piero in Bagno|Lepida vs Digital Divide|
-|18|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
-|19|195.9.162.186|8080|Russia|Moscow|PJSC Moscow city telephone network|
-|20|194.44.87.245|8080|Ukraine|Hrymayliv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|1|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
+|2|50.235.149.74|8080|United States|New York|Comcast Cable Communications, LLC|
+|3|45.172.108.43|999|Argentina|Caucete|GPS SANJUAN SRL.|
+|4|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|5|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|6|95.0.168.56|1976|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|7|45.191.196.253|999|Peru|Lima|Softbutterfly SAC|
+|8|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|9|190.110.99.107|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
+|10|59.61.160.46|16790|China|Fuzhou|Chinanet|
+|11|154.72.67.190|8080|Tanzania|Dar es Salaam|RAHA-LTZ|
+|12|80.84.176.110|8080|Ukraine|Zaporizhzhya|Express Radio Networks|
+|13|181.47.104.64|8080|Argentina|Buenos Aires|Telecentro S.A.|
+|14|182.18.83.42|6666|China|Beijing|China Mobile|
+|15|110.139.128.232|80|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
+|16|114.7.193.214|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|17|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|18|118.173.242.189|8080|Thailand|Bang Khae|TOT Public Company Limited|
+|19|94.177.237.19|8081|France|Paris|Aruba.FR Network|
+|20|202.154.180.53|46717|Indonesia|Jakarta|PT Indonesia Comnets Plus|
 
 
 

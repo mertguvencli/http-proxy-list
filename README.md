@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3778** proxies at the latest update. Usable proxies are below.
+> Scraper found **3679** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|51.81.32.81|8888|United States|Reston|OVH SAS|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|5|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|6|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|7|101.6.54.100|7890|China|Haidian|CERNET|
-|8|185.112.35.61|9090|Iran|Tehran|Asiatech Data Transmission company|
-|9|62.133.171.178|8080|Russia|Ufa|DSL|
-|10|38.9.162.32|999|Venezuela|Maracaibo|GIGAPOP, C.A.|
-|11|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|12|187.44.1.172|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
-|13|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|14|101.35.115.136|20012|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|15|139.255.77.74|8080|Indonesia|Bekasi|PT. LINKNET|
-|16|103.146.196.35|3127|Indonesia|Banyuwangi|RIYADNETWORK|
-|17|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|18|190.205.32.70|999|Venezuela|Barquisimeto|CANTV Servicios, Venezuela|
-|19|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|20|123.200.17.107|8080|Bangladesh|Gulshan|Link3 Technologies Limited|
+|1|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|3|52.221.13.110|3128|Singapore|Singapore|Amazon.com, Inc.|
+|4|47.102.193.144|8888|China|Shanghai|Addresses CNNIC|
+|5|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
+|6|45.230.172.13|8080|Mexico|Culiacán|Opsicome SA De CV|
+|7|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|8|101.255.77.245|8080|Indonesia|Jakarta|PT Remala Abadi|
+|9|184.95.0.218|8080|Puerto Rico|Carolina|PREPA Networks|
+|10|103.159.90.14|83|India|Karimpur|Pegasuswave Private Limited|
+|11|79.135.219.223|8080|Ukraine|Odessa|ICN Ltd.|
+|12|186.3.7.209|999|Ecuador|Quito|Telconet S.A|
+|13|95.0.168.58|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|14|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|15|110.78.152.113|8080|Thailand|Samphanthawong|CAT-BB|
+|16|186.46.168.44|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|17|188.233.97.32|80|Russia|Volgograd|JSC "ER-Telecom Holding"|
+|18|51.81.32.81|8888|United States|Reston|OVH SAS|
+|19|154.221.17.106|7890|Hong Kong|Hong Kong|Guangzhou Yisu Cloud Limited|
+|20|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3144** proxies at the latest update. Usable proxies are below.
+> Scraper found **2855** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|216|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|216|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|216|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.192.232.10|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
-|2|50.235.149.74|8080|United States|New York|Comcast Cable Communications, LLC|
-|3|45.172.108.43|999|Argentina|Caucete|GPS SANJUAN SRL.|
-|4|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|5|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|6|95.0.168.56|1976|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|7|45.191.196.253|999|Peru|Lima|Softbutterfly SAC|
-|8|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|190.110.99.107|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
-|10|59.61.160.46|16790|China|Fuzhou|Chinanet|
-|11|154.72.67.190|8080|Tanzania|Dar es Salaam|RAHA-LTZ|
-|12|80.84.176.110|8080|Ukraine|Zaporizhzhya|Express Radio Networks|
-|13|181.47.104.64|8080|Argentina|Buenos Aires|Telecentro S.A.|
-|14|182.18.83.42|6666|China|Beijing|China Mobile|
-|15|110.139.128.232|80|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
-|16|114.7.193.214|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|17|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|18|118.173.242.189|8080|Thailand|Bang Khae|TOT Public Company Limited|
-|19|94.177.237.19|8081|France|Paris|Aruba.FR Network|
-|20|202.154.180.53|46717|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|2|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|3|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
+|4|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|177.93.43.110|8080|Colombia|Villa de Leyva|TV AZTECA SUCURSAL COLOMBIA|
+|7|103.156.17.63|8181|Indonesia|Bagjasari|RSTNET|
+|8|151.80.196.163|8010|France|Roubaix|OVH SAS|
+|9|178.151.34.43|8080|Ukraine|Kharkiv|Triolan|
+|10|82.114.231.155|8080|Russia|Saratov|SCTS|
+|11|51.81.32.81|8888|United States|Reston|OVH SAS|
+|12|103.156.218.232|8080|Indonesia|Bogor|MYREPUBLIC|
+|13|34.145.237.227|80|United States|Washington|Google LLC|
+|14|31.161.38.233|8090|Netherlands|Venray|KPN B.V|
+|15|203.150.128.24|8080|Thailand|Watthana|Internet Thailand Company Ltd|
+|16|186.159.20.210|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|17|36.95.245.5|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|88.255.101.227|8080|Turkey|Antalya|Turk Telekomunikasyon Anonim Sirketi|
+|19|180.149.235.39|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|20|170.80.49.160|8080|Brazil|Jaboatao dos Guararapes|Ponte Digital|
 
 
 

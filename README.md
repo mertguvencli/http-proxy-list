@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3210** proxies at the latest update. Usable proxies are below.
+> Scraper found **3160** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
-|3|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
-|4|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
-|5|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
-|6|45.190.79.164|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
-|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|8|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|9|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|10|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|11|101.255.56.94|80|Indonesia|Bogor|PT Remala Abadi|
-|12|112.78.137.106|8080|Indonesia|Jakarta|Biznet Networks|
-|13|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|14|158.140.169.101|10000|Indonesia|Surabaya|MYREPUBLIC|
-|15|103.60.173.114|8080|Bangladesh|Dhaka|Mazeda Networks Limited|
-|16|186.148.191.226|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|178.32.226.172|3129|France|Gravelines|OVH SAS|
-|18|14.170.154.10|8080|Vietnam|Bac Giang|VNPT-VNNIC|
-|19|200.229.147.2|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|20|49.128.185.109|8181|Indonesia|Kute|PT. Cybertechtonic Pratama|
+|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|2|38.84.12.86|3128|United States|Phoenix|Cogent Communications|
+|3|178.32.116.64|3128|France|Roubaix|OVH SAS|
+|4|200.39.63.74|999|Dominican Republic|Santiago de los Caballeros|Mktel SRL|
+|5|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.140.188.61|8085|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|9|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|191.97.9.189|999|Colombia|Chaparral|TV AZTECA SUCURSAL COLOMBIA|
+|11|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|12|110.36.213.38|8082|Pakistan|Lahore|wateen tel|
+|13|31.192.232.41|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
+|14|112.215.69.214|8080|Indonesia|Bantabantaeng|XL-AXIATA Tbk GSM|
+|15|114.7.193.214|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|16|45.79.230.234|443|United States|Fremont|Linode, LLC|
+|17|190.110.99.107|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
+|18|195.149.98.211|8181|Poland|Gliwice|Obsluga pc P.Dudzinski P.Jablonski P.Ral. B.Miller s.c.|
+|19|191.243.217.1|53281|Brazil|Garanhuns|Franca e Franca Com e Serv Ltda. ME|
+|20|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
 
 
 

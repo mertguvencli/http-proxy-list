@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3708** proxies at the latest update. Usable proxies are below.
+> Scraper found **3527** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|421|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|421|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|421|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.149.3.3|8080|United States|Los Angeles|Psychz Networks|
-|2|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
-|3|31.192.232.41|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
-|4|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
-|5|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
-|6|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
-|9|24.52.33.75|8080|United States|St. George|TDS TELECOM|
-|10|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|11|1.180.156.226|65001|China|Changning|Chinanet|
-|12|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|13|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|14|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
-|15|106.0.48.130|8080|Indonesia|Batam|Indonesia Network Information Center|
-|16|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|17|103.156.218.232|8080|Indonesia|Bogor|MYREPUBLIC|
-|18|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|19|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|20|139.255.71.90|8080|Indonesia|Jakarta|PT. LINKNET|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|104.149.3.3|8080|United States|Los Angeles|Psychz Networks|
+|3|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|4|51.81.32.81|8888|United States|Reston|OVH SAS|
+|5|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|8|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|9|190.112.137.81|8085|Argentina|Zárate|C Y M INTERNET S.R.L.|
+|10|190.110.99.101|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
+|11|190.104.1.18|999|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
+|12|201.77.109.129|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|13|103.172.197.242|8080|Indonesia|Banyuwangi|PT Cahaya Solusindo Internusa|
+|14|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|15|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|16|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|17|77.236.252.187|1256|Russia|Perm|JSC "ER-Telecom Holding"|
+|18|27.255.3.134|3128|Pakistan|Karachi|Fiberlink Pvt. Ltd|
+|19|77.233.5.68|55443|Russia|Krasnodar|Yug-Link|
+|20|190.61.46.7|8080|Colombia|Barranquilla|Ufinet Panama S.A.|
 
 
 

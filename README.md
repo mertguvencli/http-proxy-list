@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3510** proxies at the latest update. Usable proxies are below.
+> Scraper found **3336** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|336|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|336|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|336|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|211|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|211|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|211|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.82.13.99|8888|United States|Piscataway|The Constant Company|
-|2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|3|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|4|51.81.32.81|8888|United States|Reston|OVH SAS|
-|5|35.165.187.32|20011|United States|Portland|Amazon.com, Inc.|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
-|8|1.180.156.226|65001|China|Changning|Chinanet|
-|9|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|10|34.145.237.227|80|United States|Washington|Google LLC|
-|11|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|12|212.174.72.3|8080|Turkey|Istanbul|TurkTelecom|
-|13|121.88.250.73|3128|South Korea|Suwon|DLIVE|
-|14|45.229.34.26|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|15|103.120.211.166|8080|India|Mumbai|Wsns PVT LTD|
-|16|123.56.124.235|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
-|17|190.90.22.93|999|Colombia|Santa Marta|Internexa S.a. E.S.P|
-|18|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|19|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
-|20|158.140.170.183|8085|Indonesia|Semarang|MYREPUBLIC|
+|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|2|51.81.32.81|8888|United States|Reston|OVH SAS|
+|3|79.135.219.223|8080|Ukraine|Odessa|ICN Ltd.|
+|4|95.67.64.162|3128|Ukraine|Kyiv|Cosmonova|
+|5|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos HYP|
+|6|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|8|190.6.204.97|8080|Honduras|Santa Cruz de Yojoa|Cablecolor S.A.|
+|9|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|10|1.180.156.226|65001|China|Changning|Chinanet|
+|11|31.192.233.30|5006|United States|Atlanta|PDK LLC|
+|12|206.161.97.64|31337|United States|Ashburn|PCCW Global, Inc.|
+|13|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|14|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|15|50.193.36.173|8080|United States|Lathrop|Comcast Cable Communications|
+|16|136.233.136.41|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
+|17|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|200.13.154.33|8080|Bolivia|Tarija|Entel S.A. - EntelNet|
+|19|139.5.150.146|3888|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|20|103.161.164.111|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3692** proxies at the latest update. Usable proxies are below.
+> Scraper found **3510** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|336|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|336|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|336|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|190.113.42.141|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
-|4|118.99.124.57|8080|Indonesia|Jakarta|BIZNET|
-|5|103.140.188.61|8085|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|6|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|7|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|8|34.145.237.227|80|United States|Washington|Google LLC|
-|9|58.55.249.124|7082|China|Wulipu|Chinanet|
-|10|188.43.15.89|8080|Russia|Tommot|Joint Stock Company TransTeleCom|
-|11|157.230.233.189|8080|United States|North Bergen|DigitalOcean, LLC|
-|12|93.115.97.203|3128|France|Faubourg de France|global|
-|13|136.232.194.10|3127|India|Bengaluru|Reliance Jio Infocomm Limited|
-|14|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|15|177.87.168.6|53281|Brazil|Paulista|Asstelecom telecomunicaÔÔo Ltda me|
-|16|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|17|183.91.0.121|3128|Vietnam|Hung Yen|CMC Telecom Infrastructure Company|
-|18|41.60.238.110|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|19|180.193.222.138|8080|Philippines|Sibalom|Philippine Long Distance Telephone Co.|
-|20|139.59.249.132|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|140.82.13.99|8888|United States|Piscataway|The Constant Company|
+|2|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|3|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|4|51.81.32.81|8888|United States|Reston|OVH SAS|
+|5|35.165.187.32|20011|United States|Portland|Amazon.com, Inc.|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
+|8|1.180.156.226|65001|China|Changning|Chinanet|
+|9|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|10|34.145.237.227|80|United States|Washington|Google LLC|
+|11|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|12|212.174.72.3|8080|Turkey|Istanbul|TurkTelecom|
+|13|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|14|45.229.34.26|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|15|103.120.211.166|8080|India|Mumbai|Wsns PVT LTD|
+|16|123.56.124.235|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
+|17|190.90.22.93|999|Colombia|Santa Marta|Internexa S.a. E.S.P|
+|18|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|19|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
+|20|158.140.170.183|8085|Indonesia|Semarang|MYREPUBLIC|
 
 
 

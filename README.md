@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3200** proxies at the latest update. Usable proxies are below.
+> Scraper found **3067** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.54.194.12|53281|Chile|Providencia|Telefonica Empresas|
-|2|201.217.55.97|8080|Paraguay|Asunción|CO.PA.CO|
-|3|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
-|4|190.217.20.108|999|Colombia|Choachi|Level 3 Colombia S.A|
-|5|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|6|41.254.53.70|1981|Libya|Benghazi|LTT Network Backbone and POPs|
-|7|212.48.251.69|28080|Hungary|Budapest|Vodafone|
-|8|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
-|9|185.230.4.233|55443|Bulgaria|Dragichevo|VIPNET PRIM Ltd|
-|10|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
-|11|131.72.69.98|45005|Brazil|Moita Bonita|TOP NET SERVI?OS LTDA|
-|12|212.174.242.102|8080|Turkey|Niğde|TurkTelecom|
-|13|191.103.219.225|48612|Colombia|Medellín|Edatel S.a. E.S.P|
-|14|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|15|175.139.179.65|42580|Malaysia|Seremban|Telekom Malaysia Berhad|
-|16|186.159.20.210|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|17|119.84.112.137|80|China|Chongqing|Chongqing Telecom|
-|18|201.182.58.221|8080|Brazil|João Pessoa|Wagner Barbosa DA Costa - ME|
-|19|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|20|182.253.66.114|8080|Indonesia|Malang|BIZNET|
+|1|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|2|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
+|3|188.156.240.240|8118|Hungary|Szeged|Magyar Telekom plc.|
+|4|185.89.156.250|8181|Albania|Tirana|ATU|
+|5|190.110.99.99|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
+|6|186.250.23.153|3128|Brazil|Parnamirim|RN Internet ServiÔos ltda - ME|
+|7|160.119.128.102|21213|Guinea|Dubréka|Skyvision Guinee SA|
+|8|101.51.106.70|49285|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|9|159.138.11.2|24007|Hong Kong|Hong Kong|Huawei International Pte. Ltd.|
+|10|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
+|11|181.143.224.42|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|12|103.167.34.104|8080|Indonesia|Adan-adan|PT Industri Kreatif Digital|
+|13|46.8.247.3|50967|Russia|Khasavyurt|ISP|
+|14|190.7.58.55|3128|Argentina|Santa Elena|Gigared S.A.|
+|15|110.74.203.250|8080|Cambodia|Phnom Penh|EZECOM limited|
+|16|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|17|114.30.79.35|8080|India|Delhi|Spacenet  Pvt Ltd|
+|18|186.3.38.201|999|Ecuador|Guayaquil|Telconet S.A|
+|19|158.255.254.5|3128|Slovakia|Bratislava|PRESNET s.r.o.|
+|20|202.162.198.188|3333|Indonesia|Medan|PT. Media Antar Nusa|
 
 
 

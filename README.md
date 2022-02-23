@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3976** proxies at the latest update. Usable proxies are below.
+> Scraper found **3815** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|481|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|481|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|481|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|329|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|329|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|329|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.32.81|8888|United States|Reston|OVH SAS|
-|2|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|5|176.119.158.31|8118|Russia|Moscow|JSC Mediasoft ekspert|
-|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
-|9|179.127.193.37|8080|Brazil|Iguaba Grande|Afinet Solucoes EM Tecnologia DA Informacao Ltda|
-|10|186.125.59.8|46316|Argentina|Florentino Ameghino|Telecom Argentina S.A.|
-|11|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
-|12|36.92.116.26|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|13|187.216.93.20|55443|Mexico|Hermosillo|Uninet S.A. de C.V.|
-|14|82.200.107.98|3128|Russia|Omsk|ZSTTK|
-|15|187.110.236.145|53281|Brazil|Magalhaes de Almeida|MOB SERVICOS DE TELECOMUNICACOES S.A|
-|16|163.172.75.81|5566|France|Paris|Online S.A.S.|
-|17|190.113.40.231|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|18|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
-|19|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|20|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
+|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
+|3|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|4|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|59.61.160.40|16790|China|Fuzhou|Chinanet|
+|7|1.180.156.226|65001|China|Changning|Chinanet|
+|8|58.51.118.146|3128|China|Wulipu|Chinanet|
+|9|200.39.63.74|999|Dominican Republic|Santiago de los Caballeros|Mktel SRL|
+|10|210.77.87.71|3128|China|Beijing|CSTNET|
+|11|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
+|12|176.118.209.12|53281|Russia|Ryazan|OnTelecom LLC|
+|13|181.10.160.156|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|14|170.80.65.221|6666|Brazil|Ribeirão das Neves|TelecomDados Ltda|
+|15|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|16|187.44.1.172|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
+|17|223.27.194.66|63141|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|18|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|19|191.243.217.1|53281|Brazil|Garanhuns|Franca e Franca Com e Serv Ltda. ME|
+|20|218.185.234.194|8080|Australia|Melbourne|World Without Wires Pty Ltd|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4286** proxies at the latest update. Usable proxies are below.
+> Scraper found **3887** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|376|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|376|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|376|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|1|45.63.1.157|8888|United States|Piscataway|The Constant Company|
+|2|51.81.32.81|8888|United States|Reston|OVH SAS|
 |3|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|49.234.73.73|1080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|5|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|7|202.138.240.185|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|8|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|9|58.51.118.146|3128|China|Wulipu|Chinanet|
-|10|45.156.31.19|9090|Turkey|Istanbul|ATLANTIS|
-|11|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
-|12|165.22.59.84|8080|Singapore|Singapore|DigitalOcean, LLC|
-|13|61.8.75.186|3128|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|14|14.207.122.184|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|15|165.16.27.14|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|16|41.65.162.75|1981|Egypt|Awsim|Etisalat Misr Mobile BB|
-|17|101.35.115.136|20011|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|18|139.162.60.194|8080|Singapore|Singapore|Linode, LLC|
-|19|122.154.35.190|8080|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|20|185.127.224.60|41890|Russia|Moscow|Rusphone OOO|
+|4|190.60.71.124|80|Colombia|Bogotá|IFX Corporation|
+|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|8|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
+|9|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|10|201.182.242.86|999|Ecuador|Saraguro|Gualan Japon Luis Joaquin|
+|11|45.185.206.76|999|Argentina|Neuquén|Escom Comunicaciones SRL|
+|12|103.100.84.22|8080|Indonesia|Talaka|POLITANI Pangkep|
+|13|181.78.16.235|8080|Colombia|Cúcuta|IFX Networks Argentina S.R.L|
+|14|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
+|15|202.164.152.229|8080|India|Ernakulam|Asianet Satellite Communications Pvt Ltd|
+|16|51.159.5.133|3128|France|Paris|SCALEWAY|
+|17|190.6.204.97|8080|Honduras|Santa Cruz de Yojoa|Cablecolor S.A.|
+|18|115.220.1.140|17890|China|Ningbo|Chinanet|
+|19|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|20|177.73.186.12|8080|Brazil|Videira|Unifique Telecomunica??es SA|
 
 
 

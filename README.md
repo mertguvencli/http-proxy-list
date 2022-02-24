@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2886** proxies at the latest update. Usable proxies are below.
+> Scraper found **3063** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|321|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|321|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|321|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.82.15.224|8888|United States|Piscataway|The Constant Company|
-|2|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|3|46.229.214.150|3128|Russia|St Petersburg|TIMEWEB|
-|4|135.125.4.232|9090|France|Strasbourg|OVH SAS|
-|5|190.217.20.108|999|Colombia|Choachi|Level 3 Colombia S.A|
-|6|85.143.219.153|3128|Russia|St Petersburg|Trader soft LLC|
-|7|95.67.64.162|3128|Ukraine|Kyiv|Cosmonova|
-|8|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
-|9|200.125.171.202|9991|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|10|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|11|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|200.101.89.3|8080|Brazil|Campo Grande|Brasil Telecom S/A - Filial Distrito Federal|
-|13|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|14|58.51.118.146|3128|China|Wulipu|Chinanet|
-|15|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|16|165.22.45.209|8899|United States|Clifton|DigitalOcean, LLC|
-|17|119.84.112.137|80|China|Chongqing|Chongqing Telecom|
-|18|165.84.180.111|3128|Hong Kong|Shatin|Hong Kong Broadband Network Ltd|
-|19|186.206.142.211|8118|Brazil|Belo Horizonte|Claro S.A.|
-|20|176.31.68.252|20001|Spain|Madrid|OVH SAS|
+|1|45.63.1.157|8888|United States|Piscataway|The Constant Company|
+|2|134.19.181.28|80|Netherlands|Alblasserdam|Global Layer network|
+|3|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|31.192.232.41|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
+|5|190.108.85.175|999|Peru|Huancayo|Internexa Peru S.A|
+|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|8|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
+|9|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|10|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
+|11|152.231.25.195|60080|Colombia|Guacari|Colombiatel Telecomunicaciones|
+|12|140.82.15.224|8888|United States|Piscataway|The Constant Company|
+|13|58.51.118.146|3128|China|Wulipu|Chinanet|
+|14|177.86.201.22|8080|Brazil|Bom Despacho|Zap Online Ltda|
+|15|185.162.142.81|53281|Moldova|Sergheuca|Societatea Comerciala Click-COM SRL|
+|16|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|17|1.180.156.226|65001|China|Changning|Chinanet|
+|18|144.22.166.106|3128|Brazil|São Paulo|Oracle Corporation|
+|19|201.234.53.212|999|Peru|Lima|Level 3 Peru S.A|
+|20|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

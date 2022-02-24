@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3238** proxies at the latest update. Usable proxies are below.
+> Scraper found **3085** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|329|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|329|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|329|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|236|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|236|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|236|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|1|98.12.195.129|443|United States|New York|Spectrum|
 |2|51.81.32.81|8888|United States|Reston|OVH SAS|
-|3|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|4|98.12.195.129|443|United States|New York|Spectrum|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|7|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|8|31.192.233.30|5006|United States|Atlanta|PDK LLC|
-|9|8.134.51.12|8889|China|Guangzhou|Hangzhou Alibaba Advertising Co.|
+|3|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
+|5|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|181.143.224.42|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|8|103.124.87.1|8080|India|Ranchi|Streamonn Internet Services Private Limited|
+|9|177.190.80.226|8080|Brazil|Pinheiral|Adsnet Telecom Ltda ME|
 |10|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|11|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|12|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
-|13|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|14|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|15|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|16|200.25.254.193|54240|Colombia|Medellín|Andinet ON Line|
-|17|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|18|210.77.87.71|3128|China|Beijing|CSTNET|
-|19|47.115.6.196|3389|China|Shenzhen|Addresses CNNIC|
-|20|135.181.29.13|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|80.92.241.98|8080|Czechia|Prague|LAM plus s.r.o.|
+|12|190.61.41.106|999|Colombia|Chapinero|Ufinet Panama S.A.|
+|13|152.231.25.195|60080|Colombia|Guacari|Colombiatel Telecomunicaciones|
+|14|45.231.170.137|999|Mexico|Playa del Carmen|GigNet, S.A. de C.V.|
+|15|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|16|188.233.97.32|80|Russia|Volgograd|JSC "ER-Telecom Holding"|
+|17|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|18|151.80.196.163|8010|France|Roubaix|OVH SAS|
+|19|147.135.134.57|5566|France|Gravelines|OVH SAS|
+|20|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
 
 
 

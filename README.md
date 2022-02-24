@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3122** proxies at the latest update. Usable proxies are below.
+> Scraper found **2935** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|307|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|307|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|307|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|3|207.180.192.43|8118|Germany|Nuremberg|Contabo GmbH|
-|4|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|45.11.27.51|3128|Russia|Yekaterinburg|RETN Limited|
-|6|81.174.37.114|8080|Italy|Milan|NGI|
-|7|112.14.47.6|52024|China|Hangzhou|China Mobile Communications Corporation|
-|8|117.2.28.235|55443|Vietnam|Khánh Hải|Viettel Corporation|
-|9|103.255.178.20|9080|Hong Kong|Mong Kok|Hong Kong San Ai Net Int'l Limited|
-|10|186.154.211.106|999|Colombia|Villavicencio|ETB - Colombia|
-|11|110.78.152.244|8080|Thailand|Bang Len|CAT-BB|
-|12|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|13|122.144.4.126|63123|Indonesia|Jakarta|Maxindo|
-|14|167.114.180.97|8080|Canada|Montreal|OVH Hosting|
-|15|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|16|176.104.3.226|7777|Ukraine|Kyiv|UnderNet LLC|
-|17|183.88.194.233|8080|Thailand|Si Maha Phot|Triple T Broadband Public Company Limited|
-|18|187.178.69.144|8080|Mexico|Mexico City|Axtel, S.A.B. de C.V.|
-|19|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|20|148.251.249.251|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|1|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
+|2|98.12.195.129|443|United States|New York|Spectrum|
+|3|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|4|192.109.219.67|8080|Albania|Paskuqan|Roland Delia trading as NEWAVE|
+|5|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
+|6|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
+|7|71.25.47.187|8080|United States|Newark|Comcast Cable Communications, LLC|
+|8|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|9|183.173.28.199|10080|China|Haidian|CERNET|
+|10|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|11|103.149.238.102|9090|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|12|157.100.56.180|999|Ecuador|El Pangui|Nedetel S.A.|
+|13|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
+|14|192.109.219.81|8080|Albania|Paskuqan|Roland Delia trading as NEWAVE|
+|15|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|16|27.147.219.46|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|17|1.186.40.35|1111|India|Bengaluru|D-VoiS Broadband Private Limited|
+|18|103.144.115.238|8080|India|Aurangabad|Wandoor Multiventures Pvt Ltd|
+|19|103.114.88.230|8080|Cambodia|Phnom Penh|BEE UNION (CAMBODIA) TELECOM CO.|
+|20|64.56.218.241|8080|United States|Indianola|Upchurch Telecom & Data, Inc.|
 
 
 

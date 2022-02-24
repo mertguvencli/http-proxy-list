@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2119** proxies at the latest update. Usable proxies are below.
+> Scraper found **2886** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|307|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|307|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|307|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.129.248.125|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|2|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
-|3|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|4|154.64.211.145|999|United States|Miami|OSNET Wireless|
-|5|77.242.1.101|41890|Russia|Moscow|Limited Company Sakha Sprint Network|
-|6|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|7|195.187.63.42|8080|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|8|213.239.214.141|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|9|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
-|10|45.189.253.225|999|Mexico|San Sabastian Tierra Blanca|Tracered SA De CV|
-|11|31.128.71.241|8081|Ukraine|Kharkiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|12|5.149.219.201|8080|Ukraine|Sevastopol|Lancom Ltd.|
-|13|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
-|14|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
-|15|85.25.119.241|5566|France|Strasbourg|BSB-SERVICE|
-|16|204.199.67.174|999|Colombia|Pasto|CTL Colombia|
-|17|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|18|79.120.177.106|8080|Hungary|Budapest|Invitech ICT Services Kft.|
-|19|200.24.132.204|6969|Ecuador|Guayaquil|Nedetel S.A.|
-|20|94.141.117.1|8080|Russia|Moscow|MediaCom LLC|
+|1|140.82.15.224|8888|United States|Piscataway|The Constant Company|
+|2|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|3|46.229.214.150|3128|Russia|St Petersburg|TIMEWEB|
+|4|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|5|190.217.20.108|999|Colombia|Choachi|Level 3 Colombia S.A|
+|6|85.143.219.153|3128|Russia|St Petersburg|Trader soft LLC|
+|7|95.67.64.162|3128|Ukraine|Kyiv|Cosmonova|
+|8|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
+|9|200.125.171.202|9991|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|10|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|11|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|200.101.89.3|8080|Brazil|Campo Grande|Brasil Telecom S/A - Filial Distrito Federal|
+|13|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|14|58.51.118.146|3128|China|Wulipu|Chinanet|
+|15|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
+|16|165.22.45.209|8899|United States|Clifton|DigitalOcean, LLC|
+|17|119.84.112.137|80|China|Chongqing|Chongqing Telecom|
+|18|165.84.180.111|3128|Hong Kong|Shatin|Hong Kong Broadband Network Ltd|
+|19|186.206.142.211|8118|Brazil|Belo Horizonte|Claro S.A.|
+|20|176.31.68.252|20001|Spain|Madrid|OVH SAS|
 
 
 

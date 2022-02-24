@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2935** proxies at the latest update. Usable proxies are below.
+> Scraper found **2960** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
-|2|98.12.195.129|443|United States|New York|Spectrum|
-|3|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|4|192.109.219.67|8080|Albania|Paskuqan|Roland Delia trading as NEWAVE|
-|5|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
-|6|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
-|7|71.25.47.187|8080|United States|Newark|Comcast Cable Communications, LLC|
-|8|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|183.173.28.199|10080|China|Haidian|CERNET|
-|10|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|11|103.149.238.102|9090|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
-|12|157.100.56.180|999|Ecuador|El Pangui|Nedetel S.A.|
-|13|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
-|14|192.109.219.81|8080|Albania|Paskuqan|Roland Delia trading as NEWAVE|
-|15|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|16|27.147.219.46|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|17|1.186.40.35|1111|India|Bengaluru|D-VoiS Broadband Private Limited|
-|18|103.144.115.238|8080|India|Aurangabad|Wandoor Multiventures Pvt Ltd|
-|19|103.114.88.230|8080|Cambodia|Phnom Penh|BEE UNION (CAMBODIA) TELECOM CO.|
-|20|64.56.218.241|8080|United States|Indianola|Upchurch Telecom & Data, Inc.|
+|2|190.2.209.2|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|3|106.0.48.130|8080|Indonesia|Batam|Indonesia Network Information Center|
+|4|138.99.176.110|999|Peru|Lima|NET WIN PERU|
+|5|36.66.19.10|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|7|210.245.54.97|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|9|197.221.85.214|8080|Ghana|Accra|Dimension Data Ltd|
+|10|103.144.21.87|8080|Indonesia|Jurumudi|PT. Rajawali Sinergi Group|
+|11|190.104.1.18|999|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
+|12|103.239.147.250|54623|India|Ahmedabad|Fiberpipe communications pvt. ltd|
+|13|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|14|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|15|103.124.137.40|8080|Indonesia|Purworejo|Global Media Data Prima|
+|16|98.12.195.129|443|United States|New York|Spectrum|
+|17|103.100.84.24|8080|Indonesia|Talaka|POLITANI Pangkep|
+|18|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|20|181.164.192.193|3128|Argentina|Córdoba|Telecom Argentina S.A|
 
 
 

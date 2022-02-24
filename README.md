@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2895** proxies at the latest update. Usable proxies are below.
+> Scraper found **2734** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|169|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|169|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|169|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
-|2|122.116.20.91|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|5|5.8.95.174|8080|Japan|Tokyo|G-Core Labs S.A.|
-|6|119.84.112.137|80|China|Chongqing|Chongqing Telecom|
-|7|177.128.115.181|999|Chile|Melipilla|Binet Networking Data Limitada|
-|8|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|10|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
-|11|101.35.115.136|20012|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|12|128.201.138.21|3128|Brazil|Manaus|FiOS Tecnologia|
-|13|103.143.195.65|1080|Indonesia|Medan|TRINITY|
-|14|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|15|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
-|16|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|17|168.196.215.16|9999|Brazil|Ibirapitanga|ITA TELECOM|
-|18|111.90.179.74|8080|Australia|Marble Bar|Angkor Data Communication|
-|19|37.1.39.118|53281|Russia|Serpukhov|Rial Com JSC|
-|20|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
+|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|2|98.12.195.129|443|United States|New York|Spectrum|
+|3|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
+|4|182.253.82.156|8080|Indonesia|Jakarta|BIZNET|
+|5|103.156.218.232|8080|Indonesia|Bogor|MYREPUBLIC|
+|6|165.84.180.111|3128|Hong Kong|Shatin|Hong Kong Broadband Network Ltd|
+|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|8|103.86.159.25|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|9|58.51.118.146|3128|China|Wulipu|Chinanet|
+|10|41.206.36.90|8080|Kenya|Nairobi|ACCESSKENYA|
+|11|179.184.128.70|3128|Brazil|Baixo Guandu|Vivo|
+|12|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
+|13|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|14|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|15|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|16|110.78.152.113|8080|Thailand|Samphanthawong|CAT-BB|
+|17|122.144.4.126|63123|Indonesia|Jakarta|Maxindo|
+|18|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|109.254.31.164|9090|Ukraine|Donetsk|Donbass Electronic Communications Ltd.|
+|20|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
 
 
 

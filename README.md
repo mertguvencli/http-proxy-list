@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3815** proxies at the latest update. Usable proxies are below.
+> Scraper found **3226** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|387|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|387|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|387|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|73.20.41.245|8118|United States|Park City|Comcast Cable Communications|
-|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|3|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|187.190.226.235|999|Mexico|Querétaro|Total Play Telecomunicaciones SA De CV|
-|6|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|7|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|8|50.193.36.173|8080|United States|Lathrop|Comcast Cable Communications|
-|9|202.53.171.114|80|Bangladesh|Dhaka|Agni Systems Ltd.|
-|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|11|148.0.115.131|999|Dominican Republic|La Romana|Compañía Dominicana de Teléfonos S. A.|
-|12|45.175.160.125|999|Argentina|Tunuyan|OSORIO SERGIO ANGELINO(NETVDU).|
-|13|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
-|14|163.172.209.85|7777|Netherlands|Amsterdam|Online SAS NL|
-|15|101.35.115.136|20011|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|16|195.175.89.198|8080|Turkey|Antalya|TTnetTurkTelekom|
-|17|187.178.69.144|8080|Mexico|Mexico City|Axtel, S.A.B. de C.V.|
-|18|36.95.156.125|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|61.8.75.186|3128|Indonesia|Depok|PT Aplikanusa Lintasarta|
-|20|190.217.10.12|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|2|98.12.195.129|443|United States|New York|Spectrum|
+|3|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|4|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|5|95.216.194.46|1080|Finland|Helsinki|Hetzner Online GmbH|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|158.69.64.142|9300|Canada|Montreal|OVH SAS|
+|8|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|9|14.140.131.82|3128|India|Ahmedabad|Tata Communications Limited|
+|10|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|11|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
+|12|36.67.27.189|39674|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
+|14|109.238.222.5|40387|Czechia|Neratovice|Planet A, a.s.|
+|15|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|16|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
+|17|176.31.68.252|20001|Spain|Madrid|OVH SAS|
+|18|139.99.99.165|80|Singapore|Singapore|OVH SAS|
+|19|103.15.60.21|8080|India|Hyderabad|Apollo Online Services Pvt ltd|
+|20|195.138.73.54|44017|Ukraine|Odessa|TeNeT Networking Centre|
 
 
 

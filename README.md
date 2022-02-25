@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4072** proxies at the latest update. Usable proxies are below.
+> Scraper found **3378** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|330|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|330|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|330|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|501|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|501|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|501|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|141.94.203.123|80|France|Gravelines|OVH SAS|
-|2|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|3|82.137.244.74|8080|Syria|Damascus|ISP-TARASSUL|
-|4|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|51.15.85.114|63247|Netherlands|Amsterdam|SCALEWAY|
-|6|218.149.163.134|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|8|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
-|9|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|10|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|11|43.154.116.249|8118|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
-|12|105.112.142.210|8080|Nigeria|Port Harcourt|Airtel Networks Limited|
-|13|171.244.27.216|1911|Vietnam|Ho Chi Minh City|VIETEL|
-|14|187.95.114.125|3128|Brazil|Campo Mourao|COPEL TelecomunicaÔÔes S.A.|
-|15|181.49.158.165|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|181.48.23.250|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|17|103.146.185.103|3127|Indonesia|Sukoharjo|YAMNET|
-|18|190.119.199.20|57333|Peru|Trujillo|America Movil Peru S.A.C.|
-|19|186.138.132.183|3128|Argentina|Buenos Aires|Telecom Argentina S.A|
-|20|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|1|118.70.12.171|53281|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|2|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
+|3|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|4|92.207.253.226|38157|United Kingdom|Newbury|Gamma Telecom Ltd|
+|5|111.90.188.206|8080|Cambodia|Phnom Penh|MekongNet|
+|6|110.74.203.250|8080|Cambodia|Phnom Penh|EZECOM limited|
+|7|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
+|8|103.204.119.186|8080|India|Mumbai|Akhuratha Communications Pvt. ltd|
+|9|190.8.47.190|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|10|201.144.14.232|53281|Mexico|La Barca|Uninet S.A. de C.V|
+|11|36.95.54.114|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|119.252.168.218|7676|Indonesia|Gandul|PT Indonesia Comnets Plus|
+|13|154.117.159.226|8080|South Africa|Johannesburg|BitCo|
+|14|45.6.103.150|8080|Brazil|Rio de Janeiro|Golden Link|
+|15|83.174.218.83|8080|Russia|Ufa|BASHTEL|
+|16|178.32.116.64|3128|France|Roubaix|OVH SAS|
+|17|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|18|180.193.213.42|8080|Philippines|San Miguel|Philippine Long Distance Telephone Co.|
+|19|200.155.139.242|3128|Brazil|Porto Alegre|Telium TelecomunicaÔÔes Ltda|
+|20|200.39.136.130|999|Chile|Valparaíso|Iconex SPA|
 
 
 

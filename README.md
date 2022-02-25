@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2336** proxies at the latest update. Usable proxies are below.
+> Scraper found **3586** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|452|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|452|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|452|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.26.231.86|9443|United States|Hillsborough|MCNC|
-|2|191.102.64.147|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|3|190.220.1.173|56974|Argentina|Victoria|AMX Argentina S.A.|
-|4|170.80.202.234|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|5|103.42.162.50|8080|India|Sangli|ADVANT|
-|6|89.250.149.114|60981|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|7|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|8|46.10.199.90|54567|Bulgaria|Sofia|Bulgarian Telecommunications Company Plc.|
-|9|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
-|10|45.189.253.225|999|Mexico|San Sabastian Tierra Blanca|Tracered SA De CV|
-|11|85.25.95.231|5566|France|Strasbourg|INTERGENIA|
-|12|80.244.229.102|10000|Russia|Moscow|Enforta-MSK|
-|13|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
-|14|43.241.29.201|8080|India|Chalisgaon|Intech Online Private Limited|
-|15|76.81.164.246|8080|United States|Garden Grove|Spectrum|
-|16|178.32.116.64|3128|France|Roubaix|OVH SAS|
-|17|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
-|18|135.125.4.232|9090|France|Strasbourg|OVH SAS|
-|19|186.3.85.137|999|Ecuador|Loja|Telconet S.A|
-|20|31.163.192.161|3129|Russia|Pokachi|OJSC Rostelecom|
+|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|2|99.71.86.199|8118|United States|Spring|AT&T Services, Inc.|
+|3|134.19.181.28|80|Netherlands|Alblasserdam|Global Layer network|
+|4|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|5|181.224.207.20|999|Dominican Republic|Castanuelas|BW TELECOM|
+|6|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
+|7|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|10|158.69.52.218|9300|Canada|Montreal|OVH SAS|
+|11|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
+|12|187.33.44.78|37600|Brazil|São Paulo|Vogel SoluÔÔes em Telecom e InformÔtica S/A|
+|13|190.8.47.190|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|14|77.87.105.205|3128|France|Issy-les-Moulineaux|Squark Sarl|
+|15|181.224.204.22|22800|Dominican Republic|Castanuelas|BW TELECOM|
+|16|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|168.227.56.104|8080|Brazil|Votuporanga|RF Connect Provedor de Acesso LTDA|
+|18|181.224.207.19|999|Dominican Republic|Castanuelas|BW TELECOM|
+|19|200.30.170.82|8080|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
+|20|109.232.106.236|49565|Russia|Elektrostal|CJSC Thyphone Communications 106|
 
 
 

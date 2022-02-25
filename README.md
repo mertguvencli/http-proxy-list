@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3526** proxies at the latest update. Usable proxies are below.
+> Scraper found **3269** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|339|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|339|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|339|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|2|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|171.241.47.43|8118|Vietnam|Hanoi|Viettel Corporation|
-|4|200.32.80.56|999|Colombia|Ubaque|Level 3 Communications, Inc.|
-|5|91.217.202.174|8080|Russia|Novosibirsk|Svyaz-Servis LTD.|
-|6|121.88.250.73|3128|South Korea|Suwon|DLIVE|
-|7|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|8|51.15.85.114|63247|Netherlands|Amsterdam|SCALEWAY|
-|9|103.146.30.178|8080|Indonesia|Jakarta|PT MITRA VISIONER PRATAMA|
-|10|103.148.39.38|83|India|Bengaluru|Broadway Communication Pvt Ltd|
-|11|147.135.134.57|9300|France|Gravelines|OVH SAS|
-|12|176.236.85.246|9090|Turkey|Adapazarı|Tellcom Iletisim Hizmetleri A.S.|
-|13|168.227.56.104|8080|Brazil|Votuporanga|RF Connect Provedor de Acesso LTDA|
-|14|31.3.169.53|8081|Italy|Cesena|Cesena NET S.R.L.|
-|15|139.162.60.194|8080|Singapore|Singapore|Linode, LLC|
-|16|177.23.149.170|3128|Brazil|Rio de Janeiro|SpeedWeb Net Telecomunicacoes|
-|17|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|18|103.130.192.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|19|64.185.0.17|8080|United States|Lamesa|NTS Communications, LLC|
-|20|103.124.138.131|8085|Indonesia|Pati|Global Media Data Prima|
+|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|2|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|3|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|4|14.161.9.28|1412|Vietnam|Ho Chi Minh City|VNPT|
+|5|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|6|103.149.238.102|9090|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|7|175.106.14.30|8089|Indonesia|Jakarta|Quantum Dist POP GC|
+|8|190.12.56.58|8080|Ecuador|Machala|Puntonet S.A.|
+|9|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|103.105.228.134|8080|India|Mumbai|Mnk Infoway Private Limited|
+|11|195.140.226.244|8080|Ukraine|Kharkiv|Therecom Ltd|
+|12|95.171.5.144|1256|Russia|Moscow|Universum bit Ltd.|
+|13|190.119.199.20|57333|Peru|Trujillo|America Movil Peru S.A.C.|
+|14|201.140.209.42|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
+|15|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|103.78.75.91|8080|Indonesia|Gandul|PT Indonesia Comnets Plus|
+|17|195.187.63.42|8080|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
+|18|179.127.193.37|8080|Brazil|Iguaba Grande|Afinet Solucoes EM Tecnologia DA Informacao Ltda|
+|19|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
 
 
 

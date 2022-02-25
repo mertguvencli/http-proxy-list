@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3429** proxies at the latest update. Usable proxies are below.
+> Scraper found **3620** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|363|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|363|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|363|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.101.245.99|8889|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|3|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|4|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|5|77.236.231.11|1256|Russia|Moscow|Enforta-MSK|
-|6|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|51.210.182.63|80|France|Gravelines|OVH SAS|
-|9|103.119.144.4|55443|Indonesia|Jakarta|PT Bali Towerindo Sentra|
-|10|210.56.22.92|8080|Pakistan|Lahore|COMSATS|
-|11|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|12|103.148.2.82|8181|Indonesia|Ketanon|PT PRISMA MEDIA NUSANTARA|
-|13|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|14|210.245.52.58|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|15|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
-|16|103.145.163.99|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|17|110.76.129.106|59570|Bangladesh|Dhaka|KS Network Limited|
-|18|190.121.128.217|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|19|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
-|20|136.232.116.2|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
+|1|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|2|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|3|154.64.211.145|999|United States|Miami|OSNET Wireless|
+|4|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|5|103.207.1.82|8080|India|Tirupur|Sri Vari Network Private Limited|
+|6|51.81.32.81|8888|United States|Reston|OVH SAS|
+|7|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|8|125.25.40.37|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
+|10|12.88.29.66|9080|United States|Pauls Valley|AT&T Services, Inc.|
+|11|177.22.88.224|3128|Brazil|Passo Fundo|Coprel Telecom Ltda|
+|12|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|14|189.203.10.116|999|Mexico|Santa Cruz Amilpas|Total Play Telecomunicaciones SA De CV|
+|15|210.77.87.71|3128|China|Beijing|CSTNET|
+|16|190.205.101.54|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
+|17|167.114.180.97|8080|Canada|Montreal|OVH Hosting|
+|18|179.105.100.191|8080|Brazil|Vitória|Claro S.A.|
+|19|27.131.179.204|10443|Thailand|Wang Thonglang|KIRZ Company Limited|
+|20|185.151.27.225|8081|Italy|San Piero in Bagno|Lepida vs Digital Divide|
 
 
 

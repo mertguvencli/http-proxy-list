@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3109** proxies at the latest update. Usable proxies are below.
+> Scraper found **3526** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.32.116.64|3128|France|Roubaix|OVH SAS|
-|2|171.244.27.216|1911|Vietnam|Ho Chi Minh City|VIETEL|
-|3|92.50.155.218|8080|Russia|Ufa|JSC "Ufanet"|
-|4|102.66.163.239|5050|South Africa|Hazyview|HERO TELECOMS (PTY) LTD|
-|5|191.97.1.91|999|Colombia|Barranquilla|TV AZTECA SUCURSAL COLOMBIA|
-|6|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|181.143.224.43|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|8|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|9|217.29.26.194|8080|Kyrgyzstan|Bishkek|Saimanet Telecomunications|
-|10|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|12|123.200.17.107|8080|Bangladesh|Gulshan|Link3 Technologies Limited|
-|13|158.140.178.9|8080|Indonesia|Bogor|MYREPUBLIC|
-|14|51.81.32.81|8888|United States|Reston|OVH SAS|
-|15|177.125.169.6|55443|Brazil|Maua|VIP BR TELECOM S.A.|
-|16|200.24.157.118|999|Ecuador|Azogues|Nedetel S.A.|
-|17|203.124.47.58|8080|Pakistan|Gujranwala|COMSATS|
-|18|187.19.102.22|3128|Brazil|Cascavel|CERTTO TELECOMUNICAÇÕES LTDA EPP|
-|19|201.77.109.129|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|20|204.195.136.34|80|United States|Miami|Atlantic Broadband Finance, LLC|
+|1|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|2|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|171.241.47.43|8118|Vietnam|Hanoi|Viettel Corporation|
+|4|200.32.80.56|999|Colombia|Ubaque|Level 3 Communications, Inc.|
+|5|91.217.202.174|8080|Russia|Novosibirsk|Svyaz-Servis LTD.|
+|6|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|7|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|8|51.15.85.114|63247|Netherlands|Amsterdam|SCALEWAY|
+|9|103.146.30.178|8080|Indonesia|Jakarta|PT MITRA VISIONER PRATAMA|
+|10|103.148.39.38|83|India|Bengaluru|Broadway Communication Pvt Ltd|
+|11|147.135.134.57|9300|France|Gravelines|OVH SAS|
+|12|176.236.85.246|9090|Turkey|Adapazarı|Tellcom Iletisim Hizmetleri A.S.|
+|13|168.227.56.104|8080|Brazil|Votuporanga|RF Connect Provedor de Acesso LTDA|
+|14|31.3.169.53|8081|Italy|Cesena|Cesena NET S.R.L.|
+|15|139.162.60.194|8080|Singapore|Singapore|Linode, LLC|
+|16|177.23.149.170|3128|Brazil|Rio de Janeiro|SpeedWeb Net Telecomunicacoes|
+|17|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|18|103.130.192.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|19|64.185.0.17|8080|United States|Lamesa|NTS Communications, LLC|
+|20|103.124.138.131|8085|Indonesia|Pati|Global Media Data Prima|
 
 
 

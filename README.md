@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3304** proxies at the latest update. Usable proxies are below.
+> Scraper found **3279** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|246|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|246|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|246|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.19.224.49|3128|United States|Sterling|Oculus Networks Inc|
-|2|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|200.25.48.72|3128|United States|Miami|Edgeuno SAS|
-|4|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
-|5|96.95.164.41|3128|United States|Boston|Comcast Cable Communications, LLC|
-|6|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|146.185.210.69|8118|United Kingdom|London|Mail.Ru LLC|
-|8|121.40.162.46|8001|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|9|103.210.161.198|8998|Hong Kong|Central|Capitalonline Data Service Co., LTD|
-|10|34.145.237.227|80|United States|Washington|Google LLC|
-|11|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
-|12|190.119.195.34|8080|Peru|La Victoria|America Movil Peru S.A.C.|
-|13|95.0.219.234|8080|Turkey|Ulus|TurkTelecom|
-|14|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|15|178.47.141.128|46321|Russia|Perm|PJSC Rostelecom|
-|16|200.24.207.196|8080|Ecuador|Velasco Ibarra|Otecel S.A.|
-|17|165.16.66.93|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|18|41.190.11.94|8080|Nigeria|Lekki|Emerging Markets Telecommunication Services (EMTS) Limited|
-|19|45.63.1.157|8888|United States|Piscataway|The Constant Company|
-|20|103.159.46.121|83|India|Ahmedabad|King Netsol Private Limited|
+|1|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|2|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|51.81.32.81|8888|United States|Reston|OVH SAS|
+|5|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
+|6|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|7|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|8|95.216.194.46|1080|Finland|Helsinki|Hetzner Online GmbH|
+|9|158.140.170.183|8085|Indonesia|Semarang|MYREPUBLIC|
+|10|103.87.201.86|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|11|103.124.136.90|63123|Indonesia|Cikupa|Global Media Data Prima|
+|12|173.249.57.9|443|Germany|Nuremberg|Contabo GmbH|
+|13|41.193.206.41|8080|South Africa|Durban|Vox Telecom|
+|14|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
+|15|180.193.213.42|8080|Philippines|San Miguel|Philippine Long Distance Telephone Co.|
+|16|209.97.161.34|8080|Singapore|Singapore|DigitalOcean, LLC|
+|17|202.53.171.114|80|Bangladesh|Dhaka|Agni Systems Ltd.|
+|18|46.36.132.23|8080|Kazakhstan|Almaty|JSC Alma Telecommunications|
+|19|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
+|20|138.121.113.164|999|Argentina|Formosa|Refsa Telecomunicaciones|
 
 
 

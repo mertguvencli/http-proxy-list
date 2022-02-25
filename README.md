@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3269** proxies at the latest update. Usable proxies are below.
+> Scraper found **3429** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|1|46.101.245.99|8889|Germany|Frankfurt am Main|DigitalOcean, LLC|
 |2|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|3|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|4|14.161.9.28|1412|Vietnam|Ho Chi Minh City|VNPT|
-|5|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|6|103.149.238.102|9090|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
-|7|175.106.14.30|8089|Indonesia|Jakarta|Quantum Dist POP GC|
-|8|190.12.56.58|8080|Ecuador|Machala|Puntonet S.A.|
-|9|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|10|103.105.228.134|8080|India|Mumbai|Mnk Infoway Private Limited|
-|11|195.140.226.244|8080|Ukraine|Kharkiv|Therecom Ltd|
-|12|95.171.5.144|1256|Russia|Moscow|Universum bit Ltd.|
-|13|190.119.199.20|57333|Peru|Trujillo|America Movil Peru S.A.C.|
-|14|201.140.209.42|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
-|15|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|103.78.75.91|8080|Indonesia|Gandul|PT Indonesia Comnets Plus|
-|17|195.187.63.42|8080|Poland|Warsaw|Naukowa I Akademicka Siec Komputerowa Instytut Badawczy|
-|18|179.127.193.37|8080|Brazil|Iguaba Grande|Afinet Solucoes EM Tecnologia DA Informacao Ltda|
-|19|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|3|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|4|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|5|77.236.231.11|1256|Russia|Moscow|Enforta-MSK|
+|6|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|8|51.210.182.63|80|France|Gravelines|OVH SAS|
+|9|103.119.144.4|55443|Indonesia|Jakarta|PT Bali Towerindo Sentra|
+|10|210.56.22.92|8080|Pakistan|Lahore|COMSATS|
+|11|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|12|103.148.2.82|8181|Indonesia|Ketanon|PT PRISMA MEDIA NUSANTARA|
+|13|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|14|210.245.52.58|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
+|15|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|16|103.145.163.99|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
+|17|110.76.129.106|59570|Bangladesh|Dhaka|KS Network Limited|
+|18|190.121.128.217|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
+|19|93.91.112.247|41258|Russia|Tver|Fast Link Ltd.|
+|20|136.232.116.2|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2226** proxies at the latest update. Usable proxies are below.
+> Scraper found **2815** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|102|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|102|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|102|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.142.126.6|8080|India|Kolkata|Bangalore|
-|2|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
-|3|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
-|4|62.133.171.178|8080|Russia|Ufa|DSL|
-|5|66.211.155.34|8080|United States|Albany|FirstLight Fiber|
-|6|5.16.7.213|1256|Russia|St Petersburg|Enforta-MSK|
-|7|190.14.249.119|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|8|5.104.174.199|23500|Bulgaria|Dobrich|DobrudjaCable Ltd.|
-|9|191.102.74.113|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|11|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
-|12|190.14.249.174|999|Colombia|San Martin|Media Commerce Partners S.A|
-|13|158.69.72.138|9300|Canada|Montreal|OVH SAS|
-|14|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|15|183.220.195.163|80|China|Jinrongjie|China Mobile Communications Corporation|
-|16|154.113.32.26|8080|Nigeria|Lagos|Mainone Cable Company|
-|17|201.77.108.130|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|18|190.107.232.138|999|Ecuador|Ibarra|CINECABLE TV|
-|19|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|20|203.29.26.241|8080|Indonesia|Babadan|PT. Java Digital Nusantara|
+|1|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|2|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|3|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
+|5|190.217.20.108|999|Colombia|Choachi|Level 3 Colombia S.A|
+|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|187.190.118.188|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|8|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|9|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|10|119.28.129.109|60080|Hong Kong|Central|ComsenzNet|
+|11|23.226.117.143|8080|United States|Anaheim|ContentKeeper Technologies|
+|12|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|13|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|14|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|15|190.54.100.74|8080|Chile|Santiago|Telmex Chile Internet S.A.|
+|16|186.232.119.58|3128|Brazil|Claudio|G4 TELECOM COMERCIO E SERVICOS DE INFORMATICA|
+|17|137.74.196.132|3128|France|Strasbourg|OVH SAS|
+|18|101.6.54.100|7890|China|Haidian|CERNET|
+|19|104.192.202.11|8080|United States|Washington|Go Fiber|
+|20|91.92.94.69|41890|Bulgaria|Brestnik|NETGUARD Ltd.|
 
 
 

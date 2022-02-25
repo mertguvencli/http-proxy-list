@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3980** proxies at the latest update. Usable proxies are below.
+> Scraper found **3872** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|428|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|428|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|428|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|387|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|387|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|387|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
-|2|34.145.237.227|80|United States|Washington|Google LLC|
-|3|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|4|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|5|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
-|6|216.155.89.66|999|Chile|Valdivia|Telefonica del Sur S.A.|
-|7|200.16.208.187|8080|Argentina|San Nicolas|Telefonica de Argentina|
-|8|103.248.93.5|8080|India|New Delhi|Ani Network Pvt Ltd|
-|9|14.207.148.174|8080|Thailand|Nakhon Pathom|Triple T Internet Company Limited|
-|10|171.244.27.216|1911|Vietnam|Ho Chi Minh City|VIETEL|
-|11|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|12|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|13|94.125.55.169|8080|Russia|Khabarovsk|Redcom LIR 2|
-|14|58.53.41.47|7082|China|Wuhan|Chinanet|
-|15|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
-|16|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|17|124.248.165.51|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|18|103.130.192.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|19|181.188.216.151|8080|Ecuador|Quito|Nedetel S.A|
-|20|181.10.160.156|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|1|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
+|2|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
+|3|178.32.116.64|3128|France|Roubaix|OVH SAS|
+|4|51.81.32.81|8888|United States|Reston|OVH SAS|
+|5|81.4.102.223|8081|Netherlands|Amsterdam|WeservIT|
+|6|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|7|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|8|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
+|9|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|11|137.184.136.135|3128|United States|North Bergen|DigitalOcean, LLC|
+|12|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|13|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|14|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|15|190.196.176.5|60080|Chile|Santiago|Gtd Internet S.A.|
+|16|191.243.218.249|53281|Brazil|Garanhuns|Franca e Franca Com e Serv Ltda. ME|
+|17|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|18|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
+|19|202.77.120.38|57965|Indonesia|Jakarta|LINKNET|
+|20|67.219.118.225|8080|United States|Gorman|Nextlink Broadband|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3586** proxies at the latest update. Usable proxies are below.
+> Scraper found **2286** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|452|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|452|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|452|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.32.81|8888|United States|Reston|OVH SAS|
-|2|99.71.86.199|8118|United States|Spring|AT&T Services, Inc.|
-|3|134.19.181.28|80|Netherlands|Alblasserdam|Global Layer network|
-|4|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|5|181.224.207.20|999|Dominican Republic|Castanuelas|BW TELECOM|
-|6|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
-|7|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|10|158.69.52.218|9300|Canada|Montreal|OVH SAS|
-|11|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
-|12|187.33.44.78|37600|Brazil|São Paulo|Vogel SoluÔÔes em Telecom e InformÔtica S/A|
-|13|190.8.47.190|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|14|77.87.105.205|3128|France|Issy-les-Moulineaux|Squark Sarl|
-|15|181.224.204.22|22800|Dominican Republic|Castanuelas|BW TELECOM|
-|16|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|17|168.227.56.104|8080|Brazil|Votuporanga|RF Connect Provedor de Acesso LTDA|
-|18|181.224.207.19|999|Dominican Republic|Castanuelas|BW TELECOM|
-|19|200.30.170.82|8080|Nicaragua|Managua|Amnet Telecomunicaciones S.A.|
-|20|109.232.106.236|49565|Russia|Elektrostal|CJSC Thyphone Communications 106|
+|1|152.26.231.86|9443|United States|Hillsborough|MCNC|
+|2|190.71.49.50|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
+|3|12.218.209.130|53281|United States|San Jose|AT&T Services, Inc.|
+|4|164.70.122.6|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
+|5|118.174.196.112|36314|Thailand|Bangkok|TOT Public Company Limited|
+|6|103.217.213.125|55443|India|Guntur|E Net Entertainment Pvt Ltd|
+|7|200.39.153.1|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|8|178.168.88.199|8080|Moldova|Ungheni|SC STARNET SRL|
+|9|173.165.102.210|8080|United States|Roselle|Comcast Cable Communications|
+|10|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
+|11|46.101.245.99|8889|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|13|222.162.121.224|7890|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|14|183.220.195.163|80|China|Jinrongjie|China Mobile Communications Corporation|
+|15|139.99.99.165|3128|Singapore|Singapore|OVH SAS|
+|16|201.140.209.42|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
+|17|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|19|103.255.178.20|9080|Hong Kong|Mong Kok|Hong Kong San Ai Net Int'l Limited|
+|20|46.0.203.186|8080|Russia|Samara|JSC "ER-Telecom Holding"|
 
 
 

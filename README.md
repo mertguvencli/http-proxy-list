@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3378** proxies at the latest update. Usable proxies are below.
+> Scraper found **3997** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|501|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|501|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|501|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|429|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|429|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|429|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|118.70.12.171|53281|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|2|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|3|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|4|92.207.253.226|38157|United Kingdom|Newbury|Gamma Telecom Ltd|
-|5|111.90.188.206|8080|Cambodia|Phnom Penh|MekongNet|
-|6|110.74.203.250|8080|Cambodia|Phnom Penh|EZECOM limited|
-|7|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
-|8|103.204.119.186|8080|India|Mumbai|Akhuratha Communications Pvt. ltd|
-|9|190.8.47.190|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|10|201.144.14.232|53281|Mexico|La Barca|Uninet S.A. de C.V|
-|11|36.95.54.114|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|119.252.168.218|7676|Indonesia|Gandul|PT Indonesia Comnets Plus|
-|13|154.117.159.226|8080|South Africa|Johannesburg|BitCo|
-|14|45.6.103.150|8080|Brazil|Rio de Janeiro|Golden Link|
-|15|83.174.218.83|8080|Russia|Ufa|BASHTEL|
-|16|178.32.116.64|3128|France|Roubaix|OVH SAS|
-|17|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|18|180.193.213.42|8080|Philippines|San Miguel|Philippine Long Distance Telephone Co.|
-|19|200.155.139.242|3128|Brazil|Porto Alegre|Telium TelecomunicaÔÔes Ltda|
-|20|200.39.136.130|999|Chile|Valparaíso|Iconex SPA|
+|1|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
+|2|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
+|3|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|4|34.145.237.227|80|United States|Washington|Google LLC|
+|5|200.69.77.210|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|7|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|8|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|9|140.238.25.11|3128|South Korea|Seoul|Oracle Corporation|
+|10|103.130.192.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|11|173.249.57.9|443|Germany|Nuremberg|Contabo GmbH|
+|12|195.191.16.227|3128|Netherlands|Amsterdam|T-Mobile Thuis BV|
+|13|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|14|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|15|170.79.12.66|9090|Brazil|Teresina|I T Tecnologia e InformaÔÔo Ltda|
+|16|177.136.84.164|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|17|46.246.84.3|8888|Sweden|Stockholm|Portlane Network|
+|18|190.110.99.101|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
+|19|93.113.226.50|7070|Iran|Tehran|Afranet|
+|20|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
 
 
 

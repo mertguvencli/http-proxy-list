@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3792** proxies at the latest update. Usable proxies are below.
+> Scraper found **3504** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|537|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|537|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|537|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|412|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|412|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|412|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.32.116.64|3128|France|Roubaix|OVH SAS|
-|2|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|85.62.10.82|8080|Spain|Pedreguer|Uni2 1|
-|4|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|5|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
-|6|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|7|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|8|148.251.249.251|80|Germany|Falkenstein|Hetzner Online GmbH|
-|9|45.188.236.197|8080|Brazil|Petrolina|Vgrnet Informatica Ltda|
-|10|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|11|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|12|181.78.21.174|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
-|13|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|14|190.2.209.2|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|82.202.160.205|8118|Russia|Irkutsk|SERVER|
-|16|45.5.68.25|999|Peru|Lima|Wi-net Telecom S.A.C.|
-|17|107.173.156.247|8123|United States|San Jose|ColoCrossing|
-|18|101.99.31.69|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|19|45.177.109.221|999|Colombia|Supatá|TV AZTECA SUCURSAL COLOMBIA|
-|20|138.99.176.110|999|Peru|Lima|NET WIN PERU|
+|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|2|51.81.32.81|8888|United States|Reston|OVH SAS|
+|3|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|4|178.32.116.64|3128|France|Roubaix|OVH SAS|
+|5|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
+|6|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|8|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|185.186.71.38|41258|Italy|Malonno|SIM INFORMATICA SRL|
+|11|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
+|12|84.42.124.102|3128|Russia|Moscow|PJSC Rostelecom|
+|13|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
+|14|96.95.164.41|3128|United States|Boston|Comcast Cable Communications, LLC|
+|15|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|16|190.110.99.101|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
+|17|46.36.132.23|8080|Kazakhstan|Almaty|JSC Alma Telecommunications|
+|18|103.140.188.61|8085|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|19|34.145.237.227|80|United States|Washington|Google LLC|
+|20|72.80.242.101|8080|United States|Roslyn Heights|MCI Communications Services, Inc. d/b/a Verizon Business|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3192** proxies at the latest update. Usable proxies are below.
+> Scraper found **3383** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|131.161.53.49|999|Honduras|San Pedro Sula|INET Communication|
-|2|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|3|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|4|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|5|186.159.20.210|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|6|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|7|190.7.58.55|3128|Argentina|Santa Elena|Gigared S.A.|
-|8|190.90.83.225|999|Colombia|Cúcuta|Internexa S.a. E.S.P|
-|9|176.118.209.12|53281|Russia|Ryazan|OnTelecom LLC|
-|10|200.54.101.221|999|Chile|La Florida|TEEMSR-LACNIC|
-|11|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|12|77.87.105.205|3128|France|Issy-les-Moulineaux|Squark Sarl|
-|13|186.250.162.162|8080|Brazil|Natal|g j pereira|
-|14|37.57.15.43|33761|Ukraine|Kharkiv|Triolan|
-|15|45.184.155.253|6969|Argentina|Mariano Acosta|Ruiz Sebastian Alejandro|
-|16|202.62.11.197|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|17|103.217.173.78|8080|Indonesia|Jakarta|Akpa-net Soho Dedicated|
-|18|101.51.106.70|49285|Thailand|Nakhon Pathom|TOT Public Company Limited|
-|19|185.82.99.150|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
-|20|94.136.197.126|3128|Russia|Yaroslavl|TENSORTELECOM|
+|1|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|2|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
+|3|118.161.4.199|3128|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
+|4|190.90.22.93|999|Colombia|Santa Marta|Internexa S.a. E.S.P|
+|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|6|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|7|200.172.255.195|8080|Brazil|Rio de Janeiro|Claro S.A.|
+|8|186.216.211.34|8080|Brazil|Brasília|Clicknet Brasil Informatica E Telecomunicacoes LT|
+|9|103.161.164.117|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|10|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|11|185.177.222.171|8089|Russia|Murom|Modus LLC|
+|12|103.176.79.36|8080|Indonesia|Cibinong|PT Cloud Hosting Indonesia|
+|13|203.114.66.10|1337|Philippines|Pasay|W Network Inc.|
+|14|8.242.207.202|8080|Chile|Santiago|Level 3|
+|15|195.178.56.32|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|16|43.227.129.65|83|India|Vaddangi|Apple Broadband Services Pvt.ltd|
+|17|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|18|202.158.15.146|55667|Indonesia|Jakarta|PT. Cyberindo Aditama|
+|19|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|20|171.244.10.75|1911|Vietnam|Ho Chi Minh City|VIETEL|
 
 
 

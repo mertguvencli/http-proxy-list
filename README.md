@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3504** proxies at the latest update. Usable proxies are below.
+> Scraper found **3368** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|412|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|412|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|412|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|2|51.81.32.81|8888|United States|Reston|OVH SAS|
-|3|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|4|178.32.116.64|3128|France|Roubaix|OVH SAS|
-|5|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
-|6|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|7|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|8|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|185.186.71.38|41258|Italy|Malonno|SIM INFORMATICA SRL|
-|11|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
-|12|84.42.124.102|3128|Russia|Moscow|PJSC Rostelecom|
-|13|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
-|14|96.95.164.41|3128|United States|Boston|Comcast Cable Communications, LLC|
-|15|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|16|190.110.99.101|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
-|17|46.36.132.23|8080|Kazakhstan|Almaty|JSC Alma Telecommunications|
-|18|103.140.188.61|8085|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|19|34.145.237.227|80|United States|Washington|Google LLC|
-|20|72.80.242.101|8080|United States|Roslyn Heights|MCI Communications Services, Inc. d/b/a Verizon Business|
+|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|2|46.101.245.99|8889|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|4|187.190.226.235|999|Mexico|Querétaro|Total Play Telecomunicaciones SA De CV|
+|5|190.90.154.196|999|Colombia|Bogotá|Internexa Brasil Operadora De Telecomunicacoes S.A|
+|6|171.244.10.75|1911|Vietnam|Ho Chi Minh City|VIETEL|
+|7|140.227.225.120|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
+|8|201.144.14.232|53281|Mexico|La Barca|Uninet S.A. de C.V|
+|9|103.171.181.119|80|India|Mumbai|Ovi Hosting Pvt Ltd|
+|10|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|11|103.47.67.154|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|12|180.94.64.114|8080|Afghanistan|Kabul|Government Communications Network|
+|13|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
+|14|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|15|158.255.254.5|3128|Slovakia|Torysa|PRESNET s.r.o.|
+|16|186.148.191.226|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|195.97.124.164|8080|Greece|Athens|Vodafone-panafon Hellenic Telecommunications Company SA|
+|18|195.46.124.94|4444|Russia|Irkutsk|PJSC Rostelecom|
+|19|189.127.229.92|8080|Brazil|Jataizinho|Prturbo Internet Wirelless EPP Ltda|
+|20|23.22.94.58|3128|United States|Ashburn|Amazon.com|
 
 
 

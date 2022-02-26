@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3063** proxies at the latest update. Usable proxies are below.
+> Scraper found **3007** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|215|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|215|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|215|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|2|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|3|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
-|4|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|7|34.145.237.227|80|United States|Washington|Google LLC|
-|8|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
-|9|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|10|36.95.54.114|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|12|181.204.109.218|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|13|182.253.199.101|8080|Indonesia|Surabaya|Biznet Networks|
-|14|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|15|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|16|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|17|102.223.49.74|8080|Chad|N'Djamena|SOCIETE DIGITAL COM SA/AG|
-|18|212.115.232.79|31280|Ukraine|Dnipro|ISP "Fregat"|
-|19|178.170.195.245|9999|Russia|Moscow|Cloud technology Limited (Ltd.)|
-|20|194.233.69.126|443|Singapore|Singapore|Contabo Asia Private Limited|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|151.80.196.163|8010|France|Roubaix|OVH SAS|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
+|5|1.180.156.226|65001|China|Changning|Chinanet|
+|6|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|7|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
+|8|194.233.73.103|443|Singapore|Singapore|Contabo Asia Private Limited|
+|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
+|11|179.105.100.191|8080|Brazil|Vitória|Claro S.A.|
+|12|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
+|13|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|14|89.218.58.122|8080|Kazakhstan|Nur-Sultan|JSC Kazakhtelecom|
+|15|39.105.44.117|33080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|16|77.236.252.187|1256|Russia|Perm|JSC "ER-Telecom Holding"|
+|17|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|18|190.110.99.106|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
+|19|123.231.221.242|6969|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|20|187.243.250.197|3128|Mexico|Mazatlán|Mega Cable, S.A. de C.V.|
 
 
 

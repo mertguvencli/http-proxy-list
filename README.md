@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2722** proxies at the latest update. Usable proxies are below.
+> Scraper found **3149** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|169|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|169|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|169|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.32.81|8888|United States|Reston|OVH SAS|
-|2|177.93.48.117|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|3|88.255.12.24|8080|Turkey|Sisli|Turk Telekomunikasyon Anonim Sirketi|
-|4|91.150.67.17|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|5|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|6|181.188.216.140|999|Ecuador|Quito|Nedetel S.A|
-|7|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
-|8|37.252.73.192|8080|Armenia|Yerevan|Ucom Cjsc|
-|9|176.214.97.13|8081|Russia|Kurgan|JSC "ER-Telecom Holding"|
-|10|185.141.233.47|9443|Russia|Veliky Novgorod|Sever Telecom JSC|
-|11|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|12|186.3.7.209|999|Ecuador|Guayaquil|Telconet S.A|
-|13|68.208.51.61|8080|United States|Decatur|AT&T Corp|
-|14|200.39.63.135|999|Dominican Republic|Santiago de los Caballeros|Mktel SRL|
-|15|190.12.56.58|8080|Ecuador|Machala|Puntonet S.A.|
-|16|192.158.15.201|60684|Canada|Bolton|Ontario Inc.|
-|17|188.17.158.225|2580|Russia|Perm|Rostelecom networks|
-|18|190.119.195.34|8080|Peru|La Victoria|America Movil Peru S.A.C.|
-|19|102.69.32.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|139.255.25.84|3128|Indonesia|Jakarta|PT. LINKNET|
+|1|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
+|2|51.81.32.81|8888|United States|Reston|OVH SAS|
+|3|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
+|4|181.224.207.20|999|Dominican Republic|Castanuelas|BW TELECOM|
+|5|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|6|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
+|7|23.234.213.157|6666|United States|Santa Clarita|Multacom Corporation|
+|8|181.40.122.102|8080|Paraguay|Lambaré|Telecel S.A.|
+|9|185.56.209.114|52342|Poland|Gmina Marcinowice|GreenLan|
+|10|212.48.251.69|28080|Hungary|Budapest|Vodafone|
+|11|1.180.156.226|65001|China|Changning|Chinanet|
+|12|50.233.228.147|8080|United States|Denver|Comcast Cable Communications, LLC|
+|13|177.93.34.218|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|120.35.41.28|16790|China|Fuzhou|Chinanet|
+|15|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|16|94.125.55.169|8080|Russia|Khabarovsk|Redcom LIR 2|
+|17|45.228.52.34|999|Ecuador|Machala|ORBINET|
+|18|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
+|19|188.43.15.89|8080|Russia|Tommot|Joint Stock Company TransTeleCom|
+|20|88.255.185.229|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
 
 
 

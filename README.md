@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3383** proxies at the latest update. Usable proxies are below.
+> Scraper found **2967** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|2|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
-|3|118.161.4.199|3128|Taiwan|Taoyuan District|Chunghwa Telecom Co., Ltd.|
-|4|190.90.22.93|999|Colombia|Santa Marta|Internexa S.a. E.S.P|
-|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|6|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|7|200.172.255.195|8080|Brazil|Rio de Janeiro|Claro S.A.|
-|8|186.216.211.34|8080|Brazil|Brasília|Clicknet Brasil Informatica E Telecomunicacoes LT|
-|9|103.161.164.117|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|10|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|11|185.177.222.171|8089|Russia|Murom|Modus LLC|
-|12|103.176.79.36|8080|Indonesia|Cibinong|PT Cloud Hosting Indonesia|
-|13|203.114.66.10|1337|Philippines|Pasay|W Network Inc.|
-|14|8.242.207.202|8080|Chile|Santiago|Level 3|
-|15|195.178.56.32|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|16|43.227.129.65|83|India|Vaddangi|Apple Broadband Services Pvt.ltd|
-|17|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|18|202.158.15.146|55667|Indonesia|Jakarta|PT. Cyberindo Aditama|
-|19|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
-|20|171.244.10.75|1911|Vietnam|Ho Chi Minh City|VIETEL|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
+|3|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|4|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|6|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|7|140.227.238.217|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
+|8|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|9|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|10|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|11|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
+|12|177.39.136.163|8080|Brazil|Fazenda Rio Grande|Dipelnet Corbelia|
+|13|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|14|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|15|118.67.219.153|8080|Bangladesh|Dhaka|InterCloud Limited|
+|16|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|17|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|18|82.202.202.2|5001|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|19|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|20|178.153.4.180|8080|Qatar|Doha|Ooredoo-MBB|
 
 
 

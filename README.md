@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4151** proxies at the latest update. Usable proxies are below.
+> Scraper found **3766** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|407|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|407|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|407|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|359|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|359|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|359|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|178.32.116.64|3128|France|Roubaix|OVH SAS|
-|2|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|4|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
-|5|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|6|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|7|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
-|8|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|9|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|10|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|11|35.245.254.223|3128|United States|Washington|Google LLC|
-|12|200.26.190.74|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|13|103.161.164.111|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|14|186.0.176.147|443|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
-|15|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
-|16|206.189.146.202|8080|Singapore|Singapore|DigitalOcean, LLC|
-|17|87.110.237.97|44692|Latvia|Riga|LATTELEKOM|
-|18|114.130.39.62|8080|Bangladesh|Kushtia|Mango DHK|
-|19|201.99.66.9|8081|Mexico|Mexico City|Uninet S.A. de C.V.|
-|20|201.6.251.205|8080|Brazil|São Paulo|Claro S.A.|
+|2|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|3|200.89.83.130|3128|El Salvador|San Salvador|Digicel S.a. De C.V.|
+|4|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|5|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|6|58.51.118.146|3128|China|Wulipu|Chinanet|
+|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|103.87.229.237|8080|Indonesia|Banjaran|ZITLINE|
+|9|190.152.182.150|55443|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|213.216.67.190|8080|Poland|Olsztyn|Netia SA|
+|11|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
+|12|60.211.218.78|53281|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|13|190.2.4.217|55555|Argentina|Buenos Aires|NSS S.A.|
+|14|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|15|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
+|16|103.144.115.197|8080|India|Nawada|Wandoor Multiventures Pvt Ltd|
+|17|187.44.1.172|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
+|18|188.134.88.222|8080|Russia|St Petersburg|Interzet|
+|19|200.125.171.201|9991|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|20|85.15.152.39|3128|Russia|Tyumen|Rostelecom networks|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3030** proxies at the latest update. Usable proxies are below.
+> Scraper found **3095** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|3|171.244.10.75|1911|Vietnam|Ho Chi Minh City|VIETEL|
-|4|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
-|5|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|210.77.87.71|3128|China|Beijing|CSTNET|
-|7|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|8|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|10|101.132.183.183|8080|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|11|1.180.156.226|65001|China|Changning|Chinanet|
-|12|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
-|13|114.30.79.35|8080|India|New Delhi|Spacenet  Pvt Ltd|
-|14|190.61.41.106|999|Colombia|Chapinero|Ufinet Panama S.A.|
-|15|186.97.177.190|999|Colombia|Marinilla|Colombia Móvil|
-|16|219.92.41.224|8080|Malaysia|Kampong Baharu Balakong|TMnet|
-|17|171.244.27.216|1911|Vietnam|Ho Chi Minh City|VIETEL|
-|18|49.12.43.32|5555|Germany|Falkenstein|Hetzner Online GmbH|
-|19|138.117.84.65|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|20|128.201.31.64|666|Brazil|Salvador|Poliserv Servicos E Comercio Ltda - ME|
+|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|2|104.149.3.3|8080|United States|Los Angeles|Psychz Networks|
+|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|94.136.197.126|3128|Russia|Yaroslavl|TENSORTELECOM|
+|5|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|7|77.222.152.108|8080|Ukraine|Kryvyi Rih|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|8|103.217.213.125|55443|India|Guntur|E Net Entertainment Pvt Ltd|
+|9|187.92.132.14|8080|Brazil|Cafelandia|Vivo|
+|10|103.161.164.117|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|11|183.88.228.208|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|12|190.14.249.119|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
+|13|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
+|14|212.174.242.102|8080|Turkey|Ulus|TurkTelecom|
+|15|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
+|16|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|17|112.250.107.37|53281|China|Bizidian|China Unicom CHINA169 Shandong Province Network|
+|18|65.21.111.230|5566|Finland|Helsinki|Hetzner Online GmbH|
+|19|189.126.72.97|20183|Brazil|Beberibe|Provedornet Telecom. e ServiÔos de Internet Ltda|
+|20|170.80.202.234|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
 
 
 

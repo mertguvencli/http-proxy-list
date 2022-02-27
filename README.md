@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2962** proxies at the latest update. Usable proxies are below.
+> Scraper found **2959** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|189.45.198.99|8081|Brazil|Blumenau|Unifique TelecomunicaÔÔes SA|
-|3|200.89.83.130|3128|El Salvador|San Salvador|Digicel S.a. De C.V.|
-|4|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
-|5|58.51.118.146|3128|China|Wulipu|Chinanet|
-|6|144.22.166.106|3128|Brazil|São Paulo|Oracle Corporation|
-|7|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
-|8|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|42.194.146.199|1080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|10|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
-|11|103.161.178.98|9999|Vietnam|Quan Binh Thanh|SOLARE|
-|12|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
-|13|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|14|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
-|15|112.109.20.238|8080|Indonesia|Embongkaliasin|DATAUTAMANET|
-|16|185.3.214.3|80|Iran|Shahrīār|Pouya shabakeh Asr Co. (LTD.)|
-|17|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|18|170.244.208.14|999|Ecuador|Hacienda Pelileo|Nedetel S.A.|
-|19|43.243.174.3|83|India|Pune|Shah Solutions|
-|20|1.180.156.226|65001|China|Changning|Chinanet|
+|1|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|2|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|218.75.96.162|3128|China|Shaoxing|Chinanet|
+|5|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|9|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|10|186.3.85.137|999|Ecuador|Loja|Telconet S.A|
+|11|181.48.91.92|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|12|176.37.150.254|41890|Ukraine|Kyiv|Lanet Network|
+|13|183.87.153.98|49602|India|Pune|Syscon Infoway Pvt Ltd. ISP|
+|14|178.134.157.215|8080|Georgia|Gori|JSC "Silknet"|
+|15|103.104.183.28|83|India|Hanumangarh|Arrowswift Communication Pvt. Ltd|
+|16|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|17|88.255.168.11|8080|Turkey|İskenderun|Turk Telekomunikasyon Anonim Sirketi|
+|18|47.116.112.227|7788|China|Shanghai|Addresses CNNIC|
+|19|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
+|20|103.156.115.43|8080|Indonesia|Bandung|MYREPUBLIC|
 
 
 

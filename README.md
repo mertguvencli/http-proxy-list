@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2913** proxies at the latest update. Usable proxies are below.
+> Scraper found **2962** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.238.25.11|3128|South Korea|Seoul|Oracle Corporation|
-|2|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|3|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|4|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|6|135.125.4.232|9090|France|Strasbourg|OVH SAS|
-|7|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|47.116.112.227|7788|China|Shanghai|Addresses CNNIC|
-|9|5.180.130.90|80|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
-|10|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
-|11|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|12|182.23.79.162|39902|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|13|101.35.115.136|20012|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|14|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
-|15|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|16|45.71.115.62|999|Ecuador|Guayaquil|Nedetel S.A.|
-|17|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
-|18|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
-|19|131.100.51.2|999|Colombia|Barranquilla|Fibernet TV SAS|
-|20|186.64.95.1|999|Argentina|Laboulaye|Nodosud S.A|
+|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|189.45.198.99|8081|Brazil|Blumenau|Unifique TelecomunicaÔÔes SA|
+|3|200.89.83.130|3128|El Salvador|San Salvador|Digicel S.a. De C.V.|
+|4|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
+|5|58.51.118.146|3128|China|Wulipu|Chinanet|
+|6|144.22.166.106|3128|Brazil|São Paulo|Oracle Corporation|
+|7|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|8|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|9|42.194.146.199|1080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|10|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
+|11|103.161.178.98|9999|Vietnam|Quan Binh Thanh|SOLARE|
+|12|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|13|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|14|187.62.191.3|61456|Brazil|Bariri|Conexao Networks Provedor de Internet|
+|15|112.109.20.238|8080|Indonesia|Embongkaliasin|DATAUTAMANET|
+|16|185.3.214.3|80|Iran|Shahrīār|Pouya shabakeh Asr Co. (LTD.)|
+|17|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|18|170.244.208.14|999|Ecuador|Hacienda Pelileo|Nedetel S.A.|
+|19|43.243.174.3|83|India|Pune|Shah Solutions|
+|20|1.180.156.226|65001|China|Changning|Chinanet|
 
 
 

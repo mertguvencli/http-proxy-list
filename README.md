@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2959** proxies at the latest update. Usable proxies are below.
+> Scraper found **3049** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|2|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|218.75.96.162|3128|China|Shaoxing|Chinanet|
-|5|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|9|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|10|186.3.85.137|999|Ecuador|Loja|Telconet S.A|
-|11|181.48.91.92|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|12|176.37.150.254|41890|Ukraine|Kyiv|Lanet Network|
-|13|183.87.153.98|49602|India|Pune|Syscon Infoway Pvt Ltd. ISP|
-|14|178.134.157.215|8080|Georgia|Gori|JSC "Silknet"|
-|15|103.104.183.28|83|India|Hanumangarh|Arrowswift Communication Pvt. Ltd|
-|16|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|17|88.255.168.11|8080|Turkey|İskenderun|Turk Telekomunikasyon Anonim Sirketi|
-|18|47.116.112.227|7788|China|Shanghai|Addresses CNNIC|
-|19|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
-|20|103.156.115.43|8080|Indonesia|Bandung|MYREPUBLIC|
+|1|45.77.104.22|8888|United States|Piscataway|The Constant Company|
+|2|144.202.11.3|8899|United States|Piscataway|The Constant Company|
+|3|46.246.86.8|8888|Sweden|Stockholm|Portlane Network|
+|4|45.5.68.25|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|195.225.142.169|8080|Romania|Ganesti|TV Adler-Trading SRL|
+|7|119.236.94.186|8888|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|8|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|9|103.124.86.1|8080|India|Ranchi|Streamonn Internet Services Private Limited|
+|10|191.55.61.159|8080|Brazil|Uberlândia|ALGAR TELECOM S/A|
+|11|118.99.104.135|8080|Indonesia|Semarang|Biznet Networks|
+|12|14.162.180.140|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|13|34.145.237.227|80|United States|Washington|Google LLC|
+|14|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|15|202.5.48.166|8080|Bangladesh|Khulna|BBTS-NEW|
+|16|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|17|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|18|203.114.65.85|1337|Philippines|Pasay|W Network Inc.|
+|19|158.255.254.2|3128|Slovakia|Torysa|PRESNET s.r.o.|
+|20|85.187.60.128|8080|Bulgaria|Smolyan|FOTON-K|
 
 
 

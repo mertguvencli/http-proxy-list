@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3109** proxies at the latest update. Usable proxies are below.
+> Scraper found **3030** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
-|2|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|5|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
-|6|1.180.156.226|65001|China|Changning|Chinanet|
-|7|151.80.196.163|8010|France|Roubaix|OVH SAS|
-|8|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|9|190.53.46.11|38525|Nicaragua|Managua|Amnet Datos Nicaragua|
-|10|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
-|11|190.104.230.131|8082|Argentina|Baradero|CPS|
-|12|140.227.211.115|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
-|13|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
-|14|119.110.209.94|3128|Thailand|Chatuchak|Symphony Communication Public Company Limited|
-|15|177.69.180.171|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
-|16|14.241.242.9|9090|Vietnam|Ho Chi Minh City|VNPT|
-|17|43.243.172.18|83|India|Pune|Shah Solutions|
-|18|165.22.59.84|8080|Singapore|Singapore|DigitalOcean, LLC|
-|19|45.122.233.76|55443|Vietnam|Haiphong|CMC Telecom Infrastructure Company|
-|20|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|3|171.244.10.75|1911|Vietnam|Ho Chi Minh City|VIETEL|
+|4|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
+|5|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|210.77.87.71|3128|China|Beijing|CSTNET|
+|7|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|8|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|10|101.132.183.183|8080|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|11|1.180.156.226|65001|China|Changning|Chinanet|
+|12|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
+|13|114.30.79.35|8080|India|New Delhi|Spacenet  Pvt Ltd|
+|14|190.61.41.106|999|Colombia|Chapinero|Ufinet Panama S.A.|
+|15|186.97.177.190|999|Colombia|Marinilla|Colombia Móvil|
+|16|219.92.41.224|8080|Malaysia|Kampong Baharu Balakong|TMnet|
+|17|171.244.27.216|1911|Vietnam|Ho Chi Minh City|VIETEL|
+|18|49.12.43.32|5555|Germany|Falkenstein|Hetzner Online GmbH|
+|19|138.117.84.65|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|20|128.201.31.64|666|Brazil|Salvador|Poliserv Servicos E Comercio Ltda - ME|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2966** proxies at the latest update. Usable proxies are below.
+> Scraper found **2805** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|75|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|75|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|75|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.77.157.80|8888|United States|Piscataway|The Constant Company|
-|2|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|3|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|4|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|5|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|6|181.143.224.43|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|7|182.53.50.2|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|194.44.87.245|8080|Ukraine|Hrymayliv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|9|190.110.99.103|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
-|10|66.94.97.238|443|United States|New York|Contabo Inc.|
-|11|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|12|78.30.198.160|8080|Ukraine|Sevastopol|Lancom Ltd.|
-|13|1.180.156.226|65001|China|Changning|Chinanet|
-|14|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|94.136.197.126|3128|Russia|Yaroslavl|TENSORTELECOM|
-|16|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
-|17|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|18|66.211.155.34|8080|United States|Milford|FirstLight Fiber|
-|19|103.121.49.161|8080|Bangladesh|Jhingergacha|Md. Tohidul Islam|
-|20|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|5|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|6|1.180.156.226|65001|China|Changning|Chinanet|
+|7|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|8|190.110.99.106|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
+|9|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
+|10|103.60.173.114|8080|Bangladesh|Dhaka|Mazeda Networks Limited|
+|11|72.47.152.224|55443|United States|Balch Springs|Suddenlink Communications|
+|12|64.185.0.17|8080|United States|Lubbock|NTS Communications, LLC|
+|13|41.65.193.100|1981|Egypt|Cairo|Etisalat Misr|
+|14|79.111.13.155|50625|Russia|Moscow|Net By Net Holding LLC|
+|15|186.96.117.27|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|16|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|17|80.244.228.162|1256|Russia|Moscow|Enforta-MSK|
+|18|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
+|19|122.136.212.132|53281|China|Anshan|CNC Group CHINA169 Jilin Province Network|
+|20|77.236.237.241|1256|Russia|Moscow|Enforta-MSK|
 
 
 

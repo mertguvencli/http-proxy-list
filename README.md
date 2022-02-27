@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2805** proxies at the latest update. Usable proxies are below.
+> Scraper found **2871** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|5|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|6|1.180.156.226|65001|China|Changning|Chinanet|
-|7|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|8|190.110.99.106|999|Chile|Quinta de Tilcoco|Silica Networks Argentina S.A.|
-|9|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|10|103.60.173.114|8080|Bangladesh|Dhaka|Mazeda Networks Limited|
-|11|72.47.152.224|55443|United States|Balch Springs|Suddenlink Communications|
-|12|64.185.0.17|8080|United States|Lubbock|NTS Communications, LLC|
-|13|41.65.193.100|1981|Egypt|Cairo|Etisalat Misr|
-|14|79.111.13.155|50625|Russia|Moscow|Net By Net Holding LLC|
-|15|186.96.117.27|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|17|80.244.228.162|1256|Russia|Moscow|Enforta-MSK|
-|18|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
-|19|122.136.212.132|53281|China|Anshan|CNC Group CHINA169 Jilin Province Network|
-|20|77.236.237.241|1256|Russia|Moscow|Enforta-MSK|
+|1|119.236.94.186|8888|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
+|2|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|3|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|5|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|6|122.136.212.132|53281|China|Anshan|CNC Group CHINA169 Jilin Province Network|
+|7|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|8|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|9|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|10|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|11|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|12|86.110.27.165|3128|Russia|Moscow|Digit One LLC|
+|13|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|14|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
+|15|190.89.128.156|8080|Ecuador|Hacienda Naranjal|Smart Technology S.a. Tech|
+|16|144.217.7.157|5566|Canada|Beauharnois|OVH SAS|
+|17|125.25.45.11|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|45.189.57.62|9090|Ecuador|Santa Rosa de Cusubamba|Cbvision S.A.|
+|19|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|20|203.189.89.153|8080|Indonesia|Jakarta|Departemen Energi dan Sumber Daya Mineral|
 
 
 

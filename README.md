@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2871** proxies at the latest update. Usable proxies are below.
+> Scraper found **2973** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.236.94.186|8888|Hong Kong|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|
-|2|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|3|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|5|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|6|122.136.212.132|53281|China|Anshan|CNC Group CHINA169 Jilin Province Network|
-|7|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|8|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|9|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|10|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|11|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|12|86.110.27.165|3128|Russia|Moscow|Digit One LLC|
-|13|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|14|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
-|15|190.89.128.156|8080|Ecuador|Hacienda Naranjal|Smart Technology S.a. Tech|
-|16|144.217.7.157|5566|Canada|Beauharnois|OVH SAS|
-|17|125.25.45.11|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|18|45.189.57.62|9090|Ecuador|Santa Rosa de Cusubamba|Cbvision S.A.|
-|19|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|20|203.189.89.153|8080|Indonesia|Jakarta|Departemen Energi dan Sumber Daya Mineral|
+|1|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|2|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
+|3|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|4|103.86.159.25|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|5|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|6|181.224.207.20|999|Dominican Republic|Castanuelas|BW TELECOM|
+|7|212.174.44.151|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|8|80.84.176.110|8080|Ukraine|Zaporizhzhya|Express Radio Networks|
+|9|117.4.139.104|8080|Vietnam|Ban Hat Nam|Viettel Corporation|
+|10|46.0.113.160|55443|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
+|11|139.162.60.194|8080|Singapore|Singapore|Linode, LLC|
+|12|109.111.212.78|8080|United Kingdom|Manchester|Metronet|
+|13|122.136.212.132|53281|China|Anshan|CNC Group CHINA169 Jilin Province Network|
+|14|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|15|79.120.177.106|8080|Hungary|Budapest|Invitech ICT Services Kft.|
+|16|103.14.198.29|83|India|Bengaluru|Mobiwalkers|
+|17|194.44.15.222|8081|Ukraine|Bryukhovychi|UARNET-LL|
+|18|179.105.100.191|8080|Brazil|Vitória|Claro S.A.|
+|19|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|20|121.13.252.60|41564|China|Dongguan|Chinanet|
 
 
 

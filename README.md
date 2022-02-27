@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3099** proxies at the latest update. Usable proxies are below.
+> Scraper found **2913** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.32.81|8888|United States|Reston|OVH SAS|
-|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|3|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|4|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|1.15.182.239|7890|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|6|183.173.187.60|7890|China|Haidian|CERNET|
-|7|213.135.118.150|3128|Russia|Orenburg|PJSC Rostelecom|
-|8|196.15.213.235|3128|South Africa|Christiana|Telkom SA Ltd.|
-|9|45.71.37.212|999|Ecuador|Vinces|Nedetel S.A.|
-|10|45.70.15.3|8080|Ecuador|Alausi|Nedetel S.A.|
-|11|103.104.183.28|83|India|Hanumangarh|Arrowswift Communication Pvt. Ltd|
-|12|185.118.129.43|8080|Iraq|Baghdad|Knowledge Path Information Technology ISP|
-|13|185.104.249.54|50000|Russia|Moscow|Network Management Ltd|
-|14|50.233.42.98|51696|United States|North Miami|Comcast Cable Communications, LLC|
-|15|103.119.60.12|80|Indonesia|Tangerang|PT. Eka Mas Republik|
-|16|103.228.118.78|8080|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
-|17|190.124.30.43|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|18|46.0.203.186|8080|Russia|Samara|JSC "ER-Telecom Holding"|
-|19|110.189.152.86|40698|China|Zhongba|Chinanet|
-|20|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|1|140.238.25.11|3128|South Korea|Seoul|Oracle Corporation|
+|2|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|3|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|4|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|6|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|7|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|47.116.112.227|7788|China|Shanghai|Addresses CNNIC|
+|9|5.180.130.90|80|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
+|10|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
+|11|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|12|182.23.79.162|39902|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|13|101.35.115.136|20012|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|14|202.43.190.10|53128|Indonesia|Batam|CEPATNET|
+|15|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|16|45.71.115.62|999|Ecuador|Guayaquil|Nedetel S.A.|
+|17|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
+|18|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
+|19|131.100.51.2|999|Colombia|Barranquilla|Fibernet TV SAS|
+|20|186.64.95.1|999|Argentina|Laboulaye|Nodosud S.A|
 
 
 

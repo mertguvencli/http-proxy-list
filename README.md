@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3006** proxies at the latest update. Usable proxies are below.
+> Scraper found **3075** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|281|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|281|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|281|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.149.3.3|8080|United States|Los Angeles|Psychz Networks|
-|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|3|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|4|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|7|194.233.73.106|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|178.32.116.64|3128|France|Roubaix|OVH SAS|
-|9|121.88.250.73|3128|South Korea|Suwon|DLIVE|
-|10|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|11|1.180.156.226|65001|China|Changning|Chinanet|
-|12|140.227.213.91|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
-|13|115.159.211.179|7890|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|14|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|15|139.99.99.165|3128|Singapore|Singapore|OVH SAS|
-|16|50.233.228.147|8080|United States|Denver|Comcast Cable Communications, LLC|
-|17|109.254.31.164|9090|Ukraine|Donetsk|Donbass Electronic Communications Ltd.|
-|18|181.224.207.20|999|Dominican Republic|Castanuelas|BW TELECOM|
-|19|186.103.179.50|60080|Chile|Maipu|Telefonica Empresas|
-|20|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
+|2|189.45.198.99|8081|Brazil|Blumenau|Unifique TelecomunicaÔÔes SA|
+|3|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|6|50.233.228.147|8080|United States|Denver|Comcast Cable Communications, LLC|
+|7|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|8|177.39.136.163|8080|Brazil|Fazenda Rio Grande|Dipelnet Corbelia|
+|9|1.180.156.226|65001|China|Changning|Chinanet|
+|10|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|11|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|12|103.161.164.117|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|13|140.227.225.120|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
+|14|95.0.219.234|8080|Turkey|Ulus|TurkTelecom|
+|15|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|17|190.211.81.211|3128|Argentina|Rivadavia|Patagonia Green S.A.|
+|18|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
+|19|190.60.104.218|3128|Colombia|Villavicencio|IFX Corporation|
+|20|190.171.168.90|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
 
 
 

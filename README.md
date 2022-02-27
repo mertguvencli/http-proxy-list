@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2716** proxies at the latest update. Usable proxies are below.
+> Scraper found **2987** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|183.91.0.124|3128|Vietnam|Hung Yen|CMC Telecom Infrastructure Company|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
-|5|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|6|171.244.27.216|1911|Vietnam|Ho Chi Minh City|VIETEL|
-|7|190.104.1.18|999|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
-|8|31.128.71.241|8081|Ukraine|Kharkiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|9|200.106.184.13|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|10|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|11|45.71.37.212|999|Ecuador|Vinces|Nedetel S.A.|
-|12|14.207.149.70|8080|Thailand|Nakhon Pathom|Triple T Internet Company Limited|
-|13|123.231.221.178|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|14|46.98.251.182|8081|Ukraine|Dnipro|ISP "Fregat"|
-|15|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
-|16|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
-|17|36.91.148.37|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|201.17.131.124|20183|Brazil|Belo Horizonte|Claro S.A.|
-|19|95.0.168.58|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|20|139.162.81.234|31330|Japan|Tokyo|Linode, LLC|
+|1|46.101.245.99|8889|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|103.149.238.102|9090|Indonesia|Pasuruan|PT BITNIAGA CIPTA GEMILANG|
+|3|83.238.80.18|8081|Poland|Szepietowo|NETIA|
+|4|185.136.151.138|41890|Iraq|Erbil|Kurdistan Net 19|
+|5|37.252.73.192|8080|Armenia|Yerevan|Ucom Cjsc|
+|6|88.255.185.254|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|7|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|8|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|9|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|10|161.22.34.115|8080|Venezuela|Caracas|MDS TELECOM C.A.|
+|11|124.158.171.158|8080|Indonesia|Gandul|ICON+|
+|12|180.193.222.138|8080|Philippines|Sibalom|Philippine Long Distance Telephone Co.|
+|13|83.166.112.14|3128|Russia|Mytishchi|LLC Company NICOS|
+|14|170.79.235.3|999|Chile|Buin|TNA Solutions SpA|
+|15|103.17.246.146|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|16|103.149.143.2|8080|Bangladesh|Dhaka|Systems Solutions & development Technologies Limited|
+|17|147.135.134.57|5566|France|Gravelines|OVH SAS|
+|18|146.196.110.246|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|19|212.22.72.196|8083|Russia|Moscow|LLC FIBERTEL|
+|20|194.233.69.126|443|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

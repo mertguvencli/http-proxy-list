@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3123** proxies at the latest update. Usable proxies are below.
+> Scraper found **2759** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.84.180.111|3128|Hong Kong|Shatin|Hong Kong Broadband Network Ltd|
-|2|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
-|3|139.255.89.242|8080|Indonesia|Jakarta|PT. LINKNET|
-|4|177.242.148.14|999|Mexico|Tizayuca|Mega Cable, S.A. de C.V.|
-|5|103.109.96.165|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|6|190.102.240.196|999|Chile|Coihueco|Pacifico Cable SPA.|
-|7|103.218.26.238|8080|Bangladesh|Dhaka|Carnival Internet|
-|8|31.129.228.147|8081|Ukraine|Nogaisk|ISP Syndicate|
-|9|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
-|10|1.179.148.9|55636|Thailand|Sankhaburi|TOT Public Company Limited|
-|11|103.156.115.43|8080|Indonesia|Bandung|MYREPUBLIC|
-|12|185.230.4.233|55443|Bulgaria|Dragichevo|VIPNET PRIM Ltd|
-|13|77.236.248.215|1256|Russia|Balashikha|ArtCommunications Ltd. ISP. Moscow|
-|14|186.96.111.178|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|193.242.151.45|8080|Russia|Krasnodar|SvyazResurs-Kuban|
-|16|202.57.2.19|8080|Indonesia|South Tangerang|Primanet - ISP|
-|17|177.55.207.38|8080|Brazil|Carmo|Sumicity Telecomunicacoes S.A.|
-|18|201.168.205.4|999|Mexico|Cerritos Blancos|Marcatel Com, S.A. de C.V.|
-|19|58.147.170.114|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|20|195.191.16.227|3128|Netherlands|Amsterdam|T-Mobile Thuis BV|
+|1|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|176.197.95.2|3128|Russia|Novokuznetsk|Goodline.info|
+|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|6|50.233.228.147|8080|United States|Denver|Comcast Cable Communications, LLC|
+|7|1.180.156.226|65001|China|Changning|Chinanet|
+|8|152.249.233.249|8080|Brazil|Mogi das Cruzes|Vivo|
+|9|96.9.72.180|46487|Cambodia|Phnom Penh|SIGROUPS|
+|10|36.95.156.127|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|12|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|13|154.113.32.26|8080|Nigeria|Lagos|Mainone Cable Company|
+|14|110.232.66.209|808|Indonesia|Medan|Media Antar Nusa PT.|
+|15|45.71.37.212|999|Ecuador|Vinces|Nedetel S.A.|
+|16|183.172.246.197|7890|China|Ürümqi|CERNET|
+|17|187.108.40.103|8080|Brazil|São Paulo|America-NET Ltda.|
+|18|197.232.65.40|55443|Kenya|Mombasa|Jamii Telecommunications Limited|
+|19|190.116.36.133|8080|Peru|Cajamarca|America Movil Peru S.A.C.|
+|20|80.191.162.2|514|Iran|Shahrestān-e Bandar-e Māhshahr|Area|
 
 
 

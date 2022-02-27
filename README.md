@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3075** proxies at the latest update. Usable proxies are below.
+> Scraper found **2919** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|281|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|281|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|281|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.149.3.3|8080|United States|Los Angeles|Psychz Networks|
-|2|189.45.198.99|8081|Brazil|Blumenau|Unifique TelecomunicaÔÔes SA|
-|3|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|6|50.233.228.147|8080|United States|Denver|Comcast Cable Communications, LLC|
-|7|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
-|8|177.39.136.163|8080|Brazil|Fazenda Rio Grande|Dipelnet Corbelia|
-|9|1.180.156.226|65001|China|Changning|Chinanet|
-|10|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|11|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|12|103.161.164.117|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|13|140.227.225.120|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
-|14|95.0.219.234|8080|Turkey|Ulus|TurkTelecom|
-|15|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
-|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|17|190.211.81.211|3128|Argentina|Rivadavia|Patagonia Green S.A.|
-|18|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
-|19|190.60.104.218|3128|Colombia|Villavicencio|IFX Corporation|
-|20|190.171.168.90|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|2|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|3|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|4|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|5|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|182.34.201.55|25624|China|Xintai|Chinanet|
+|7|87.76.1.69|8080|Russia|Ulyanovsk|JSC Telecom.ru|
+|8|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|9|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|10|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|11|103.122.60.5|8080|India|Visakhapatnam|Vizag Broadband Communications Pvt Ltd|
+|12|103.147.247.15|8080|Indonesia|Tangerang|PLBNET|
+|13|89.216.27.218|8080|Serbia|Belgrade|Serbia Broadband|
+|14|110.78.22.40|8080|Thailand|Chatuchak|CAT Telecom Public Company Limited|
+|15|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|16|45.224.153.58|999|Ecuador|Esmeraldas|Nedetel S.A.|
+|17|185.118.130.34|8080|Iraq|Baghdad|Knowledge Path Information Technology ISP|
+|18|45.229.34.101|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|19|101.35.115.136|20012|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|20|94.228.207.86|8087|Russia|Moscow|Uniontel ZAO network|
 
 
 

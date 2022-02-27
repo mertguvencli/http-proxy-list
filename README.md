@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2919** proxies at the latest update. Usable proxies are below.
+> Scraper found **2969** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.149.3.3|8080|United States|Los Angeles|Psychz Networks|
-|2|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|3|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
-|4|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
-|5|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|182.34.201.55|25624|China|Xintai|Chinanet|
-|7|87.76.1.69|8080|Russia|Ulyanovsk|JSC Telecom.ru|
-|8|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
-|9|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|10|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|11|103.122.60.5|8080|India|Visakhapatnam|Vizag Broadband Communications Pvt Ltd|
-|12|103.147.247.15|8080|Indonesia|Tangerang|PLBNET|
-|13|89.216.27.218|8080|Serbia|Belgrade|Serbia Broadband|
-|14|110.78.22.40|8080|Thailand|Chatuchak|CAT Telecom Public Company Limited|
-|15|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|16|45.224.153.58|999|Ecuador|Esmeraldas|Nedetel S.A.|
-|17|185.118.130.34|8080|Iraq|Baghdad|Knowledge Path Information Technology ISP|
-|18|45.229.34.101|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|19|101.35.115.136|20012|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|20|94.228.207.86|8087|Russia|Moscow|Uniontel ZAO network|
+|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|3|178.32.116.64|3128|France|Roubaix|OVH SAS|
+|4|5.160.101.163|3128|Iran|Tehran|Respina Data processing company PJSC|
+|5|2.188.166.22|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|8|1.180.156.226|65001|China|Changning|Chinanet|
+|9|200.89.83.130|3128|El Salvador|San Salvador|Digicel S.a. De C.V.|
+|10|79.104.197.57|8080|Russia|Krasnoyarsk|PJSC "Vimpelcom"|
+|11|124.83.74.218|8080|Philippines|Laya|Philippine Long Distance Telephone Co.|
+|12|203.189.89.153|8080|Indonesia|Jakarta|Departemen Energi dan Sumber Daya Mineral|
+|13|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|14|186.125.59.8|46316|Argentina|Florentino Ameghino|Telecom Argentina S.A.|
+|15|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
+|16|188.134.88.222|8080|Russia|St Petersburg|Interzet|
+|17|36.94.2.138|443|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|170.79.116.26|8080|Brazil|Natal|J D S MEDEIROS PROVEDOR DE INTERNET - ME|
+|19|36.95.34.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|139.162.81.234|31330|Japan|Tokyo|Linode, LLC|
 
 
 

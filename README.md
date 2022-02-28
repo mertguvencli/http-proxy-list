@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2899** proxies at the latest update. Usable proxies are below.
+> Scraper found **3114** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.49.190.33|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
-|2|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
-|3|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|4|64.17.30.238|63141|United States|Farmington|FORETHOUGHT.net|
-|5|109.194.101.128|3128|Russia|Surok|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
-|6|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|7|186.3.38.202|999|Ecuador|Guayaquil|Telconet S.A|
-|8|185.238.239.35|8090|Poland|Wroclaw|LUKASZ KUZMINSKI trading as RADIO|
-|9|91.93.118.3|8090|Turkey|Ankara|Tellcom Iletisim Hizmetleri A.S.|
-|10|218.149.163.134|8080|South Korea|Jeju City|Korea Telecom|
-|11|121.88.250.73|3128|South Korea|Suwon|DLIVE|
-|12|190.90.154.197|999|Colombia|Bogotá|Internexa Brasil Operadora De Telecomunicacoes S.A|
-|13|45.156.29.130|9090|Turkey|Esenyurt|Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd|
-|14|103.11.106.38|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|15|170.79.91.202|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|16|189.129.106.41|999|Mexico|Tuxtla Gutiérrez|Uninet S.A. de C.V|
-|17|170.79.90.244|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|19|46.0.113.160|55443|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
-|20|190.104.1.18|999|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
+|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|167.114.174.168|11124|Canada|Montreal|OVH SAS|
+|3|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|4|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|5|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|6|189.252.87.214|8080|Mexico|Guasave|Uninet S.A. de C.V.|
+|7|36.95.156.127|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|178.210.129.150|1234|Ukraine|Lviv|TELCOM|
+|9|95.0.168.56|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|10|45.229.205.191|55555|Argentina|Dock Sud|Visio RED SRL|
+|11|43.132.197.151|443|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
+|12|46.101.245.99|8889|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|14|178.151.34.43|8080|Ukraine|Kharkiv|Triolan|
+|15|102.65.131.76|8080|South Africa|Pretoria|Webafrica - National Openserve DSL/FTTH|
+|16|181.224.207.18|999|Dominican Republic|Castanuelas|BW TELECOM|
+|17|62.201.212.214|8080|Iraq|Sulaymaniyah|NETWORKS-SULY1|
+|18|36.66.124.193|3128|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|19|1.180.156.226|65001|China|Changning|Chinanet|
+|20|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2961** proxies at the latest update. Usable proxies are below.
+> Scraper found **3278** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|224|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|224|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|224|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|3|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|4|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
-|5|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|7|45.172.108.36|999|Argentina|Caucete|GPS SANJUAN SRL.|
-|8|138.36.180.4|9292|Brazil|Birigui|FIT Telecom Eireli|
-|9|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|10|1.180.156.226|65001|China|Changning|Chinanet|
-|11|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|12|36.92.165.91|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|13|177.124.184.8|8080|Brazil|Ji Parana|R. Jose da Silva e Cia Ltda - OndaAgil|
-|14|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|15|102.65.131.76|8080|South Africa|Pretoria|Webafrica - National Openserve DSL/FTTH|
-|16|189.126.72.97|20183|Brazil|Beberibe|Provedornet Telecom. e ServiÔos de Internet Ltda|
-|17|103.119.60.12|80|Indonesia|Tangerang|PT. Eka Mas Republik|
-|18|45.71.115.62|999|Ecuador|Guayaquil|Nedetel S.A.|
-|19|51.81.32.81|8888|United States|Reston|OVH SAS|
-|20|91.103.31.147|81|Armenia|Yerevan|MTS Armenia CJSC|
+|1|51.124.155.37|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|109.194.101.128|3128|Russia|Surok|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
+|3|191.243.218.249|53281|Brazil|Garanhuns|Franca e Franca Com e Serv Ltda. ME|
+|4|182.34.201.55|25624|China|Xintai|Chinanet|
+|5|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|7|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|8|186.216.211.34|8080|Brazil|Brasília|Clicknet Brasil Informatica E Telecomunicacoes LT|
+|9|78.30.198.160|8080|Ukraine|Sevastopol|Lancom Ltd.|
+|10|45.71.37.212|999|Ecuador|Vinces|Nedetel S.A.|
+|11|188.136.216.201|9080|Iran|Falāvarjān|Ariana Gostar Spadana|
+|12|46.0.113.160|55443|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
+|13|95.217.84.58|8118|Finland|Helsinki|Hetzner Online GmbH|
+|14|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|15|91.242.213.247|8080|Russia|Murom|NAVIGATOR-MUROM|
+|16|180.178.111.221|8080|Indonesia|Subang|PT Hipernet Indodata|
+|17|158.255.254.2|3128|Slovakia|Torysa|PRESNET s.r.o.|
+|18|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|19|210.210.130.154|8181|Indonesia|Jakarta|CBN|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 

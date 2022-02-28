@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2975** proxies at the latest update. Usable proxies are below.
+> Scraper found **3079** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|334|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|334|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|334|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.163.54.112|12345|Japan|Ōita|FreeBit Co., Ltd.|
-|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|62.28.247.150|3128|Portugal|Barcelos|PT Prime|
-|4|171.224.229.183|4001|Vietnam|Nam Định|Viettel Corporation|
-|5|82.202.160.205|8118|Russia|Irkutsk|SERVER|
-|6|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|7|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|8|1.180.156.226|65001|China|Changning|Chinanet|
-|9|157.230.233.189|8080|United States|North Bergen|DigitalOcean, LLC|
-|10|186.3.85.137|999|Ecuador|Loja|Telconet S.A|
-|11|203.150.113.217|8080|Thailand|Bang Lamung|Internet Thailand Company Ltd.|
-|12|165.16.22.150|9999|Libya|Al Marj|Aljeel Aljadeed For Technology|
-|13|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|14|41.254.53.70|1981|Libya|Benghazi|LTT Network Backbone and POPs|
-|15|103.148.24.219|3127|Indonesia|Lamongan|Menaksopal Link Nusantara|
-|16|200.116.198.177|35184|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
-|17|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
-|18|110.36.213.38|8082|Pakistan|Lahore|wateen tel|
-|19|36.66.124.193|3128|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|20|103.169.186.83|8080|Indonesia|Pasuruan|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|1|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|2|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|3|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|6|167.114.174.168|11124|Canada|Montreal|OVH SAS|
+|7|101.6.93.89|10080|China|Haidian|CERNET|
+|8|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|9|1.180.156.226|65001|China|Changning|Chinanet|
+|10|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|11|181.224.207.18|999|Dominican Republic|Castanuelas|BW TELECOM|
+|12|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|13|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|14|57.100.71.139|3128|United States|Newcastle|US OBS-OCB HONEY|
+|15|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|16|144.202.11.3|8899|United States|Piscataway|The Constant Company|
+|17|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
+|18|187.44.1.172|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
+|19|77.242.25.121|8080|Albania|Tirana|Abissnet ISP|
+|20|165.16.22.178|9999|Libya|Tripoli|Aljeel Aljadeed For Technology|
 
 
 

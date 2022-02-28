@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3001** proxies at the latest update. Usable proxies are below.
+> Scraper found **2899** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|2|187.33.44.78|37600|Brazil|São Paulo|Vogel SoluÔÔes em Telecom e InformÔtica S/A|
-|3|148.0.115.131|999|Dominican Republic|La Romana|Compañía Dominicana de Teléfonos S. A.|
-|4|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|5|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|7|177.234.196.187|999|Ecuador|Naranjito|Nedetel S.A.|
-|8|67.73.188.138|999|Colombia|Nobsa|CTL LATAM|
-|9|185.82.96.210|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
-|10|45.174.249.21|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|11|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|12|1.186.245.226|1111|India|Navi Mumbai|D-VoiS Broadband Private Limited|
-|13|181.78.12.46|7070|Colombia|Chapinero|IFX Networks Argentina S.R.L|
-|14|185.12.69.174|8080|Russia|Makhachkala|JSC Elektrosvyaz|
-|15|45.118.166.114|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
-|16|202.142.126.6|8080|India|Kolkata|Bangalore|
-|17|27.72.105.233|19132|Vietnam|Hanoi|Newass2011xDSLHN|
-|18|35.230.154.184|3128|United Kingdom|London|Google LLC|
-|19|14.207.122.184|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|20|103.111.137.226|8085|Indonesia|Kediri|PT Mitra Lintas Multimedia|
+|1|187.49.190.33|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|2|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|3|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|4|64.17.30.238|63141|United States|Farmington|FORETHOUGHT.net|
+|5|109.194.101.128|3128|Russia|Surok|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
+|6|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|7|186.3.38.202|999|Ecuador|Guayaquil|Telconet S.A|
+|8|185.238.239.35|8090|Poland|Wroclaw|LUKASZ KUZMINSKI trading as RADIO|
+|9|91.93.118.3|8090|Turkey|Ankara|Tellcom Iletisim Hizmetleri A.S.|
+|10|218.149.163.134|8080|South Korea|Jeju City|Korea Telecom|
+|11|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|12|190.90.154.197|999|Colombia|Bogotá|Internexa Brasil Operadora De Telecomunicacoes S.A|
+|13|45.156.29.130|9090|Turkey|Esenyurt|Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd|
+|14|103.11.106.38|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|15|170.79.91.202|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|16|189.129.106.41|999|Mexico|Tuxtla Gutiérrez|Uninet S.A. de C.V|
+|17|170.79.90.244|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|19|46.0.113.160|55443|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
+|20|190.104.1.18|999|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
 
 
 

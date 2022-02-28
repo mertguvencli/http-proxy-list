@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3032** proxies at the latest update. Usable proxies are below.
+> Scraper found **3225** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|357|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|357|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|357|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
-|2|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|5|115.151.136.52|34059|China|Dunhou|Chinanet|
-|6|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
-|7|174.81.78.64|48678|United States|Wallace|Charter Communications|
-|8|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|139.99.99.165|80|Singapore|Singapore|OVH SAS|
-|10|190.61.41.106|999|Colombia|Chapinero|Ufinet Panama S.A.|
-|11|103.124.137.40|8080|Indonesia|Purbayan|Global Media Data Prima|
-|12|36.95.74.103|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|1.180.156.226|65001|China|Changning|Chinanet|
-|14|116.251.216.95|80|Singapore|Singapore|OneAsiaHost|
-|15|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|16|200.25.48.72|3128|United States|Miami|Edgeuno SAS|
-|17|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|18|193.138.247.36|3128|Ukraine|Vysokyi|IPCOM|
-|19|45.71.115.62|999|Ecuador|Guayaquil|Nedetel S.A.|
-|20|163.172.75.81|5566|France|Paris|Online S.A.S.|
+|1|45.229.34.101|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|3|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|4|189.199.106.202|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
+|5|195.191.16.227|3128|Netherlands|Amsterdam|T-Mobile Thuis BV|
+|6|190.12.57.46|80|Ecuador|Machala|Puntonet S.A.|
+|7|201.150.117.189|999|Mexico|Mixquiahuala de Juarez|Hulux Telecomunicaciones|
+|8|14.140.131.82|3128|India|Ahmedabad|Tata Communications Limited|
+|9|185.82.99.147|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|10|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|11|43.250.127.98|9001|Mongolia|Ulan Bator|Wicom Networks|
+|12|116.254.116.234|8080|Indonesia|Semarang|PT Media Sarana Data|
+|13|181.198.40.116|999|Ecuador|Latacunga|Telconet S.A|
+|14|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
+|15|45.65.132.149|8080|Brazil|Carlos Chagas|Aspeednet Telecom ME|
+|16|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|17|180.165.130.47|53281|China|Shanghai|China Telecom (Group)|
+|18|61.216.156.222|60808|Taiwan|Neihu|Chunghwa Telecom Co., Ltd.|
+|19|103.47.67.158|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|20|185.82.98.2|9091|Lebanon|Tripoli|Protected|
 
 
 

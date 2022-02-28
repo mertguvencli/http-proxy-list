@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2942** proxies at the latest update. Usable proxies are below.
+> Scraper found **3015** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|2|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
-|3|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|4|62.28.247.150|3128|Portugal|Barcelos|PT Prime|
-|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|101.6.93.89|10080|China|Haidian|CERNET|
-|7|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|8|46.98.251.182|8081|Ukraine|Dnipro|ISP "Fregat"|
-|9|183.87.153.98|49602|India|Pune|Syscon Infoway Pvt Ltd. ISP|
-|10|45.122.233.76|55443|Vietnam|Haiphong|CMC Telecom Infrastructure Company|
-|11|101.35.115.136|20011|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|12|103.143.195.2|1080|Indonesia|Medan|TRINITY|
-|13|114.6.88.238|60811|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|14|1.180.156.226|65001|China|Changning|Chinanet|
-|15|78.36.157.25|6000|Russia|Malaya Vishera|Rostelecom networks|
-|16|190.71.49.50|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
-|17|41.65.193.100|1981|Egypt|Cairo|Etisalat Misr|
-|18|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
-|19|122.3.41.154|8090|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|20|115.151.136.52|34059|China|Dunhou|Chinanet|
+|1|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|2|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|3|113.20.118.244|8080|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|4|189.148.190.156|999|Mexico|Nacajuca|Uninet S.A. de C.V|
+|5|101.6.93.89|10080|China|Haidian|CERNET|
+|6|58.51.118.146|3128|China|Wulipu|Chinanet|
+|7|103.156.17.123|8181|Indonesia|Bagjasari|RSTNET|
+|8|45.80.148.189|23456|Netherlands|Amsterdam|Hostgw SRL|
+|9|194.50.171.192|8118|Russia|Zelenograd|LLC Baxet|
+|10|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|11|114.99.233.47|30001|China|Rongcheng|Chinanet|
+|12|47.116.112.227|7788|China|Shanghai|Addresses CNNIC|
+|13|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|14|123.200.5.210|45780|Bangladesh|Dhaka|Link3 Technologies Limited|
+|15|173.249.57.9|443|Germany|Nuremberg|Contabo GmbH|
+|16|101.53.154.137|2003|India|Noida|E2E Networks Limited|
+|17|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
+|18|176.236.141.30|10001|Turkey|Bursa|Tellcom Iletisim Hizmetleri A.S.|
+|19|181.192.2.233|53281|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
+|20|190.107.232.138|999|Ecuador|Ibarra|CINECABLE TV|
 
 
 

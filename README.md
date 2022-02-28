@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2623** proxies at the latest update. Usable proxies are below.
+> Scraper found **2633** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.32.81|8888|United States|Reston|OVH SAS|
-|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|3|167.114.174.168|11124|Canada|Montreal|OVH SAS|
-|4|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|5|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
-|6|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|43.129.210.41|10809|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
-|8|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|9|62.170.147.125|8080|Italy|Rome|LINKEM-NETWORK|
-|10|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|11|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|12|61.153.251.150|22222|China|Beijing|Chinanet|
-|13|20.119.36.239|3128|United States|Ashburn|Microsoft Corporation|
-|14|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|15|79.120.177.106|8080|Hungary|Budapest|Invitech ICT Services Kft.|
-|16|112.31.16.81|7890|China|Shenzhen|China Mobile|
-|17|45.71.115.62|999|Ecuador|Guayaquil|Nedetel S.A.|
-|18|200.45.202.98|8080|Argentina|San Miguel de Tucumán|Telecom Argentina S.A.|
-|19|1.180.156.226|65001|China|Changning|Chinanet|
-|20|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|1|178.32.116.64|3128|France|Roubaix|OVH SAS|
+|2|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|3|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|4|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|5|45.71.115.62|999|Ecuador|Guayaquil|Nedetel S.A.|
+|6|177.222.20.123|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|7|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
+|8|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|9|34.145.237.227|80|United States|Washington|Google LLC|
+|10|24.52.33.75|8080|United States|St. George|TDS TELECOM|
+|11|186.103.179.50|60080|Chile|Maipu|Telefonica Empresas|
+|12|191.55.61.159|8080|Brazil|Uberlândia|ALGAR TELECOM S/A|
+|13|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|14|114.130.39.169|8080|Bangladesh|Kushtia|Mango DHK|
+|15|189.148.190.156|999|Mexico|Nacajuca|Uninet S.A. de C.V|
+|16|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|17|200.58.170.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|18|77.236.248.237|8080|Russia|Balashikha|ArtCommunications Ltd. ISP. Moscow|
+|19|39.98.225.204|30002|China|Beijing|Hangzhou Alibaba Advertising Co|
+|20|103.88.170.82|8085|Indonesia|Banjarmasin|PT Mitra Lintas Multimedia|
 
 
 

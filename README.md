@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3278** proxies at the latest update. Usable proxies are below.
+> Scraper found **3444** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|311|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|311|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|311|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.124.155.37|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|2|109.194.101.128|3128|Russia|Surok|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
-|3|191.243.218.249|53281|Brazil|Garanhuns|Franca e Franca Com e Serv Ltda. ME|
-|4|182.34.201.55|25624|China|Xintai|Chinanet|
-|5|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|7|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|8|186.216.211.34|8080|Brazil|Brasília|Clicknet Brasil Informatica E Telecomunicacoes LT|
-|9|78.30.198.160|8080|Ukraine|Sevastopol|Lancom Ltd.|
-|10|45.71.37.212|999|Ecuador|Vinces|Nedetel S.A.|
-|11|188.136.216.201|9080|Iran|Falāvarjān|Ariana Gostar Spadana|
-|12|46.0.113.160|55443|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
-|13|95.217.84.58|8118|Finland|Helsinki|Hetzner Online GmbH|
-|14|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|15|91.242.213.247|8080|Russia|Murom|NAVIGATOR-MUROM|
-|16|180.178.111.221|8080|Indonesia|Subang|PT Hipernet Indodata|
-|17|158.255.254.2|3128|Slovakia|Torysa|PRESNET s.r.o.|
-|18|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|210.210.130.154|8181|Indonesia|Jakarta|CBN|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|2|213.32.19.98|80|France|Gravelines|OVH SAS|
+|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|6|14.207.148.174|8080|Thailand|Nakhon Pathom|Triple T Internet Company Limited|
+|7|67.73.245.220|999|Colombia|Puerto Wilches|Level 3|
+|8|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
+|9|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
+|10|191.97.9.189|999|Colombia|Chaparral|TV AZTECA SUCURSAL COLOMBIA|
+|11|194.135.45.230|41890|Russia|Simferopol|KRYMTELEKOM|
+|12|140.238.25.11|3128|South Korea|Seoul|Oracle Corporation|
+|13|119.59.125.189|3128|Thailand|Samphanthawong|Metrabyte Co., Ltd|
+|14|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
+|15|103.148.195.22|8080|Indonesia|Tabanan|Dinas Komunikasi DAN Informatika Kabupaten Tabanan|
+|16|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|17|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|18|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|19|45.71.37.212|999|Ecuador|Vinces|Nedetel S.A.|
+|20|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
 
 
 

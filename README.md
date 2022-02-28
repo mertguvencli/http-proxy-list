@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2748** proxies at the latest update. Usable proxies are below.
+> Scraper found **2961** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|217|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|217|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|217|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|224|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|224|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|224|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.224.204.22|22800|Dominican Republic|Castanuelas|BW TELECOM|
-|2|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|3|181.48.236.30|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|4|157.230.177.3|999|United States|North Bergen|DigitalOcean, LLC|
-|5|103.164.56.114|8080|Indonesia|Bekasi|PT Natha Buana Indonesia|
-|6|203.150.113.217|8080|Thailand|Bang Lamung|Internet Thailand Company Ltd.|
-|7|138.36.180.4|9292|Brazil|Birigui|FIT Telecom Eireli|
-|8|77.222.152.108|8080|Ukraine|Kryvyi Rih|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|9|169.55.126.19|80|United States|Ashburn|SoftLayer|
-|10|45.229.33.114|999|Dominican Republic|Santo Domingo|Gold Data C.A.|
-|11|222.124.193.113|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|14.140.131.82|3128|India|Ahmedabad|Tata Communications Limited|
-|13|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|14|186.47.83.126|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|15|190.15.198.227|8080|Argentina|General Lavalle|Informática y Telecomunicaciones S.A.|
-|16|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|17|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|18|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|34.145.237.227|80|United States|Washington|Google LLC|
-|20|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|3|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|4|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
+|5|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|7|45.172.108.36|999|Argentina|Caucete|GPS SANJUAN SRL.|
+|8|138.36.180.4|9292|Brazil|Birigui|FIT Telecom Eireli|
+|9|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|10|1.180.156.226|65001|China|Changning|Chinanet|
+|11|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|36.92.165.91|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|13|177.124.184.8|8080|Brazil|Ji Parana|R. Jose da Silva e Cia Ltda - OndaAgil|
+|14|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|15|102.65.131.76|8080|South Africa|Pretoria|Webafrica - National Openserve DSL/FTTH|
+|16|189.126.72.97|20183|Brazil|Beberibe|Provedornet Telecom. e ServiÔos de Internet Ltda|
+|17|103.119.60.12|80|Indonesia|Tangerang|PT. Eka Mas Republik|
+|18|45.71.115.62|999|Ecuador|Guayaquil|Nedetel S.A.|
+|19|51.81.32.81|8888|United States|Reston|OVH SAS|
+|20|91.103.31.147|81|Armenia|Yerevan|MTS Armenia CJSC|
 
 
 

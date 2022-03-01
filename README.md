@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3197** proxies at the latest update. Usable proxies are below.
+> Scraper found **3319** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|175|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|175|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|175|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|322|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|322|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|322|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|181.205.110.122|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|3|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|6|179.43.140.249|3128|Switzerland|Zurich|Private Layer INC|
-|7|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|8|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|9|80.243.158.6|8080|Ukraine|Kyiv|Lanet Network|
-|10|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|11|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
-|12|27.147.219.46|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|13|181.143.235.94|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|14|103.124.138.162|3127|Indonesia|Pati|Global Media Data Prima|
-|15|47.110.9.152|8118|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|16|1.174.166.180|8080|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|17|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
-|18|82.200.107.98|3128|Russia|Omsk|ZSTTK|
-|19|187.190.118.188|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|20|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|1|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
+|2|77.37.136.33|8118|Russia|Moscow|NCNET|
+|3|174.139.41.164|9090|United States|Los Angeles|Krypt Technologies|
+|4|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|5|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|6|103.161.178.59|9999|Vietnam|Quan Binh Thanh|SOLARE|
+|7|154.64.211.145|999|United States|Miami|OSNET Wireless|
+|8|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
+|9|196.15.213.235|3128|South Africa|Christiana|Telkom SA Ltd.|
+|10|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|11|156.155.162.246|4415|South Africa|Boksburg|AxxessNetworks|
+|12|102.223.49.74|8080|Chad|N'Djamena|SOCIETE DIGITAL COM SA/AG|
+|13|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|14|181.192.2.233|53281|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
+|15|201.174.10.170|999|Mexico|Nogales|Transtelco Inc|
+|16|77.236.238.69|1256|Russia|Moscow|Enforta-MSK|
+|17|165.16.80.121|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|19|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
+|20|50.233.228.147|8080|United States|Denver|Comcast Cable Communications, LLC|
 
 
 

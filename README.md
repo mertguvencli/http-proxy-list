@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3184** proxies at the latest update. Usable proxies are below.
+> Scraper found **3108** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|258|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|258|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|258|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|268|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|268|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|268|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|2|118.89.176.33|8118|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|3|154.56.143.136|8080|Spain|Málaga|Procono S.A.|
-|4|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|5|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|95.107.172.29|8080|Albania|Tirana|TRING Customer With Static IP|
-|7|178.216.24.80|55443|Poland|Annobor|Telekomunikacja Wschod sp. z o.o.|
-|8|181.193.212.61|999|Costa Rica|San Carlos|Instituto Costarricense de Electricidad y Telecom|
-|9|80.106.247.145|53410|Greece|Athens|Ote SA (Hellenic Telecommunications Organisation)|
-|10|110.74.195.65|55443|Cambodia|Phnom Penh|EZECOM limited|
-|11|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
-|12|118.99.87.177|8080|Indonesia|Bandung|BIZNET|
-|13|114.130.39.62|8080|Bangladesh|Kushtia|Mango DHK|
-|14|103.73.102.174|60080|Pakistan|Lahore|KK Networks (Pvt) Ltd|
-|15|189.164.111.68|10101|Mexico|Puebla City|Uninet S.A. de C.V|
-|16|85.143.219.153|3128|Russia|St Petersburg|Trader soft LLC|
-|17|38.10.246.16|999|Dominican Republic|Santa Cruz de Barahona|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|43.255.165.158|84|India|Bhusawal|Esto Broadband|
-|19|92.60.238.12|80|Serbia|Niš|EXENET|
-|20|181.129.14.163|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|3|211.53.100.186|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|4|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|5|181.129.14.163|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|6|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|8|191.110.127.223|999|Colombia|Bucaramanga|Colombia Telecomunicaciones S.a. ESP|
+|9|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|11|166.111.81.125|7890|China|Beijing|China Education and Research Network Center|
+|12|161.49.212.173|1337|Philippines|Plaridel|Converge Information and Communications Technology Solutions|
+|13|167.114.174.168|11124|Canada|Montreal|OVH SAS|
+|14|186.3.85.133|999|Ecuador|Loja|Telconet S.A|
+|15|103.124.87.1|8080|India|Ranchi|Streamonn Internet Services Private Limited|
+|16|195.64.140.145|8080|Russia|St Petersburg|G&G-Telecom|
+|17|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|18|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos Hypernet|
+|19|180.183.115.222|8080|Thailand|Bangkok|Triple T Internet Company Limited|
+|20|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
 
 
 

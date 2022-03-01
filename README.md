@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3319** proxies at the latest update. Usable proxies are below.
+> Scraper found **3128** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|322|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|322|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|322|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
-|2|77.37.136.33|8118|Russia|Moscow|NCNET|
-|3|174.139.41.164|9090|United States|Los Angeles|Krypt Technologies|
-|4|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|5|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|6|103.161.178.59|9999|Vietnam|Quan Binh Thanh|SOLARE|
-|7|154.64.211.145|999|United States|Miami|OSNET Wireless|
-|8|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
-|9|196.15.213.235|3128|South Africa|Christiana|Telkom SA Ltd.|
-|10|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|11|156.155.162.246|4415|South Africa|Boksburg|AxxessNetworks|
-|12|102.223.49.74|8080|Chad|N'Djamena|SOCIETE DIGITAL COM SA/AG|
-|13|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|14|181.192.2.233|53281|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
-|15|201.174.10.170|999|Mexico|Nogales|Transtelco Inc|
-|16|77.236.238.69|1256|Russia|Moscow|Enforta-MSK|
-|17|165.16.80.121|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|18|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|19|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
-|20|50.233.228.147|8080|United States|Denver|Comcast Cable Communications, LLC|
+|1|51.124.155.37|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|36.95.249.157|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|3|113.161.70.165|41890|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|4|66.94.97.238|443|United States|New York|Contabo Inc.|
+|5|170.244.210.109|999|Ecuador|Canar|Nedetel S.A.|
+|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|7|190.2.209.59|999|Colombia|Acacias|TV AZTECA SUCURSAL COLOMBIA|
+|8|181.188.216.140|999|Ecuador|Quito|Nedetel S.A|
+|9|201.184.181.68|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|10|117.4.139.104|8080|Vietnam|Ban Hat Nam|Viettel Corporation|
+|11|179.189.125.222|8080|Brazil|Parnaiba|IP CARRIER BRASIL|
+|12|50.233.228.147|8080|United States|Denver|Comcast Cable Communications, LLC|
+|13|200.123.228.2|999|Peru|Lima|Cable Selva Central S.A.C.|
+|14|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|15|91.225.226.39|44388|Ukraine|Kyiv|HomeNet|
+|16|78.36.198.158|80|Russia|Kaliningrad|PJSC Rostelecom|
+|17|43.224.8.12|6666|India|Surendranagar|gtpl hariom world vision|
+|18|180.250.252.221|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|36.89.252.155|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|80.244.229.102|10000|Russia|Moscow|Enforta-MSK|
 
 
 

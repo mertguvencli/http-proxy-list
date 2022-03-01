@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3047** proxies at the latest update. Usable proxies are below.
+> Scraper found **2789** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|2|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|3|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|190.14.224.244|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|5|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|6|102.65.131.76|8080|South Africa|Pretoria|Webafrica - National Openserve DSL/FTTH|
-|7|176.121.1.8|8080|Ukraine|Monastyrchany|FOP Saiv Igor Stepanovich|
-|8|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|9|185.141.39.59|8080|Iran|Mīnūdasht|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
-|10|200.37.199.190|999|Peru|Piura|Telefonica del Peru S.A.A.|
-|11|95.216.182.12|1994|Finland|Helsinki|Hetzner Online GmbH|
-|12|181.143.235.94|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|13|36.94.60.27|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|14|110.74.198.158|56765|Cambodia|Phnom Penh|EZECOM limited|
-|15|103.87.229.237|8080|Indonesia|Banjaran|ZITLINE|
-|16|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|17|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
-|18|152.67.198.97|8080|South Korea|Chuncheon|Oracle Corporation|
-|19|184.95.0.218|8080|Puerto Rico|Carolina|PREPA Networks|
-|20|128.75.228.174|8080|Russia|Budënnovsk|SOVAM-B2O|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|3|45.81.131.245|3128|United States|Los Angeles|Zenlayer Inc|
+|4|152.67.198.97|8080|South Korea|Chuncheon|Oracle Corporation|
+|5|1.180.156.226|65001|China|Changning|Chinanet|
+|6|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|7|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|8|140.238.25.11|3128|South Korea|Seoul|Oracle Corporation|
+|9|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|10|95.0.219.234|8080|Turkey|Ulus|TurkTelecom|
+|11|177.242.151.143|8080|Mexico|San Juan Bautista Tuxtla|Mega Cable, S.A. de C.V.|
+|12|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|13|94.75.76.3|8080|Poland|Warsaw|ASTER Sp. z o.o|
+|14|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|15|200.25.48.72|3128|United States|Miami|Edgeuno SAS|
+|16|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|17|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|18|85.158.75.102|53281|Latvia|Ventspils|Skatvis|
+|19|92.45.19.46|8080|Turkey|Izmir|Tellcom ADSL IZM|
+|20|161.22.34.123|8080|Venezuela|Caracas|MDS TELECOM C.A.|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3498** proxies at the latest update. Usable proxies are below.
+> Scraper found **3218** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.114.180.97|8080|Canada|Montreal|OVH Hosting|
-|2|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
-|3|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|4|218.238.214.45|8080|South Korea|Seoul|SK Broadband Co Ltd|
-|5|45.229.34.101|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|6|45.70.236.124|999|Ecuador|Palestina|Nedetel S.A.|
-|7|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|8|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|91.233.111.49|1080|Ukraine|Kyiv|Helpteh L-side|
-|10|49.0.82.190|8080|Thailand|Bangkok|AIS-Fibre|
-|11|1.180.156.226|65001|China|Changning|Chinanet|
-|12|45.189.253.74|999|Mexico|Cotaxtla|Tracered SA De CV|
-|13|46.0.113.160|55443|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
-|14|1.179.144.41|8080|Thailand|Sankhaburi|TOT Public Company Limited|
-|15|128.75.228.173|8080|Russia|Budënnovsk|SOVAM-B2O|
-|16|45.227.95.2|8085|Argentina|Lomas de Zamora|Andros-net Comunicaciones S.R.L.|
-|17|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|18|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|19|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
-|20|103.145.168.74|83|India|Delhi|Nikhil Network Solution|
+|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|3|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
+|5|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|6|180.94.69.66|8080|Afghanistan|Herat|Government Communications Network|
+|7|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|10|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|11|37.110.6.178|8080|Russia|Moscow|NCNET|
+|12|152.231.25.195|60080|Colombia|Guacari|Colombiatel Telecomunicaciones|
+|13|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|14|178.134.155.82|48146|Georgia|K'alak'i T'bilisi|JSC "Silknet"|
+|15|201.62.56.49|35816|Brazil|Araxá|Click Tecnologia e TelecomunicaÔÔo Ltda|
+|16|186.3.85.137|999|Ecuador|Loja|Telconet S.A|
+|17|159.223.136.87|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
+|19|79.170.154.180|8083|Russia|Moscow|Igor Vladimirovich Gorodkov|
+|20|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
 
 
 

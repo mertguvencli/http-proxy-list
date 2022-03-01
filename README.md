@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2776** proxies at the latest update. Usable proxies are below.
+> Scraper found **2952** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|152.67.198.97|8080|South Korea|Chuncheon|Oracle Corporation|
-|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|3|181.224.207.20|999|Dominican Republic|Castanuelas|BW TELECOM|
-|4|166.111.81.125|7890|China|Beijing|China Education and Research Network Center|
-|5|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|118.193.47.193|8118|Hong Kong|Central|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|7|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|8|47.103.18.139|7890|China|Shanghai|Addresses CNNIC|
-|9|101.53.154.137|2010|India|Noida|E2E Networks Limited|
-|10|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|11|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|12|123.231.221.243|6969|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|13|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|14|87.245.209.110|8080|United Kingdom|City of London|RETN Limited|
-|15|165.16.22.150|9999|Libya|Al Marj|Aljeel Aljadeed For Technology|
-|16|119.148.32.25|8080|Bangladesh|Dhaka|Agni Systems Limited|
-|17|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|18|221.216.234.13|1088|China|Beijing|China Unicom Beijing Province Network|
-|19|110.34.32.221|8080|Pakistan|Karachi|Fiberlink PVT LTD|
-|20|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|3|206.62.164.169|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|4|210.77.87.71|3128|China|Beijing|CSTNET|
+|5|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|6|181.48.91.93|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|7|186.167.50.161|999|Venezuela|Chivacoa|Corporacion Digitel C.A|
+|8|14.140.131.82|3128|India|Ahmedabad|Tata Communications Limited|
+|9|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|10|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
+|11|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|12|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|13|170.81.35.26|36681|Costa Rica|San José|Navegalo S.A.|
+|14|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|15|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
+|16|181.205.110.122|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
+|17|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
+|18|195.191.16.227|3128|Netherlands|Amsterdam|T-Mobile Thuis BV|
+|19|165.16.66.89|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|20|182.253.244.132|8080|Indonesia|Jakarta|BIZNET|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3082** proxies at the latest update. Usable proxies are below.
+> Scraper found **3047** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
-|2|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
-|3|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
-|4|31.220.48.138|80|United States|Asheville|HOSTINGER US|
-|5|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
-|6|95.216.182.12|1994|Finland|Helsinki|Hetzner Online GmbH|
-|7|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
-|9|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|10|14.143.168.230|8080|India|Mumbai|Tata Communications Limited|
-|11|200.24.207.196|8080|Ecuador|Velasco Ibarra|Otecel S.A.|
-|12|50.233.42.98|51696|United States|North Miami|Comcast Cable Communications, LLC|
-|13|103.168.164.26|83|India|Pune|Nutech Broadband|
-|14|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|15|193.226.199.62|53128|Hungary|Budapest|INVITEL Zrt.|
-|16|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|17|165.16.27.14|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|18|181.115.67.3|999|Honduras|Santa Rosa de Copán|Telgua|
-|19|187.144.208.108|3128|Mexico|Manzanillo|Uninet S.A. de C.V.|
-|20|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|1|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|2|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|3|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|190.14.224.244|999|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|5|62.141.45.214|3128|Germany|Düsseldorf|myLoc managed IT AG|
+|6|102.65.131.76|8080|South Africa|Pretoria|Webafrica - National Openserve DSL/FTTH|
+|7|176.121.1.8|8080|Ukraine|Monastyrchany|FOP Saiv Igor Stepanovich|
+|8|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|9|185.141.39.59|8080|Iran|Mīnūdasht|Cooperative Afra ertebatat-e-sabet-e Rasa Co|
+|10|200.37.199.190|999|Peru|Piura|Telefonica del Peru S.A.A.|
+|11|95.216.182.12|1994|Finland|Helsinki|Hetzner Online GmbH|
+|12|181.143.235.94|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|13|36.94.60.27|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|14|110.74.198.158|56765|Cambodia|Phnom Penh|EZECOM limited|
+|15|103.87.229.237|8080|Indonesia|Banjaran|ZITLINE|
+|16|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|17|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
+|18|152.67.198.97|8080|South Korea|Chuncheon|Oracle Corporation|
+|19|184.95.0.218|8080|Puerto Rico|Carolina|PREPA Networks|
+|20|128.75.228.174|8080|Russia|Budënnovsk|SOVAM-B2O|
 
 
 

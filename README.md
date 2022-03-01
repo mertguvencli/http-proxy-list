@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2952** proxies at the latest update. Usable proxies are below.
+> Scraper found **2846** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|3|206.62.164.169|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|4|210.77.87.71|3128|China|Beijing|CSTNET|
-|5|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|6|181.48.91.93|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|7|186.167.50.161|999|Venezuela|Chivacoa|Corporacion Digitel C.A|
-|8|14.140.131.82|3128|India|Ahmedabad|Tata Communications Limited|
-|9|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|10|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
-|11|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|12|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|13|170.81.35.26|36681|Costa Rica|San José|Navegalo S.A.|
-|14|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|15|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
-|16|181.205.110.122|999|Colombia|El Carmen de Viboral|EPM Telecomunicaciones S.A. E.S.P.|
-|17|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
-|18|195.191.16.227|3128|Netherlands|Amsterdam|T-Mobile Thuis BV|
-|19|165.16.66.89|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|182.253.244.132|8080|Indonesia|Jakarta|BIZNET|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|66.23.232.84|3128|United States|Secaucus|Interserver, Inc|
+|3|51.124.155.37|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|4|66.23.232.83|3128|United States|Secaucus|Interserver, Inc|
+|5|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|6|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
+|7|216.66.76.238|8080|United States|Chicago|Hurricane Electric LLC|
+|8|165.16.22.178|9999|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|185.194.142.229|8118|Germany|Karlsruhe|netcup GmbH|
+|10|1.20.169.128|8080|Thailand|Chanthaburi|TOT-MOBILE|
+|11|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|12|190.0.17.66|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|13|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|14|201.144.14.232|53281|Mexico|La Barca|Uninet S.A. de C.V|
+|15|187.87.189.252|55443|Brazil|Agua Doce|CS-NET InformÔtica e Tecnologia Ltda.|
+|16|104.194.225.99|3128|United States|Santa Clarita|Multacom Corporation|
+|17|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|18|138.117.85.97|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|19|38.90.33.62|80|United States|Chicago|Cogent Communications|
+|20|103.194.175.86|8080|Indonesia|Bandung|MYNET|
 
 
 

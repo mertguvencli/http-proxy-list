@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2968** proxies at the latest update. Usable proxies are below.
+> Scraper found **2813** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|2|217.174.106.15|8118|Russia|Moscow|E-Style ISP|
-|3|210.77.87.71|3128|China|Beijing|CSTNET|
-|4|218.149.163.134|8080|South Korea|Jeju City|Korea Telecom|
-|5|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|6|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|8|181.129.248.123|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|9|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|10|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|11|45.228.232.223|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|12|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|13|139.99.99.165|3128|Singapore|Singapore|OVH SAS|
-|14|190.97.228.16|999|Venezuela|Mérida|NetLink América C.A.|
-|15|201.218.146.24|999|Peru|Arequipa|M & B Soluciones Peru S.A.C.|
-|16|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|17|183.89.50.81|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|18|67.206.206.2|999|Puerto Rico|Humacao|OSNET Wireless|
-|19|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
-|20|1.180.156.226|65001|China|Changning|Chinanet|
+|1|45.81.225.67|9055|Netherlands|Dronten|Zomro B.V.|
+|2|185.254.52.221|3128|Turkey|Adapazarı|DGN TEKNOLOJI A.S.|
+|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|146.185.210.69|8118|United Kingdom|London|Mail.Ru LLC|
+|6|173.249.57.9|443|Germany|Nuremberg|Contabo GmbH|
+|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|9|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|10|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|11|59.152.91.106|8080|Bangladesh|Tongi|ZIPNET Limited|
+|12|181.10.35.241|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|13|183.88.228.208|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|14|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|15|186.0.176.147|443|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
+|16|217.195.204.85|3161|Turkey|Eyuepsultan|FS Veri Merkezi Internet Teknolojileri Limited Sirketi|
+|17|103.151.221.4|8080|Indonesia|Bekasi|PT Parsaoran Global Datatrans|
+|18|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|19|217.195.203.29|3131|Turkey|Eyuepsultan|FS Veri Merkezi Internet Teknolojileri Limited Sirketi|
+|20|77.236.238.33|1256|Russia|Moscow|ArtCommunications Ltd.|
 
 
 

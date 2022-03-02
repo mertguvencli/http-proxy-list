@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2830** proxies at the latest update. Usable proxies are below.
+> Scraper found **3101** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|211.53.100.186|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|5|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|45.229.205.146|55555|Argentina|Dock Sud|Visio RED SRL|
-|8|103.161.178.79|9999|Vietnam|Quan Binh Thanh|SOLARE|
-|9|181.129.248.123|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|10|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|11|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|12|94.228.192.197|8087|Russia|Moscow|Uniontel ZAO network|
-|13|186.3.85.133|999|Ecuador|Loja|Telconet S.A|
-|14|181.48.101.245|3128|Colombia|Medellín|Telmex Colombia S.A.|
-|15|177.23.149.170|3128|Brazil|Rio de Janeiro|SpeedWeb Net Telecomunicacoes|
-|16|178.209.25.79|8080|Bosnia and Herzegovina|Novi Travnik|GLOBAL INTERNET d.o.o. Novi Travnik|
-|17|195.64.140.145|8080|Russia|St Petersburg|G&G-Telecom|
-|18|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|179.127.193.37|8080|Brazil|Iguaba Grande|Afinet Solucoes EM Tecnologia DA Informacao Ltda|
-|20|101.35.115.136|20012|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|2|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|5|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|6|159.192.138.170|8080|Thailand|Bang Lamung|CAT-BB|
+|7|66.94.97.238|443|United States|New York|Contabo Inc.|
+|8|176.88.117.138|8080|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
+|9|111.199.68.233|1080|China|Beijing|China Unicom Beijing Province Network|
+|10|190.171.80.91|6969|Ecuador|Quito|Ufinet Ecuador Ufiec S.A|
+|11|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|12|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|103.164.118.83|8080|Indonesia|Jakarta|SOLUSINET|
+|14|139.255.101.90|8080|Indonesia|Jakarta|PT. LINKNET|
+|15|181.129.248.123|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|16|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|17|139.255.25.106|8080|Indonesia|Jakarta|PT. LINKNET|
+|18|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|19|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|20|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
 
 
 

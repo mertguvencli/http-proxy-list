@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3101** proxies at the latest update. Usable proxies are below.
+> Scraper found **2949** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|2|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|5|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|6|159.192.138.170|8080|Thailand|Bang Lamung|CAT-BB|
-|7|66.94.97.238|443|United States|New York|Contabo Inc.|
-|8|176.88.117.138|8080|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
-|9|111.199.68.233|1080|China|Beijing|China Unicom Beijing Province Network|
-|10|190.171.80.91|6969|Ecuador|Quito|Ufinet Ecuador Ufiec S.A|
-|11|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|12|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|103.164.118.83|8080|Indonesia|Jakarta|SOLUSINET|
-|14|139.255.101.90|8080|Indonesia|Jakarta|PT. LINKNET|
-|15|181.129.248.123|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|16|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|139.255.25.106|8080|Indonesia|Jakarta|PT. LINKNET|
-|18|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|19|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
-|20|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|195.191.16.227|3128|Netherlands|Amsterdam|T-Mobile Thuis BV|
+|3|81.4.102.223|8081|Netherlands|Amsterdam|WeservIT|
+|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|187.49.190.33|999|Honduras|Juticalpa|Olancho NET S.r.l. De C.V.|
+|6|1.180.156.226|65001|China|Changning|Chinanet|
+|7|206.62.162.124|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|8|91.209.114.126|6789|Hungary|Budapest|Invitech ICT Services Kft.|
+|9|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|10|103.1.104.14|8080|Malaysia|Seremban|Tmnet, Telekom Malaysia Bhd.|
+|11|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|12|190.202.111.202|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|13|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|14|131.161.5.166|8080|Brazil|Sabara|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|15|194.186.114.174|41890|Russia|Moscow|PJSC "Vimpelcom"|
+|16|101.108.38.18|8080|Thailand|Saraburi|TOT Public Company Limited|
+|17|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|18|103.213.116.10|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana|
+|19|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|20|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

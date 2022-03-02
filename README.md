@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3267** proxies at the latest update. Usable proxies are below.
+> Scraper found **3206** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|2|47.102.110.19|7890|China|Shanghai|Addresses CNNIC|
-|3|166.111.81.125|7890|China|Beijing|China Education and Research Network Center|
-|4|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|5|187.121.244.215|3128|Brazil|Rio de Janeiro|GSCOM TECNOLOGIA E SERVIÔOS EM TELECOMUNICAÔÔO LTD|
-|6|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|7|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|8|88.87.92.147|8118|Russia|Volgograd|CJSC "ER-Telecom Holding" Volgograd branch|
-|9|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|10|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|11|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|12|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|13|36.90.23.5|8080|Indonesia|Medan|PT. Telekomunikasi Indonesia|
-|14|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|15|159.65.69.186|9300|United States|Santa Clara|DigitalOcean, LLC|
-|16|170.244.210.110|999|Ecuador|Canar|Nedetel S.A.|
-|17|190.109.205.253|999|Honduras|San Pedro Sula|Metrored S.a. De C.V.|
-|18|116.102.154.19|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|19|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|20|82.99.232.18|58689|Iran|Tehran|Pars Online PJS|
+|1|161.97.183.154|3128|Germany|Düsseldorf|Contabo GmbH|
+|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|4|1.13.165.87|33080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|5|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|6|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|7|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|8|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|9|193.226.199.62|53128|Hungary|Budapest|INVITEL Zrt.|
+|10|103.210.161.198|8998|Hong Kong|Central|Capitalonline Data Service Co., LTD|
+|11|1.13.165.87|33080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|12|47.102.110.19|7890|China|Shanghai|Addresses CNNIC|
+|13|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
+|14|183.196.64.31|7890|China|Handan|China Mobile|
+|15|109.185.145.97|8080|Moldova|Chisinau|JSC "Moldtelecom" S.A.|
+|16|183.89.50.81|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|17|93.78.190.146|41890|Ukraine|Poltava|Volia Poltava|
+|18|183.173.153.155|10080|China|Haidian|CERNET|
+|19|101.53.154.137|2009|India|Noida|E2E Networks Limited|
+|20|193.106.138.52|3128|Ukraine|Kyiv|PJSC "Industrial Media Network"|
 
 
 

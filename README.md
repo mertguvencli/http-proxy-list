@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2955** proxies at the latest update. Usable proxies are below.
+> Scraper found **3047** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.233.111.49|1080|Ukraine|Kyiv|Helpteh L-side|
-|2|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|188.133.153.187|8081|Russia|Moscow|Enforta-MSK|
-|5|187.44.1.41|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
-|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|7|191.110.127.223|999|Colombia|Bucaramanga|Colombia Telecomunicaciones S.a. ESP|
-|8|187.44.1.172|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
-|9|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|10|103.196.233.199|8080|Bangladesh|Dhaka|Dhaka Fiber Net Limited|
-|11|188.134.65.80|41890|Russia|St Petersburg|Interzet|
-|12|190.109.205.253|999|Honduras|San Pedro Sula|Metrored S.a. De C.V.|
-|13|207.174.202.218|8080|United States|Pleasanton|432 INTERNET, LLC|
-|14|146.196.40.109|8181|Indonesia|Karawang|UNINA|
-|15|201.150.117.64|999|Mexico|Mixquiahuala de Juarez|Hulux Telecomunicaciones|
-|16|1.179.136.98|8080|Thailand|Sankhaburi|TOT Public Company Limited|
-|17|103.114.88.230|8080|Cambodia|Phnom Penh|BEE UNION (CAMBODIA) TELECOM CO.|
-|18|170.80.202.242|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|19|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|20|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|1|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|2|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
+|3|189.164.111.68|10101|Mexico|Puebla City|Uninet S.A. de C.V|
+|4|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|5|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|6|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
+|7|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|8|181.143.235.94|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|9|1.180.156.226|65001|China|Changning|Chinanet|
+|10|139.196.112.212|8080|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|11|92.38.132.145|8080|United States|Miami|G-Core Labs S.A.|
+|12|103.123.234.106|8080|India|Narsingpur|Manish Kumar|
+|13|103.164.118.83|8080|Indonesia|Jakarta|SOLUSINET|
+|14|194.186.114.174|41890|Russia|Moscow|PJSC "Vimpelcom"|
+|15|131.161.5.166|8080|Brazil|Sabara|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|16|114.130.39.173|8080|Bangladesh|Kushtia|Mango DHK|
+|17|61.19.145.66|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
+|18|201.87.241.90|5555|Brazil|Brasília|Logtel Telecomunicacoes E Informatica Ltda ME|
+|19|77.236.237.241|1256|Russia|Moscow|Enforta-MSK|
+|20|188.75.11.138|41890|Russia|Moscow|Lancronix LTD|
 
 
 

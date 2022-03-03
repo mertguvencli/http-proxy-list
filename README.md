@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3239** proxies at the latest update. Usable proxies are below.
+> Scraper found **3125** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|245|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|245|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|245|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|2|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|3|31.192.233.30|5006|United States|Atlanta|Chelyabinsk-Signal LLC|
-|4|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|45.224.153.58|999|Ecuador|Esmeraldas|Nedetel S.A.|
-|6|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
-|7|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
-|8|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|103.146.170.252|84|India|Bengaluru|Thrishul Broadband Private Ltd|
-|10|159.65.69.186|9300|United States|Santa Clara|DigitalOcean, LLC|
-|11|168.227.56.104|8080|Brazil|Votuporanga|RF connect provedor de acesso ltda-me|
-|12|77.236.238.179|8080|Russia|Moscow|ArtCommunications Ltd.|
-|13|82.99.232.18|58689|Iran|Tehran|Pars Online PJS|
-|14|103.36.11.17|8181|Indonesia|Pangkalan|PT Awinet Global Mandiri|
-|15|131.72.69.98|45005|Brazil|Moita Bonita|TOP NET SERVI?OS LTDA|
-|16|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|17|5.149.219.201|8080|Ukraine|Sevastopol|Lancom Ltd.|
-|18|183.88.210.77|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|96.9.69.164|53281|Cambodia|Phnom Penh|SIGROUPS|
-|20|209.97.161.34|8080|Singapore|Singapore|DigitalOcean, LLC|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|46.101.245.99|8889|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
+|4|181.36.121.222|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|5|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|6|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|7|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
+|8|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|11|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|12|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|13|190.111.203.179|8080|Argentina|Buenos Aires|CPS|
+|14|123.57.144.181|7777|China|Beijing|Hangzhou Alibaba Advertising Co|
+|15|147.75.113.231|8080|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|16|223.205.105.48|3128|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|17|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|18|103.53.76.84|8080|Indonesia|Surabaya|INTI|
+|19|103.210.161.198|8998|Hong Kong|Central|Capitalonline Data Service Co., LTD|
+|20|120.39.221.140|9001|China|Qingzhou|Fuzhou|
 
 
 

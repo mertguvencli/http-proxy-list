@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3459** proxies at the latest update. Usable proxies are below.
+> Scraper found **3416** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|3|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|6|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|7|181.224.207.19|999|Dominican Republic|Castanuelas|BW TELECOM|
-|8|101.35.115.136|20011|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|9|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|10|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
-|11|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|12|103.154.24.18|8080|Indonesia|Selong|HIJRAHNET|
-|13|181.129.14.163|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|177.36.7.61|53281|Brazil|Santa Cruz do Capibaribe|1telecom Servicos De Tecnologia EM Internet Ltda|
-|15|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|16|46.35.249.189|41419|Ukraine|Sevastopol|Lancom Ltd.|
-|17|82.114.105.49|1256|Russia|St Petersburg|JSC "ER-Telecom Holding"|
-|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|19|201.182.242.92|999|Ecuador|Saraguro|Gualan Japon Luis Joaquin|
-|20|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|1|161.97.183.154|3128|Germany|Düsseldorf|Contabo GmbH|
+|2|95.216.182.12|1994|Finland|Helsinki|Hetzner Online GmbH|
+|3|181.224.207.18|999|Dominican Republic|Castanuelas|BW TELECOM|
+|4|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|5|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|6|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|7|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|8|45.70.236.124|999|Ecuador|Palestina|Nedetel S.A.|
+|9|138.0.188.134|10001|Brazil|Araguari|WN TELECOM LTDA - ME|
+|10|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|11|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|12|101.33.127.236|8888|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
+|13|36.95.34.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|1.180.156.226|65001|China|Changning|Chinanet|
+|15|115.243.184.76|23500|India|Navi Mumbai|Reliance Jio Infocomm Limited|
+|16|82.114.97.157|1256|Russia|St Petersburg|Enforta-MSK|
+|17|138.36.180.4|9292|Brazil|Birigui|FIT Telecom Eireli|
+|18|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
+|19|180.183.103.14|8080|Thailand|Bangkok|Triple T Internet Company Limited|
+|20|181.129.14.163|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 

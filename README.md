@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3382** proxies at the latest update. Usable proxies are below.
+> Scraper found **3193** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|2|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|161.97.183.154|3128|Germany|Düsseldorf|Contabo GmbH|
+|1|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|2|82.202.168.225|1234|Russia|Irkutsk|SERVER|
+|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|5|183.172.59.108|7890|China|Beijing|CERNET|
 |6|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
-|7|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|8|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|9|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|10|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|181.129.14.163|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|103.87.229.237|8080|Indonesia|Banjaran|ZITLINE|
-|13|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|14|45.127.56.194|83|India|Hyderabad|Tri-Networks|
-|15|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|16|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|17|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|18|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|19|177.93.50.11|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|20|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|7|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|8|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|137.184.136.135|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|91.107.15.221|53281|Russia|Lyubertsy|AVK-computer ltd|
+|11|186.24.38.149|999|Venezuela|Porlamar|TELEFONICA VENEZOLANA, C.A.|
+|12|95.0.219.234|8080|Turkey|Ulus|TurkTelecom|
+|13|61.153.251.150|22222|China|Beijing|Chinanet|
+|14|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|15|45.65.132.148|8080|Brazil|Carlos Chagas|Aspeednet Telecom ME|
+|16|125.160.221.63|3128|Indonesia|Malang|PT. TELKOM INDONESIA|
+|17|190.144.163.86|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|18|201.144.14.232|53281|Mexico|La Barca|Uninet S.A. de C.V|
+|19|103.161.178.79|9999|Vietnam|Quan Binh Thanh|SOLARE|
+|20|45.184.155.254|6969|Argentina|Mariano Acosta|Ruiz Sebastian Alejandro|
 
 
 

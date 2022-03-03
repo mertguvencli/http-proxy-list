@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3484** proxies at the latest update. Usable proxies are below.
+> Scraper found **3470** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|235|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|235|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|235|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|3|46.28.109.236|8118|Czechia|Hluboka nad Vltavou|WEDOS Internet|
-|4|45.229.58.33|999|Panama|Panama City|GEEK NETWORKS, S.A|
-|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|185.162.142.81|53281|Moldova|Sergheuca|Societatea Comerciala Click-COM SRL|
-|7|5.16.7.213|1256|Russia|St Petersburg|Enforta-MSK|
-|8|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|190.104.230.130|8082|Argentina|Baradero|CPS|
-|11|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|12|123.57.144.181|7777|China|Beijing|Hangzhou Alibaba Advertising Co|
-|13|103.213.116.10|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana|
-|14|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|15|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|16|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|17|94.75.76.3|8080|Poland|Warsaw|ASTER Sp. z o.o|
-|18|95.137.240.30|60030|Georgia|Kutaisi|EGRISI|
-|19|192.109.219.82|8080|Albania|Sarandë|Roland Delia trading as NEWAVE|
-|20|45.229.204.125|55555|Argentina|Dock Sud|Visio RED SRL|
+|1|144.91.83.174|3128|Germany|Nuremberg|Contabo GmbH|
+|2|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|103.204.119.186|8080|India|Mumbai|Akhuratha Communications Pvt. ltd|
+|5|140.238.25.11|3128|South Korea|Seoul|Oracle Corporation|
+|6|177.222.20.123|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|7|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|8|36.95.156.127|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|47.97.11.193|8888|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|10|51.79.144.52|8080|Singapore|Singapore|OVH SAS|
+|11|45.230.172.12|8080|Mexico|Culiacán|Opsicome SA De CV|
+|12|172.107.97.51|443|United Kingdom|London|Psychz Networks|
+|13|216.169.73.65|34679|United States|Cedar City|South Central Communications, Inc.|
+|14|200.25.48.72|3128|United States|Miami|Edgeuno SAS|
+|15|222.223.174.69|63000|China|Zhangjiakou|Chinanet|
+|16|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|17|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|18|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
+|19|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|20|213.178.39.170|8080|Russia|Tolyatti|AIST Networks|
 
 
 

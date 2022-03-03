@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2910** proxies at the latest update. Usable proxies are below.
+> Scraper found **3484** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|2|222.129.37.1|57114|China|Beijing|China Unicom Beijing Province Network|
-|3|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|4|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|5|144.91.83.174|3128|Germany|Nuremberg|Contabo GmbH|
-|6|36.95.156.125|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|7|45.172.111.5|999|Argentina|Villa Media Agua|GPS SANJUAN SRL.|
-|8|176.67.0.242|8080|Ukraine|Cherkasy|broadband|
-|9|165.16.27.7|1976|Libya|Darnah|Aljeel Aljadeed For Technology|
-|10|190.90.154.195|999|Colombia|Bogotá|Internexa Brasil Operadora De Telecomunicacoes S.A|
-|11|177.144.132.246|8080|Brazil|São Paulo|Vivo|
-|12|94.228.207.86|8087|Russia|Moscow|Uniontel ZAO network|
-|13|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|14|159.192.131.178|8080|Thailand|Samphanthawong|CAT-BB|
-|15|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
-|16|46.161.194.71|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|17|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
-|18|143.208.200.26|7878|Brazil|João Pessoa|Eternal VÔdeo Locadora Ltda|
-|19|111.90.188.206|8080|Cambodia|Phnom Penh|MekongNet|
-|20|43.224.10.32|6666|India|Surat|gtpl hariom world vision|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|3|46.28.109.236|8118|Czechia|Hluboka nad Vltavou|WEDOS Internet|
+|4|45.229.58.33|999|Panama|Panama City|GEEK NETWORKS, S.A|
+|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|185.162.142.81|53281|Moldova|Sergheuca|Societatea Comerciala Click-COM SRL|
+|7|5.16.7.213|1256|Russia|St Petersburg|Enforta-MSK|
+|8|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|190.104.230.130|8082|Argentina|Baradero|CPS|
+|11|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|12|123.57.144.181|7777|China|Beijing|Hangzhou Alibaba Advertising Co|
+|13|103.213.116.10|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana|
+|14|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|15|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|16|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|17|94.75.76.3|8080|Poland|Warsaw|ASTER Sp. z o.o|
+|18|95.137.240.30|60030|Georgia|Kutaisi|EGRISI|
+|19|192.109.219.82|8080|Albania|Sarandë|Roland Delia trading as NEWAVE|
+|20|45.229.204.125|55555|Argentina|Dock Sud|Visio RED SRL|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3023** proxies at the latest update. Usable proxies are below.
+> Scraper found **2982** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|2|121.88.250.73|3128|South Korea|Suwon|DLIVE|
-|3|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
-|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|47.116.112.227|7788|China|Shanghai|Addresses CNNIC|
-|6|139.99.99.165|80|Singapore|Singapore|OVH SAS|
-|7|182.53.231.229|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|8|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
-|9|59.63.118.227|41979|China|Dunhou|Chinanet|
-|10|101.255.164.58|8080|Indonesia|Karawang|PT Remala Abadi|
-|11|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|200.39.63.206|999|Dominican Republic|Santiago de los Caballeros|Mktel SRL|
-|13|45.228.232.223|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|14|59.66.224.29|7890|China|Beijing|TUZJC2P|
-|15|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
-|16|101.255.164.146|3128|Indonesia|Karawang|PT Remala Abadi|
-|17|45.71.115.62|999|Ecuador|Guayaquil|Nedetel S.A.|
-|18|200.106.187.245|999|Argentina|Jose Maria Ezeiza|Fullnet Solutions S.A.S.|
-|19|31.173.94.93|43539|Russia|Kolomna|MegaFon|
-|20|36.66.19.10|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|1|47.97.11.193|8888|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|51.79.144.52|8080|Singapore|Singapore|OVH SAS|
+|4|84.201.254.47|3128|Russia|Izhevsk|JSC "ER-Telecom Holding"|
+|5|103.86.159.25|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|6|103.47.66.150|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|7|152.200.154.58|999|Colombia|Neiva|Colombia Telecomunicaciones S.a. ESP|
+|8|186.97.177.190|999|Colombia|Marinilla|Colombia Móvil|
+|9|37.204.157.91|41890|Russia|Moscow|NCNET|
+|10|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
+|11|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|12|139.5.132.245|8080|Bangladesh|Dhaka|Geotel Bangladesh IT Ltd|
+|13|181.115.74.251|8080|Honduras|Tegucigalpa|Telgua|
+|14|138.117.84.177|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|15|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
+|16|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|17|187.190.55.43|30000|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
+|18|161.22.34.126|8080|Venezuela|Mérida|MDS TELECOM C.A.|
+|19|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|20|5.189.167.183|8888|Germany|Nuremberg|Contabo GmbH|
 
 
 

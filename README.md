@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3225** proxies at the latest update. Usable proxies are below.
+> Scraper found **3116** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|31.199.12.150|80|Italy|Sulmona|INTERBUSINESS|
-|4|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
-|5|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
-|6|187.190.252.248|999|Mexico|San Juan del Estado|Total Play Telecomunicaciones SA De CV|
-|7|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|9|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
-|10|180.183.115.222|8080|Thailand|Bangkok|Triple T Internet Company Limited|
-|11|200.24.207.196|8080|Ecuador|Velasco Ibarra|Otecel S.A.|
-|12|187.49.75.250|3128|Brazil|Porto Alegre|Sygo Internet|
-|13|89.205.80.6|8080|North Macedonia|Shtip|MEGANET|
-|14|103.161.165.33|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|15|45.174.249.21|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|16|181.129.14.163|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|17|180.180.218.250|8080|Thailand|Khlong Sam Wa|TOT Public Company Limited|
-|18|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|19|95.216.12.141|22209|Finland|Helsinki|Hetzner Online GmbH|
-|20|109.195.23.223|34031|Russia|Saratov|JSC "ER-Telecom Holding"|
+|1|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|2|122.116.20.91|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|185.232.170.159|8080|Bulgaria|Sofia|Network Management Ltd|
+|4|195.191.16.227|3128|Netherlands|Amsterdam|T-Mobile Thuis BV|
+|5|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|181.129.14.163|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|7|45.70.236.124|999|Ecuador|Palestina|Nedetel S.A.|
+|8|14.207.84.11|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
+|10|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|11|180.191.20.102|8080|Philippines|Magsaysay|Globe Telecom|
+|12|45.71.115.62|999|Ecuador|Guayaquil|Nedetel S.A.|
+|13|34.132.61.61|3127|United States|Council Bluffs|Google LLC|
+|14|159.65.69.186|9300|United States|Santa Clara|DigitalOcean, LLC|
+|15|181.198.40.117|999|Ecuador|Latacunga|Telconet S.A|
+|16|36.94.79.241|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|190.12.56.58|8080|Ecuador|Machala|Puntonet S.A.|
+|18|45.189.58.77|9090|Ecuador|Paute|Cbvision S.A.|
+|19|77.236.237.177|8080|Russia|Moscow|Enforta-MSK|
+|20|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
 
 
 

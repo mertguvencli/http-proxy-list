@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3193** proxies at the latest update. Usable proxies are below.
+> Scraper found **3239** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|271|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|271|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|271|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|245|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|245|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|245|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|2|82.202.168.225|1234|Russia|Irkutsk|SERVER|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|5|183.172.59.108|7890|China|Beijing|CERNET|
-|6|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
-|7|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|8|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|9|137.184.136.135|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|91.107.15.221|53281|Russia|Lyubertsy|AVK-computer ltd|
-|11|186.24.38.149|999|Venezuela|Porlamar|TELEFONICA VENEZOLANA, C.A.|
-|12|95.0.219.234|8080|Turkey|Ulus|TurkTelecom|
-|13|61.153.251.150|22222|China|Beijing|Chinanet|
-|14|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|15|45.65.132.148|8080|Brazil|Carlos Chagas|Aspeednet Telecom ME|
-|16|125.160.221.63|3128|Indonesia|Malang|PT. TELKOM INDONESIA|
-|17|190.144.163.86|9090|Colombia|Bogotá|Telmex Colombia S.A.|
-|18|201.144.14.232|53281|Mexico|La Barca|Uninet S.A. de C.V|
-|19|103.161.178.79|9999|Vietnam|Quan Binh Thanh|SOLARE|
-|20|45.184.155.254|6969|Argentina|Mariano Acosta|Ruiz Sebastian Alejandro|
+|1|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
+|2|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|3|31.192.233.30|5006|United States|Atlanta|Chelyabinsk-Signal LLC|
+|4|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|5|45.224.153.58|999|Ecuador|Esmeraldas|Nedetel S.A.|
+|6|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
+|7|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
+|8|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|103.146.170.252|84|India|Bengaluru|Thrishul Broadband Private Ltd|
+|10|159.65.69.186|9300|United States|Santa Clara|DigitalOcean, LLC|
+|11|168.227.56.104|8080|Brazil|Votuporanga|RF connect provedor de acesso ltda-me|
+|12|77.236.238.179|8080|Russia|Moscow|ArtCommunications Ltd.|
+|13|82.99.232.18|58689|Iran|Tehran|Pars Online PJS|
+|14|103.36.11.17|8181|Indonesia|Pangkalan|PT Awinet Global Mandiri|
+|15|131.72.69.98|45005|Brazil|Moita Bonita|TOP NET SERVI?OS LTDA|
+|16|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|17|5.149.219.201|8080|Ukraine|Sevastopol|Lancom Ltd.|
+|18|183.88.210.77|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|96.9.69.164|53281|Cambodia|Phnom Penh|SIGROUPS|
+|20|209.97.161.34|8080|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

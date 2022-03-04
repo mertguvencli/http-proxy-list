@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2927** proxies at the latest update. Usable proxies are below.
+> Scraper found **3042** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|78.47.195.69|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|2|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|3|187.115.10.50|20183|Brazil|Recife|Vivo|
-|4|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|92.60.238.12|8080|Serbia|Niš|Moja Supernova Doo Beograd|
-|8|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
-|9|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|10|222.74.73.202|42055|China|Bieligutai|Chinanet|
-|11|93.99.12.1|8080|Czechia|Prague|Vodafone Czech Republic|
-|12|190.2.210.139|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|186.0.176.147|8080|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
-|14|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
-|15|190.113.40.232|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|16|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
-|17|80.244.229.55|1256|Russia|Moscow|ArtCommunications Ltd.|
-|18|185.202.165.1|53281|Spain|Alhaurin el Grande|AVATEL TELECOM, SA|
-|19|175.139.179.65|42580|Malaysia|Seremban|Telekom Malaysia Berhad|
-|20|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|1|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|2|187.237.121.46|80|Mexico|Akumal|Uninet S.A. de C.V.|
+|3|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|5|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|6|176.37.150.254|41890|Ukraine|Kyiv|Lanet Network|
+|7|170.80.202.242|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|8|77.46.138.38|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
+|9|103.47.66.150|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|10|185.216.176.43|8888|Germany|Karlsruhe|netcup GmbH|
+|11|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|12|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|13|84.201.254.47|3128|Russia|Izhevsk|JSC "ER-Telecom Holding"|
+|14|119.13.85.250|8888|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|15|37.113.132.8|8080|Russia|Chelyabinsk|CJSC "ER-Telecom Holding" Chelyabinsk branch|
+|16|180.191.14.105|8080|Philippines|Baguio City|Globe Telecom|
+|17|31.192.233.30|5006|United States|Atlanta|Chelyabinsk-Signal LLC|
+|18|185.127.224.60|41890|Russia|Moscow|Rusphone OOO|
+|19|113.160.206.37|55138|Vietnam|Nam Định|VietNam Post and Telecom Corporation|
+|20|180.249.22.79|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 
 
 

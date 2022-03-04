@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3324** proxies at the latest update. Usable proxies are below.
+> Scraper found **3440** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|430|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|430|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|430|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|304|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|304|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|304|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.97.183.154|3128|Germany|Düsseldorf|Contabo GmbH|
-|2|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|3|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|4|159.69.208.8|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|5|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|45.5.119.242|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
-|7|212.225.137.109|8080|Spain|Córdoba|Procono S.A|
-|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|9|43.249.227.186|82|India|Hyderabad|Equinox Consulting PVT LTD|
-|10|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|11|103.126.85.173|8080|Indonesia|Banyumas|BINTANGPERKASAORION|
-|12|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|13|101.108.38.18|8080|Thailand|Saraburi|TOT Public Company Limited|
-|14|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|15|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|16|189.20.85.170|8080|Brazil|Barueri|Vivo|
-|17|179.124.31.233|8080|Brazil|Santarém|ZUM TELECOM LTDA- ME|
-|18|47.254.158.22|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
-|19|160.19.232.85|3128|South Africa|Caledon|TWK Communications|
-|20|86.110.27.165|3128|Russia|Moscow|Digit One LLC|
+|1|78.47.195.69|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|2|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|3|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|4|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
+|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|6|47.102.110.19|7890|China|Shanghai|Addresses CNNIC|
+|7|103.161.178.99|9999|Vietnam|Quan Binh Thanh|SOLARE|
+|8|190.109.6.114|999|Colombia|Medellín|Lazus Medellin|
+|9|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|10|103.166.10.134|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
+|11|84.237.254.131|53281|Latvia|Valmiera|LATTELEKOM|
+|12|111.90.179.74|8080|Australia|Marble Bar|Angkor Data Communication|
+|13|47.254.158.22|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
+|14|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|15|77.50.104.4|3128|Russia|Moscow|StarLink Telecom Network|
+|16|31.192.233.30|5006|United States|Atlanta|Chelyabinsk-Signal LLC|
+|17|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|18|178.47.139.151|35102|Russia|Moscow|PJSC Rostelecom|
+|19|95.87.14.245|8181|Bulgaria|Stara Zagora|TK-SZ|
+|20|39.96.113.86|9091|China|Beijing|Hangzhou Alibaba Advertising Co|
 
 
 

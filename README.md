@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3072** proxies at the latest update. Usable proxies are below.
+> Scraper found **2824** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.99.99.165|80|Singapore|Singapore|OVH SAS|
-|2|59.63.118.227|41979|China|Dunhou|Chinanet|
-|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|5|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
-|7|210.77.87.71|3128|China|Beijing|CSTNET|
-|8|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|9|45.174.79.117|999|Mexico|Ciudad Juárez|Raul Duarte Urita|
-|10|201.20.110.35|666|Brazil|Parnamirim|MOB SERVICOS DE TELECOMUNICACOES S.A.|
-|11|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|12|181.225.107.84|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
-|13|181.10.35.241|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
-|14|185.82.96.138|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
-|15|77.236.241.110|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|16|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
-|17|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
-|18|103.66.10.101|8080|India|Mohali|Nitya Internet Private Limited|
-|19|185.103.168.82|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|20|139.99.99.165|80|Singapore|Singapore|OVH SAS|
+|1|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|2|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|3|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|154.212.7.26|999|Mexico|San Luis de la Paz|Ientc S De RL De CV|
+|5|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
+|6|186.67.159.91|999|Chile|Las Condes|Entel Chile S.A.|
+|7|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|8|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|9|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
+|10|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
+|11|103.130.192.74|8080|Indonesia|Wiradesa|PT Mora Telematika Indonesia|
+|12|45.231.170.137|999|Mexico|Tulum|GigNet, S.A. de C.V.|
+|13|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|14|103.14.199.129|83|India|Tirupati|Mobiwalkers|
+|15|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|16|194.114.128.149|61213|Russia|Sochi|OOO "Matritsa"|
+|17|200.25.254.193|54240|Colombia|Medellín|Andinet ON Line|
+|18|177.104.125.173|55443|Brazil|Itaitinga|T-NET WIRELESS E INFORMA&#769 TICA|
+|19|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|20|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
 
 
 

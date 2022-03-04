@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3537** proxies at the latest update. Usable proxies are below.
+> Scraper found **3203** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|376|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|376|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|376|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|5|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|187.216.90.46|53281|Mexico|Mexico City|Uninet S.A. de C.V.|
-|7|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|8|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
-|9|206.62.162.124|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|10|103.227.141.90|8181|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
-|11|1.180.156.226|65001|China|Changning|Chinanet|
-|12|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|13|185.103.168.70|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|14|45.224.153.39|999|Ecuador|Esmeraldas|Nedetel S.A.|
-|15|103.14.198.145|83|India|Bengaluru|Mobiwalkers|
-|16|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|17|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
-|18|180.178.189.102|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|19|177.129.53.114|8080|Brazil|Vicosa|VSAT- TELECOMUNICA??ES LTDA|
-|20|103.207.1.82|8080|India|Tirupur|Sri Vari Network Private Limited|
+|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|213.32.75.44|9300|France|Gravelines|OVH SAS|
+|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|4|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|69.43.44.106|8080|United States|Morgantown|CityNet|
+|7|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|9|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|10|103.161.164.117|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|11|103.111.57.59|8090|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|12|103.161.165.2|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|13|139.255.71.90|8080|Indonesia|Jakarta|PT. LINKNET|
+|14|139.255.128.114|8080|Indonesia|Jakarta|PT. First Media, Tbk|
+|15|103.66.196.218|23500|Indonesia|Bogor|PT. Mora Telematika Indonesia|
+|16|85.31.251.62|8080|Poland|Krakow|Energit Sp. z o.o.|
+|17|115.77.138.134|8080|Vietnam|Ho Chi Minh City|Viettel Group|
+|18|180.211.248.222|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|19|190.69.153.82|999|Colombia|Facatativá|Colombia Telecomunicaciones S.a. ESP|
+|20|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
 
 
 

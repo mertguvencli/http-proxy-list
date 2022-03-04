@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3638** proxies at the latest update. Usable proxies are below.
+> Scraper found **3326** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|389|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|389|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|389|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|95.216.182.12|1994|Finland|Helsinki|Hetzner Online GmbH|
-|3|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|4|39.96.113.86|9091|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|206.189.151.3|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|181.129.243.100|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|9|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|10|198.52.241.12|999|Puerto Rico|Corozal|OSNET Wireless|
-|11|177.23.149.170|3128|Brazil|Rio de Janeiro|SpeedWeb Net Telecomunicacoes|
-|12|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|13|207.148.28.167|59394|United States|Piscataway|The Constant Company|
-|14|27.72.147.22|40009|Vietnam|Hanoi|Newass2011xDSLHN|
-|15|47.74.114.83|3128|Australia|Sydney|Alibaba.com LLC|
-|16|119.252.171.50|8080|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|17|46.0.203.186|8080|Russia|Samara|JSC "ER-Telecom Holding"|
-|18|181.143.235.94|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|19|103.228.119.10|8080|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
-|20|180.191.20.102|8080|Philippines|Magsaysay|Globe Telecom|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|190.2.209.2|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|4|70.15.116.177|8888|United States|Manheim|PenTeleData Inc.|
+|5|170.244.210.110|999|Ecuador|Canar|Nedetel S.A.|
+|6|139.224.18.38|8080|China|Shanghai|Addresses CNNIC|
+|7|58.51.118.146|3128|China|Wulipu|Chinanet|
+|8|38.123.78.110|999|Mexico|Tlaquepaque|Cogent Communications|
+|9|80.122.183.158|8080|Austria|Gerasdorf bei Wien|A1 Telekom Austria AG|
+|10|131.221.97.8|55443|Brazil|Taquaritinga do Norte|Jobson Luis Melo de Negreiros ME|
+|11|201.249.161.51|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
+|12|203.153.125.246|8080|Indonesia|Tangerang|GMNUSANTARA|
+|13|131.100.51.250|999|Colombia|Neiva|Fibernet TV SAS|
+|14|187.33.44.78|37600|Brazil|São Paulo|Vogel SoluÔÔes em Telecom e InformÔtica S/A|
+|15|27.72.105.233|19132|Vietnam|Hanoi|Newass2011xDSLHN|
+|16|94.79.4.53|8080|Russia|Moscow|OJSC Comcor|
+|17|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
+|18|181.205.46.178|41890|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|187.227.10.43|999|Mexico|Chilpancingo|Uninet S.A. de C.V.|
+|20|200.48.3.227|10101|Peru|Lima|Telefonica del Peru S.A.A.|
 
 
 

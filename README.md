@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3092** proxies at the latest update. Usable proxies are below.
+> Scraper found **3072** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.114.174.168|11113|Canada|Montreal|OVH SAS|
-|2|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|3|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|4|103.161.178.98|9999|Vietnam|Quan Binh Thanh|SOLARE|
-|5|54.82.127.154|8787|United States|Ashburn|Amazon Technologies Inc.|
-|6|201.184.107.26|999|Colombia|El Rosal|EPM Telecomunicaciones S.A. E.S.P.|
-|7|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|8|45.174.249.21|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|9|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|10|59.66.19.40|7890|China|Haidian|TSINGHUA|
-|11|89.205.80.6|8080|North Macedonia|Shtip|MEGANET|
-|12|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|179.43.101.150|999|Argentina|Belen de Escobar|Advantun SRL|
-|14|182.23.79.162|39902|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|15|103.161.164.101|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|16|58.51.118.146|3128|China|Wulipu|Chinanet|
-|17|124.41.240.96|55443|Nepal|Kathmandu|WorldLink Communications|
-|18|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|19|186.0.176.147|80|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
-|20|179.43.94.238|999|Peru|Arequipa|MEDIA COMMERCE PERÚ S.A.C|
+|1|139.99.99.165|80|Singapore|Singapore|OVH SAS|
+|2|59.63.118.227|41979|China|Dunhou|Chinanet|
+|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|5|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
+|7|210.77.87.71|3128|China|Beijing|CSTNET|
+|8|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|9|45.174.79.117|999|Mexico|Ciudad Juárez|Raul Duarte Urita|
+|10|201.20.110.35|666|Brazil|Parnamirim|MOB SERVICOS DE TELECOMUNICACOES S.A.|
+|11|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|12|181.225.107.84|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
+|13|181.10.35.241|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|14|185.82.96.138|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|15|77.236.241.110|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|16|153.3.250.242|33080|China|Qinhuai|China Unicom Jiangsu Province Network|
+|17|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
+|18|103.66.10.101|8080|India|Mohali|Nitya Internet Private Limited|
+|19|185.103.168.82|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|20|139.99.99.165|80|Singapore|Singapore|OVH SAS|
 
 
 

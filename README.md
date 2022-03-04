@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2989** proxies at the latest update. Usable proxies are below.
+> Scraper found **2536** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.3.169.53|8081|Italy|Cesena|Cesena NET S.R.L.|
-|2|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|3|191.97.1.89|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
-|4|165.16.27.5|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|5|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|189.199.106.202|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
-|7|14.54.27.37|4004|South Korea|Yongsan-gu|Korea Telecom|
-|8|177.222.20.123|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|9|186.3.85.137|999|Ecuador|Loja|Telconet S.A|
-|10|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
-|11|89.218.58.122|8080|Kazakhstan|Nur-Sultan|JSC Kazakhtelecom|
-|12|200.88.174.10|999|Dominican Republic|Bajos de Haina|Compañía Dominicana de Teléfonos S. A.|
-|13|67.73.245.218|999|Colombia|Puerto Wilches|Level 3|
-|14|103.102.15.91|8080|Indonesia|Kembangkerang Lauk Timur|GLOBALMEDIANET|
-|15|103.6.52.35|3128|Indonesia|Sampora|ARDH|
-|16|41.216.98.122|8080|Rwanda|Kigali|LTR|
-|17|51.77.100.172|8083|United Kingdom|London|OVH SAS|
-|18|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|212.156.57.214|8080|Turkey|Istanbul|Turk Telekomunikasyon A.S|
-|20|103.156.216.194|8080|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
+|1|190.205.32.70|999|Venezuela|Barquisimeto|CANTV Servicios, Venezuela|
+|2|201.220.102.146|8080|Chile|Talca|Telefonica del Sur S.A.|
+|3|183.88.7.140|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|4|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|5|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|6|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
+|7|186.3.85.138|999|Ecuador|Loja|Telconet S.A|
+|8|103.163.193.254|83|India|Bongaigaon|Orbit Broadband|
+|9|93.100.113.99|8080|Russia|St Petersburg|SkyNet LLC|
+|10|200.123.228.186|999|Peru|Lima|Cable Selva Central S.A.C.|
+|11|95.216.182.12|1994|Finland|Helsinki|Hetzner Online GmbH|
+|12|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|13|175.101.120.146|8080|India|Kadapa|ExcellMedia Pvt Ltd|
+|14|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|15|190.144.163.86|9090|Colombia|Bogotá|Telmex Colombia S.A.|
+|16|82.99.232.18|58689|Iran|Tehran|Pars Online PJS|
+|17|98.154.21.253|3128|United States|Los Angeles|Charter Communications Inc|
+|18|181.129.43.3|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
+|20|54.82.127.154|8787|United States|Ashburn|Amazon Technologies Inc.|
 
 
 

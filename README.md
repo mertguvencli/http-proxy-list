@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|2|189.148.189.177|999|Mexico|Nacajuca|Uninet S.A. de C.V|
-|3|40.88.134.114|8214|United States|Ashburn|Microsoft Corporation|
-|4|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|5|119.59.125.189|3128|Thailand|Samphanthawong|Metrabyte Co., Ltd|
-|6|167.114.174.168|11113|Canada|Montreal|OVH SAS|
-|7|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
-|8|175.101.14.114|83|India|Hyderabad|ExcellMedia Pvt Ltd|
-|9|105.112.84.139|41890|Nigeria|Ikoyi|Airtel Networks Limited|
-|10|200.24.199.146|999|Ecuador|Guayaquil|Otecel S.A.|
-|11|36.89.148.47|33677|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|190.121.153.93|999|Colombia|Villanueva|Media Commerce Partners S.A|
-|13|204.199.113.28|999|Colombia|Bogotá|CTL Colombia|
-|14|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|15|187.144.208.108|3128|Mexico|Manzanillo|Uninet S.A. de C.V.|
-|16|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|17|103.124.87.1|8080|India|Ranchi|Streamonn Internet Services Private Limited|
-|18|195.178.56.37|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|19|193.200.151.69|48241|Ukraine|Odessa|LIMANET Ltd.|
-|20|113.190.232.222|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|167.114.174.168|11113|Canada|Montreal|OVH SAS|
+|2|85.214.71.122|8118|Germany|Berlin|Strato AG|
+|3|149.125.108.241|8080|United States|Binghamton|Binghamton University|
+|4|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|185.194.142.229|8118|Germany|Karlsruhe|netcup GmbH|
+|6|115.29.170.58|8118|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|7|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|8|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|9|181.49.158.165|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|11|102.65.131.76|8080|South Africa|Pretoria|Webafrica - National Openserve DSL/FTTH|
+|12|201.77.110.1|999|Mexico|Cuauhtemoc|Nidix Networks S.a. De C.V.|
+|13|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
+|14|61.8.75.186|3128|Indonesia|Depok|PT Aplikanusa Lintasarta|
+|15|186.3.38.201|999|Ecuador|Guayaquil|Telconet S.A|
+|16|101.51.139.179|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|103.122.32.10|8080|Indonesia|Bogor|PT. Mora Telematika Indonesia|
+|18|58.27.255.98|80|Pakistan|Lahore|Wateen Telecom Limited|
+|19|186.0.176.147|8080|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
+|20|212.154.23.82|9090|Turkey|Istanbul|TurkNet Iletisim Hizmetleri|
 
 
 

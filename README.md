@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3465** proxies at the latest update. Usable proxies are below.
+> Scraper found **3638** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|300|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|300|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|300|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.24.135.228|999|Ecuador|Guayaquil|Nedetel S.A.|
-|2|216.238.78.39|8009|Mexico|Mexico City|The Constant Company|
-|3|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|4|189.140.186.176|999|Mexico|Miguel Aleman|Uninet S.A. de C.V|
-|5|59.66.142.35|7890|China|Beijing|TUZJC2P|
-|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
-|8|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|9|161.22.34.101|999|Venezuela|Mérida|MDS TELECOM C.A.|
-|10|186.97.156.130|999|Colombia|Medellín|Colombia Móvil|
-|11|93.189.45.109|3128|Russia|Moscow|Limited Liability Company NTCOM|
-|12|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|13|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
-|14|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|15|134.209.42.113|8890|United States|Clifton|DigitalOcean, LLC|
-|16|46.35.249.189|41419|Ukraine|Sevastopol|Lancom Ltd.|
-|17|90.64.89.64|8081|Slovakia|Bratislava|Orange Slovensko a.s.|
-|18|195.97.124.164|8080|Greece|Athens|Vodafone-panafon Hellenic Telecommunications Company SA|
-|19|203.29.26.241|8080|Indonesia|Babadan|PT. Java Digital Nusantara|
-|20|188.65.237.46|49733|Russia|Kommunarka|M9com RO|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|95.216.182.12|1994|Finland|Helsinki|Hetzner Online GmbH|
+|3|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|4|39.96.113.86|9091|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|206.189.151.3|8080|Singapore|Singapore|DigitalOcean, LLC|
+|6|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|8|181.129.243.100|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|9|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|10|198.52.241.12|999|Puerto Rico|Corozal|OSNET Wireless|
+|11|177.23.149.170|3128|Brazil|Rio de Janeiro|SpeedWeb Net Telecomunicacoes|
+|12|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|13|207.148.28.167|59394|United States|Piscataway|The Constant Company|
+|14|27.72.147.22|40009|Vietnam|Hanoi|Newass2011xDSLHN|
+|15|47.74.114.83|3128|Australia|Sydney|Alibaba.com LLC|
+|16|119.252.171.50|8080|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|17|46.0.203.186|8080|Russia|Samara|JSC "ER-Telecom Holding"|
+|18|181.143.235.94|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|19|103.228.119.10|8080|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|20|180.191.20.102|8080|Philippines|Magsaysay|Globe Telecom|
 
 
 

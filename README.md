@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3629** proxies at the latest update. Usable proxies are below.
+> Scraper found **3324** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|283|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|283|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|283|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|430|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|430|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|430|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|2|47.254.158.22|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
-|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|5|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|6|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|8|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|9|140.227.211.47|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|10|206.161.97.4|31337|United States|Ashburn|PCCW Global, Inc.|
-|11|188.133.137.9|8081|Russia|Moscow|Enforta-SPB|
-|12|181.209.82.154|23500|Argentina|Caleta Olivia|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|13|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
-|14|200.25.48.72|3128|United States|Miami|Edgeuno SAS|
-|15|190.2.210.139|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|80.63.84.58|8081|Denmark|Frederiksberg|TDC A/S|
-|17|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|18|36.95.34.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|161.49.116.131|1337|Philippines|Lucban|Converge ICT Solution Inc|
-|20|185.37.211.222|50330|Portugal|Amadora|Vodafone Portugal - Communicacoes Pessoais S.A.|
+|1|161.97.183.154|3128|Germany|Düsseldorf|Contabo GmbH|
+|2|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|3|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|4|159.69.208.8|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|5|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|45.5.119.242|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|7|212.225.137.109|8080|Spain|Córdoba|Procono S.A|
+|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|9|43.249.227.186|82|India|Hyderabad|Equinox Consulting PVT LTD|
+|10|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|11|103.126.85.173|8080|Indonesia|Banyumas|BINTANGPERKASAORION|
+|12|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|13|101.108.38.18|8080|Thailand|Saraburi|TOT Public Company Limited|
+|14|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
+|15|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|16|189.20.85.170|8080|Brazil|Barueri|Vivo|
+|17|179.124.31.233|8080|Brazil|Santarém|ZUM TELECOM LTDA- ME|
+|18|47.254.158.22|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
+|19|160.19.232.85|3128|South Africa|Caledon|TWK Communications|
+|20|86.110.27.165|3128|Russia|Moscow|Digit One LLC|
 
 
 

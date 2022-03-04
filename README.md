@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2728** proxies at the latest update. Usable proxies are below.
+> Scraper found **3092** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.113.40.18|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|2|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|3|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
-|4|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|170.79.12.72|9090|Brazil|Teresina|I T Tecnologia e InformaÔÔo Ltda|
-|6|43.243.140.198|8080|Indonesia|Jakarta|CEPATNET|
-|7|152.26.231.86|9443|United States|Hillsborough|MCNC|
-|8|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
-|9|103.165.251.2|8080|Indonesia|Nanga Bulik|PT Aulia Sentral Multidata|
-|10|103.154.24.18|8080|Indonesia|Selong|HIJRAHNET|
-|11|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|13|118.67.219.153|8080|Bangladesh|Dhaka|InterCloud Limited|
-|14|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
-|15|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
-|17|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
-|18|117.1.101.176|40009|Vietnam|Hanoi|Viettel Corporation|
-|19|139.162.60.194|8080|Singapore|Singapore|Linode, LLC|
-|20|58.97.72.83|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
+|1|167.114.174.168|11113|Canada|Montreal|OVH SAS|
+|2|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|3|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|4|103.161.178.98|9999|Vietnam|Quan Binh Thanh|SOLARE|
+|5|54.82.127.154|8787|United States|Ashburn|Amazon Technologies Inc.|
+|6|201.184.107.26|999|Colombia|El Rosal|EPM Telecomunicaciones S.A. E.S.P.|
+|7|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|8|45.174.249.21|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|9|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|10|59.66.19.40|7890|China|Haidian|TSINGHUA|
+|11|89.205.80.6|8080|North Macedonia|Shtip|MEGANET|
+|12|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|179.43.101.150|999|Argentina|Belen de Escobar|Advantun SRL|
+|14|182.23.79.162|39902|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|15|103.161.164.101|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|16|58.51.118.146|3128|China|Wulipu|Chinanet|
+|17|124.41.240.96|55443|Nepal|Kathmandu|WorldLink Communications|
+|18|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|19|186.0.176.147|80|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
+|20|179.43.94.238|999|Peru|Arequipa|MEDIA COMMERCE PERÚ S.A.C|
 
 
 

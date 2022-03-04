@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3203** proxies at the latest update. Usable proxies are below.
+> Scraper found **2989** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|213.32.75.44|9300|France|Gravelines|OVH SAS|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|6|69.43.44.106|8080|United States|Morgantown|CityNet|
-|7|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|8|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|9|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|10|103.161.164.117|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|11|103.111.57.59|8090|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|12|103.161.165.2|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|13|139.255.71.90|8080|Indonesia|Jakarta|PT. LINKNET|
-|14|139.255.128.114|8080|Indonesia|Jakarta|PT. First Media, Tbk|
-|15|103.66.196.218|23500|Indonesia|Bogor|PT. Mora Telematika Indonesia|
-|16|85.31.251.62|8080|Poland|Krakow|Energit Sp. z o.o.|
-|17|115.77.138.134|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|18|180.211.248.222|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|19|190.69.153.82|999|Colombia|Facatativá|Colombia Telecomunicaciones S.a. ESP|
-|20|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|1|31.3.169.53|8081|Italy|Cesena|Cesena NET S.R.L.|
+|2|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|3|191.97.1.89|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
+|4|165.16.27.5|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|5|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|189.199.106.202|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
+|7|14.54.27.37|4004|South Korea|Yongsan-gu|Korea Telecom|
+|8|177.222.20.123|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
+|9|186.3.85.137|999|Ecuador|Loja|Telconet S.A|
+|10|157.100.144.29|999|Ecuador|Sangolqui|Telconet S.A|
+|11|89.218.58.122|8080|Kazakhstan|Nur-Sultan|JSC Kazakhtelecom|
+|12|200.88.174.10|999|Dominican Republic|Bajos de Haina|Compañía Dominicana de Teléfonos S. A.|
+|13|67.73.245.218|999|Colombia|Puerto Wilches|Level 3|
+|14|103.102.15.91|8080|Indonesia|Kembangkerang Lauk Timur|GLOBALMEDIANET|
+|15|103.6.52.35|3128|Indonesia|Sampora|ARDH|
+|16|41.216.98.122|8080|Rwanda|Kigali|LTR|
+|17|51.77.100.172|8083|United Kingdom|London|OVH SAS|
+|18|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|212.156.57.214|8080|Turkey|Istanbul|Turk Telekomunikasyon A.S|
+|20|103.156.216.194|8080|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
 
 
 

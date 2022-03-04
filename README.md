@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3440** proxies at the latest update. Usable proxies are below.
+> Scraper found **3246** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|304|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|304|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|304|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|237|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|237|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|237|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|78.47.195.69|8888|Germany|Nuremberg|Hetzner Online GmbH|
-|2|121.88.250.73|3128|South Korea|Suwon|DLIVE|
-|3|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|4|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|47.102.110.19|7890|China|Shanghai|Addresses CNNIC|
-|7|103.161.178.99|9999|Vietnam|Quan Binh Thanh|SOLARE|
-|8|190.109.6.114|999|Colombia|Medellín|Lazus Medellin|
-|9|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|10|103.166.10.134|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|11|84.237.254.131|53281|Latvia|Valmiera|LATTELEKOM|
-|12|111.90.179.74|8080|Australia|Marble Bar|Angkor Data Communication|
-|13|47.254.158.22|17981|Germany|Frankfurt am Main|Alibaba.com LLC|
-|14|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|15|77.50.104.4|3128|Russia|Moscow|StarLink Telecom Network|
-|16|31.192.233.30|5006|United States|Atlanta|Chelyabinsk-Signal LLC|
-|17|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|18|178.47.139.151|35102|Russia|Moscow|PJSC Rostelecom|
-|19|95.87.14.245|8181|Bulgaria|Stara Zagora|TK-SZ|
-|20|39.96.113.86|9091|China|Beijing|Hangzhou Alibaba Advertising Co|
+|1|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|3|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|4|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|5|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|1.180.156.226|65001|China|Changning|Chinanet|
+|7|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|8|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|9|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|10|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
+|11|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|12|36.66.103.211|3128|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
+|13|103.47.66.150|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|14|194.163.128.225|3128|Germany|Düsseldorf|Contabo GmbH|
+|15|103.159.46.25|82|India|Ahmedabad|King Netsol Private Limited|
+|16|161.97.183.154|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|8.217.112.99|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|18|45.189.254.49|999|Mexico|Alvarado|Tracered SA De CV|
+|19|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|20|43.252.10.212|2222|Indonesia|Jakarta|QUANTUMNET|
 
 
 

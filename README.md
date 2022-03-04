@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3042** proxies at the latest update. Usable proxies are below.
+> Scraper found **2728** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|2|187.237.121.46|80|Mexico|Akumal|Uninet S.A. de C.V.|
-|3|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|4|121.88.250.73|3128|South Korea|Suwon|DLIVE|
-|5|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|6|176.37.150.254|41890|Ukraine|Kyiv|Lanet Network|
-|7|170.80.202.242|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|8|77.46.138.38|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
-|9|103.47.66.150|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
-|10|185.216.176.43|8888|Germany|Karlsruhe|netcup GmbH|
-|11|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|12|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|13|84.201.254.47|3128|Russia|Izhevsk|JSC "ER-Telecom Holding"|
-|14|119.13.85.250|8888|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|15|37.113.132.8|8080|Russia|Chelyabinsk|CJSC "ER-Telecom Holding" Chelyabinsk branch|
-|16|180.191.14.105|8080|Philippines|Baguio City|Globe Telecom|
-|17|31.192.233.30|5006|United States|Atlanta|Chelyabinsk-Signal LLC|
-|18|185.127.224.60|41890|Russia|Moscow|Rusphone OOO|
-|19|113.160.206.37|55138|Vietnam|Nam Định|VietNam Post and Telecom Corporation|
-|20|180.249.22.79|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|1|190.113.40.18|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
+|2|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|3|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
+|4|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|170.79.12.72|9090|Brazil|Teresina|I T Tecnologia e InformaÔÔo Ltda|
+|6|43.243.140.198|8080|Indonesia|Jakarta|CEPATNET|
+|7|152.26.231.86|9443|United States|Hillsborough|MCNC|
+|8|45.167.253.129|999|Mexico|San Luis Potosí City|QDS NETWORKS SA DE CV|
+|9|103.165.251.2|8080|Indonesia|Nanga Bulik|PT Aulia Sentral Multidata|
+|10|103.154.24.18|8080|Indonesia|Selong|HIJRAHNET|
+|11|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|13|118.67.219.153|8080|Bangladesh|Dhaka|InterCloud Limited|
+|14|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
+|15|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
+|17|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|18|117.1.101.176|40009|Vietnam|Hanoi|Viettel Corporation|
+|19|139.162.60.194|8080|Singapore|Singapore|Linode, LLC|
+|20|58.97.72.83|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
 
 
 

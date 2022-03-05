@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3172** proxies at the latest update. Usable proxies are below.
+> Scraper found **2916** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|218.238.214.45|8080|South Korea|Seoul|SK Broadband Co Ltd|
-|2|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|3|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
-|5|125.160.221.63|3128|Indonesia|Malang|PT. TELKOM INDONESIA|
-|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|7|94.179.135.230|43033|Ukraine|Kyiv|UKRTELECOM|
-|8|201.140.209.42|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
-|9|101.53.154.137|2002|India|Noida|E2E Networks Limited|
-|10|161.97.183.154|3128|Germany|Düsseldorf|Contabo GmbH|
-|11|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|12|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|13|187.243.250.197|3128|Mexico|Mazatlán|Mega Cable, S.A. de C.V.|
-|14|85.172.19.214|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|15|190.108.200.176|8080|Guyana|Georgetown|E-Networks Inc.|
-|16|190.57.245.250|8080|Argentina|Corrientes|Gigared S.A|
-|17|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|18|200.48.3.226|10101|Peru|Lima|Telefonica del Peru S.A.A.|
-|19|200.48.146.67|8080|Peru|Lima|Telefonica del Peru S.A.A.|
-|20|103.156.75.41|8080|Indonesia|Gianyar|PT Trika Global Media|
+|1|51.83.231.84|3128|Poland|Warsaw|OVH SAS|
+|2|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|3|63.161.104.189|3128|United States|Itasca|Sprint|
+|4|51.38.155.118|3128|Poland|Warsaw|OVH SAS|
+|5|51.83.231.85|3128|Poland|Warsaw|OVH SAS|
+|6|51.83.232.93|3128|Poland|Warsaw|OVH SAS|
+|7|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|8|54.38.141.156|3128|Poland|Warsaw|OVH SAS|
+|9|54.38.51.133|3128|Poland|Warsaw|OVH SAS|
+|10|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
+|11|24.217.192.131|57273|United States|St Louis|Charter Communications|
+|12|51.77.35.133|3128|Poland|Warsaw|OVH SAS|
+|13|85.117.56.147|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|14|51.83.241.108|3128|Poland|Warsaw|OVH SAS|
+|15|177.242.148.14|999|Mexico|Tizayuca|Mega Cable, S.A. de C.V.|
+|16|54.38.141.158|3128|Poland|Warsaw|OVH SAS|
+|17|176.36.20.67|61935|Ukraine|Kyiv|Lanet Network|
+|18|138.185.190.46|8080|Brazil|Pio IX|Virtex Ltda|
+|19|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
 
 
 

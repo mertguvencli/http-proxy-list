@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3057** proxies at the latest update. Usable proxies are below.
+> Scraper found **2923** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|1|206.125.47.4|80|United States|San Jose|AirlineReservations.Com|
 |2|63.161.104.189|3128|United States|Itasca|Sprint|
-|3|213.220.219.212|8118|Czechia|Prague|Vodafone Czech Republic a.s.|
-|4|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|5|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|6|77.50.104.4|3128|Russia|Moscow|StarLink Telecom Network|
-|7|189.199.106.202|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
-|8|36.94.58.243|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|9|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
-|10|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|11|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
-|12|176.214.97.13|8081|Russia|Kurgan|JSC "ER-Telecom Holding"|
-|13|177.37.16.104|8080|Brazil|Maceió|R3 TELECOM|
-|14|191.102.113.59|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|181.192.28.236|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
-|16|45.195.76.190|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|17|177.93.50.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|103.176.79.36|8080|Indonesia|Cibinong|PT Cloud Hosting Indonesia|
-|19|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
-|20|201.217.55.97|8080|Paraguay|Asunción|CO.PA.CO|
+|3|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|4|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|7|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|8|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|9|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|10|88.255.101.228|8080|Turkey|Antalya|Turk Telekomunikasyon Anonim Sirketi|
+|11|180.249.22.79|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|12|130.185.122.92|7769|Netherlands|Dronten|Softqloud GmbH|
+|13|156.155.162.246|4415|South Africa|Boksburg|AxxessNetworks|
+|14|201.229.250.20|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|15|138.117.230.140|999|Guatemala|Huehuetenango|Fibernet S.A|
+|16|161.22.34.101|999|Venezuela|Mérida|MDS TELECOM C.A.|
+|17|200.26.190.74|999|Belize|Belize City|TELERY NETWORKS, S.R.L|
+|18|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
+|19|114.7.27.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|20|179.189.125.222|8080|Brazil|Parnaiba|IP CARRIER BRASIL|
 
 
 

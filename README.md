@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2923** proxies at the latest update. Usable proxies are below.
+> Scraper found **2937** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.125.47.4|80|United States|San Jose|AirlineReservations.Com|
-|2|63.161.104.189|3128|United States|Itasca|Sprint|
-|3|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
-|4|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|7|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|1|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|2|176.31.68.252|20164|Spain|Madrid|OVH SAS|
+|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|78.47.195.69|8888|Germany|Nuremberg|Hetzner Online GmbH|
+|6|158.69.72.138|9300|Canada|Montreal|OVH SAS|
+|7|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
 |8|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|9|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|10|88.255.101.228|8080|Turkey|Antalya|Turk Telekomunikasyon Anonim Sirketi|
-|11|180.249.22.79|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|130.185.122.92|7769|Netherlands|Dronten|Softqloud GmbH|
-|13|156.155.162.246|4415|South Africa|Boksburg|AxxessNetworks|
-|14|201.229.250.20|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|15|138.117.230.140|999|Guatemala|Huehuetenango|Fibernet S.A|
-|16|161.22.34.101|999|Venezuela|Mérida|MDS TELECOM C.A.|
-|17|200.26.190.74|999|Belize|Belize City|TELERY NETWORKS, S.R.L|
-|18|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
-|19|114.7.27.98|8080|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|20|179.189.125.222|8080|Brazil|Parnaiba|IP CARRIER BRASIL|
+|9|130.185.122.92|7769|Netherlands|Dronten|Softqloud GmbH|
+|10|63.161.104.189|3128|United States|Itasca|Sprint|
+|11|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|12|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|13|190.110.111.154|999|Chile|Las Condes|Silica Networks Argentina S.A.|
+|14|1.180.156.226|65001|China|Changning|Chinanet|
+|15|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
+|16|103.121.49.137|8080|Bangladesh|Jhingergacha|Md. Tohidul Islam|
+|17|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|182.93.89.126|8080|Nepal|Kathmandu|Subisu PUB|
+|19|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|20|45.201.136.87|8080|Cambodia|Phnom Penh|King Technologies Co|
 
 
 

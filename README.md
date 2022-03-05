@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2757** proxies at the latest update. Usable proxies are below.
+> Scraper found **3246** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|63.161.104.189|3128|United States|Itasca|Sprint|
-|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|5|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
-|6|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|8|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|9|1.180.156.226|65001|China|Changning|Chinanet|
-|10|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
-|11|46.173.214.14|8118|Russia|Moscow|Garant-Park-Internet LLC|
-|12|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
-|13|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|94.79.4.53|8080|Russia|Moscow|OJSC Comcor|
-|15|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|16|51.79.144.52|8080|Singapore|Singapore|OVH SAS|
-|17|206.161.97.64|31337|United States|Ashburn|PCCW Global, Inc.|
-|18|165.16.80.101|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|19|101.255.103.201|53281|Indonesia|Bekasi|PT Remala Abadi|
-|20|216.176.187.99|39825|United States|Los Angeles|Wowrack.com|
+|1|63.161.104.189|3128|United States|Itasca|Sprint|
+|2|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|6|130.185.122.92|7769|Netherlands|Dronten|Softqloud GmbH|
+|7|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|8|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|9|181.188.216.151|8080|Ecuador|Quito|Nedetel S.A|
+|10|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
+|11|59.66.224.29|7890|China|Beijing|TUZJC2P|
+|12|186.3.38.201|999|Ecuador|Guayaquil|Telconet S.A|
+|13|45.173.230.189|999|Ecuador|Otavalo|Eliana Vanessa Morocho Oña|
+|14|95.217.88.72|40075|Finland|Helsinki|Hetzner Online GmbH|
+|15|95.0.206.22|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|16|101.53.154.137|2016|India|Noida|E2E Networks Limited|
+|17|41.60.232.9|34098|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|18|128.201.30.218|666|Brazil|Salvador|Poliserv Servicos E Comercio Ltda - ME|
+|19|77.236.248.215|1256|Russia|Balashikha|ArtCommunications Ltd. ISP. Moscow|
+|20|190.7.58.55|3128|Argentina|Santa Elena|Gigared S.A.|
 
 
 

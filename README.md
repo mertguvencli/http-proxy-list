@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3326** proxies at the latest update. Usable proxies are below.
+> Scraper found **3594** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|389|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|389|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|389|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|190.2.209.2|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|4|70.15.116.177|8888|United States|Manheim|PenTeleData Inc.|
-|5|170.244.210.110|999|Ecuador|Canar|Nedetel S.A.|
-|6|139.224.18.38|8080|China|Shanghai|Addresses CNNIC|
-|7|58.51.118.146|3128|China|Wulipu|Chinanet|
-|8|38.123.78.110|999|Mexico|Tlaquepaque|Cogent Communications|
-|9|80.122.183.158|8080|Austria|Gerasdorf bei Wien|A1 Telekom Austria AG|
-|10|131.221.97.8|55443|Brazil|Taquaritinga do Norte|Jobson Luis Melo de Negreiros ME|
-|11|201.249.161.51|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
-|12|203.153.125.246|8080|Indonesia|Tangerang|GMNUSANTARA|
-|13|131.100.51.250|999|Colombia|Neiva|Fibernet TV SAS|
-|14|187.33.44.78|37600|Brazil|São Paulo|Vogel SoluÔÔes em Telecom e InformÔtica S/A|
-|15|27.72.105.233|19132|Vietnam|Hanoi|Newass2011xDSLHN|
-|16|94.79.4.53|8080|Russia|Moscow|OJSC Comcor|
-|17|181.224.207.21|999|Dominican Republic|Castanuelas|BW TELECOM|
-|18|181.205.46.178|41890|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|19|187.227.10.43|999|Mexico|Chilpancingo|Uninet S.A. de C.V.|
-|20|200.48.3.227|10101|Peru|Lima|Telefonica del Peru S.A.A.|
+|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|2|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|3|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|7|93.105.40.62|41258|Poland|Gdansk|Vectra S.A. BUSINESS P2P CONNECTIONS|
+|8|206.161.97.64|31337|United States|Ashburn|PCCW Global, Inc.|
+|9|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|10|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|11|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|12|190.181.16.206|999|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|14|188.133.152.247|1256|Russia|Moscow|Enforta-MSK|
+|15|185.103.168.76|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|16|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
+|17|190.205.42.46|999|Venezuela|Ciudad Bolívar|CANTV Servicios, Venezuela|
+|18|94.228.192.197|8087|Russia|Moscow|Uniontel ZAO network|
+|19|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|20|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
 
 
 

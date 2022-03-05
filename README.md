@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2970** proxies at the latest update. Usable proxies are below.
+> Scraper found **2965** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|177.237.72.218|9999|Mexico|Zedec Santa Fe|Cablemas Telecomunicaciones SA de CV|
-|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
-|6|139.99.99.165|3128|Singapore|Singapore|OVH SAS|
-|7|138.117.84.134|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|8|177.93.33.244|999|Colombia|La Union|TV AZTECA SUCURSAL COLOMBIA|
-|9|103.204.119.186|8080|India|Mumbai|Akhuratha Communications Pvt. ltd|
-|10|147.75.113.227|8080|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|11|190.113.42.141|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
-|12|192.109.219.67|8080|Albania|Sarandë|Roland Delia trading as NEWAVE|
-|13|103.163.231.42|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
-|14|161.132.122.60|999|Peru|Lima|Optical Technologies S.A.C.|
-|15|103.247.15.57|8080|Indonesia|Bancang|TERABIT|
-|16|85.25.119.241|5566|France|Strasbourg|BSB-SERVICE|
-|17|161.49.215.57|8080|Philippines|Plaridel|Converge Information and Communications Technology Solutions|
-|18|193.239.235.121|8080|Ukraine|Lutsk|"INCOMPLAST SERVICE" LLC|
-|19|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|20|103.124.138.131|8085|Indonesia|Pati|Global Media Data Prima|
+|1|63.161.104.189|3128|United States|Itasca|Sprint|
+|2|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|3|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|4|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|7|139.99.99.165|80|Singapore|Singapore|OVH SAS|
+|8|45.231.223.250|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|9|103.40.122.23|8087|Indonesia|Broyo Barat|PT DINAMIKA MEDIAKOM|
+|10|128.75.228.165|8080|Russia|Budënnovsk|SOVAM-B2O|
+|11|223.29.199.144|55443|India|Kolkata|Meghbela Cable & Broadband Services (P) Ltd|
+|12|185.141.233.47|9443|Russia|Veliky Novgorod|Sever Telecom JSC|
+|13|159.65.69.186|9300|United States|Santa Clara|DigitalOcean, LLC|
+|14|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|103.165.156.70|8081|Indonesia|Jember|PT. MEGA ARTHA LINTAS DATA|
+|16|190.109.168.217|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|17|49.12.43.32|5555|Germany|Falkenstein|Hetzner Online GmbH|
+|18|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|19|72.47.152.224|55443|United States|Balch Springs|Suddenlink Communications|
+|20|103.156.216.194|8080|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
 
 
 

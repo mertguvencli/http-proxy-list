@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3867** proxies at the latest update. Usable proxies are below.
+> Scraper found **3172** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|277|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|277|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|277|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|2|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|192.99.239.215|8080|Pakistan|Rawalpindi|OVH Hosting|
-|4|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|51.83.232.95|3128|Poland|Warsaw|OVH SAS|
-|6|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|8|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|9|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|10|139.99.99.165|80|Singapore|Singapore|OVH SAS|
-|11|51.83.241.108|3128|Poland|Warsaw|OVH SAS|
-|12|54.38.51.135|3128|Poland|Warsaw|OVH SAS|
-|13|86.57.134.64|41890|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
-|14|165.16.66.93|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|15|197.210.105.122|41890|Nigeria|Lagos|MTN NIGERIA Communication limited|
-|16|190.90.154.197|999|Colombia|Bogotá|Internexa Brasil Operadora De Telecomunicacoes S.A|
-|17|200.89.83.130|3128|El Salvador|San Salvador|Digicel S.a. De C.V.|
-|18|112.14.47.6|52024|China|Hangzhou|China Mobile Communications Corporation|
-|19|185.61.92.207|43947|Russia|Moscow|Fortex CJSC|
-|20|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|1|218.238.214.45|8080|South Korea|Seoul|SK Broadband Co Ltd|
+|2|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|3|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
+|5|125.160.221.63|3128|Indonesia|Malang|PT. TELKOM INDONESIA|
+|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|7|94.179.135.230|43033|Ukraine|Kyiv|UKRTELECOM|
+|8|201.140.209.42|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
+|9|101.53.154.137|2002|India|Noida|E2E Networks Limited|
+|10|161.97.183.154|3128|Germany|Düsseldorf|Contabo GmbH|
+|11|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|12|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
+|13|187.243.250.197|3128|Mexico|Mazatlán|Mega Cable, S.A. de C.V.|
+|14|85.172.19.214|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
+|15|190.108.200.176|8080|Guyana|Georgetown|E-Networks Inc.|
+|16|190.57.245.250|8080|Argentina|Corrientes|Gigared S.A|
+|17|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|18|200.48.3.226|10101|Peru|Lima|Telefonica del Peru S.A.A.|
+|19|200.48.146.67|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|20|103.156.75.41|8080|Indonesia|Gianyar|PT Trika Global Media|
 
 
 

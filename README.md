@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3246** proxies at the latest update. Usable proxies are below.
+> Scraper found **2898** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|6|130.185.122.92|7769|Netherlands|Dronten|Softqloud GmbH|
-|7|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|8|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|9|181.188.216.151|8080|Ecuador|Quito|Nedetel S.A|
-|10|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
-|11|59.66.224.29|7890|China|Beijing|TUZJC2P|
-|12|186.3.38.201|999|Ecuador|Guayaquil|Telconet S.A|
-|13|45.173.230.189|999|Ecuador|Otavalo|Eliana Vanessa Morocho Oña|
-|14|95.217.88.72|40075|Finland|Helsinki|Hetzner Online GmbH|
-|15|95.0.206.22|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|16|101.53.154.137|2016|India|Noida|E2E Networks Limited|
-|17|41.60.232.9|34098|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|18|128.201.30.218|666|Brazil|Salvador|Poliserv Servicos E Comercio Ltda - ME|
-|19|77.236.248.215|1256|Russia|Balashikha|ArtCommunications Ltd. ISP. Moscow|
-|20|190.7.58.55|3128|Argentina|Santa Elena|Gigared S.A.|
+|2|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|3|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
+|6|45.228.52.69|999|Ecuador|Machala|ORBINET|
+|7|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|8|190.13.84.172|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|159.69.208.8|3128|Germany|Nuremberg|Hetzner Online GmbH|
+|10|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|11|95.217.88.72|40088|Finland|Helsinki|Hetzner Online GmbH|
+|12|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
+|13|194.44.87.245|8080|Ukraine|Hrymayliv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|14|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
+|15|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|16|181.224.207.20|999|Dominican Republic|Castanuelas|BW TELECOM|
+|17|187.178.69.144|8080|Mexico|Mexico City|Axtel, S.A.B. de C.V.|
+|18|45.229.33.114|999|Dominican Republic|Santo Domingo|Gold Data C.A.|
+|19|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|20|114.79.146.137|8080|India|Mumbai|D-VoiS Broadband Private Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2916** proxies at the latest update. Usable proxies are below.
+> Scraper found **3168** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|165|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|165|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|165|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.83.231.84|3128|Poland|Warsaw|OVH SAS|
-|2|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|3|63.161.104.189|3128|United States|Itasca|Sprint|
-|4|51.38.155.118|3128|Poland|Warsaw|OVH SAS|
-|5|51.83.231.85|3128|Poland|Warsaw|OVH SAS|
-|6|51.83.232.93|3128|Poland|Warsaw|OVH SAS|
-|7|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
-|8|54.38.141.156|3128|Poland|Warsaw|OVH SAS|
-|9|54.38.51.133|3128|Poland|Warsaw|OVH SAS|
-|10|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
-|11|24.217.192.131|57273|United States|St Louis|Charter Communications|
-|12|51.77.35.133|3128|Poland|Warsaw|OVH SAS|
-|13|85.117.56.147|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|14|51.83.241.108|3128|Poland|Warsaw|OVH SAS|
-|15|177.242.148.14|999|Mexico|Tizayuca|Mega Cable, S.A. de C.V.|
-|16|54.38.141.158|3128|Poland|Warsaw|OVH SAS|
-|17|176.36.20.67|61935|Ukraine|Kyiv|Lanet Network|
-|18|138.185.190.46|8080|Brazil|Pio IX|Virtex Ltda|
-|19|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|20|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|3|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|4|168.235.64.246|8118|United States|Enumclaw|InMotion Hosting, Inc.|
+|5|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
+|6|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|8|185.103.168.70|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|9|189.51.4.254|45367|Brazil|São Paulo|Transit do Brasil S/A|
+|10|63.161.104.189|3128|United States|Itasca|Sprint|
+|11|103.163.231.42|8080|Indonesia|Malang|PT Metrosolusi Teknologi Indonesia|
+|12|61.19.145.66|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
+|13|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
+|14|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
+|15|103.171.181.119|80|India|Mumbai|Ovi Hosting Pvt Ltd|
+|16|41.84.135.102|8080|Kenya|Nairobi|SOHO-REGIONAL|
+|17|114.5.199.207|443|Indonesia|Bandung|PT. INDOSAT Tbk|
+|18|202.182.57.10|8080|Indonesia|Jakarta|PT. Arsen Kusuma Indonesia|
+|19|103.156.17.177|8080|Indonesia|Bagjasari|RSTNET|
+|20|1.20.166.142|8080|Thailand|Khwaeng Thung Song Hong|TOT-MOBILE|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2816** proxies at the latest update. Usable proxies are below.
+> Scraper found **2742** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
-|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|190.122.187.178|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|3|158.69.27.94|9300|Canada|Montreal|OVH SAS|
+|4|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
 |6|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|190.202.111.202|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|8|69.75.140.157|8080|United States|Sylmar|Spectrum|
-|9|91.208.206.179|5006|Moldova|Chisinau|Alexhost SRL|
-|10|223.27.194.74|80|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|11|201.218.146.24|999|Peru|Arequipa|M & B Soluciones Peru S.A.C.|
-|12|203.128.83.115|8080|Indonesia|Jakarta|Neuviz|
-|13|85.214.71.122|8118|Germany|Berlin|Strato AG|
-|14|180.149.98.206|8080|Mongolia|Ulan Bator|gemnet subnetwork|
-|15|202.164.152.229|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
-|16|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
-|17|186.3.38.200|999|Ecuador|Guayaquil|Telconet S.A|
-|18|95.217.88.72|40062|Finland|Helsinki|Hetzner Online GmbH|
-|19|170.246.85.38|50991|Ecuador|Bellavista|Servicable Cia. Ltda.|
-|20|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|5.101.98.235|3128|Netherlands|Amsterdam|DigitalOcean|
+|8|116.68.161.54|55443|Indonesia|Jakarta|PT. Sumber Data Indonesia|
+|9|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|10|114.6.87.177|60811|Indonesia|Malang|PT. INDOSAT Tbk|
+|11|95.217.88.72|40053|Finland|Helsinki|Hetzner Online GmbH|
+|12|46.0.113.160|55443|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
+|13|88.151.251.195|6969|Russia|Moscow|IPLS|
+|14|185.103.168.68|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|15|116.80.41.12|80|Japan|Chiyoda|NTT PC Communications, Inc.|
+|16|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
+|17|190.7.58.55|3128|Argentina|Santa Elena|Gigared S.A.|
+|18|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|19|95.217.88.72|40053|Finland|Helsinki|Hetzner Online GmbH|
+|20|158.69.67.129|5566|Canada|Montreal|OVH SAS|
 
 
 

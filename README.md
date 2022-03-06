@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2788** proxies at the latest update. Usable proxies are below.
+> Scraper found **2851** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|164|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|164|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|164|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|2|190.122.187.178|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|3|63.161.104.189|3128|United States|Itasca|Sprint|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|6|50.236.203.15|8080|United States|Oak Park|Comcast Cable Communications, LLC|
-|7|27.116.51.181|6666|India|Gandhinagar|Gujarat Telelik Pvt Ltd|
-|8|201.229.250.20|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|9|38.10.246.21|999|United States|Miami|Cogent Communications|
-|10|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|11|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|12|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|14|116.254.119.31|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|15|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
-|16|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|17|188.17.158.225|2580|Russia|Perm|Rostelecom networks|
-|18|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|19|101.51.106.70|49285|Thailand|Phatthalung|TOT Public Company Limited|
-|20|185.82.98.2|9091|Lebanon|Tripoli|Protected|
+|1|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|2|213.32.75.88|9300|France|Gravelines|OVH SAS|
+|3|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|4|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|5|103.164.56.114|8080|Indonesia|Bekasi|PT Natha Buana Indonesia|
+|6|45.5.154.42|8080|Argentina|San Juan|Intersat S.A|
+|7|182.253.217.163|8080|Indonesia|Madiun|BIZNET|
+|8|45.224.153.58|999|Ecuador|Esmeraldas|Nedetel S.A.|
+|9|194.44.15.222|8081|Ukraine|Bryukhovychi|UARNET-LL|
+|10|166.111.130.199|7890|China|Beijing|China Education and Research Network Center|
+|11|150.129.151.62|6666|India|Rajkot|Gtpl Sorath Telelink Pvt ltd|
+|12|63.161.104.189|3128|United States|Itasca|Sprint|
+|13|103.206.168.202|8083|Indonesia|Manado|INFOTEK|
+|14|103.151.140.165|8080|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
+|15|206.161.97.4|31337|United States|Ashburn|PCCW Global, Inc.|
+|16|81.24.95.176|41258|Russia|Makhachkala|SUBNET05|
+|17|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|18|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|19|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|20|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
 
 
 

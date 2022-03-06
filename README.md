@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2851** proxies at the latest update. Usable proxies are below.
+> Scraper found **2788** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
-|2|63.161.104.189|3128|United States|Itasca|Sprint|
-|3|186.206.142.211|8118|Brazil|Belo Horizonte|Claro S.A.|
-|4|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|138.36.180.4|9292|Brazil|Birigui|FIT Telecom Eireli|
-|7|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|8|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
-|9|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|10|95.217.88.72|40076|Finland|Helsinki|Hetzner Online GmbH|
-|11|83.147.180.174|8080|Ireland|Dublin|Digiweb Ltd|
-|12|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|13|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|14|115.77.138.134|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|15|47.116.112.227|7788|China|Shanghai|Addresses CNNIC|
-|16|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
-|17|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|18|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
-|19|149.56.96.252|5566|Canada|Montreal|OVH SAS|
-|20|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|2|190.122.187.178|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|3|63.161.104.189|3128|United States|Itasca|Sprint|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|6|50.236.203.15|8080|United States|Oak Park|Comcast Cable Communications, LLC|
+|7|27.116.51.181|6666|India|Gandhinagar|Gujarat Telelik Pvt Ltd|
+|8|201.229.250.20|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|9|38.10.246.21|999|United States|Miami|Cogent Communications|
+|10|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|11|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|12|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|13|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|14|116.254.119.31|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|15|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
+|16|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|17|188.17.158.225|2580|Russia|Perm|Rostelecom networks|
+|18|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|101.51.106.70|49285|Thailand|Phatthalung|TOT Public Company Limited|
+|20|185.82.98.2|9091|Lebanon|Tripoli|Protected|
 
 
 

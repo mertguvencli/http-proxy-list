@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2816** proxies at the latest update. Usable proxies are below.
+> Scraper found **3213** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.217.76.59|80|Ireland|Dublin|Amazon.com, Inc.|
-|2|63.161.104.189|3128|United States|Itasca|Sprint|
-|3|195.191.16.227|3128|Netherlands|Amsterdam|T-Mobile Thuis BV|
-|4|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|122.3.41.154|8090|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|6|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
-|7|189.164.111.68|10101|Mexico|Puebla City|Uninet S.A. de C.V|
-|8|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|9|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
-|10|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
-|11|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|12|47.242.200.148|80|Hong Kong|Hong Kong|Alibaba.com LLC|
-|13|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|110.74.198.175|56765|Cambodia|Phnom Penh|EZECOM limited|
-|15|103.254.185.195|53281|Nepal|Patan|WorldLink Communications|
-|16|185.103.168.73|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|17|89.146.194.10|8080|Germany|Frankfurt am Main|INTERNET AG Global Network|
-|18|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|19|112.53.83.102|808|China|Jinan|China Mobile|
-|20|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|1|63.161.104.189|3128|United States|Itasca|Sprint|
+|2|46.246.120.155|8001|Sweden|Falkenberg|GleSYS AB|
+|3|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|4|181.48.91.93|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|5|201.253.180.239|8080|Argentina|Córdoba|Telecom Argentina S.A.|
+|6|103.157.81.51|8080|Indonesia|Jakarta|Komisi Yudisial RI|
+|7|71.25.47.187|8080|United States|Elkton|Comcast Cable Communications, LLC|
+|8|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|9|193.117.138.126|44805|United Kingdom|Kensington|Virtual1 Limited|
+|10|181.49.217.254|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|11|95.217.88.72|40055|Finland|Helsinki|Hetzner Online GmbH|
+|12|45.6.100.202|8080|Brazil|Rio de Janeiro|Golden Link|
+|13|202.57.2.19|8080|Indonesia|South Tangerang|Primanet - ISP|
+|14|103.134.98.17|83|India|Tirupati|Airnetz Broadband Services Private Limited|
+|15|195.191.16.227|3128|Netherlands|Amsterdam|T-Mobile Thuis BV|
+|16|200.39.63.202|999|Dominican Republic|Santiago de los Caballeros|Mktel SRL|
+|17|103.156.216.178|443|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
+|18|191.102.251.154|8085|Argentina|Rosario|IP·RED|
+|19|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|20|47.241.21.88|23511|Singapore|Singapore|Alibaba.com LLC|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3027** proxies at the latest update. Usable proxies are below.
+> Scraper found **3101** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|294|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|294|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|294|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|201|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|201|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|201|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.28.77.38|59394|United States|Los Angeles|The Constant Company|
-|2|51.77.35.132|3128|Poland|Warsaw|OVH SAS|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|20.194.21.114|59394|South Korea|Seoul|Microsoft Corporation|
-|5|51.83.241.110|3128|Poland|Warsaw|OVH SAS|
-|6|51.83.231.86|3128|Poland|Warsaw|OVH SAS|
-|7|51.83.231.87|3128|Poland|Warsaw|OVH SAS|
-|8|51.83.231.23|3128|Poland|Warsaw|OVH SAS|
-|9|45.174.249.21|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|10|45.189.253.225|999|Mexico|San Sabastian Tierra Blanca|Tracered SA De CV|
-|11|162.217.248.126|3128|United States|Los Angeles|SYN LTD|
-|12|116.68.161.54|55443|Indonesia|Jakarta|PT. Sumber Data Indonesia|
-|13|200.116.198.177|35184|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
-|14|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|15|54.38.51.134|3128|Poland|Warsaw|OVH SAS|
-|16|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|17|131.255.134.144|8080|Brazil|Araquari|O T Tecnologia Em Informática Ltda|
-|18|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
-|19|115.124.85.20|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|190.110.99.106|999|Chile|Las Condes|Silica Networks Argentina S.A.|
+|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|2|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|3|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|4|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|7|41.65.224.71|1976|Egypt|Cairo|Etisalat Misr|
+|8|187.190.118.188|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|9|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|10|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|11|103.121.23.71|8080|Indonesia|Depok|PT. Eka Mas Republik|
+|12|51.178.195.49|8080|France|Roubaix|OVH SAS|
+|13|83.220.35.174|41890|Russia|Khimki|GARS-Block1|
+|14|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|15|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|16|59.66.19.40|7890|China|Haidian|TSINGHUA|
+|17|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|18|110.189.152.86|40698|China|Zhongba|Chinanet|
+|19|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|20|202.147.198.115|8080|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2976** proxies at the latest update. Usable proxies are below.
+> Scraper found **2837** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.28.77.38|59394|United States|Los Angeles|The Constant Company|
-|2|8.218.209.189|443|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|3|123.57.61.38|8118|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|5|51.79.144.52|8080|Singapore|Singapore|OVH SAS|
-|6|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|59.63.118.227|41979|China|Dunhou|Chinanet|
-|8|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|9|96.36.8.51|8080|United States|Fenton|Spectrum|
-|10|95.216.182.12|1994|Finland|Helsinki|Hetzner Online GmbH|
-|11|63.161.104.189|3128|United States|Itasca|Sprint|
-|12|1.180.156.226|65001|China|Changning|Chinanet|
-|13|197.210.105.122|41890|Nigeria|Lagos|MTN NIGERIA Communication limited|
-|14|178.153.4.180|8080|Qatar|Doha|Ooredoo-MBB|
-|15|189.203.10.141|999|Mexico|Santa Cruz Amilpas|Total Play Telecomunicaciones SA De CV|
-|16|78.186.99.214|10001|Turkey|Bolvadin|TurkTelecom|
-|17|61.133.87.228|55443|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|18|176.236.157.155|8080|Turkey|Kilis|Tellcom Iletisim Hizmetleri A.S.|
-|19|65.20.191.201|80|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
-|20|202.138.249.241|8000|Indonesia|Jakarta|PT Melvar Lintasnusa|
+|1|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|2|204.195.136.34|80|United States|Miami Beach|Atlantic Broadband Finance, LLC|
+|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|119.13.85.250|8888|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|6|200.48.146.67|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|7|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
+|8|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|9|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|11|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|12|101.53.154.137|2011|India|Noida|E2E Networks Limited|
+|13|103.166.10.134|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
+|14|178.93.151.100|8080|Ukraine|Kyiv|UKRTELECOM|
+|15|190.82.91.203|999|Chile|Santiago|Telefonica Empresas|
+|16|202.51.114.210|3128|Indonesia|Jakarta|PT iForte Global Internet|
+|17|123.231.221.243|6969|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|18|120.50.19.84|8080|Bangladesh|Dhaka|Telnet Communication Limited|
+|19|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
+|20|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
 
 
 

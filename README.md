@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2837** proxies at the latest update. Usable proxies are below.
+> Scraper found **3002** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|242|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|242|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|242|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
-|2|204.195.136.34|80|United States|Miami Beach|Atlantic Broadband Finance, LLC|
-|3|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|119.13.85.250|8888|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|6|200.48.146.67|8080|Peru|Lima|Telefonica del Peru S.A.A.|
-|7|39.102.138.226|8889|China|Beijing|Hangzhou Alibaba Advertising Co|
-|8|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|9|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|11|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|12|101.53.154.137|2011|India|Noida|E2E Networks Limited|
-|13|103.166.10.134|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|14|178.93.151.100|8080|Ukraine|Kyiv|UKRTELECOM|
-|15|190.82.91.203|999|Chile|Santiago|Telefonica Empresas|
-|16|202.51.114.210|3128|Indonesia|Jakarta|PT iForte Global Internet|
+|1|63.161.104.189|3128|United States|Itasca|Sprint|
+|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|3|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|4|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|5|157.230.233.189|8080|United States|North Bergen|DigitalOcean, LLC|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
+|8|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|9|36.137.63.124|7777|China|Zhengzhou|China Mobile|
+|10|187.44.1.41|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
+|11|186.208.81.214|3129|Brazil|Uberlândia|RazaoInfo Internet Ltda|
+|12|154.212.7.26|999|Mexico|San Luis de la Paz|Ientc S De RL De CV|
+|13|102.223.49.74|8080|Chad|N'Djamena|SOCIETE DIGITAL COM SA/AG|
+|14|143.92.61.35|59394|Hong Kong|Sheung Wan|CTG Server Ltd|
+|15|201.144.14.232|53281|Mexico|La Barca|Uninet S.A. de C.V|
+|16|14.207.144.47|9080|Thailand|Sam Phran|Triple T Internet Company Limited|
 |17|123.231.221.243|6969|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|18|120.50.19.84|8080|Bangladesh|Dhaka|Telnet Communication Limited|
-|19|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
-|20|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|18|190.122.187.178|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|19|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|20|45.70.15.2|8080|Ecuador|Alausi|Nedetel S.A.|
 
 
 

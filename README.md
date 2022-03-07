@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2913** proxies at the latest update. Usable proxies are below.
+> Scraper found **3028** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.139.32.14|8080|Jordan|Amman|JTC|
-|2|12.218.209.130|53281|United States|Los Angeles|AT&T Services, Inc.|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|78.92.231.44|55443|Hungary|Budapest|Szatmarnet|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|7|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|8|47.97.11.193|8888|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|9|8.218.209.189|443|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|10|152.67.198.97|8080|South Korea|Chuncheon|Oracle Corporation|
-|11|179.1.0.197|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|12|103.227.141.90|8181|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
-|13|41.65.224.71|1981|Egypt|Cairo|Etisalat Misr|
-|14|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|15|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
-|16|103.115.199.226|8181|Pakistan|Lahore|Ambitions Communication System|
-|17|213.178.39.170|8080|Russia|Tolyatti|AIST Networks|
-|18|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|19|144.217.7.157|5566|Canada|Beauharnois|OVH SAS|
-|20|103.199.159.246|40049|India|Moradabad|city broadband network pvt.ltd|
+|1|63.161.104.189|3128|United States|Itasca|Sprint|
+|2|166.111.69.62|7890|China|Beijing|China Education and Research Network Center|
+|3|95.216.12.141|22222|Finland|Helsinki|Hetzner Online GmbH|
+|4|45.189.253.225|999|Mexico|San Sabastian Tierra Blanca|Tracered SA De CV|
+|5|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
+|6|88.87.92.147|8118|Russia|Volgograd|CJSC "ER-Telecom Holding" Volgograd branch|
+|7|196.41.61.115|3128|Tanzania|Dar es Salaam|Liquid Telecommunications Ltd|
+|8|191.102.113.59|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|101.53.154.137|2016|India|Noida|E2E Networks Limited|
+|10|41.86.42.41|8080|Seychelles|Victoria|CWS DIB BUNDLE|
+|11|124.158.168.22|8080|Indonesia|Probolinggo|ICON+|
+|12|190.93.209.202|3128|Argentina|Neuquén|Davitel S.A.|
+|13|194.44.87.245|8080|Ukraine|Hrymayliv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|14|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|31.161.38.233|8090|Netherlands|Siebengewald|KPN B.V|
+|16|41.65.193.100|1981|Egypt|Cairo|Etisalat Misr|
+|17|181.10.171.234|8080|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|18|129.205.106.226|8080|Nigeria|Ibadan|Globacom Limited|
+|19|103.161.164.111|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|20|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
 
 
 

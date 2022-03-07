@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3346** proxies at the latest update. Usable proxies are below.
+> Scraper found **3253** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|2|177.93.50.11|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|1|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
+|2|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
 |3|47.97.11.193|8888|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|4|195.68.187.222|3128|Russia|Moscow|PJSC "Vimpelcom"|
-|5|123.57.90.181|8080|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|181.192.28.236|8080|Argentina|Villa Gesell|Coop Telefonica Villa Gesell Ltda|
-|7|36.91.97.68|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|8|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
-|9|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|206.81.31.215|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
-|12|213.239.214.141|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|13|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|14|134.209.42.113|8896|United States|Clifton|DigitalOcean, LLC|
-|15|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
-|16|175.178.60.133|7890|China|Beijing|Shenzhen Tencent Computer Systems Company Limited|
-|17|101.53.154.137|2009|India|Noida|E2E Networks Limited|
-|18|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|19|120.143.18.201|8080|Japan|Toshima|INTERLINK|
-|20|203.190.116.34|8071|Indonesia|Yogyakarta|PT Union Routelink Communication|
+|4|47.97.11.193|8888|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|6|41.86.42.41|8080|Seychelles|Victoria|CWS DIB BUNDLE|
+|7|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
+|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
+|11|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|12|41.84.143.226|8081|Kenya|Nairobi|SOHO-REGIONAL|
+|13|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|15|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|78.47.223.55|5566|Germany|Nuremberg|Hetzner Online GmbH|
+|17|116.68.170.190|8080|Indonesia|Jakarta||
+|18|147.135.134.57|9300|France|Gravelines|OVH SAS|
+|19|86.123.166.13|8080|Romania|Brasov|RCS & RDS|
+|20|101.132.154.162|18080|China|Shanghai|Hangzhou Alibaba Advertising Co|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2682** proxies at the latest update. Usable proxies are below.
+> Scraper found **3015** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|3|190.171.80.91|6969|Ecuador|Quito|Ufinet Ecuador Ufiec S.A|
-|4|187.110.236.145|53281|Brazil|Magalhaes de Almeida|MOB SERVICOS DE TELECOMUNICACOES S.A|
-|5|201.140.209.42|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
-|6|58.82.154.3|8080|Thailand|Si Racha|CUST-COPP-JASTEL|
-|7|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|8|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
-|9|187.62.195.145|8080|Brazil|Montes Claros|UWBR VOX TelecomunicaÔÔes S/A|
-|10|195.91.221.230|55443|Russia|Moscow|JSC "ER-Telecom Holding" Moscow branch|
-|11|176.236.141.30|10001|Turkey|Bursa|Tellcom Iletisim Hizmetleri A.S.|
-|12|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
-|13|103.166.10.134|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|14|91.93.118.3|8090|Turkey|Ankara|Tellcom Iletisim Hizmetleri A.S.|
-|15|103.206.253.82|8080|Indonesia|Jakarta|Server Farm2 Jakarta|
-|16|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|17|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|18|202.180.20.66|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|19|72.47.152.224|55443|United States|Balch Springs|Suddenlink Communications|
-|20|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|1|45.55.156.110|3128|United States|Clifton|DigitalOcean, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|4|20.103.234.40|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|5|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|6|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|7|200.106.184.13|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|8|101.132.154.162|18080|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|9|112.53.158.245|7890|China|Nanjing|China Mobile Communications Corporation|
+|10|36.94.60.27|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|11|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
+|12|95.0.168.56|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|13|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|14|175.106.10.164|8089|Indonesia|Jakarta|Quantum Dist POP GC|
+|15|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
+|16|62.201.217.194|8080|Iraq|Kelar|BAG|
+|17|103.159.46.10|82|India|Ahmedabad|King Netsol Private Limited|
+|18|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
+|19|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
+|20|24.217.192.131|57273|United States|St Louis|Charter Communications|
 
 
 

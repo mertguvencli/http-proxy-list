@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2859** proxies at the latest update. Usable proxies are below.
+> Scraper found **2682** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|3.18.226.115|80|United States|Dublin|Amazon.com, Inc.|
-|3|119.13.85.250|8888|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|4|63.161.104.189|3128|United States|Itasca|Sprint|
-|5|51.83.230.94|3128|Poland|Warsaw|OVH SAS|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|27.116.51.85|6666|India|Gandhinagar|Gujarat Telelik Pvt Ltd|
-|8|101.53.154.137|2002|India|Noida|E2E Networks Limited|
-|9|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|157.230.34.152|41583|Singapore|Singapore|DigitalOcean, LLC|
-|11|191.102.64.147|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|54.38.51.130|3128|Poland|Warsaw|OVH SAS|
-|13|82.99.232.18|58689|Iran|Tehran|Pars Online PJS|
-|14|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|15|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|16|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|17|54.38.141.157|3128|Poland|Warsaw|OVH SAS|
-|18|182.111.172.48|32997|China|Dunhou|Chinanet|
-|19|92.255.255.172|8080|Russia|Naberezhnyye Chelny|CJSC "ER-Telecom Holding" Naberezhnye Chelny branch|
-|20|51.83.231.21|3128|Poland|Warsaw|OVH SAS|
+|1|63.161.104.189|3128|United States|Itasca|Sprint|
+|2|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|3|190.171.80.91|6969|Ecuador|Quito|Ufinet Ecuador Ufiec S.A|
+|4|187.110.236.145|53281|Brazil|Magalhaes de Almeida|MOB SERVICOS DE TELECOMUNICACOES S.A|
+|5|201.140.209.42|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
+|6|58.82.154.3|8080|Thailand|Si Racha|CUST-COPP-JASTEL|
+|7|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|8|185.190.141.11|3128|United States|Los Angeles|British Telecommunications PLC|
+|9|187.62.195.145|8080|Brazil|Montes Claros|UWBR VOX TelecomunicaÔÔes S/A|
+|10|195.91.221.230|55443|Russia|Moscow|JSC "ER-Telecom Holding" Moscow branch|
+|11|176.236.141.30|10001|Turkey|Bursa|Tellcom Iletisim Hizmetleri A.S.|
+|12|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
+|13|103.166.10.134|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
+|14|91.93.118.3|8090|Turkey|Ankara|Tellcom Iletisim Hizmetleri A.S.|
+|15|103.206.253.82|8080|Indonesia|Jakarta|Server Farm2 Jakarta|
+|16|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|17|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|202.180.20.66|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|19|72.47.152.224|55443|United States|Balch Springs|Suddenlink Communications|
+|20|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3586** proxies at the latest update. Usable proxies are below.
+> Scraper found **3703** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|397|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|397|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|397|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|332|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|332|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|332|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.38.51.132|3128|Poland|Warsaw|OVH SAS|
-|2|51.83.231.84|3128|Poland|Warsaw|OVH SAS|
-|3|51.83.234.12|3128|Poland|Warsaw|OVH SAS|
-|4|179.1.0.197|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|5|181.78.21.174|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
-|6|51.83.230.93|3128|Poland|Warsaw|OVH SAS|
-|7|190.121.153.93|999|Colombia|Villanueva|Media Commerce Partners S.A|
-|8|47.116.112.227|7788|China|Shanghai|Addresses CNNIC|
-|9|51.83.233.109|3128|Poland|Warsaw|OVH SAS|
-|10|119.15.95.158|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|11|91.209.114.184|6789|Hungary|Siófok|Invitech ICT Services Kft.|
-|12|222.162.121.224|7890|China|Yanji|CNC Group CHINA169 Jilin Province Network|
-|13|190.60.104.218|3128|Colombia|Villavicencio|IFX Corporation|
-|14|54.38.63.140|3128|Poland|Warsaw|OVH SAS|
-|15|51.83.241.111|3128|Poland|Warsaw|OVH SAS|
-|16|51.77.35.133|3128|Poland|Warsaw|OVH SAS|
-|17|202.106.72.238|6666|China|Beijing|China Unicom Beijing Province Network|
-|18|51.83.230.94|3128|Poland|Warsaw|OVH SAS|
-|19|51.83.234.13|3128|Poland|Warsaw|OVH SAS|
-|20|202.138.249.241|8000|Indonesia|Jakarta|PT Melvar Lintasnusa|
+|1|73.138.63.44|80|United States|Miami|Comcast Cable Communications|
+|2|54.38.51.135|3128|Poland|Warsaw|OVH SAS|
+|3|54.38.51.133|3128|Poland|Warsaw|OVH SAS|
+|4|3.34.13.214|8080|South Korea|Seoul|Amazon.com, Inc.|
+|5|173.249.37.45|5005|Germany|Nuremberg|Contabo GmbH|
+|6|172.105.253.84|80|India|Mumbai|Linode, LLC|
+|7|200.91.223.122|8080|Colombia|Barranquilla|IFX Corporation|
+|8|68.183.92.86|80|India|Bengaluru|DigitalOcean, LLC|
+|9|120.197.179.166|8080|China|Dongguan|China Mobile communications corporation|
+|10|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|11|185.82.99.5|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|12|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|13|176.214.97.13|8081|Russia|Kurgan|JSC "ER-Telecom Holding"|
+|14|175.101.14.115|83|India|Hyderabad|ExcellMedia Pvt Ltd|
+|15|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
+|16|124.158.171.158|8080|Indonesia|Gandul|ICON+|
+|17|78.47.223.55|5566|Germany|Nuremberg|Hetzner Online GmbH|
+|18|68.183.92.86|80|India|Bengaluru|DigitalOcean, LLC|
+|19|103.95.43.206|8181|Indonesia|Jakarta|X-NODE|
+|20|36.95.79.7|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 

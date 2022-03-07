@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3091** proxies at the latest update. Usable proxies are below.
+> Scraper found **3002** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|2|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|3|51.83.230.95|3128|Poland|Warsaw|OVH SAS|
-|4|46.238.230.4|8080|Poland|Gmina Dobrcz|Commercial|
-|5|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
-|6|134.249.170.25|9999|Ukraine|Kyiv|Kyivstar UA|
-|7|190.109.0.228|999|Colombia|San Juan de Betulia|Lazus Medellin|
-|8|190.112.219.57|999|Argentina|Rosario|WNet Internet y Hosting|
-|9|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|10|180.178.189.126|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|11|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
-|12|180.250.170.210|59778|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|13|83.221.208.217|1981|Russia|Rostov-on-Don|Macroregional South|
-|14|197.81.195.200|8080|South Africa|Sunninghill|Dimension Data|
-|15|72.47.152.224|55443|United States|Balch Springs|Suddenlink Communications|
-|16|80.93.212.44|3128|Turkey|Eyuepsultan|Fibersunucu|
-|17|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
-|18|103.138.41.132|8080|Indonesia|Jakarta|PT. Bali Towerindo Sentra|
-|19|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
-|20|143.255.53.29|3128|Brazil|Bonfim do Piaui|Oxente NET Empreendimentos Ltda - EPP|
+|1|63.161.104.189|3128|United States|Itasca|Sprint|
+|2|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|3|193.34.21.200|8080|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
+|4|94.228.207.86|8087|Russia|Moscow|Uniontel ZAO network|
+|5|187.44.1.41|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
+|6|186.47.97.122|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|7|181.129.183.19|53281|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|8|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|9|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|10|124.41.213.201|39272|Nepal|Kathmandu|WorldLink Communications|
+|11|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|12|186.13.50.16|8080|Argentina|Montserrat|Techtel LMDS Comunicaciones Interactivas S.A.|
+|13|216.176.187.99|39825|United States|Los Angeles|Wowrack.com|
+|14|181.224.207.18|999|Dominican Republic|Castanuelas|BW TELECOM|
+|15|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|16|203.153.125.245|8080|Indonesia|Tangerang|GMNUSANTARA|
+|17|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
+|18|187.188.169.169|8080|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
+|19|81.163.57.147|41258|Russia|Makhachkala|SUBNET05|
+|20|138.201.154.35|24000|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 

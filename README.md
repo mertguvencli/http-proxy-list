@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3405** proxies at the latest update. Usable proxies are below.
+> Scraper found **3420** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|319|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|319|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|319|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.23.232.82|3128|United States|Secaucus|Interserver, Inc|
-|2|51.83.233.110|3128|Poland|Warsaw|OVH SAS|
-|3|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|4|201.187.68.180|999|Chile|Valdivia|Telefonica del Sur S.A.|
-|5|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|6|18.178.198.225|10001|Japan|Tokyo|Amazon Technologies Inc.|
-|7|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|8|181.36.121.222|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|9|59.63.52.17|34811|China|Dunhou|Chinanet|
-|10|103.139.47.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|11|188.133.153.187|8081|Russia|Moscow|Enforta-MSK|
-|12|182.53.50.2|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|103.161.164.113|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|14|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|15|190.82.91.203|999|Chile|Santiago|Telefonica Empresas|
-|16|177.73.186.12|8080|Brazil|Videira|Unifique TelecomunicaÔÔes SA|
-|17|187.237.121.46|80|Mexico|Akumal|Uninet S.A. de C.V.|
-|18|77.242.1.101|41890|Russia|Moscow|Limited Company Sakha Sprint Network|
-|19|36.92.93.61|8080|Indonesia|Balikpapan|Telekomunikasi Indonesia|
-|20|103.231.218.246|8080|India|Chennai|Limras Eronet Broadband Service Private limited|
+|1|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
+|2|63.161.104.189|3128|United States|Itasca|Sprint|
+|3|190.90.242.208|999|Colombia|Ocaña|Internexa Brasil Operadora De Telecomunicacoes S.A|
+|4|165.16.27.14|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|5|39.96.11.1|8003|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|103.35.132.189|82|India|Pune|Shah Infinite Solutions Pvt. Ltd|
+|7|43.242.135.182|8080|Myanmar|Yangon|Global Technology Co|
+|8|1.0.170.50|8080|Thailand|Kamphaeng Saen|TOT Public Company Limited|
+|9|179.127.193.37|8080|Brazil|Iguaba Grande|Afinet Solucoes EM Tecnologia DA Informacao Ltda|
+|10|186.138.132.183|3128|Argentina|Buenos Aires|Telecom Argentina S.A|
+|11|202.53.171.114|8080|Bangladesh|Dhaka|Agni Systems Ltd.|
+|12|202.145.13.109|8080|Indonesia|Puspasari|PT Jala Lintas Media|
+|13|95.217.88.72|40096|Finland|Helsinki|Hetzner Online GmbH|
+|14|116.206.243.50|80|Indonesia|Rowotengu|CBN|
+|15|176.98.95.105|32018|Ukraine|Uman|TOV TV&Radio Company 'TIM'|
+|16|186.97.156.130|999|Colombia|Medellín|Colombia Móvil|
+|17|186.192.251.63|8080|Brazil|Gurupi|Conectlan Internet|
+|18|115.79.208.56|38351|Vietnam|Ho Chi Minh City|VIETELftth|
+|19|14.241.225.134|443|Vietnam|Ho Chi Minh City|VNPT|
+|20|202.183.164.143|3128|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
 
 
 

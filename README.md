@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3002** proxies at the latest update. Usable proxies are below.
+> Scraper found **3025** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|3|193.34.21.200|8080|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
-|4|94.228.207.86|8087|Russia|Moscow|Uniontel ZAO network|
-|5|187.44.1.41|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
-|6|186.47.97.122|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|7|181.129.183.19|53281|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|8|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|9|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|10|124.41.213.201|39272|Nepal|Kathmandu|WorldLink Communications|
-|11|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|12|186.13.50.16|8080|Argentina|Montserrat|Techtel LMDS Comunicaciones Interactivas S.A.|
-|13|216.176.187.99|39825|United States|Los Angeles|Wowrack.com|
-|14|181.224.207.18|999|Dominican Republic|Castanuelas|BW TELECOM|
-|15|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|16|203.153.125.245|8080|Indonesia|Tangerang|GMNUSANTARA|
-|17|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|18|187.188.169.169|8080|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
-|19|81.163.57.147|41258|Russia|Makhachkala|SUBNET05|
-|20|138.201.154.35|24000|Germany|Falkenstein|Hetzner Online GmbH|
+|1|201.174.10.170|999|Mexico|Nogales|Transtelco Inc|
+|2|176.88.117.138|8080|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
+|3|177.183.234.110|80|Brazil|Criciúma|Claro S.A.|
+|4|185.111.164.120|8080|Russia|Taman'|Comfort XXI Century Ltd.|
+|5|180.183.103.14|8080|Thailand|Bangkok|Triple T Internet Company Limited|
+|6|109.86.224.150|30318|Ukraine|Kharkiv|Triolan|
+|7|175.101.14.115|84|India|Hyderabad|ExcellMedia Pvt Ltd|
+|8|178.134.178.134|3128|Georgia|K'alak'i T'bilisi|JSC "Silknet"|
+|9|181.78.21.174|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
+|10|191.241.48.132|3128|Brazil|Belo Horizonte|One Telecom Eireli|
+|11|185.104.252.10|9090|Lebanon|Bdebba|B SMART|
+|12|41.65.174.120|1976|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
+|13|47.102.110.19|7890|China|Shanghai|Addresses CNNIC|
+|14|95.31.218.48|41890|Russia|Moscow|CORBINA|
+|15|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
+|16|77.46.142.150|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|17|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|18|103.111.57.59|8090|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|19|203.123.56.2|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|20|46.146.209.132|61309|Russia|Perm|OJSC "ER-Telecom" Perm'|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3187** proxies at the latest update. Usable proxies are below.
+> Scraper found **3182** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|45.231.170.137|999|Mexico|Tulum|GigNet, S.A. de C.V.|
-|3|201.229.250.20|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|4|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|5|187.190.55.43|30000|Mexico|Cancún|Total Play Telecomunicaciones SA De CV|
-|6|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|7|103.156.216.178|80|Indonesia|Jakarta|PT. Meiwa Mold Indonesia|
-|8|190.13.84.172|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|9|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
-|10|187.190.226.235|999|Mexico|Querétaro|Total Play Telecomunicaciones SA De CV|
-|11|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|12|138.99.176.99|999|Peru|Lima|NET WIN PERU|
-|13|80.244.226.92|8080|Russia|Moscow|Enforta-MSK|
-|14|51.83.241.111|3128|Poland|Warsaw|OVH SAS|
-|15|223.100.215.26|8080|China|Shenyang|China Mobile communications corporation|
-|16|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
-|17|94.130.218.231|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|18|139.255.77.74|8080|Indonesia|Bekasi|PT. LINKNET|
-|19|200.58.170.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|20|181.40.122.102|8080|Paraguay|Lambaré|Telecel S.A.|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|174.139.41.164|9090|United States|Los Angeles|Krypt Technologies|
+|3|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|4|54.38.63.142|3128|Poland|Warsaw|OVH SAS|
+|5|189.62.68.242|8080|Brazil|São Paulo|Claro S.A.|
+|6|190.110.99.102|999|Chile|Las Condes|Silica Networks Argentina S.A.|
+|7|210.77.87.71|3128|China|Beijing|CSTNET|
+|8|200.122.226.42|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
+|9|103.163.193.254|83|India|Bongaigaon|Orbit Broadband|
+|10|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|11|213.139.32.14|8080|Jordan|Amman|JTC|
+|12|96.9.77.8|8080|Cambodia|Phnom Penh|SIGROUPS|
+|13|182.111.172.48|32997|China|Dunhou|Chinanet|
+|14|180.211.93.114|3128|Indonesia|Cikiwul|PT. KINGS NETWORK INDONESIA|
+|15|51.83.232.94|3128|Poland|Warsaw|OVH SAS|
+|16|36.95.81.251|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|160.154.48.46|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|18|103.65.212.150|8085|Indonesia|Bantul|PT. Broadband Indonesia Pratama|
+|19|125.46.0.62|53281|China|Mengjin Chengguanzhen|CNC Group CHINA169 Henan Province Network|
+|20|180.183.103.14|8080|Thailand|Bangkok|Triple T Internet Company Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3001** proxies at the latest update. Usable proxies are below.
+> Scraper found **3094** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|194|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|194|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|194|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|177.93.50.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|2|158.69.27.94|9300|Canada|Montreal|OVH SAS|
-|3|189.165.30.98|10101|Mexico|Tepeaca|Uninet S.A. de C.V|
-|4|103.156.218.232|8080|Indonesia|Bogor|MYREPUBLIC|
-|5|80.92.241.98|8080|Czechia|Prague|LAM plus s.r.o.|
-|6|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|7|189.172.167.5|999|Mexico|Mérida|Uninet S.A. de C.V|
-|8|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|105.112.134.70|8080|Nigeria|Ikoyi|Airtel Networks Limited|
-|10|200.60.86.138|999|Peru|Arequipa|Telefonica del Peru S.A.A.|
-|11|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÔÔES LTDA|
-|12|103.121.49.137|8080|Bangladesh|Jhingergacha|Md. Tohidul Islam|
-|13|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
-|14|194.44.104.242|31280|Ukraine|Lviv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|15|14.207.121.30|8080|Thailand|Samut Sakhon|Triple T Broadband Public Company Limited|
-|16|36.95.54.114|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|201.219.11.202|999|Ecuador|Macas|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|19|27.72.105.233|19132|Vietnam|Hanoi|Newass2011xDSLHN|
-|20|62.138.8.42|5566|France|Strasbourg|Host Europe GmbH|
+|1|165.16.22.178|9999|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|2|86.104.37.20|8080|Iran|Tehran|Afranet|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|50.246.120.125|8080|United States|Pikesville|Comcast Cable Communications, LLC|
+|5|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|6|43.154.116.249|8118|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
+|7|203.192.217.11|8080|India|Delhi|Entire In2Cable|
+|8|165.0.50.110|8080|South Africa|Cape Town|RSAWEB (PTY) LTD|
+|9|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|10|113.161.70.165|41890|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|11|166.111.69.62|7890|China|Beijing|China Education and Research Network Center|
+|12|190.152.182.150|55443|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|13|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|14|190.110.99.105|999|Chile|Las Condes|Silica Networks Argentina S.A.|
+|15|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
+|16|175.101.14.121|84|India|Hyderabad|ExcellMedia Pvt Ltd|
+|17|101.53.154.137|2011|India|Noida|E2E Networks Limited|
+|18|187.190.255.76|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
+|19|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
+|20|45.172.111.2|999|Argentina|Villa Media Agua|GPS SANJUAN SRL.|
 
 
 

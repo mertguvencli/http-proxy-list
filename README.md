@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2748** proxies at the latest update. Usable proxies are below.
+> Scraper found **2729** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|20.103.234.40|8080|Netherlands|Amsterdam|Microsoft Corporation|
-|3|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|4|118.136.52.99|8080|Indonesia|Tangerang|Linknet-Fastnet ASN|
-|5|14.143.172.238|8080|India|Kolkata|Tata Communications Limited|
-|6|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
-|7|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
-|8|41.65.67.166|1976|Egypt|Giza|Enterprise|
-|9|177.93.33.246|999|Colombia|La Union|TV AZTECA SUCURSAL COLOMBIA|
-|10|41.65.67.166|1976|Egypt|Giza|Enterprise|
-|11|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|12|45.229.33.114|999|Dominican Republic|Santo Domingo|Gold Data C.A.|
-|13|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|14|31.192.232.41|5006|United States|Los Angeles|Chelyabinsk-Signal LLC|
-|15|58.84.164.229|53281|Australia|Gold Coast|FUZENET|
-|16|66.94.97.238|443|United States|New York|Contabo Inc.|
-|17|176.235.131.228|9090|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
-|18|182.23.35.242|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|19|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|20|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|1|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|14.215.212.37|9168|China|Shenzhen|Chinanet|
+|4|161.49.116.131|1337|Philippines|Lucban|Converge ICT Solution Inc|
+|5|118.99.87.177|8080|Indonesia|Bandung|BIZNET|
+|6|45.235.15.31|999|Ecuador|Guayaquil|Anibal Humberto Enriquez Moncayo(Comunicate)|
+|7|185.118.129.42|8080|Iraq|Baghdad|Knowledge Path Information Technology ISP|
+|8|122.3.2.56|8080|Philippines|Calbayog City|Philippine Long Distance Telephone Co.|
+|9|63.161.104.189|3128|United States|Itasca|Sprint|
+|10|36.94.58.26|4480|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|11|109.235.189.217|8080|Russia|Sochi|Dmitriy V. Kozmenko|
+|12|140.0.120.181|8080|Indonesia|Kalisari|PT. First Media, Tbk|
+|13|181.49.158.165|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|14|116.100.181.202|8080|Vietnam|Bến Tre|Viettel Corporation|
+|15|156.200.110.116|1976|Egypt|Cairo|TE Data|
+|16|180.193.216.208|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|17|103.111.57.59|8090|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|18|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|19|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
+|20|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
 
 
 

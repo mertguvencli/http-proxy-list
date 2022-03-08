@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2963** proxies at the latest update. Usable proxies are below.
+> Scraper found **3001** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.24.199.146|999|Ecuador|Guayaquil|Otecel S.A.|
-|2|188.166.181.59|3128|Singapore|Singapore|DigitalOcean|
-|3|190.116.36.133|8080|Peru|Cajamarca|America Movil Peru S.A.C.|
-|4|182.253.28.124|8080|Indonesia|Jakarta|Biznet Networks|
-|5|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|6|200.123.228.186|999|Peru|Lima|Cable Selva Central S.A.C.|
-|7|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
-|8|116.197.130.71|80|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|9|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|10|200.106.184.13|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|11|77.52.187.199|10000|Ukraine|Shyroke|PrJSC "VF UKRAINE"|
-|12|63.161.104.189|3128|United States|Itasca|Sprint|
-|13|119.40.83.138|8080|Bangladesh|Dhaka|BDCOM Online Limited|
-|14|189.165.30.98|10101|Mexico|Tepeaca|Uninet S.A. de C.V|
-|15|190.2.210.114|999|Colombia|Pasto|TV AZTECA SUCURSAL COLOMBIA|
-|16|192.119.203.124|48678|United States|Middletown|Mediacom Communications|
-|17|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
-|18|51.79.124.80|3128|Canada|Beauharnois|OVH SAS|
-|19|202.138.249.241|8000|Indonesia|Jakarta|PT Melvar Lintasnusa|
-|20|113.190.232.222|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|189.148.189.177|999|Mexico|Nacajuca|Uninet S.A. de C.V|
+|2|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
+|3|103.46.233.186|82|India|Vaddangi|Apple Broadband Services Pvt.ltd|
+|4|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
+|5|103.209.88.67|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|124.158.161.184|8080|Indonesia|Gandul|ICON+|
+|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|9|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
+|10|66.70.198.229|999|Dominican Republic|Baní|OVH Hosting|
+|11|103.76.44.82|8080|Bangladesh|Dhaka|MD MONIR UZ ZAMAN UL MULK T/A U-Turn Technology|
+|12|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|13|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|14|103.153.232.1|8080|Nepal|Lumbini|Pals Network Pvt. Ltd|
+|15|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|16|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
+|17|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|18|123.57.144.181|7777|China|Beijing|Hangzhou Alibaba Advertising Co|
+|19|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|20|165.16.22.150|9999|Libya|Al Marj|Aljeel Aljadeed For Technology|
 
 
 

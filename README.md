@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2932** proxies at the latest update. Usable proxies are below.
+> Scraper found **2958** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|210|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|210|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|210|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|2|51.79.124.80|3128|Canada|Beauharnois|OVH SAS|
-|3|91.230.199.174|61440|Ukraine|Kryvyi Rih|Elektron-Service LLC|
-|4|103.66.10.101|8080|India|Mohali|Nitya Internet Private Limited|
-|5|200.116.226.210|43049|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
-|6|190.7.58.55|3128|Argentina|Santa Elena|Gigared S.A.|
-|7|210.77.87.71|3128|China|Beijing|CSTNET|
-|8|187.190.255.76|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
-|9|190.97.236.140|999|Venezuela|San Cristóbal|NetLink América C.A.|
-|10|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|11|115.243.184.76|23500|India|Navi Mumbai|Reliance Jio Infocomm Limited|
-|12|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|13|94.140.242.221|8080|Russia|Apatity|CityLink Ltd ISP|
-|14|190.110.111.131|999|Chile|Las Condes|Silica Networks Argentina S.A.|
-|15|63.161.104.189|3128|United States|Itasca|Sprint|
-|16|190.120.252.38|999|Venezuela|Maiquetia|CORPORACION FIBEX TELECOM, C.A.|
-|17|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|18|189.201.242.209|999|Mexico|Mexicali|Tecnologías Avanzadas S. de R.L. de C.V.|
-|19|88.255.185.229|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|20|190.92.67.210|999|Honduras|San Pedro Sula|Cablecolor S.A|
+|1|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|2|12.31.246.5|8080|United States|Saint Helena|AT&T Services, Inc.|
+|3|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|4|63.161.104.189|3128|United States|Itasca|Sprint|
+|5|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|6|14.162.40.150|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|7|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|8|213.33.152.178|41890|Russia|Moscow|EDN Sovintel|
+|9|101.200.137.28|8902|China|Beijing|Hangzhou Alibaba Advertising Co|
+|10|195.93.148.178|8080|Russia|Irkutsk|Hrustalny Telecom|
+|11|181.37.179.49|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|12|186.216.102.20|8080|Brazil|Lavras|Rede Brasileira de Comunicacao S/A|
+|13|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
+|14|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
+|15|41.65.174.120|1976|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
+|16|152.200.154.58|999|Colombia|Neiva|Colombia Telecomunicaciones S.a. ESP|
+|17|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
+|18|203.170.209.7|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|19|103.124.138.131|8085|Indonesia|Pati|Global Media Data Prima|
+|20|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

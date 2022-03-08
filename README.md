@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2958** proxies at the latest update. Usable proxies are below.
+> Scraper found **2963** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|2|12.31.246.5|8080|United States|Saint Helena|AT&T Services, Inc.|
-|3|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|4|63.161.104.189|3128|United States|Itasca|Sprint|
-|5|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|6|14.162.40.150|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|7|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
-|8|213.33.152.178|41890|Russia|Moscow|EDN Sovintel|
-|9|101.200.137.28|8902|China|Beijing|Hangzhou Alibaba Advertising Co|
-|10|195.93.148.178|8080|Russia|Irkutsk|Hrustalny Telecom|
-|11|181.37.179.49|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|12|186.216.102.20|8080|Brazil|Lavras|Rede Brasileira de Comunicacao S/A|
-|13|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
-|14|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|15|41.65.174.120|1976|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
-|16|152.200.154.58|999|Colombia|Neiva|Colombia Telecomunicaciones S.a. ESP|
-|17|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
-|18|203.170.209.7|8081|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|19|103.124.138.131|8085|Indonesia|Pati|Global Media Data Prima|
-|20|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|190.2.210.139|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|3|36.94.60.27|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|4|77.52.187.199|10000|Ukraine|Shyroke|PrJSC "VF UKRAINE"|
+|5|187.110.236.145|53281|Brazil|Magalhaes de Almeida|MOB SERVICOS DE TELECOMUNICACOES S.A|
+|6|202.62.10.51|80|Indonesia|Pamulang|Client Jakarta Iconpln|
+|7|91.150.67.17|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|8|111.90.179.74|8080|Australia|Marble Bar|Angkor Data Communication|
+|9|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|10|210.77.87.71|3128|China|Beijing|CSTNET|
+|11|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|12|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|13|103.143.197.44|8080|Indonesia|Kuto|JERNIHNETWORK|
+|14|190.110.99.105|999|Chile|Las Condes|Silica Networks Argentina S.A.|
+|15|203.142.69.69|8080|Indonesia|Jakarta|BIZNET|
+|16|45.156.31.26|9090|Turkey|Istanbul|ATLANTIS|
+|17|103.73.102.174|60080|Pakistan|Lahore|KK Networks (Pvt) Ltd|
+|18|117.4.115.169|8080|Vietnam|Hanoi|Viettel Corporation|
+|19|176.37.150.254|41890|Ukraine|Kyiv|Lanet Network|
+|20|92.255.255.172|8080|Russia|Naberezhnyye Chelny|CJSC "ER-Telecom Holding" Naberezhnye Chelny branch|
 
 
 

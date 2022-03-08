@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2901** proxies at the latest update. Usable proxies are below.
+> Scraper found **2632** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|3|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
-|4|176.110.121.90|21776|Russia|Moscow|Teraline Telecom Ltd|
-|5|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|6|118.89.176.33|8118|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|7|119.15.95.158|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|8|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|9|186.1.206.158|3128|Haiti|Port-au-Prince|Télécommunications de Haití (Teleco)|
-|10|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|176.236.157.155|8080|Turkey|Kilis|Tellcom Iletisim Hizmetleri A.S.|
-|12|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|13|139.255.123.3|8080|Indonesia|Jakarta|PT. LINKNET|
-|14|210.210.130.154|8181|Indonesia|Jakarta|CBN|
-|15|203.150.128.172|8080|Thailand|Watthana|Internet Thailand Company Ltd|
-|16|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|17|103.147.77.66|5030|Indonesia|Surabaya|TRIDATA|
-|18|211.53.100.186|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|19|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|20|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
+|1|190.2.210.115|999|Colombia|Pasto|TV AZTECA SUCURSAL COLOMBIA|
+|2|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|3|201.229.250.20|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|4|189.201.240.161|999|Mexico|Tijuana|Tecnologías Avanzadas S. de R.L. de C.V.|
+|5|103.80.77.1|8080|Indonesia|Jakarta|Dewan Ketahanan Nasional|
+|6|113.12.102.243|7890|China|Nanning|Chinanet|
+|7|103.78.170.13|82|India|Pune|Sanjeevan Networks Services Pvt Ltd|
+|8|63.161.104.189|3128|United States|Itasca|Sprint|
+|9|14.20.235.35|45770|China|Guangzhou Shi|Chinanet|
+|10|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|11|103.148.187.40|8080|Hong Kong|Tseung Kwan O|White-Sand Cloud Computing(HK) Co., LIMITED|
+|12|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
+|13|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|14|103.144.18.67|8082|Indonesia|Jember|PT Gasatek Bintang Nusantara|
+|15|50.235.149.74|8080|United States|Chicago|Comcast Cable Communications, LLC|
+|16|61.153.251.150|22222|China|Beijing|Chinanet|
+|17|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
+|18|176.215.184.157|1256|Russia|Moscow Oblast|JSC "ER-Telecom Holding"|
+|19|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|20|173.248.248.90|8080|Hong Kong|Central|PCCW IMS Ltd (PCCW Business Internet Access)|
 
 
 

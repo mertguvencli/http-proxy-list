@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2963** proxies at the latest update. Usable proxies are below.
+> Scraper found **3007** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|190.2.210.139|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|3|36.94.60.27|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|4|77.52.187.199|10000|Ukraine|Shyroke|PrJSC "VF UKRAINE"|
-|5|187.110.236.145|53281|Brazil|Magalhaes de Almeida|MOB SERVICOS DE TELECOMUNICACOES S.A|
-|6|202.62.10.51|80|Indonesia|Pamulang|Client Jakarta Iconpln|
-|7|91.150.67.17|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|8|111.90.179.74|8080|Australia|Marble Bar|Angkor Data Communication|
-|9|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|10|210.77.87.71|3128|China|Beijing|CSTNET|
-|11|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|12|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|13|103.143.197.44|8080|Indonesia|Kuto|JERNIHNETWORK|
-|14|190.110.99.105|999|Chile|Las Condes|Silica Networks Argentina S.A.|
-|15|203.142.69.69|8080|Indonesia|Jakarta|BIZNET|
-|16|45.156.31.26|9090|Turkey|Istanbul|ATLANTIS|
-|17|103.73.102.174|60080|Pakistan|Lahore|KK Networks (Pvt) Ltd|
-|18|117.4.115.169|8080|Vietnam|Hanoi|Viettel Corporation|
-|19|176.37.150.254|41890|Ukraine|Kyiv|Lanet Network|
-|20|92.255.255.172|8080|Russia|Naberezhnyye Chelny|CJSC "ER-Telecom Holding" Naberezhnye Chelny branch|
+|1|201.182.242.200|999|Ecuador|Saraguro|Gualan Japon Luis Joaquin|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|196.219.202.74|8080|Egypt|Awsim|TE-AS|
+|4|103.169.186.83|8080|Indonesia|Pasuruan|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|5|185.162.142.81|53281|Moldova|Sergheuca|Societatea Comerciala Click-COM SRL|
+|6|203.82.42.38|1337|Philippines|Quezon City|WifiCity, Inc|
+|7|190.232.82.39|999|Peru|Cajamarca|Telefónica del Perú|
+|8|58.147.186.226|80|Indonesia|Pontianak|PT. Transhybrid Communication|
+|9|123.231.221.242|6969|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|10|118.97.47.250|55443|Indonesia|Bandung|PT. TELKOM INDONESIA|
+|11|14.162.40.150|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|12|88.255.185.229|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|13|191.102.74.113|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|177.190.80.226|8080|Brazil|Pinheiral|Adsnet Telecom Ltda ME|
+|15|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
+|16|176.37.14.221|41890|Ukraine|Kyiv|Lanet Network|
+|17|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
+|18|223.100.215.26|8080|China|Shenyang|China Mobile communications corporation|
+|19|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|20|103.85.114.244|8080|Bangladesh|Dhaka|Net Cafe|
 
 
 

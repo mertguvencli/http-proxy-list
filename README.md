@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3094** proxies at the latest update. Usable proxies are below.
+> Scraper found **3142** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.16.22.178|9999|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|2|86.104.37.20|8080|Iran|Tehran|Afranet|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|50.246.120.125|8080|United States|Pikesville|Comcast Cable Communications, LLC|
-|5|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|6|43.154.116.249|8118|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
-|7|203.192.217.11|8080|India|Delhi|Entire In2Cable|
-|8|165.0.50.110|8080|South Africa|Cape Town|RSAWEB (PTY) LTD|
-|9|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|10|113.161.70.165|41890|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|11|166.111.69.62|7890|China|Beijing|China Education and Research Network Center|
-|12|190.152.182.150|55443|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
-|14|190.110.99.105|999|Chile|Las Condes|Silica Networks Argentina S.A.|
-|15|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
-|16|175.101.14.121|84|India|Hyderabad|ExcellMedia Pvt Ltd|
-|17|101.53.154.137|2011|India|Noida|E2E Networks Limited|
-|18|187.190.255.76|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
-|19|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
-|20|45.172.111.2|999|Argentina|Villa Media Agua|GPS SANJUAN SRL.|
+|1|165.16.27.14|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|2|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|3|178.217.140.70|443|Poland|Debica|Multinet 24 Sp. Z o.o|
+|4|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
+|5|154.236.168.169|1981|Egypt|Cairo|Etisalat Misr|
+|6|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|7|198.52.241.12|999|Puerto Rico|Corozal|OSNET Wireless|
+|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|9|89.216.52.197|8080|Serbia|Belgrade|Serbia Broadband|
+|10|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
+|11|182.34.201.55|25624|China|Xintai|Chinanet|
+|12|190.110.99.100|999|Chile|Las Condes|Silica Networks Argentina S.A.|
+|13|200.39.153.1|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
+|14|200.37.187.186|999|Peru|Cucho|Telefonica del Peru S.A.A.|
+|15|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
+|16|190.119.166.36|999|Peru|La Victoria|America Movil Peru S.A.C.|
+|17|37.54.13.78|8081|Ukraine|Kyiv|UKRTELECOM|
+|18|101.53.154.137|2009|India|Noida|E2E Networks Limited|
+|19|179.189.193.101|3129|Brazil|Novo Progresso|NovaNet Provedor e Web Ltda|
+|20|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
 
 
 

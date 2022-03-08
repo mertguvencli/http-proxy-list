@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3135** proxies at the latest update. Usable proxies are below.
+> Scraper found **2991** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
-|4|47.97.11.193|8888|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|6|63.161.104.189|3128|United States|Itasca|Sprint|
-|7|189.165.30.98|10101|Mexico|Tepeaca|Uninet S.A. de C.V|
-|8|37.113.132.8|8080|Russia|Chelyabinsk|CJSC "ER-Telecom Holding" Chelyabinsk branch|
-|9|189.39.96.208|80|Brazil|Londrina|Lgtel61 Internet Ltda|
-|10|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|11|218.2.214.105|80|China|Heping|CHINANET jiangsu province network|
-|12|180.250.153.129|53281|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|196.1.240.46|3128|Sudan|Khartoum|Sudatel (Sudan Telecom Co. Ltd)|
-|14|177.129.11.150|8080|Brazil|Rio de Janeiro|Citta Telecom Ltda|
-|15|88.151.251.195|6969|Russia|Moscow|IPLS|
-|16|149.28.77.38|59394|United States|Los Angeles|The Constant Company|
-|17|186.216.198.166|80|Brazil|Duque de Caxias|YIPI Telecom LTDA.|
-|18|103.166.10.134|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|19|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|20|186.3.9.219|999|Ecuador|Guayaquil|Telconet S.A|
+|1|170.245.56.195|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
+|2|176.98.22.224|8181|Ukraine|Buky|Crystal Telecom Ltd|
+|3|128.199.253.186|31330|Singapore|Singapore|DigitalOcean, LLC|
+|4|187.189.119.81|8080|Mexico|Tacotalpa|Total Play Telecomunicaciones SA De CV|
+|5|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|6|116.100.181.202|8080|Vietnam|Bến Tre|Viettel Corporation|
+|7|187.102.209.121|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
+|8|120.28.218.28|3128|Philippines|Maramag|Globe Telecom|
+|9|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|10|88.255.101.237|8080|Turkey|Antalya|Turk Telekomunikasyon Anonim Sirketi|
+|11|5.139.161.156|55443|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
+|12|103.31.39.230|8080|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
+|13|103.47.66.150|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|14|219.90.92.226|1337|Philippines|Calumpit|Inter-Island Information Systems Inc.|
+|15|41.184.92.24|8080|Nigeria|Abuja|ipNX Nigeria Limited|
+|16|36.94.61.196|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|17|93.171.192.28|8080|Russia|Voskresensk|Pvonet LTD|
+|18|103.11.106.148|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|19|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
+|20|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
 
 
 

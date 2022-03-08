@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2898** proxies at the latest update. Usable proxies are below.
+> Scraper found **2906** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|115.77.138.134|8080|Vietnam|Ho Chi Minh City|Viettel Group|
-|2|181.129.49.214|999|Colombia|Santa Rosa de Osos|EPM Telecomunicaciones S.A. E.S.P.|
-|3|63.161.104.189|3128|United States|Itasca|Sprint|
-|4|109.86.152.78|55443|Ukraine|Kyiv|Triolan|
-|5|45.175.160.29|999|Argentina|Tunuyan|OSORIO SERGIO ANGELINO(NETVDU).|
-|6|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|7|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|8|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|9|14.161.252.185|55443|Vietnam|Tay Ninh|VNPT|
-|10|103.123.231.237|8080|Indonesia|Serang|PT Mora Telematika Indonesia|
-|11|45.171.242.2|8083|Brazil|Atibaia|Lucknet Telecom|
-|12|152.200.154.60|999|Colombia|Neiva|Colombia Telecomunicaciones S.a. ESP|
-|13|177.93.50.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|15|190.116.36.133|8080|Peru|Cajamarca|America Movil Peru S.A.C.|
-|16|182.253.107.212|8080|Indonesia|Tegal|BIZNET|
-|17|77.52.187.199|10000|Ukraine|Shyroke|PrJSC "VF UKRAINE"|
-|18|132.255.210.120|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|19|187.109.40.193|20183|Brazil|São Paulo|Ultranet Telecomunicações Ltda|
-|20|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|181.224.207.19|999|Dominican Republic|Castanuelas|BW TELECOM|
+|2|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|3|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
+|4|131.100.51.250|999|Colombia|Neiva|Fibernet TV SAS|
+|5|220.247.171.242|8080|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|6|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|7|101.53.154.137|2016|India|Noida|E2E Networks Limited|
+|8|175.101.14.121|84|India|Hyderabad|ExcellMedia Pvt Ltd|
+|9|91.208.206.179|5006|Moldova|Chisinau|Alexhost SRL|
+|10|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|11|124.83.74.218|8080|Philippines|Laya|Philippine Long Distance Telephone Co.|
+|12|118.67.221.82|8080|Bangladesh|Gulshan|InterCloud Limited|
+|13|86.57.134.64|41890|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
+|14|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
+|15|223.100.215.26|8080|China|Shenyang|China Mobile communications corporation|
+|16|77.236.248.237|8080|Russia|Balashikha|ArtCommunications Ltd. ISP. Moscow|
+|17|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|18|219.92.41.224|8080|Malaysia|Kampong Baharu Balakong|TMnet|
+|19|27.72.244.228|8080|Vietnam|Thai Nguyen|Newass2011xDSLHN|
+|20|103.155.166.245|8181|Indonesia|Cileungsir|PT Network Lintas Fiberindo|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2632** proxies at the latest update. Usable proxies are below.
+> Scraper found **2610** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.2.210.115|999|Colombia|Pasto|TV AZTECA SUCURSAL COLOMBIA|
-|2|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|3|201.229.250.20|8080|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
-|4|189.201.240.161|999|Mexico|Tijuana|Tecnologías Avanzadas S. de R.L. de C.V.|
-|5|103.80.77.1|8080|Indonesia|Jakarta|Dewan Ketahanan Nasional|
-|6|113.12.102.243|7890|China|Nanning|Chinanet|
-|7|103.78.170.13|82|India|Pune|Sanjeevan Networks Services Pvt Ltd|
-|8|63.161.104.189|3128|United States|Itasca|Sprint|
-|9|14.20.235.35|45770|China|Guangzhou Shi|Chinanet|
-|10|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|11|103.148.187.40|8080|Hong Kong|Tseung Kwan O|White-Sand Cloud Computing(HK) Co., LIMITED|
-|12|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
-|13|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|14|103.144.18.67|8082|Indonesia|Jember|PT Gasatek Bintang Nusantara|
-|15|50.235.149.74|8080|United States|Chicago|Comcast Cable Communications, LLC|
-|16|61.153.251.150|22222|China|Beijing|Chinanet|
-|17|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|18|176.215.184.157|1256|Russia|Moscow Oblast|JSC "ER-Telecom Holding"|
-|19|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|20|173.248.248.90|8080|Hong Kong|Central|PCCW IMS Ltd (PCCW Business Internet Access)|
+|1|177.223.58.68|54579|Brazil|Teixeira|Star Telecom S/A|
+|2|85.133.229.10|8080|Iran|Tehran|Sepanta Network Solutions|
+|3|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|4|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
+|5|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
+|6|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|7|167.71.190.253|80|United States|Clifton|DigitalOcean, LLC|
+|8|91.203.164.226|8080|Ukraine|Kremenchug|FOP Koval Dmitro Orestovich|
+|9|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|10|190.110.99.107|999|Chile|Las Condes|Silica Networks Argentina S.A.|
+|11|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|31.192.233.30|5006|United States|Atlanta|Chelyabinsk-Signal LLC|
+|13|180.183.103.14|8080|Thailand|Bangkok|Triple T Internet Company Limited|
+|14|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|15|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|16|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|17|109.122.39.205|53281|Ukraine|Odessa|BRIZ|
+|18|182.23.35.242|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|19|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
+|20|212.100.84.10|8080|Nigeria|Port Harcourt|Autonomous System number for Cyber Space|
 
 
 

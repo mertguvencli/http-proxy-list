@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2959** proxies at the latest update. Usable proxies are below.
+> Scraper found **2847** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.142.67.23|8080|Russia|Lytkarino|Wellcom-l ISP|
-|2|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|3|67.205.128.38|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|202.51.114.212|3128|Indonesia|Jakarta|PT iForte Global Internet|
-|6|202.129.196.242|53879|India|Alandurai|Wireline Solution India Pvt Ltd.|
-|7|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|8|85.172.19.214|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|9|182.253.197.69|8080|Indonesia|Jepara|STIE-BPD|
-|10|103.174.4.107|8080|Pakistan|Rawalpindi|Ain Dice (Private) Limited|
-|11|117.157.197.18|3128|China|Shenzhen|China Mobile communications corporation|
-|12|156.200.110.116|1976|Egypt|Cairo|TE Data|
-|13|118.97.47.250|55443|Indonesia|Bandung|PT. TELKOM INDONESIA|
-|14|177.6.235.74|8080|Brazil|Eirunepe|Brasil Telecom S/A - Filial Distrito Federal|
-|15|157.230.34.152|39521|Singapore|Singapore|DigitalOcean, LLC|
-|16|123.231.221.178|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|17|60.211.218.78|53281|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|18|103.49.30.8|3128|Indonesia|Embongkaliasin|PT Pascal Solusi Nusantara|
-|19|36.94.47.62|4480|Indonesia|Dumai|PT. Telekomunikasi Indonesia|
-|20|167.172.173.210|35383|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|1|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|2|189.199.106.202|999|Mexico|Zamora|Mega Cable, S.A. de C.V.|
+|3|103.31.45.174|8080|Indonesia|Medan|Media Antar Nusa PT.|
+|4|63.161.104.189|3128|United States|Itasca|Sprint|
+|5|144.76.42.215|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|6|121.8.215.106|9797|China|Guangzhou|Chinanet|
+|7|86.104.37.20|8080|Iran|Tehran|Afranet|
+|8|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|9|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|10|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
+|11|98.115.7.156|8080|United States|Doylestown|Verizon Business|
+|12|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|13|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
+|14|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|15|45.64.11.17|8080|India|Sardhana|Shivansh Infotech pvt Ltd|
+|16|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|17|154.236.168.179|1976|Egypt|Cairo|Etisalat Misr|
+|18|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|20|77.46.138.38|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
 
 
 

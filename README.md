@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3236** proxies at the latest update. Usable proxies are below.
+> Scraper found **3041** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|249|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|249|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|249|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|131.108.118.27|8080|Brazil|Catalao|Catalão Bandnet Serviços Multimídia LTDA - ME|
-|2|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|3|201.20.110.35|666|Brazil|Parnamirim|MOB SERVICOS DE TELECOMUNICACOES S.A.|
-|4|181.143.191.138|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|5|161.132.122.60|999|Peru|Lima|Optical Technologies S.A.C.|
-|6|188.43.15.89|8080|Russia|Tommot|Joint Stock Company TransTeleCom|
-|7|94.228.194.18|41890|Russia|Moscow|Uniontel Ltd|
-|8|177.128.44.131|6006|Brazil|Sapiranga|FLY & LVT|
-|9|116.206.243.50|80|Indonesia|Rowotengu|CBN|
-|10|188.65.237.46|49733|Russia|Kommunarka|M9com RO|
-|11|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
-|12|103.124.136.212|3127|Indonesia|Jekulo|Global Media Data Prima|
-|13|122.144.4.126|63123|Indonesia|Teluknaga|Maxindo|
-|14|101.51.139.179|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|15|36.95.249.157|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|17|154.113.19.30|8080|Nigeria|Lagos|Mainone Cable Company|
-|18|200.178.26.50|3128|Brazil|Osasco|Claro S.A|
-|19|187.109.40.9|20183|Brazil|São Paulo|Ultranet Telecomunicações Ltda|
-|20|101.51.55.153|8080|Thailand|Din Daeng|TOT Public Company Limited|
+|1|41.65.193.100|1981|Egypt|Cairo|Etisalat Misr|
+|2|95.31.218.48|41890|Russia|Moscow|CORBINA|
+|3|185.37.211.222|50330|Portugal|Amadora|Vodafone Portugal - Communicacoes Pessoais S.A.|
+|4|63.161.104.189|3128|United States|Itasca|Sprint|
+|5|103.96.79.73|8080|Cambodia|Phnom Penh|CAMHR INFORMATION(CAMBODIA) Co., LTD|
+|6|180.183.124.27|8080|Thailand|Bangkok|Triple T Internet Company Limited|
+|7|5.16.0.49|8080|Russia|St Petersburg|Enforta-MSK|
+|8|76.81.164.246|8080|United States|Garden Grove|Spectrum|
+|9|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
+|10|181.164.192.193|3128|Argentina|Córdoba|Telecom Argentina S.A|
+|11|118.175.244.111|8080|Thailand|Kaeng Khoi|TOT Public Company Limited|
+|12|212.100.84.10|8080|Nigeria|Port Harcourt|Autonomous System number for Cyber Space|
+|13|92.255.196.91|8080|Russia|Kazan’|JSC "ER-Telecom Holding"|
+|14|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|81.91.137.43|8080|Iran|Tajrīsh|DATAK Internet Engineering, Inc|
+|16|103.168.44.149|8080|Indonesia|Danaraja|PT CYB Media Group|
+|17|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|18|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|19|103.152.93.218|8181|Indonesia|Pati|PT. JAYA LINTAS INDONESIA|
+|20|92.255.255.172|8080|Russia|Naberezhnyye Chelny|CJSC "ER-Telecom Holding" Naberezhnye Chelny branch|
 
 
 

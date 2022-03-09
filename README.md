@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3107** proxies at the latest update. Usable proxies are below.
+> Scraper found **2898** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|180|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|180|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|180|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
-|2|176.31.68.252|20001|Spain|Madrid|OVH SAS|
-|3|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|4|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|5|185.103.168.68|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|6|186.3.38.201|999|Ecuador|Guayaquil|Telconet S.A|
-|7|103.121.49.137|8080|Bangladesh|Jhingergacha|Md. Tohidul Islam|
-|8|103.154.24.18|8080|Indonesia|Selong|HIJRAHNET|
-|9|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|10|36.89.148.47|33677|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|131.255.59.91|9292|Brazil|Votuporanga|Link Brasil Telecomunicacoes Ltda|
-|12|131.221.98.98|55443|Brazil|Toritama|Jobson Luis Melo de Negreiros ME|
-|13|155.0.181.254|43496|Zambia|Munali|Zambia Research and Education Network|
-|14|5.183.232.131|8080|Russia|Moscow|Elitel Telecom Group Ltd|
-|15|139.255.5.98|443|Indonesia|Jakarta|PT. LINKNET|
-|16|195.191.182.77|8080|Russia|Gryazi|MediaNet Ltd.|
-|17|36.89.148.47|33677|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|89.218.58.122|8080|Kazakhstan|Nur-Sultan|JSC Kazakhtelecom|
-|19|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
-|20|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|1|34.82.217.181|5555|United States|The Dalles|Google LLC|
+|2|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|3|63.161.104.189|3128|United States|Itasca|Sprint|
+|4|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|5|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
+|6|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|7|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|8|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|9|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|10|176.101.221.119|8080|Ukraine|Sloviansk|SDS-Vostok Ltd.|
+|11|139.5.132.245|8080|Bangladesh|Dhaka|Geotel Bangladesh IT Ltd|
+|12|45.118.166.114|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|13|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|14|103.153.40.38|8080|Indonesia|Bekasi|Persada Nayaka Infotama|
+|15|189.165.30.98|10101|Mexico|Tepeaca|Uninet S.A. de C.V|
+|16|1.186.85.46|80|India|Kolkata|D-VoiS Broadband Private Limited|
+|17|45.5.92.94|8137|Mexico|Monclova|Señal Interactiva, S.A De C.V|
+|18|103.95.43.206|8181|Indonesia|Jakarta|X-NODE|
+|19|103.161.165.2|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|20|45.5.94.178|3128|Mexico|Saltillo|Señal Interactiva, S.A De C.V|
 
 
 

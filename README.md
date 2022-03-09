@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3178** proxies at the latest update. Usable proxies are below.
+> Scraper found **3236** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|233|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|233|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|233|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.159.40.19|8080|Russia|Moscow|Linenet Ltd.|
-|2|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|3|119.13.85.250|8888|Hong Kong|Hong Kong|Huawei International Pte. LTD|
-|4|120.143.18.201|8080|Japan|Toshima|INTERLINK|
-|5|161.49.116.131|1337|Philippines|Lucban|Converge ICT Solution Inc|
-|6|187.190.118.188|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|7|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|8|114.110.22.126|8085|Indonesia|Cimahi|BITEK|
-|9|82.137.244.74|8080|Syria|Damascus|ISP-TARASSUL|
-|10|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|11|206.62.64.34|8080|Brazil|Maringá|AGIS|
-|12|177.129.11.150|8080|Brazil|Rio de Janeiro|Citta Telecom Ltda|
-|13|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|14|185.82.99.123|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
-|15|61.9.48.169|1337|Philippines|San Juan|Sky Cable Corporation|
-|16|177.11.24.242|8083|Brazil|Luziania|Btec Telecom Eireli|
-|17|117.114.149.66|55443|China|Beijing|China Networks Inter-Exchange|
-|18|182.16.171.42|43188|Indonesia|Jakarta|PT iForte Global Internet|
-|19|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|156.200.110.116|1976|Egypt|Cairo|TE Data|
+|1|131.108.118.27|8080|Brazil|Catalao|Catalão Bandnet Serviços Multimídia LTDA - ME|
+|2|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|3|201.20.110.35|666|Brazil|Parnamirim|MOB SERVICOS DE TELECOMUNICACOES S.A.|
+|4|181.143.191.138|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|5|161.132.122.60|999|Peru|Lima|Optical Technologies S.A.C.|
+|6|188.43.15.89|8080|Russia|Tommot|Joint Stock Company TransTeleCom|
+|7|94.228.194.18|41890|Russia|Moscow|Uniontel Ltd|
+|8|177.128.44.131|6006|Brazil|Sapiranga|FLY & LVT|
+|9|116.206.243.50|80|Indonesia|Rowotengu|CBN|
+|10|188.65.237.46|49733|Russia|Kommunarka|M9com RO|
+|11|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
+|12|103.124.136.212|3127|Indonesia|Jekulo|Global Media Data Prima|
+|13|122.144.4.126|63123|Indonesia|Teluknaga|Maxindo|
+|14|101.51.139.179|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|36.95.249.157|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|17|154.113.19.30|8080|Nigeria|Lagos|Mainone Cable Company|
+|18|200.178.26.50|3128|Brazil|Osasco|Claro S.A|
+|19|187.109.40.9|20183|Brazil|São Paulo|Ultranet Telecomunicações Ltda|
+|20|101.51.55.153|8080|Thailand|Din Daeng|TOT Public Company Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2746** proxies at the latest update. Usable proxies are below.
+> Scraper found **3151** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|263|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|263|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|263|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.230.172.13|8080|Mexico|Culiacán|Opsicome SA De CV|
-|2|190.71.50.58|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
-|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
-|6|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|7|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|8|165.22.59.84|8080|Singapore|Singapore|DigitalOcean, LLC|
-|9|177.136.84.164|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|10|149.5.38.1|8080|Ireland|Dublin|Model Telecom Ltd|
-|11|78.30.198.160|8080|Ukraine|Sevastopol|Lancom Ltd.|
-|12|96.9.87.113|8080|Cambodia|Phnom Penh|SIGROUPS|
-|13|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
-|14|154.236.162.59|1981|Egypt|Giza|Enterprise|
-|15|186.3.38.201|999|Ecuador|Guayaquil|Telconet S.A|
-|16|63.161.104.189|3128|United States|Itasca|Sprint|
-|17|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|18|154.236.168.181|1976|Egypt|Cairo|Etisalat Misr|
-|19|109.86.224.150|30318|Ukraine|Kharkiv|Triolan|
-|20|175.101.14.121|84|India|Hyderabad|ExcellMedia Pvt Ltd|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|187.45.127.87|20183|Brazil|Erebango|Mhnet Telecom|
+|3|31.128.71.241|8081|Ukraine|Kharkiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|4|190.12.57.46|8080|Ecuador|Machala|Puntonet S.A.|
+|5|195.133.71.199|8080|Russia|Cherkessk|Itsoft LLC|
+|6|50.192.250.60|8080|United States|Swedesboro|Comcast Cable Communications, LLC|
+|7|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
+|8|45.174.70.18|53281|Mexico|Huatabampo|Index Datacom S.a. De C.V.|
+|9|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|10|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|11|27.147.209.215|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
+|12|156.200.116.71|1981|Egypt|Giza|TE Data|
+|13|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|14|105.112.134.209|8080|Nigeria|Ikoyi|Airtel Networks Limited|
+|15|107.178.9.186|8080|United States|Decatur|Nextlink Broadband|
+|16|182.253.107.212|8080|Indonesia|Tegal|BIZNET|
+|17|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|18|45.172.110.65|999|Argentina|Caucete|GPS SANJUAN SRL.|
+|19|101.200.137.28|8902|China|Beijing|Hangzhou Alibaba Advertising Co|
+|20|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
 
 
 

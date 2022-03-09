@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2243** proxies at the latest update. Usable proxies are below.
+> Scraper found **2746** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.43.140.138|8080|United States|Palm Springs|Charter Communications|
-|2|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|3|181.49.100.190|8080|Colombia|Pitalito|Telmex Colombia S.A.|
-|4|179.1.65.98|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|5|14.207.144.47|9080|Thailand|Sam Phran|Triple T Internet Company Limited|
-|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|7|115.79.198.18|55443|Vietnam|Ho Chi Minh City|VIETELftth|
-|8|177.52.221.111|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|9|43.245.95.210|53805|Nepal|Kathmandu|BroadLink Networks and Communications|
-|10|95.31.218.48|41890|Russia|Moscow|CORBINA|
-|11|201.186.131.56|999|Chile|Temuco|Telefonica del Sur S.A.|
-|12|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
-|13|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|178.176.38.177|8080|Russia|Moscow|MegaFon|
-|15|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|16|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|17|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|18|186.3.9.219|999|Ecuador|Guayaquil|Telconet S.A|
-|19|162.155.10.150|55443|United States|Athens|Charter Communications Inc|
-|20|82.114.97.157|1256|Russia|St Petersburg|Enforta-MSK|
+|1|45.230.172.13|8080|Mexico|Culiacán|Opsicome SA De CV|
+|2|190.71.50.58|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
+|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|5|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|6|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|7|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|8|165.22.59.84|8080|Singapore|Singapore|DigitalOcean, LLC|
+|9|177.136.84.164|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|10|149.5.38.1|8080|Ireland|Dublin|Model Telecom Ltd|
+|11|78.30.198.160|8080|Ukraine|Sevastopol|Lancom Ltd.|
+|12|96.9.87.113|8080|Cambodia|Phnom Penh|SIGROUPS|
+|13|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
+|14|154.236.162.59|1981|Egypt|Giza|Enterprise|
+|15|186.3.38.201|999|Ecuador|Guayaquil|Telconet S.A|
+|16|63.161.104.189|3128|United States|Itasca|Sprint|
+|17|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
+|18|154.236.168.181|1976|Egypt|Cairo|Etisalat Misr|
+|19|109.86.224.150|30318|Ukraine|Kharkiv|Triolan|
+|20|175.101.14.121|84|India|Hyderabad|ExcellMedia Pvt Ltd|
 
 
 

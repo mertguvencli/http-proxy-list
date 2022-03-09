@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2637** proxies at the latest update. Usable proxies are below.
+> Scraper found **2673** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|105|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|105|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|105|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.88.250.73|3128|South Korea|Suwon|DLIVE|
-|2|36.66.206.74|80|Indonesia|Bunulrejo|PT. Telekomunikasi Indonesia|
-|3|36.91.98.115|8181|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|4|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|5|103.139.47.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|6|129.205.106.226|8080|Nigeria|Ibadan|Globacom Limited|
-|7|193.193.240.36|45944|Kazakhstan|Oral|"ASTEL" OJSC|
-|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|9|103.143.195.2|1080|Indonesia|Medan|TRINITY|
-|10|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|11|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
-|12|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|13|219.92.41.224|80|Malaysia|Kampong Baharu Balakong|TMnet|
-|14|223.100.215.26|8080|China|Shenyang|China Mobile communications corporation|
-|15|190.217.20.108|999|Colombia|Choachi|Level 3 Colombia S.A|
-|16|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
-|17|196.2.15.68|8080|Burundi|Bururi|CBINET Burundi|
-|18|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|78.30.230.117|50932|Ukraine|Sevastopol|Lancom Ltd.|
-|20|197.248.157.159|8080|Kenya|Nairobi|Safaricom Limited|
+|1|182.253.199.102|8080|Indonesia|Surabaya|Biznet Networks|
+|2|196.219.202.74|8080|Egypt|Awsim|TE-AS|
+|3|39.108.193.201|8888|China|Shenzhen|Hangzhou Alibaba Advertising Co|
+|4|139.255.5.98|8080|Indonesia|Jakarta|PT. LINKNET|
+|5|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|7|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
+|8|72.47.152.224|55443|United States|Balch Springs|Suddenlink Communications|
+|9|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|10|5.180.130.91|443|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
+|11|92.242.254.53|53545|Croatia|Varaždin|Magic Net d.o.o|
+|12|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|13|1.32.59.217|47045|Malaysia|Klang|Telekom Malaysia Berhad|
+|14|116.100.181.202|8080|Vietnam|Bến Tre|Viettel Corporation|
+|15|103.162.205.51|8181|Indonesia|Magelang|PT Jaringan Inti Exadata|
+|16|185.111.164.120|8080|Russia|Taman'|Comfort XXI Century Ltd.|
+|17|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|18|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
+|19|120.197.179.166|8080|China|Dongguan|China Mobile communications corporation|
+|20|177.71.92.134|8080|Brazil|Petrolina|L E M TELECOMUNICAÔÔES LTDA -ME|
 
 
 

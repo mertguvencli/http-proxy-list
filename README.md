@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2763** proxies at the latest update. Usable proxies are below.
+> Scraper found **3054** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|172|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|172|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|172|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|213.32.75.44|9300|France|Gravelines|OVH SAS|
-|2|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|103.76.27.34|8080|Indonesia|Lawang|MORATELINDO|
-|5|190.210.211.70|8080|Argentina|Buenos Aires|NSS S.A.|
-|6|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
-|7|213.171.63.210|41890|Russia|Molokovo|OJSC Comcor|
-|8|176.236.157.155|8080|Turkey|Kilis|Tellcom Iletisim Hizmetleri A.S.|
-|9|131.108.118.27|8080|Brazil|Catalao|Catalão Bandnet Serviços Multimídia LTDA - ME|
-|10|45.248.27.129|8080|India|Noida|vardha info tech private limited|
-|11|132.255.210.115|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|12|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|13|213.139.32.14|8080|Jordan|Amman|JTC|
-|14|38.123.68.152|999|Mexico|Paseos del Valle [Fraccionamiento]|Cogent Communications|
-|15|45.64.11.97|8080|India|Sardhana|Shivansh Infotech pvt Ltd|
-|16|223.100.215.26|8080|China|Shenyang|China Mobile communications corporation|
-|17|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
-|18|63.161.104.189|3128|United States|Itasca|Sprint|
-|19|62.138.3.125|5566|France|Strasbourg|Host Europe GmbH|
-|20|140.0.120.181|8080|Indonesia|Kalisari|PT. First Media, Tbk|
+|1|174.81.78.64|48678|United States|Wallace|Charter Communications|
+|2|103.143.195.2|1080|Indonesia|Medan|TRINITY|
+|3|189.62.68.242|8080|Brazil|São Paulo|Claro S.A.|
+|4|161.132.122.60|999|Peru|Lima|Optical Technologies S.A.C.|
+|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|6|78.84.14.122|53281|Latvia|Jūrmala|LATTELEKOM|
+|7|103.168.164.26|83|India|Pune|Nutech Broadband|
+|8|200.8.19.18|999|Venezuela|San Felipe|Corporación Telemic C.A.|
+|9|176.36.20.67|61935|Ukraine|Kyiv|Lanet Network|
+|10|161.49.212.173|1337|Philippines|Plaridel|Converge Information and Communications Technology Solutions|
+|11|88.255.185.229|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|12|14.20.235.35|45770|China|Guangzhou Shi|Chinanet|
+|13|103.161.164.115|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|14|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|15|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
+|16|63.161.104.189|3128|United States|Itasca|Sprint|
+|17|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|18|103.121.41.165|8080|Pakistan|Karachi|Satcomm (Pvt.) Ltd.|
+|19|200.111.22.70|999|Chile|Panguipulli|Entel Chile S.A.|
+|20|191.97.1.91|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
 
 
 

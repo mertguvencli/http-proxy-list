@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2887** proxies at the latest update. Usable proxies are below.
+> Scraper found **2905** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.190.255.76|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
-|2|200.114.66.20|999|Chile|Los Vilos|Chile TV Cable S.A.|
-|3|77.120.187.185|8080|Ukraine|Kharkiv|Volia Kharkov|
-|4|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|5|65.20.178.15|8080|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
-|6|223.27.194.66|63141|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|7|182.253.107.212|8080|Indonesia|Tegal|BIZNET|
-|8|185.162.142.81|53281|Moldova|Sergheuca|Societatea Comerciala Click-COM SRL|
-|9|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|10|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
-|11|36.89.252.155|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|63.161.104.189|3128|United States|Itasca|Sprint|
-|13|119.110.72.2|3888|Indonesia|Jakarta|Maxindo|
-|14|182.16.171.42|43188|Indonesia|Jakarta|PT iForte Global Internet|
-|15|103.160.201.192|8080|Indonesia|Pegangsaan Dua|PT Viriya Surya Abadi|
-|16|45.229.34.100|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|17|182.16.163.202|3128|Indonesia|Jakarta|SOLUSINET|
-|18|181.13.3.154|999|Argentina|Quitilipi|Telecom Argentina S.A|
-|19|109.232.106.236|49565|Russia|Elektrostal|CJSC Thyphone Communications 106|
-|20|110.78.22.39|8080|Thailand|Chatuchak|CAT Telecom Public Company Limited|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|181.188.216.140|999|Ecuador|Quito|Nedetel S.A|
+|3|70.186.128.126|8080|United States|Shawnee|Cox Communications Inc.|
+|4|190.61.82.170|999|Panama|Panama City|Ufinet Panama S.A|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|7|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|8|63.161.104.189|3128|United States|Itasca|Sprint|
+|9|103.105.125.6|84|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
+|10|95.137.240.30|60030|Georgia|Kutaisi|EGRISI|
+|11|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|12|165.16.25.66|9999|Libya|Idri|Aljeel Aljadeed For Technology|
+|13|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|14|181.49.36.124|999|Colombia|San Agustin|Telmex Colombia S.A.|
+|15|177.73.186.12|8080|Brazil|Videira|Unifique TelecomunicaÔÔes SA|
+|16|185.89.156.250|8181|Albania|Tregan|ATU|
+|17|95.0.206.22|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|18|161.97.84.211|10080|Germany|Nuremberg|Contabo GmbH|
+|19|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
+|20|200.24.203.131|999|Ecuador|Guayaquil|Otecel S.A|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2773** proxies at the latest update. Usable proxies are below.
+> Scraper found **2637** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.224.207.19|999|Dominican Republic|Castanuelas|BW TELECOM|
-|2|161.97.183.154|3128|Germany|Düsseldorf|Contabo GmbH|
-|3|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|4|45.114.38.57|8080|India|Kolkata|Kavish online services private limited|
-|5|134.209.42.113|8895|United States|Clifton|DigitalOcean, LLC|
-|6|177.55.207.38|8080|Brazil|Carmo|Sumicity Telecomunicacoes S.A.|
-|7|110.232.80.11|8080|Indonesia|Medan|Media Antar Nusa PT.|
-|8|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|9|82.200.107.98|3128|Russia|Omsk|ZSTTK|
-|10|189.164.111.68|10101|Mexico|Puebla City|Uninet S.A. de C.V|
-|11|103.161.164.115|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|12|190.104.1.18|999|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
-|13|40.75.69.40|80|United States|Ashburn|Microsoft Corporation|
-|14|63.161.104.189|3128|United States|Itasca|Sprint|
-|15|201.99.66.9|8081|Mexico|Mexico City|Uninet S.A. de C.V.|
-|16|86.104.37.20|8080|Iran|Tehran|Afranet|
-|17|103.145.35.30|8181|Indonesia|Surabaya|LINTASDATA|
-|18|103.87.233.225|8080|Bangladesh|Lalmonirhat|BD Solution Online|
-|19|81.174.37.114|8080|Italy|Fornovo di Taro|NGI|
-|20|187.188.171.73|6969|Mexico|Veracruz|Total Play Telecomunicaciones SA De CV|
+|1|121.88.250.73|3128|South Korea|Suwon|DLIVE|
+|2|36.66.206.74|80|Indonesia|Bunulrejo|PT. Telekomunikasi Indonesia|
+|3|36.91.98.115|8181|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|4|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
+|5|103.139.47.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|6|129.205.106.226|8080|Nigeria|Ibadan|Globacom Limited|
+|7|193.193.240.36|45944|Kazakhstan|Oral|"ASTEL" OJSC|
+|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|9|103.143.195.2|1080|Indonesia|Medan|TRINITY|
+|10|181.129.2.90|8081|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
+|12|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|13|219.92.41.224|80|Malaysia|Kampong Baharu Balakong|TMnet|
+|14|223.100.215.26|8080|China|Shenyang|China Mobile communications corporation|
+|15|190.217.20.108|999|Colombia|Choachi|Level 3 Colombia S.A|
+|16|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
+|17|196.2.15.68|8080|Burundi|Bururi|CBINET Burundi|
+|18|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|19|78.30.230.117|50932|Ukraine|Sevastopol|Lancom Ltd.|
+|20|197.248.157.159|8080|Kenya|Nairobi|Safaricom Limited|
 
 
 

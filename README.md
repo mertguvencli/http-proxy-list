@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3001** proxies at the latest update. Usable proxies are below.
+> Scraper found **3178** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|222|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|222|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|222|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|233|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|233|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|233|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.148.189.177|999|Mexico|Nacajuca|Uninet S.A. de C.V|
-|2|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
-|3|103.46.233.186|82|India|Vaddangi|Apple Broadband Services Pvt.ltd|
-|4|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
-|5|103.209.88.67|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|124.158.161.184|8080|Indonesia|Gandul|ICON+|
-|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|9|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
-|10|66.70.198.229|999|Dominican Republic|Baní|OVH Hosting|
-|11|103.76.44.82|8080|Bangladesh|Dhaka|MD MONIR UZ ZAMAN UL MULK T/A U-Turn Technology|
-|12|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
-|13|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|14|103.153.232.1|8080|Nepal|Lumbini|Pals Network Pvt. Ltd|
-|15|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|16|5.58.97.89|8080|Ukraine|Ternopil|Columbus|
-|17|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|18|123.57.144.181|7777|China|Beijing|Hangzhou Alibaba Advertising Co|
-|19|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|20|165.16.22.150|9999|Libya|Al Marj|Aljeel Aljadeed For Technology|
+|1|178.159.40.19|8080|Russia|Moscow|Linenet Ltd.|
+|2|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|3|119.13.85.250|8888|Hong Kong|Hong Kong|Huawei International Pte. LTD|
+|4|120.143.18.201|8080|Japan|Toshima|INTERLINK|
+|5|161.49.116.131|1337|Philippines|Lucban|Converge ICT Solution Inc|
+|6|187.190.118.188|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|7|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|8|114.110.22.126|8085|Indonesia|Cimahi|BITEK|
+|9|82.137.244.74|8080|Syria|Damascus|ISP-TARASSUL|
+|10|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|11|206.62.64.34|8080|Brazil|Maringá|AGIS|
+|12|177.129.11.150|8080|Brazil|Rio de Janeiro|Citta Telecom Ltda|
+|13|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|14|185.82.99.123|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|15|61.9.48.169|1337|Philippines|San Juan|Sky Cable Corporation|
+|16|177.11.24.242|8083|Brazil|Luziania|Btec Telecom Eireli|
+|17|117.114.149.66|55443|China|Beijing|China Networks Inter-Exchange|
+|18|182.16.171.42|43188|Indonesia|Jakarta|PT iForte Global Internet|
+|19|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|20|156.200.110.116|1976|Egypt|Cairo|TE Data|
 
 
 

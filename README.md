@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2751** proxies at the latest update. Usable proxies are below.
+> Scraper found **2677** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|179.49.161.212|999|Colombia|Bogotá|Integra Multisolutions|
-|2|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
-|3|185.202.165.1|53281|Spain|Alhaurin el Grande|AVATEL TELECOM, SA|
-|4|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|5|183.91.0.124|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|6|203.150.128.8|8080|Thailand|Watthana|Internet Thailand Company Ltd|
-|7|139.255.77.74|8080|Indonesia|Bekasi|PT. LINKNET|
-|8|185.181.166.209|8080|Ukraine|Belozërskoye|FOP Vitaly Podkhalyuzin Evgenyevich|
-|9|103.160.201.76|8080|Indonesia|South Tangerang|PT Viriya Surya Abadi|
-|10|192.109.219.67|8080|Albania|Sarandë|Roland Delia trading as NEWAVE|
-|11|102.164.193.132|8080|South Africa|Middelburg|Jenny Internet cc|
-|12|124.93.201.59|42672|China|Dalian|China Unicom China169 Network|
-|13|103.47.66.154|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
-|14|1.179.144.41|8080|Thailand|Sankhaburi|TOT Public Company Limited|
-|15|113.212.87.242|82|India|Ahmedabad|INPLs|
-|16|88.255.102.98|8080|Turkey|Izmir|TurkTelekom|
-|17|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|18|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|19|118.97.47.250|55443|Indonesia|Bandung|PT. TELKOM INDONESIA|
-|20|190.205.42.42|999|Venezuela|Ciudad Bolívar|CANTV Servicios, Venezuela|
+|1|3.9.20.223|3128|United Kingdom|London|Amazon Technologies Inc.|
+|2|178.217.140.70|443|Poland|Debica|Multinet 24 Sp. Z o.o|
+|3|45.229.34.101|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|4|147.135.134.57|9300|France|Gravelines|OVH SAS|
+|5|176.213.143.38|3128|Russia|Rostov-on-Don|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
+|6|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|9|118.99.87.177|8080|Indonesia|Bandung|BIZNET|
+|10|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|11|119.2.41.81|8080|Indonesia|Menteng|PT. Laxo Global Akses|
+|12|152.67.85.151|8118|Switzerland|Zurich|Oracle Corporation|
+|13|36.89.252.155|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|103.124.87.1|8080|India|Ranchi|Streamonn Internet Services Private Limited|
+|15|103.124.86.1|8080|India|Ranchi|Streamonn Internet Services Private Limited|
+|16|210.77.87.71|3128|China|Beijing|CSTNET|
+|17|186.159.20.210|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|18|175.101.14.115|84|India|Hyderabad|ExcellMedia Pvt Ltd|
+|19|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|20|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2799** proxies at the latest update. Usable proxies are below.
+> Scraper found **2878** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.224.207.19|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|2|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|3|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
-|4|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|5|123.57.144.181|7777|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|190.116.36.133|8080|Peru|Cajamarca|America Movil Peru S.A.C.|
-|7|202.147.198.115|8080|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
-|8|181.224.204.22|22800|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|9|36.89.252.155|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
-|11|85.25.95.231|5566|France|Strasbourg|INTERGENIA|
-|12|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
-|13|103.162.205.51|8181|Indonesia|Magelang|PT Jaringan Inti Exadata|
-|14|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÔÔES LTDA|
-|15|103.47.64.85|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
-|16|154.236.168.181|1976|Egypt|Cairo|Etisalat Misr|
-|17|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|18|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|19|46.0.203.186|8080|Russia|Samara|JSC "ER-Telecom Holding"|
-|20|190.217.20.108|999|Colombia|Choachi|Level 3 Colombia S.A|
+|1|12.3.243.178|8080|United States|Elk Grove Village|AT&T Services, Inc.|
+|2|45.167.95.184|8085|Mexico|Queretaro|Lantointernet SA De CV|
+|3|118.190.244.234|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
+|4|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
+|5|200.111.239.66|8080|Chile|Santiago|Entel Chile S.A.|
+|6|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
+|7|186.46.168.45|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|8|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
+|9|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|10|103.23.206.170|8080|Bangladesh|Rangpur City|Mizanur Rahman t/a Maya Cyber World|
+|11|197.157.219.169|48625|Nigeria|Lagos|KKONTECH|
+|12|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|13|78.29.36.210|9080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
+|14|103.105.76.8|8080|Indonesia|Jombang|GARUDA|
+|15|118.99.87.177|8080|Indonesia|Bandung|BIZNET|
+|16|67.73.245.218|999|Colombia|Puerto Wilches|Level 3|
+|17|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
+|18|45.195.76.190|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|19|190.83.119.193|999|Guatemala|Nueva Santa Rosa|Cable Sistema S.r.l. De C.V|
+|20|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
 
 
 

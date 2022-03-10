@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2815** proxies at the latest update. Usable proxies are below.
+> Scraper found **2716** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|2|201.120.27.15|53281|Mexico|Mexico City|Uninet S.A. de C.V|
-|3|103.161.164.103|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|4|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|5|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|7|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
-|8|131.72.69.42|45005|Brazil|Moita Bonita|TOP NET SERVI?OS LTDA|
-|9|202.51.114.210|3128|Indonesia|Jakarta|PT iForte Global Internet|
-|10|190.14.249.119|999|Colombia|Bucaramanga|Media Commerce Partners S.A|
-|11|36.92.107.194|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|12|103.164.112.124|10001|Indonesia|Jakarta|SOLUSINET|
-|13|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|14|203.124.60.109|8080|Pakistan|Sialkot|COMSATS|
-|15|185.58.17.4|8080|Ireland|Ashbourne|Model Telecom Ltd|
-|16|112.78.170.251|8080|Indonesia|Jakarta|BIZNET|
-|17|177.242.151.142|8080|Mexico|Atlacomulco de Fabela|Mega Cable, S.A. de C.V.|
-|18|118.70.12.171|53281|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|19|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
-|20|185.82.96.21|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|1|20.103.234.40|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|181.78.18.93|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|3|213.184.227.226|8080|Belarus|Minsk|Unitary enterprise A1|
+|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|5|190.122.187.178|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|6|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|7|203.130.227.190|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|8|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|9|190.109.6.115|999|Colombia|Bogotá|Lazus Medellin|
+|10|139.255.101.90|8080|Indonesia|Jakarta|PT. LINKNET|
+|11|186.3.9.219|999|Ecuador|Guayaquil|Telconet S.A|
+|12|2.188.166.26|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|13|182.253.107.212|8080|Indonesia|Tegal|BIZNET|
+|14|115.124.79.92|8080|Indonesia|Jakarta|PT Remala Abadi|
+|15|110.74.198.175|56765|Cambodia|Phnom Penh|EZECOM limited|
+|16|119.40.83.138|8080|Bangladesh|Dhaka|BDCOM Online Limited|
+|17|88.255.101.236|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|18|180.193.216.208|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|19|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|20|20.103.234.40|8080|Netherlands|Amsterdam|Microsoft Corporation|
 
 
 

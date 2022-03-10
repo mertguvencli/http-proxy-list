@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2878** proxies at the latest update. Usable proxies are below.
+> Scraper found **2986** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|12.3.243.178|8080|United States|Elk Grove Village|AT&T Services, Inc.|
-|2|45.167.95.184|8085|Mexico|Queretaro|Lantointernet SA De CV|
-|3|118.190.244.234|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
-|4|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|5|200.111.239.66|8080|Chile|Santiago|Entel Chile S.A.|
-|6|183.247.152.98|53281|China|Hangzhou|China Mobile Communications Corporation|
-|7|186.46.168.45|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|8|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
-|9|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
-|10|103.23.206.170|8080|Bangladesh|Rangpur City|Mizanur Rahman t/a Maya Cyber World|
-|11|197.157.219.169|48625|Nigeria|Lagos|KKONTECH|
-|12|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
-|13|78.29.36.210|9080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
-|14|103.105.76.8|8080|Indonesia|Jombang|GARUDA|
-|15|118.99.87.177|8080|Indonesia|Bandung|BIZNET|
-|16|67.73.245.218|999|Colombia|Puerto Wilches|Level 3|
-|17|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
-|18|45.195.76.190|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
-|19|190.83.119.193|999|Guatemala|Nueva Santa Rosa|Cable Sistema S.r.l. De C.V|
-|20|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|1|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|2|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|3|201.20.100.142|53281|Brazil|Fortaleza|MOB SERVICOS DE TELECOMUNICACOES S.A|
+|4|189.129.106.41|999|Mexico|Tuxtla Gutiérrez|Uninet S.A. de C.V|
+|5|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|6|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
+|7|103.172.70.33|8080|Indonesia|Gemolong|AZNET|
+|8|110.232.64.89|8080|Indonesia|Medan|Media Antar Nusa PT.|
+|9|202.154.190.233|8080|Indonesia|Batam|PT SOLNET INDONESIA|
+|10|200.55.3.125|999|Argentina|Mendoza|Level 3 Argentina S.A|
+|11|154.0.14.113|8080|South Africa|Johannesburg|Cisp IP3|
+|12|103.73.75.69|8080|Indonesia|Karawang|PT. Wahana Internet Nusantara|
+|13|176.213.143.38|3128|Russia|Rostov-on-Don|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
+|14|182.253.191.132|8080|Indonesia|Bandung|BIZNET|
+|15|201.168.205.4|999|Mexico|Cerritos Blancos|Marcatel Com, S.A. de C.V.|
+|16|186.67.159.91|999|Chile|Las Condes|Entel Chile S.A.|
+|17|201.184.181.67|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|19|175.111.129.154|8080|India|Jaipur|Spiderlink Networks Pvt Ltd|
+|20|103.104.183.27|83|India|Hanumangarh|Arrowswift Communication Pvt. Ltd|
 
 
 

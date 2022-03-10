@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2733** proxies at the latest update. Usable proxies are below.
+> Scraper found **2818** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.196.205.170|8080|United States|Santa Ana|Charter Communications Inc|
-|2|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|3|95.0.168.56|1976|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|4|154.212.7.26|999|Mexico|San Luis de la Paz|Ientc S De RL De CV|
-|5|138.117.85.121|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|6|118.67.219.153|8080|Bangladesh|Dhaka|InterCloud Limited|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|101.200.137.28|8902|China|Beijing|Hangzhou Alibaba Advertising Co|
-|9|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|10|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
-|11|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|12|139.255.74.125|8080|Indonesia|Cibuntu|PT. LINKNET|
-|13|165.16.27.2|1981|Libya|Al Qubbah|Aljeel Aljadeed For Technology|
-|14|103.11.106.209|8181|Indonesia|Ngawi|PT. Pascal Indonesia|
-|15|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
-|16|49.231.140.125|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|17|103.36.11.17|8181|Indonesia|Pangkalan|PT Awinet Global Mandiri|
-|18|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|19|176.56.107.217|50082|Spain|Cehegín|Aire Networks|
-|20|185.94.215.18|8080|Ukraine|Simferopol|CrimeaTelecom|
+|1|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|2|158.69.27.94|9300|Canada|Montreal|OVH SAS|
+|3|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|4|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|5|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
+|6|210.210.130.154|8181|Indonesia|Palembang|CBN|
+|7|218.106.61.165|21080|China|Jinrongjie|China Unicom CncNet|
+|8|213.135.0.69|8080|Germany|Saarbrücken|intersaar GmbH|
+|9|190.232.82.39|999|Peru|Bambamarca|Telefónica del Perú|
+|10|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|11|36.66.103.211|3128|Indonesia|Serang|PT. Telekomunikasi Indonesia|
+|12|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
+|13|103.228.119.10|8080|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
+|14|200.229.229.197|8080|Brazil|Guarulhos|Wireless Comm Services LTDA|
+|15|103.176.79.36|8080|Indonesia|Cibinong|PT Cloud Hosting Indonesia|
+|16|181.224.207.19|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|17|114.110.22.126|8085|Indonesia|Cimahi|BITEK|
+|18|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|19|103.167.109.151|8080|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
+|20|91.121.208.196|5062|France|Roubaix|OVH SAS|
 
 
 

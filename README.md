@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2731** proxies at the latest update. Usable proxies are below.
+> Scraper found **2799** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
-|2|188.156.240.240|8118|Hungary|Szeged|Magyar Telekom plc.|
-|3|114.4.209.114|8080|Indonesia|Bogor|PT. INDOSAT Tbk|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
-|6|109.108.68.144|41890|Ukraine|Kyiv|ISP KievNet|
-|7|200.122.255.43|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P|
-|8|14.207.148.174|8080|Thailand|Nakhon Pathom|Triple T Internet Company Limited|
-|9|101.53.154.137|2018|India|Noida|E2E Networks Limited|
-|10|138.117.85.97|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|11|101.53.154.137|2018|India|Noida|E2E Networks Limited|
-|12|187.251.138.81|3128|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|13|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
-|14|187.73.68.14|53281|Brazil|Congonhas|Vero Internet|
-|15|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
-|16|41.65.67.166|1976|Egypt|Giza|Enterprise|
-|17|41.60.232.9|34098|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|18|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|19|103.156.216.178|3128|Indonesia|Bekasi|PT. Meiwa Mold Indonesia|
-|20|200.61.16.80|8080|Argentina|Del Campillo|Silica Networks Argentina S.A|
+|1|181.224.207.19|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|2|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|3|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
+|4|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|5|123.57.144.181|7777|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|190.116.36.133|8080|Peru|Cajamarca|America Movil Peru S.A.C.|
+|7|202.147.198.115|8080|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
+|8|181.224.204.22|22800|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|9|36.89.252.155|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
+|11|85.25.95.231|5566|France|Strasbourg|INTERGENIA|
+|12|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
+|13|103.162.205.51|8181|Indonesia|Magelang|PT Jaringan Inti Exadata|
+|14|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÔÔES LTDA|
+|15|103.47.64.85|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|16|154.236.168.181|1976|Egypt|Cairo|Etisalat Misr|
+|17|120.55.190.250|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|18|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|19|46.0.203.186|8080|Russia|Samara|JSC "ER-Telecom Holding"|
+|20|190.217.20.108|999|Colombia|Choachi|Level 3 Colombia S.A|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2760** proxies at the latest update. Usable proxies are below.
+> Scraper found **3260** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|229|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|229|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|229|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|196.219.202.74|8080|Egypt|Awsim|TE-AS|
-|2|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
-|3|190.12.57.46|8080|Ecuador|Machala|Puntonet S.A.|
-|4|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|5|109.122.39.205|53281|Ukraine|Odessa|BRIZ|
-|6|14.160.32.23|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|7|190.110.99.100|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|8|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|9|103.124.136.90|63123|Indonesia|Cikupa|Global Media Data Prima|
-|10|83.239.227.246|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|11|37.110.6.178|8080|Russia|Moscow|NCNET|
-|12|88.255.101.237|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|13|45.5.58.34|999|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
-|14|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|15|45.156.31.4|9090|Turkey|Istanbul|ATLANTIS|
-|16|200.39.153.1|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
-|17|45.250.226.14|3128|India|Pune|Space Vision Digital Network Pvt. Ltd|
-|18|27.72.95.176|8080|Vietnam|Hanoi|Newass2011xDSLHN|
-|19|165.16.27.13|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|222.78.6.70|8083|China|Zhangzhou|Chinanet|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|3|187.189.211.201|999|Mexico|Zacatlan|Total Play Telecomunicaciones SA De CV|
+|4|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|5|193.226.199.62|53128|Hungary|Budapest|INVITEL Zrt.|
+|6|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|8|94.79.4.53|8080|Russia|Moscow|OJSC Comcor|
+|9|197.248.64.151|8080|Kenya|Nairobi|Safaricom Limited|
+|10|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|11|95.104.54.227|42119|Georgia|K'alak'i T'bilisi|Magticom Ltd.|
+|12|95.0.168.55|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|13|43.227.129.65|83|India|Vaddangi|Apple Broadband Services Pvt.ltd|
+|14|91.209.114.184|6789|Hungary|Siófok|Invitech ICT Services Kft.|
+|15|43.241.29.201|8080|India|Chalisgaon|Intech Online Private Limited|
+|16|103.76.44.82|8080|Bangladesh|Dhaka|MD MONIR UZ ZAMAN UL MULK T/A U-Turn Technology|
+|17|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|18|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|19|177.37.167.78|3128|Brazil|Jaguaribe|Brisanet Servicos De Telecomunicacoes Ltda|
+|20|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
 
 
 

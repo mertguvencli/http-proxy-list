@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2880** proxies at the latest update. Usable proxies are below.
+> Scraper found **2957** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|239|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|239|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|239|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
-|3|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|4|201.120.27.15|53281|Mexico|Mexico City|Uninet S.A. de C.V|
-|5|200.32.51.179|8080|Argentina|San Fernando del Valle de Catamarca|Telefonica de Argentina|
-|6|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
-|7|103.156.75.41|8080|Indonesia|Gianyar|PT Trika Global Media|
-|8|110.235.250.155|8080|Cambodia|Phnom Penh|COGETEL Co|
-|9|101.255.117.123|3128|Indonesia|Bekasi|PT Remala Abadi|
-|10|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
-|11|176.236.85.246|9090|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
-|12|186.67.159.91|999|Chile|Las Condes|Entel Chile S.A.|
-|13|103.139.47.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|14|138.201.154.35|24000|Germany|Falkenstein|Hetzner Online GmbH|
-|15|103.241.227.107|6666|India|Ahmedabad|GTPL SMC Network PVT LTD|
-|16|113.190.232.222|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|103.146.196.35|3127|Indonesia|Banyuwangi|RIYADNETWORK|
-|18|202.152.39.146|80|Indonesia|Medan|PT Aplikanusa Lintasarta|
-|19|212.46.255.78|8080|Russia|Stavropol|PJSC "Vimpelcom"|
-|20|176.192.80.10|3128|Russia|Moscow|Net By Net Holding LLC|
+|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|2|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|3|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|7|159.65.69.186|9300|United States|Santa Clara|DigitalOcean, LLC|
+|8|134.209.42.113|8889|United States|Clifton|DigitalOcean, LLC|
+|9|103.108.61.42|8080|Bangladesh|Dhaka|Incomit Solution|
+|10|212.39.74.207|8080|Bulgaria|Pleven|Bulgarian Telecommunications Company Plc.|
+|11|27.116.51.119|8080|India|Gandhinagar|Gujarat Telelik Pvt Ltd|
+|12|103.157.81.51|8080|Indonesia|Jakarta|Komisi Yudisial RI|
+|13|181.143.17.37|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÔOS DE COMUNICAÔÔO EM INFORMATICA LTD|
+|15|46.173.214.14|8118|Russia|Moscow|Garant-Park-Internet LLC|
+|16|103.114.88.230|8080|Cambodia|Phnom Penh|BEE UNION (CAMBODIA) TELECOM CO.|
+|17|156.200.116.71|1981|Egypt|Giza|TE Data|
+|18|200.46.65.66|8080|Panama|David|Cable Onda|
+|19|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
+|20|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3256** proxies at the latest update. Usable proxies are below.
+> Scraper found **2998** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|278|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|278|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|278|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|164|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|164|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|164|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.56.107.96|46973|Spain|Cehegín|Aire Networks|
-|2|200.125.171.202|9991|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|3|121.36.31.146|3389|China|Beijing|Huawei Cloud Service data center|
-|4|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|5|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|6|181.78.18.25|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
-|7|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|8|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|9|181.47.104.64|8080|Argentina|Buenos Aires|Telecentro S.A.|
-|10|186.138.132.183|3128|Argentina|Buenos Aires|Telecom Argentina S.A|
-|11|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
-|12|180.210.178.30|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
-|13|123.200.5.210|45780|Bangladesh|Gulshan|Link3 Technologies Limited|
-|14|210.77.87.71|3128|China|Beijing|CSTNET|
-|15|120.197.179.166|8080|China|Dongguan|China Mobile communications corporation|
-|16|62.138.8.42|5566|France|Strasbourg|Host Europe GmbH|
-|17|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
-|18|223.27.194.66|80|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|19|177.126.151.162|8081|Brazil|Belmonte|Firemicro Informática|
-|20|111.90.179.74|8080|Australia|Marble Bar|Angkor Data Communication|
+|1|109.111.212.78|8080|United Kingdom|Crewe|Metronet|
+|2|190.110.99.106|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|3|61.216.156.222|60808|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|4|103.168.44.113|8080|Indonesia|Danaraja|PT CYB Media Group|
+|5|185.108.141.19|8080|Bulgaria|Sofia|NetX|
+|6|46.19.100.26|81|Armenia|Yerevan|GNC-Alfa CJSC|
+|7|161.35.126.185|5566|United States|North Bergen|DigitalOcean, LLC|
+|8|185.103.168.73|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|9|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|10|182.253.197.69|8080|Indonesia|Jepara|STIE-BPD|
+|11|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
+|12|95.140.27.135|58901|Russia|Moscow|Sputnik LTD|
+|13|64.185.0.17|8080|United States|Lamesa|NTS Communications, LLC|
+|14|158.69.67.129|5566|Canada|Montreal|OVH SAS|
+|15|112.109.20.238|80|Indonesia|Embongkaliasin|DATAUTAMANET|
+|16|36.95.21.92|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|165.16.66.89|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|183.88.228.208|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|20|185.142.43.217|8080|Lebanon|Bednâyel|Net Pro sarl|
 
 
 

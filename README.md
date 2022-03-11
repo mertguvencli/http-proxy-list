@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3169** proxies at the latest update. Usable proxies are below.
+> Scraper found **3168** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|326|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|326|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|326|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|38.123.207.244|999|Mexico|Mexico City|Cogent Communications|
-|3|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|4|210.245.52.58|8080|Vietnam|Hanoi|Vietnam Internet Network Information Center|
-|5|80.63.84.58|8081|Denmark|Copenhagen|TDC A/S|
-|6|185.37.211.222|50330|Portugal|Lisbon|Vodafone Portugal - Communicacoes Pessoais S.A.|
-|7|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
-|8|59.91.123.93|8080|India|Etah|Bharat Sanchar Nigam Ltd|
-|9|175.103.39.179|63123|Indonesia|Jakarta|Maxindo Mintra Solusi|
-|10|103.166.10.137|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
-|11|41.76.149.62|8080|Mozambique|Maputo|VM  S.A|
-|12|203.150.128.107|8080|Thailand|Watthana|Internet Thailand Company Ltd|
-|13|170.79.12.72|9090|Brazil|Teresina|I T Tecnologia e InformaÔÔo Ltda|
-|14|103.36.11.14|8181|Indonesia|Pangkalan|PT Awinet Global Mandiri|
-|15|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|16|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|17|200.24.157.118|999|Ecuador|Azogues|Nedetel S.A.|
-|18|117.239.240.203|53281|India|Chennai|BSNL Internet|
-|19|103.162.205.20|8181|Indonesia|Magelang|PT Jaringan Inti Exadata|
-|20|103.11.106.148|8181|Indonesia|Ngawi|PT. Pascal Indonesia|
+|1|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|2|41.65.252.101|1981|Egypt|Cairo|Etisalat Misr|
+|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|4|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|5|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|6|209.97.161.34|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|83.147.180.166|8080|Ireland|Dublin|Digiweb Ltd|
+|8|95.0.168.58|1976|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|9|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|10|154.236.168.181|1976|Egypt|Cairo|Etisalat Misr|
+|11|154.236.162.34|1981|Egypt|Giza|Enterprise|
+|12|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|13|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|14|189.201.240.161|999|Mexico|Tijuana|Tecnologías Avanzadas S. de R.L. de C.V.|
+|15|190.90.242.208|999|Colombia|Ocaña|Internexa Brasil Operadora De Telecomunicacoes S.A|
+|16|156.200.116.68|1981|Egypt|Giza|TE Data|
+|17|197.159.140.93|3129|Ghana|Accra|Comsys (GH) Limited|
+|18|46.191.239.183|8080|Russia|Sterlitamak|JSC "Ufanet"|
+|19|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
+|20|36.94.60.27|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
 
 
 

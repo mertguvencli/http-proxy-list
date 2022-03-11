@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2957** proxies at the latest update. Usable proxies are below.
+> Scraper found **2971** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|2|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|3|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|7|159.65.69.186|9300|United States|Santa Clara|DigitalOcean, LLC|
-|8|134.209.42.113|8889|United States|Clifton|DigitalOcean, LLC|
-|9|103.108.61.42|8080|Bangladesh|Dhaka|Incomit Solution|
-|10|212.39.74.207|8080|Bulgaria|Pleven|Bulgarian Telecommunications Company Plc.|
-|11|27.116.51.119|8080|India|Gandhinagar|Gujarat Telelik Pvt Ltd|
-|12|103.157.81.51|8080|Indonesia|Jakarta|Komisi Yudisial RI|
-|13|181.143.17.37|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|14|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÔOS DE COMUNICAÔÔO EM INFORMATICA LTD|
-|15|46.173.214.14|8118|Russia|Moscow|Garant-Park-Internet LLC|
-|16|103.114.88.230|8080|Cambodia|Phnom Penh|BEE UNION (CAMBODIA) TELECOM CO.|
-|17|156.200.116.71|1981|Egypt|Giza|TE Data|
-|18|200.46.65.66|8080|Panama|David|Cable Onda|
-|19|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|20|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
+|1|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|2|103.11.106.148|8181|Indonesia|Ngawi|PT. Pascal Indonesia|
+|3|103.168.164.26|83|India|Pune|Nutech Broadband|
+|4|138.204.68.42|1337|Brazil|Curaca|WANTEL TECNOLOGIA LTDA. Ô EPP|
+|5|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|6|103.148.39.50|84|India|Bengaluru|Broadway Communication Pvt Ltd|
+|7|221.145.101.63|4001|South Korea|Seoul|Korea Telecom|
+|8|119.110.71.185|63123|Indonesia|Teluknaga|Maxindo|
+|9|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
+|10|103.145.35.30|8181|Indonesia|Sananrejo|LINTASDATA|
+|11|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
+|12|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|13|103.103.212.222|53281|India|Indore|Five Net Service Provider Pvt. Ltd.|
+|14|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|15|115.79.198.18|55443|Vietnam|Ho Chi Minh City|VIETELftth|
+|16|41.86.251.62|8080|Benin|Cotonou|ISOCEL SA|
+|17|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|18|103.145.31.250|8080|Indonesia|Bekasi|PT. Indonesia Comnets Plus|
+|19|103.4.164.204|8080|Indonesia|Jakarta|FIBERNET|
+|20|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 
 
 

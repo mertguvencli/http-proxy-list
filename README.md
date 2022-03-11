@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2868** proxies at the latest update. Usable proxies are below.
+> Scraper found **2796** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
-|2|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|3|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|4|50.233.42.98|51696|United States|North Miami|Comcast Cable Communications, LLC|
-|5|45.171.242.2|8083|Brazil|Atibaia|Lucknet Telecom|
-|6|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|7|161.132.122.60|999|Peru|Lima|Optical Technologies S.A.C.|
-|8|203.170.222.4|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|9|221.145.101.63|4001|South Korea|Seoul|Korea Telecom|
-|10|202.145.13.109|8080|Indonesia|Puspasari|PT Jala Lintas Media|
-|11|41.65.162.75|1976|Egypt|Awsim|Etisalat Misr Mobile BB|
-|12|182.16.171.42|43188|Indonesia|Jakarta|PT iForte Global Internet|
-|13|138.59.150.198|8080|Brazil|Santo André|Wireless Comm Services LTDA|
-|14|190.110.99.101|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|15|191.97.1.89|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
-|16|103.164.114.98|8080|Indonesia|Jakarta|SOLUSINET|
-|17|190.108.85.175|999|Peru|Huancayo|Internexa Peru S.A|
-|18|37.204.157.91|41890|Russia|Moscow|NCNET|
-|19|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|20|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
+|1|20.103.234.40|8080|Netherlands|Amsterdam|Microsoft Corporation|
+|2|156.200.116.71|1981|Egypt|Giza|TE Data|
+|3|125.46.0.62|53281|China|Zhengzhou|CNC Group CHINA169 Henan Province Network|
+|4|85.235.184.186|3129|Russia|Moscow|MTS PJSC|
+|5|185.32.6.129|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|9|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|185.58.17.5|8080|Ireland|Ashbourne|Model Telecom Ltd|
+|12|62.138.3.125|5566|France|Strasbourg|Host Europe GmbH|
+|13|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|14|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|15|36.94.60.27|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
+|16|5.139.161.156|55443|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
+|17|77.242.1.101|41890|Russia|Moscow|Limited Company Sakha Sprint Network|
+|18|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|19|104.250.179.66|80|Mexico|Mexico City|Secure Internet LLC|
+|20|89.189.128.183|8080|Russia|Ufa|JSC "Ufanet"|
 
 
 

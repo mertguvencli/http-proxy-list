@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2533** proxies at the latest update. Usable proxies are below.
+> Scraper found **2639** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|88|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|88|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|88|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.0.89.86|999|Colombia|La Union|Dobleclick Software E Ingeneria|
-|2|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|3|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|4|131.255.134.144|8080|Brazil|Araquari|O T Tecnologia Em Informática Ltda|
-|5|187.95.112.36|6666|Brazil|Campo Largo|COPEL Telecomunicações S.A|
-|6|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|7|177.183.234.110|80|Brazil|Criciúma|Claro S.A.|
-|8|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
-|9|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
-|10|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|11|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
-|12|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|13|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|14|41.65.174.34|1976|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
-|15|118.127.99.93|53281|Australia|Melbourne|Spirit Telecom (Australia) Pty Ltd|
-|16|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|17|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|18|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|19|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|20|124.158.168.22|8080|Indonesia|Probolinggo|ICON+|
+|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|2|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|3|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|4|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|5|43.224.10.43|6666|India|Surat|gtpl hariom world vision|
+|6|190.232.82.39|999|Peru|Bambamarca|Telefónica del Perú|
+|7|201.220.102.146|8080|Chile|Talca|Telefonica del Sur S.A.|
+|8|119.40.90.214|8080|Bangladesh|Dhaka|BDCOM Online Limited|
+|9|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|10|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|11|200.58.100.111|80|Argentina|Rosario|Dattatec.com|
+|12|129.153.111.20|59394|United States|Phoenix|Oracle Corporation|
+|13|103.155.47.237|8080|Indonesia|Probolinggo|PRONETINDO|
+|14|103.31.39.230|8080|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
+|15|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|16|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|17|103.176.79.36|8080|Indonesia|Cibinong|PT Cloud Hosting Indonesia|
+|18|123.231.221.242|6969|Indonesia|Makassar|PT Aplikanusa Lintasarta|
+|19|79.143.179.208|9999|Germany|Munich|Contabo GmbH|
+|20|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
 
 
 

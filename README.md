@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2505** proxies at the latest update. Usable proxies are below.
+> Scraper found **2463** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|2|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
-|3|203.170.222.4|80|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|4|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|64.17.30.238|63141|United States|Avon|FORETHOUGHT.net|
-|6|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
-|7|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
-|8|67.73.245.218|999|Colombia|Puerto Wilches|Level 3|
-|9|103.69.39.1|8080|India|Ghaziabad|Suncity Broadband Pvt Ltd|
-|10|31.42.57.1|8080|Ukraine|Smila|Limited Liability Company AVATOR ISP|
-|11|179.61.229.164|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|12|110.76.148.242|8080|Indonesia|Surabaya|PT Pika Media Komunika|
-|13|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
-|14|203.189.89.158|8080|Indonesia|Jakarta|Departemen Energi dan Sumber Daya Mineral|
-|15|111.118.135.132|56627|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|16|186.3.9.219|999|Ecuador|Guayaquil|Telconet S.A|
-|17|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|18|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
-|19|36.95.249.157|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|194.186.114.174|41890|Russia|Moscow|PJSC "Vimpelcom"|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|185.127.224.60|41890|Russia|Moscow|Rusphone OOO|
+|3|101.53.154.137|2003|India|Noida|E2E Networks Limited|
+|4|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|5|36.94.161.219|8080|Indonesia|Mapurujaya|PT. Telekomunikasi Indonesia|
+|6|103.88.170.82|8085|Indonesia|Banjarmasin|PT Mitra Lintas Multimedia|
+|7|24.227.247.186|8080|United States|Irving|Spectrum|
+|8|158.69.64.142|9300|Canada|Montreal|OVH SAS|
+|9|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|11|103.76.27.34|8080|Indonesia|Lawang|MORATELINDO|
+|12|41.216.98.122|8080|Rwanda|Kigali|LTR|
+|13|134.209.42.113|8899|United States|Clifton|DigitalOcean, LLC|
+|14|180.180.218.250|8080|Thailand|Khlong Sam Wa|TOT Public Company Limited|
+|15|156.67.172.185|3128|Germany|Ibbenbueren|Deutsche Glasfaser Business GmbH|
+|16|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|17|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
+|18|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
+|19|212.112.127.20|8080|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|20|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
 
 
 

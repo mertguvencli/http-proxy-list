@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2541** proxies at the latest update. Usable proxies are below.
+> Scraper found **2505** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.40.83.138|8080|Bangladesh|Dhaka|BDCOM Online Limited|
-|2|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
-|3|112.16.118.6|7890|China|Hangzhou|China Mobile Communications Corporation|
-|4|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|5|111.118.135.132|56627|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|6|200.13.154.81|8080|Bolivia|Tarija|Entel S.A. - EntelNet|
-|7|149.28.67.98|24061|United States|Los Angeles|The Constant Company|
-|8|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|10|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|12|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|13|103.145.130.150|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
-|14|213.226.11.149|41878|Bulgaria|Sofia|Mobiltel EAD|
-|15|190.232.82.39|999|Peru|Bambamarca|Telefónica del Perú|
-|16|45.229.205.146|55555|Argentina|Dock Sud|Visio RED SRL|
-|17|177.93.50.11|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|18|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
-|19|58.84.164.229|53281|Australia|Gold Coast|FUZENET|
-|20|79.104.197.58|8080|Russia|Krasnoyarsk|PJSC "Vimpelcom"|
+|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|2|223.112.146.106|9797|China|Changzhou|China Mobile communications corporation|
+|3|203.170.222.4|80|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|4|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|5|64.17.30.238|63141|United States|Avon|FORETHOUGHT.net|
+|6|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
+|7|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|8|67.73.245.218|999|Colombia|Puerto Wilches|Level 3|
+|9|103.69.39.1|8080|India|Ghaziabad|Suncity Broadband Pvt Ltd|
+|10|31.42.57.1|8080|Ukraine|Smila|Limited Liability Company AVATOR ISP|
+|11|179.61.229.164|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|12|110.76.148.242|8080|Indonesia|Surabaya|PT Pika Media Komunika|
+|13|189.206.193.252|999|Mexico|San Nicolás de los Garza|Alestra, S. de R.L. de C.V.|
+|14|203.189.89.158|8080|Indonesia|Jakarta|Departemen Energi dan Sumber Daya Mineral|
+|15|111.118.135.132|56627|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|16|186.3.9.219|999|Ecuador|Guayaquil|Telconet S.A|
+|17|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|18|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
+|19|36.95.249.157|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|194.186.114.174|41890|Russia|Moscow|PJSC "Vimpelcom"|
 
 
 

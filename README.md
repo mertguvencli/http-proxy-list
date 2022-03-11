@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2463** proxies at the latest update. Usable proxies are below.
+> Scraper found **2533** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|185.127.224.60|41890|Russia|Moscow|Rusphone OOO|
-|3|101.53.154.137|2003|India|Noida|E2E Networks Limited|
-|4|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
-|5|36.94.161.219|8080|Indonesia|Mapurujaya|PT. Telekomunikasi Indonesia|
-|6|103.88.170.82|8085|Indonesia|Banjarmasin|PT Mitra Lintas Multimedia|
-|7|24.227.247.186|8080|United States|Irving|Spectrum|
-|8|158.69.64.142|9300|Canada|Montreal|OVH SAS|
-|9|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|11|103.76.27.34|8080|Indonesia|Lawang|MORATELINDO|
-|12|41.216.98.122|8080|Rwanda|Kigali|LTR|
-|13|134.209.42.113|8899|United States|Clifton|DigitalOcean, LLC|
-|14|180.180.218.250|8080|Thailand|Khlong Sam Wa|TOT Public Company Limited|
-|15|156.67.172.185|3128|Germany|Ibbenbueren|Deutsche Glasfaser Business GmbH|
-|16|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|17|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
-|18|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
-|19|212.112.127.20|8080|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|20|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
+|1|138.0.89.86|999|Colombia|La Union|Dobleclick Software E Ingeneria|
+|2|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|3|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|4|131.255.134.144|8080|Brazil|Araquari|O T Tecnologia Em Informática Ltda|
+|5|187.95.112.36|6666|Brazil|Campo Largo|COPEL Telecomunicações S.A|
+|6|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|7|177.183.234.110|80|Brazil|Criciúma|Claro S.A.|
+|8|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
+|9|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
+|10|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|11|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
+|12|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|13|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|14|41.65.174.34|1976|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
+|15|118.127.99.93|53281|Australia|Melbourne|Spirit Telecom (Australia) Pty Ltd|
+|16|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|17|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|19|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|20|124.158.168.22|8080|Indonesia|Probolinggo|ICON+|
 
 
 

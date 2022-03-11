@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2814** proxies at the latest update. Usable proxies are below.
+> Scraper found **2738** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|12.218.209.130|53281|United States|Milpitas|AT&T Services, Inc.|
-|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|3|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|4|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|5|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|7|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|8|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
-|9|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|10|27.72.147.22|40009|Vietnam|Hanoi|Newass2011xDSLHN|
-|11|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|12|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|13|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
-|14|103.146.196.35|3127|Indonesia|Banyuwangi|RIYADNETWORK|
-|15|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|16|41.60.232.9|34098|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|17|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|18|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|19|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|103.151.20.111|8080|Indonesia|Makassar|Dinas Komunikasi dan Informatika Kota Makassar|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|222.129.38.51|57114|China|Beijing|China Unicom Beijing Province Network|
+|3|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|4|36.94.183.153|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|5|103.176.79.36|8080|Indonesia|Cibinong|PT Cloud Hosting Indonesia|
+|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|7|45.189.57.62|9090|Ecuador|La Troncal|Cbvision S.A.|
+|8|14.162.40.150|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|9|14.161.252.185|55443|Vietnam|Thuận An|VNPT|
+|10|201.184.181.67|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|12|103.156.75.41|8080|Indonesia|Gianyar|PT Trika Global Media|
+|13|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|14|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|15|41.243.7.18|8080|Democratic Republic of the Congo|Kinshasa|Airtel CD Kins|
+|16|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
+|17|202.57.55.242|45112|Philippines|Taguig|PhilCom Corporation|
+|18|45.5.68.25|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|19|136.232.116.2|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
+|20|1.186.85.46|80|India|Bengaluru|D-VoiS Broadband Private Limited|
 
 
 

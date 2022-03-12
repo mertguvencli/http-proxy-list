@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2780** proxies at the latest update. Usable proxies are below.
+> Scraper found **2810** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|108|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|108|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|108|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.205.32.70|999|Venezuela|Barquisimeto|CANTV Servicios, Venezuela|
-|2|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|3|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|4|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|5|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
-|6|175.101.14.115|84|India|Hyderabad|ExcellMedia Pvt Ltd|
-|7|186.3.9.219|999|Ecuador|Guayaquil|Telconet S.A|
-|8|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
-|9|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
-|10|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|11|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
-|12|190.61.82.170|999|Panama|Panama City|Ufinet Panama S.A|
-|13|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
-|14|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
-|15|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|16|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
-|17|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
-|18|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
-|19|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
-|20|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|27.255.3.134|3128|Pakistan|Karachi|Fiberlink Pvt. Ltd|
+|5|65.20.162.23|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|6|176.213.143.38|3128|Russia|Rostov-on-Don|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
+|7|87.255.200.108|60080|Kazakhstan|Almaty|NLS Kazakhstan LLC|
+|8|165.16.27.14|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|117.2.28.235|55443|Vietnam|Khánh Hải|Viettel Corporation|
+|10|186.3.9.211|999|Ecuador|Guayaquil|Telconet S.A|
+|11|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
+|12|181.129.248.126|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|13|36.89.212.254|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|136.233.136.41|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
+|15|37.29.80.161|8080|Russia|Novosibirsk|MEGAFONSIB|
+|16|186.103.130.94|8080|Chile|Santiago|Telefonica Empresas|
+|17|124.41.240.96|55443|Nepal|Panauti|WorldLink Communications|
+|18|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|19|150.129.148.88|35101|India|Veraval|Gtpl Sorath Telelink Pvt ltd|
+|20|46.161.195.105|1981|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3206** proxies at the latest update. Usable proxies are below.
+> Scraper found **3408** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|441|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|441|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|441|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|414|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|414|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|414|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|2|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|3|176.236.157.155|8080|Turkey|Kilis|Tellcom Iletisim Hizmetleri A.S.|
-|4|51.195.188.28|9090|United Kingdom|London|OVH SAS|
-|5|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|6|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|3|190.2.210.139|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|4|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|5|181.224.207.21|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
 |7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|190.113.40.12|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|9|216.169.73.65|34679|United States|Panguitch|South Central Communications, Inc.|
-|10|85.114.112.22|8083|Palestine|Gaza|fusion services|
-|11|50.235.149.74|8080|United States|Riverview|Comcast Cable Communications, LLC|
-|12|177.52.221.111|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|13|182.23.79.162|39902|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|14|109.70.188.46|11080|Russia|Makhachkala|LTD "Elektrosvyaz"|
-|15|103.100.84.23|8080|Indonesia|Talaka|POLITANI Pangkep|
-|16|64.76.181.52|999|Chile|Las Condes|Level 3|
-|17|138.117.230.140|999|Guatemala|Huehuetenango|Fibernet S.A|
-|18|101.53.154.137|2005|India|Noida|E2E Networks Limited|
-|19|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|20|177.128.115.160|999|Chile|Melipilla|Binet Networking Data Limitada|
+|8|134.209.42.113|8896|United States|Clifton|DigitalOcean, LLC|
+|9|110.172.160.42|44047|India|Solapur|World Phone Internet Services Pvt Ltd|
+|10|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
+|11|50.233.42.98|51696|United States|North Miami|Comcast Cable Communications, LLC|
+|12|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|13|180.191.14.105|8080|Philippines|Baguio City|Globe Telecom|
+|14|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|15|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|16|123.231.242.218|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|17|49.0.39.10|8080|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|18|103.139.47.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|19|190.122.187.178|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|20|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
 
 
 

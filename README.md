@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3341** proxies at the latest update. Usable proxies are below.
+> Scraper found **3101** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|276|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|276|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|276|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.195.188.28|9090|United Kingdom|London|OVH SAS|
-|2|51.195.188.28|9090|United Kingdom|London|OVH SAS|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|50.236.203.15|8080|United States|Oak Park|Comcast Cable Communications, LLC|
-|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|7|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|8|196.41.102.130|46004|South Africa|Malmesbury|Cybersmart|
-|9|190.12.57.46|8080|Ecuador|Machala|Puntonet S.A.|
-|10|218.75.69.50|57903|China|Hangzhou|Chinanet|
-|11|202.62.10.51|80|Indonesia|Pamulang|Client Jakarta Iconpln|
-|12|120.29.124.131|8080|Philippines|San Mateo|ComClark Network & Technology Corp|
-|13|103.156.216.194|80|Indonesia|Bekasi|PT. Meiwa Mold Indonesia|
-|14|103.65.214.83|8080|Indonesia|Bantul|PT.Broadband Indonesia Pratama|
-|15|116.254.119.31|8080|Indonesia|Sleman|PT Media Sarana Data|
-|16|62.205.169.74|53281|Russia|Moscow|CORBINA|
-|17|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|18|62.99.178.46|37699|Austria|Vienna|UPC Austria GmbH|
-|19|156.200.116.68|1981|Egypt|Giza|TE Data|
-|20|201.120.27.15|53281|Mexico|Mexico City|Uninet S.A. de C.V|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|83.166.241.233|3130|Russia|Moscow|LLC Management Company "Svyaz"|
+|4|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|6|51.195.188.28|9090|United Kingdom|London|OVH SAS|
+|7|31.3.169.53|8081|Italy|Cesena|Cesena NET S.R.L.|
+|8|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|9|115.74.213.139|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|10|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|11|51.178.195.49|8080|France|Roubaix|OVH SAS|
+|12|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|13|186.24.9.114|999|Venezuela|Villa Bruzual|TELEFONICA VENEZOLANA, C.A.|
+|14|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|15|36.95.245.5|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|103.60.173.6|8080|Bangladesh|Dhaka|Mazeda Networks Limited|
+|17|49.156.47.162|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|18|103.114.88.230|8080|Cambodia|Phnom Penh|BEE UNION (CAMBODIA) TELECOM CO.|
+|19|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
+|20|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
 
 
 

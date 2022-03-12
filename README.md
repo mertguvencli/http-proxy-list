@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2971** proxies at the latest update. Usable proxies are below.
+> Scraper found **3067** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
-|2|103.11.106.148|8181|Indonesia|Ngawi|PT. Pascal Indonesia|
-|3|103.168.164.26|83|India|Pune|Nutech Broadband|
-|4|138.204.68.42|1337|Brazil|Curaca|WANTEL TECNOLOGIA LTDA. Ô EPP|
-|5|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|6|103.148.39.50|84|India|Bengaluru|Broadway Communication Pvt Ltd|
-|7|221.145.101.63|4001|South Korea|Seoul|Korea Telecom|
-|8|119.110.71.185|63123|Indonesia|Teluknaga|Maxindo|
-|9|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
-|10|103.145.35.30|8181|Indonesia|Sananrejo|LINTASDATA|
-|11|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
-|12|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|13|103.103.212.222|53281|India|Indore|Five Net Service Provider Pvt. Ltd.|
-|14|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|15|115.79.198.18|55443|Vietnam|Ho Chi Minh City|VIETELftth|
-|16|41.86.251.62|8080|Benin|Cotonou|ISOCEL SA|
-|17|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|103.145.31.250|8080|Indonesia|Bekasi|PT. Indonesia Comnets Plus|
-|19|103.4.164.204|8080|Indonesia|Jakarta|FIBERNET|
-|20|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|1|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|2|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|3|186.192.251.63|8080|Brazil|Gurupi|Conectlan Internet|
+|4|47.240.18.21|443|Hong Kong|Central|Alibaba.com LLC|
+|5|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|7|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
+|8|165.16.27.4|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|9|198.245.53.173|9999|Canada|Beauharnois|OVH SAS|
+|10|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|11|43.224.10.30|6666|India|Surat|gtpl hariom world vision|
+|12|103.76.12.42|80|Indonesia|Bogor|MORATELINDO|
+|13|103.138.41.132|8080|Indonesia|Jakarta|PT. Bali Towerindo Sentra|
+|14|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|15|41.191.245.59|8080|Ghana|Accra|BusyInternet Ghana Ltd|
+|16|201.220.102.146|8080|Chile|Talca|Telefonica del Sur S.A.|
+|17|114.4.209.114|8080|Indonesia|Bogor|PT. INDOSAT Tbk|
+|18|103.146.222.2|82|India|Bukru|BOBCPL|
+|19|103.209.230.129|8080|Bangladesh|Dhaka|WIMS1|
+|20|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
 
 
 

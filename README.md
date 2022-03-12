@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2775** proxies at the latest update. Usable proxies are below.
+> Scraper found **2762** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.195.188.28|9090|United Kingdom|London|OVH SAS|
-|2|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|3|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|4|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|5|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|6|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|7|187.44.1.41|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
-|8|49.0.39.10|8080|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|9|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
-|10|200.32.80.54|999|Colombia|Bogotá|Level 3 Colombia S.A|
-|11|186.3.9.210|999|Ecuador|Guayaquil|Telconet S.A|
-|12|85.62.10.94|8080|Spain|Denia|Uni2 1|
-|13|212.174.44.151|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|14|14.160.29.90|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|15|210.5.10.87|53281|China|Beijing|China Enterprise ICT Solutions Limited|
-|16|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|17|180.250.252.221|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|103.14.198.129|82|India|Bengaluru|Mobiwalkers|
-|19|20.194.21.114|59394|South Korea|Seoul|Microsoft Corporation|
-|20|190.104.1.18|999|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
+|1|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|3|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|4|36.92.22.70|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|5|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|6|41.220.238.130|83|Kenya|Nairobi|Liquid Telecommunications Ltd|
+|7|45.232.213.194|8080|Brazil|Guia Lopes da Laguna|67 TELECOM|
+|8|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|9|36.95.156.127|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|11|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|12|145.40.73.107|10001|Singapore|Singapore|Packet Host, Inc.|
+|13|145.40.73.107|10001|Singapore|Singapore|Packet Host, Inc.|
+|14|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|15|145.40.73.107|10001|Singapore|Singapore|Packet Host, Inc.|
+|16|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|17|145.40.73.107|10001|Singapore|Singapore|Packet Host, Inc.|
+|18|190.53.46.11|38525|Nicaragua|Jinotepe|Amnet Datos Nicaragua|
+|19|113.12.102.243|7890|China|Nanning|Chinanet|
+|20|145.40.73.107|10001|Singapore|Singapore|Packet Host, Inc.|
 
 
 

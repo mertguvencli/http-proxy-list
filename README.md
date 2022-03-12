@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2839** proxies at the latest update. Usable proxies are below.
+> Scraper found **3303** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|270|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|270|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|270|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
+|1|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
 |2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|3|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|4|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
-|5|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|6|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|7|3.9.20.223|3128|United Kingdom|London|Amazon Technologies Inc.|
-|8|86.125.122.27|80|Romania|Brasov|RCS & RDS|
-|9|181.48.91.93|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|10|103.241.205.136|3129|Indonesia|Jember|Universitas Jember|
-|11|85.25.95.231|5566|France|Strasbourg|INTERGENIA|
-|12|36.95.15.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|85.25.198.22|5566|France|Strasbourg|Host Europe GmbH|
-|14|185.3.214.3|80|Iran|Shahrīār|Pouya shabakeh Asr Co. (LTD.)|
-|15|177.124.184.52|8080|Brazil|Ji Parana|R. Jose da Silva e Cia Ltda - OndaAgil|
-|16|118.67.221.82|8080|Bangladesh|Gulshan|InterCloud Limited|
-|17|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
-|18|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
-|19|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|20|51.79.124.80|3128|Canada|Beauharnois|OVH SAS|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|5|78.47.223.55|5566|Germany|Nuremberg|Hetzner Online GmbH|
+|6|186.103.203.202|999|Chile|Santiago|Telefonica Empresas|
+|7|24.217.192.131|57273|United States|St Louis|Charter Communications|
+|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|190.186.1.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|10|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
+|11|41.180.18.58|8080|South Africa|Nelspruit|X-dsl Networking Solutions|
+|12|223.100.215.26|8080|China|Shenyang|China Mobile communications corporation|
+|13|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
+|14|165.16.27.12|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|15|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|16|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|17|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|18|190.90.102.35|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|19|101.53.154.137|2017|India|Noida|E2E Networks Limited|
+|20|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÔÔES LTDA|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2886** proxies at the latest update. Usable proxies are below.
+> Scraper found **3341** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|276|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|276|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|276|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.216.198.166|8080|Brazil|Duque de Caxias|YIPI Telecom LTDA.|
-|2|138.36.180.4|9292|Brazil|Birigui|FIT Telecom Eireli|
-|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|190.214.52.226|53281|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|5|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|6|185.238.239.97|8090|Poland|Wroclaw|LUKASZ KUZMINSKI trading as RADIO|
-|7|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|206.161.97.4|31337|United States|Ashburn|PCCW Global, Inc.|
-|9|103.76.151.46|8181|Indonesia|Bogor|PT. Java Digital Nusantara|
-|10|103.114.52.2|8080|Indonesia|Purbayan|Proxy-registered|
-|11|119.2.41.85|8080|Indonesia|Menteng|PT. Laxo Global Akses|
-|12|124.83.74.218|8080|Philippines|Laya|Philippine Long Distance Telephone Co.|
-|13|103.121.41.165|8080|Pakistan|Karachi|Satcomm (Pvt.) Ltd.|
-|14|178.167.82.76|53281|Russia|Pavlovskiy Posad|for Flex Ltd|
-|15|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
-|16|200.73.35.180|999|Chile|Las Condes|IFX Corporation|
-|17|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|18|103.135.226.6|8181|Indonesia|Jakarta|SUPERCORRIDOR|
-|19|201.20.110.35|666|Brazil|Parnamirim|MOB SERVICOS DE TELECOMUNICACOES S.A.|
-|20|178.252.184.142|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|1|51.195.188.28|9090|United Kingdom|London|OVH SAS|
+|2|51.195.188.28|9090|United Kingdom|London|OVH SAS|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|50.236.203.15|8080|United States|Oak Park|Comcast Cable Communications, LLC|
+|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|7|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|8|196.41.102.130|46004|South Africa|Malmesbury|Cybersmart|
+|9|190.12.57.46|8080|Ecuador|Machala|Puntonet S.A.|
+|10|218.75.69.50|57903|China|Hangzhou|Chinanet|
+|11|202.62.10.51|80|Indonesia|Pamulang|Client Jakarta Iconpln|
+|12|120.29.124.131|8080|Philippines|San Mateo|ComClark Network & Technology Corp|
+|13|103.156.216.194|80|Indonesia|Bekasi|PT. Meiwa Mold Indonesia|
+|14|103.65.214.83|8080|Indonesia|Bantul|PT.Broadband Indonesia Pratama|
+|15|116.254.119.31|8080|Indonesia|Sleman|PT Media Sarana Data|
+|16|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|17|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|18|62.99.178.46|37699|Austria|Vienna|UPC Austria GmbH|
+|19|156.200.116.68|1981|Egypt|Giza|TE Data|
+|20|201.120.27.15|53281|Mexico|Mexico City|Uninet S.A. de C.V|
 
 
 

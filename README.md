@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2810** proxies at the latest update. Usable proxies are below.
+> Scraper found **2637** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|27.255.3.134|3128|Pakistan|Karachi|Fiberlink Pvt. Ltd|
-|5|65.20.162.23|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
-|6|176.213.143.38|3128|Russia|Rostov-on-Don|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
-|7|87.255.200.108|60080|Kazakhstan|Almaty|NLS Kazakhstan LLC|
-|8|165.16.27.14|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|9|117.2.28.235|55443|Vietnam|Khánh Hải|Viettel Corporation|
-|10|186.3.9.211|999|Ecuador|Guayaquil|Telconet S.A|
-|11|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
-|12|181.129.248.126|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|13|36.89.212.254|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|136.233.136.41|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
-|15|37.29.80.161|8080|Russia|Novosibirsk|MEGAFONSIB|
-|16|186.103.130.94|8080|Chile|Santiago|Telefonica Empresas|
-|17|124.41.240.96|55443|Nepal|Panauti|WorldLink Communications|
-|18|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
-|19|150.129.148.88|35101|India|Veraval|Gtpl Sorath Telelink Pvt ltd|
-|20|46.161.195.105|1981|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|1|187.188.169.169|8080|Mexico|Puebla City|Total Play Telecomunicaciones SA De CV|
+|2|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|3|185.3.214.3|80|Iran|Shahrīār|Pouya shabakeh Asr Co. (LTD.)|
+|4|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|5|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|7|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|8|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|9|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|10|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|11|115.147.54.31|8080|Philippines|Cainta|Philippine Long Distance Telephone Co.|
+|12|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|13|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
+|14|200.26.190.202|999|Belize|Belize City|TELERY NETWORKS, S.R.L|
+|15|177.126.151.162|8081|Brazil|Belmonte|Firemicro Informática|
+|16|168.196.215.16|9999|Brazil|Ibirapitanga|ITA TELECOM|
+|17|101.53.158.48|9200|India|Noida|E2E Networks Limited|
+|18|176.88.117.138|8080|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
+|19|61.9.53.157|1337|Philippines|San Juan|Sky Cable Corporation|
+|20|103.243.114.206|8080|India|Pune|Gazon Communications India Limited|
 
 
 

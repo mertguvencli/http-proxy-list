@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3078** proxies at the latest update. Usable proxies are below.
+> Scraper found **2839** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.129.248.126|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|2|38.65.138.6|999|Mexico|San Juan del Río|Ientc S De RL De CV|
-|3|82.137.244.74|8080|Syria|Damascus|ISP-TARASSUL|
-|4|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
-|5|145.40.73.107|443|Singapore|Singapore|Packet Host, Inc.|
-|6|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
-|7|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|8|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
-|9|145.40.73.107|443|Singapore|Singapore|Packet Host, Inc.|
-|10|213.139.32.14|8080|Jordan|Amman|JTC|
-|11|187.178.69.144|8080|Mexico|Coyoacán|Axtel, S.A.B. de C.V.|
-|12|145.40.73.107|443|Singapore|Singapore|Packet Host, Inc.|
-|13|202.69.38.82|8080|Pakistan|Lahore|Advertiese Flag|
-|14|189.203.180.233|999|Mexico|Oaxaca City|Total Play Telecomunicaciones SA De CV|
-|15|36.95.84.151|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|41.65.252.101|1981|Egypt|Cairo|Etisalat Misr|
-|17|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|18|95.0.219.234|8080|Turkey|Ulus|TurkTelecom|
-|19|202.43.115.237|8181|Indonesia|Bekasi|PT Tele Globe Global|
-|20|173.196.205.170|8080|United States|Santa Ana|Charter Communications Inc|
+|1|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
+|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|3|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|4|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
+|5|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|6|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|7|3.9.20.223|3128|United Kingdom|London|Amazon Technologies Inc.|
+|8|86.125.122.27|80|Romania|Brasov|RCS & RDS|
+|9|181.48.91.93|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|103.241.205.136|3129|Indonesia|Jember|Universitas Jember|
+|11|85.25.95.231|5566|France|Strasbourg|INTERGENIA|
+|12|36.95.15.147|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|85.25.198.22|5566|France|Strasbourg|Host Europe GmbH|
+|14|185.3.214.3|80|Iran|Shahrīār|Pouya shabakeh Asr Co. (LTD.)|
+|15|177.124.184.52|8080|Brazil|Ji Parana|R. Jose da Silva e Cia Ltda - OndaAgil|
+|16|118.67.221.82|8080|Bangladesh|Gulshan|InterCloud Limited|
+|17|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
+|18|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
+|19|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|20|51.79.124.80|3128|Canada|Beauharnois|OVH SAS|
 
 
 

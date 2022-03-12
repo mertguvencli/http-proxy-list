@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2740** proxies at the latest update. Usable proxies are below.
+> Scraper found **2886** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|14.141.209.11|8080|India|Coimbatore|Tata Communications Limited|
-|3|157.230.233.189|8080|United States|North Bergen|DigitalOcean, LLC|
-|4|46.99.205.10|8080|Kosovo|Istok|IPKO Telecommunications LLC|
-|5|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|6|103.161.164.111|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|7|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|8|170.245.132.38|999|Paraguay|Caraguatay|MACHADO BAEZ, NERY JAVIER|
-|9|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|10|101.53.154.137|2007|India|Noida|E2E Networks Limited|
-|11|115.127.162.234|8080|Bangladesh|Dhaka|BRACNet Limited|
-|12|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|13|92.255.196.91|8080|Russia|Kazan’|JSC "ER-Telecom Holding"|
-|14|46.209.196.147|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|188.133.152.247|1256|Russia|Moscow|Enforta-MSK|
-|16|105.112.142.210|8080|Nigeria|Ikoyi|Airtel Networks Limited|
-|17|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
-|18|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
-|19|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
-|20|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
+|1|186.216.198.166|8080|Brazil|Duque de Caxias|YIPI Telecom LTDA.|
+|2|138.36.180.4|9292|Brazil|Birigui|FIT Telecom Eireli|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|190.214.52.226|53281|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|5|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
+|6|185.238.239.97|8090|Poland|Wroclaw|LUKASZ KUZMINSKI trading as RADIO|
+|7|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|206.161.97.4|31337|United States|Ashburn|PCCW Global, Inc.|
+|9|103.76.151.46|8181|Indonesia|Bogor|PT. Java Digital Nusantara|
+|10|103.114.52.2|8080|Indonesia|Purbayan|Proxy-registered|
+|11|119.2.41.85|8080|Indonesia|Menteng|PT. Laxo Global Akses|
+|12|124.83.74.218|8080|Philippines|Laya|Philippine Long Distance Telephone Co.|
+|13|103.121.41.165|8080|Pakistan|Karachi|Satcomm (Pvt.) Ltd.|
+|14|178.167.82.76|53281|Russia|Pavlovskiy Posad|for Flex Ltd|
+|15|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
+|16|200.73.35.180|999|Chile|Las Condes|IFX Corporation|
+|17|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|18|103.135.226.6|8181|Indonesia|Jakarta|SUPERCORRIDOR|
+|19|201.20.110.35|666|Brazil|Parnamirim|MOB SERVICOS DE TELECOMUNICACOES S.A.|
+|20|178.252.184.142|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
 
 
 

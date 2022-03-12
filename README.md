@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3303** proxies at the latest update. Usable proxies are below.
+> Scraper found **2780** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|108|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|108|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|108|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|5|78.47.223.55|5566|Germany|Nuremberg|Hetzner Online GmbH|
-|6|186.103.203.202|999|Chile|Santiago|Telefonica Empresas|
-|7|24.217.192.131|57273|United States|St Louis|Charter Communications|
-|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|190.186.1.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|10|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
-|11|41.180.18.58|8080|South Africa|Nelspruit|X-dsl Networking Solutions|
-|12|223.100.215.26|8080|China|Shenyang|China Mobile communications corporation|
-|13|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|14|165.16.27.12|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|15|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
-|16|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|17|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|18|190.90.102.35|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
-|19|101.53.154.137|2017|India|Noida|E2E Networks Limited|
-|20|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÔÔES LTDA|
+|1|190.205.32.70|999|Venezuela|Barquisimeto|CANTV Servicios, Venezuela|
+|2|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|3|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|4|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|5|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
+|6|175.101.14.115|84|India|Hyderabad|ExcellMedia Pvt Ltd|
+|7|186.3.9.219|999|Ecuador|Guayaquil|Telconet S.A|
+|8|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
+|9|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
+|10|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
+|11|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
+|12|190.61.82.170|999|Panama|Panama City|Ufinet Panama S.A|
+|13|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
+|14|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
+|15|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
+|16|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
+|17|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
+|18|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
+|19|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
+|20|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
 
 
 

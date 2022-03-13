@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3038** proxies at the latest update. Usable proxies are below.
+> Scraper found **2958** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.227.56.104|8080|Brazil|Votuporanga|RF connect provedor de acesso ltda-me|
-|2|200.48.146.67|8080|Peru|Lima|Telefonica del Peru S.A.A.|
-|3|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
-|4|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|5|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|6|101.255.164.146|3128|Indonesia|Karawang|PT Remala Abadi|
-|7|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|62.152.75.110|50287|Russia|St Petersburg|Mobile TeleSystems PJSC|
-|9|190.110.111.132|999|Chile|San Vicente|Silica Networks Argentina S.A.|
-|10|103.157.81.51|8080|Indonesia|Jakarta|Komisi Yudisial RI|
-|11|185.53.35.1|8080|Ireland|Clonmel|Digiweb ltd|
-|12|190.24.119.55|999|Colombia|Bogotá|ETB - Colombia|
-|13|45.189.117.237|999|Peru|Lima|Fiber Digital S.R.L|
-|14|109.235.189.217|8080|Russia|Sochi|Dmitriy V. Kozmenko|
-|15|139.162.229.55|3128|United Kingdom|London|Linode, LLC|
-|16|103.153.232.254|8080|Nepal|Lumbini|Pals Network Pvt. Ltd|
-|17|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|18|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
-|19|185.182.222.178|8080|Iran|Tehran|Mobin Net Communication Company (Private Joint Stock)|
-|20|186.46.168.45|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|1|185.222.123.98|3128|Iran|Bushehr|khalij fars Ettela Resan Company J.S.|
+|2|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|3|14.139.87.40|3128|India|Hyderabad|National Knowledge Network|
+|4|31.161.38.233|8090|Netherlands|Wateringen|KPN B.V|
+|5|45.172.111.125|999|Argentina|Ramblon|GPS SANJUAN SRL.|
+|6|217.11.79.232|8080|Kazakhstan|Almaty|Aspan telecom|
+|7|190.160.181.220|8118|Chile|Valdivia|VTR BANDA ANCHA S.A.|
+|8|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
+|9|186.3.38.201|999|Ecuador|Guayaquil|Telconet S.A|
+|10|109.185.145.97|8080|Moldova|Chisinau|JSC "Moldtelecom" S.A.|
+|11|197.211.35.194|8080|Nigeria|Lagos|Globacom Limited|
+|12|101.255.121.25|8080|Indonesia|Bekasi|PT Remala Abadi|
+|13|193.57.43.193|81|Ukraine|Kharkiv|Pitline Ltd|
+|14|181.143.224.42|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|15|139.255.99.163|50031|Indonesia|Jakarta|PT. LINKNET|
+|16|103.161.164.101|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|17|45.202.16.126|8080|Philippines|Tandag|Infinivan Incorporated|
+|18|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|19|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|20|182.16.163.202|3128|Indonesia|Jakarta|SOLUSINET|
 
 
 

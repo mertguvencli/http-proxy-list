@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3777** proxies at the latest update. Usable proxies are below.
+> Scraper found **3447** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|426|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|426|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|426|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|31.3.169.53|8081|Italy|Cesena|Cesena NET S.R.L.|
-|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|3|27.72.147.22|40009|Vietnam|Hanoi|Newass2011xDSLHN|
-|4|14.139.87.40|3128|India|Hyderabad|National Knowledge Network|
-|5|185.182.222.178|8080|Iran|Tehran|Mobin Net Communication Company (Private Joint Stock)|
-|6|201.220.112.98|999|Chile|Valdivia|Telefonica del Sur S.A.|
-|7|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|8|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
-|9|24.217.192.131|57273|United States|St Louis|Charter Communications|
-|10|45.175.160.41|999|Argentina|Tunuyan|OSORIO SERGIO ANGELINO(NETVDU).|
-|11|14.215.212.37|9168|China|Shenzhen|Chinanet|
-|12|124.83.74.218|8080|Philippines|Laya|Philippine Long Distance Telephone Co.|
-|13|190.90.102.35|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
-|14|190.110.99.99|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|15|122.144.6.58|63123|Indonesia|Jakarta|Maxindo|
-|16|178.252.184.142|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|17|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|18|201.150.117.192|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|19|216.176.187.99|39825|United States|Los Angeles|Wowrack.com|
-|20|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
+|1|5.183.232.131|8080|Russia|Moscow|Elitel Telecom Group Ltd|
+|2|181.78.18.93|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|3|186.3.38.201|999|Ecuador|Guayaquil|Telconet S.A|
+|4|200.159.30.130|8080|Brazil|São Paulo|Vivo|
+|5|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
+|6|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|8|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
+|9|190.111.203.179|8080|Argentina|Buenos Aires|CPS|
+|10|181.143.224.42|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|11|34.229.168.95|8118|United States|Ashburn|Amazon.com, Inc.|
+|12|64.184.92.8|80|United States|Amboy|Intelligent Fiber Network|
+|13|188.43.15.89|8080|Russia|Tommot|Joint Stock Company TransTeleCom|
+|14|114.6.88.238|60811|Indonesia|Malang|PT. INDOSAT Tbk|
+|15|45.5.57.122|8080|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
+|16|119.15.95.158|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|17|103.105.125.6|83|India|Navi Mumbai|Delix Net Solutions Pvt. Ltd.|
+|18|182.253.28.124|8080|Indonesia|Jakarta|Biznet Networks|
+|19|115.124.85.20|8080|Indonesia|Bekasi|PT Remala Abadi|
+|20|103.209.230.185|8080|Bangladesh|Dhaka|WIMS1|
 
 
 

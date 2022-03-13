@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3350** proxies at the latest update. Usable proxies are below.
+> Scraper found **3049** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|154.212.7.26|999|Mexico|San Luis de la Paz|Ientc S De RL De CV|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|161.49.116.131|1337|Philippines|Mandaluyong City|Converge ICT Solution Inc|
-|5|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|6|87.255.215.9|3128|Kazakhstan|Nur-Sultan|JSC Transtelecom|
-|7|101.53.154.137|2013|India|Noida|E2E Networks Limited|
-|8|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|9|113.53.29.218|33885|Thailand|Nakhon Sawan|TOT Public Company Limited|
-|10|203.114.65.40|1337|Philippines|Pasay|W Network Inc.|
-|11|128.201.119.251|999|Chile|Molina|COMERCIAL WASHINGTON ERNESTO OYARCE SAZO E.I.R.L. (SEÑALMAX)|
-|12|200.73.35.180|999|Chile|Las Condes|IFX Corporation|
-|13|177.129.11.150|8080|Brazil|Rio de Janeiro|Citta Telecom Ltda|
-|14|180.210.178.30|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
-|15|46.161.195.107|1981|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|16|103.213.213.22|84|India|Pune|Syscon Infoway Pvt. Ltd.|
-|17|124.41.213.201|39272|Nepal|Kathmandu|WorldLink Communications|
+|1|104.223.88.232|8118|United States|Atlanta|QuadraNet Enterprises LLC|
+|2|212.112.127.20|8080|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|3|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|4|103.228.246.37|3127|Indonesia|Sidoarjo|Giga Patra Multimedia|
+|5|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|6|180.191.14.105|8080|Philippines|Baguio City|Globe Telecom|
+|7|103.167.109.151|8080|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
+|8|197.232.135.174|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|9|13.124.165.69|8888|South Korea|Seoul|Amazon Technologies Inc.|
+|10|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|11|192.119.203.124|48678|United States|Ridgecrest|Mediacom Communications|
+|12|185.182.222.178|8080|Iran|Tehran|Mobin Net Communication Company (Private Joint Stock)|
+|13|200.111.239.66|8080|Chile|Santiago|Entel Chile S.A.|
+|14|191.103.219.225|48612|Colombia|Montería|Edatel S.a. E.S.P|
+|15|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|16|186.97.172.178|60080|Colombia|Medellín|Colombia Móvil|
+|17|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
 |18|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
 |19|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
-|20|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
+|20|145.40.73.107|10001|Singapore|Singapore|Packet Host, Inc.|
 
 
 

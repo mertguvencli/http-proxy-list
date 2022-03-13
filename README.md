@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3049** proxies at the latest update. Usable proxies are below.
+> Scraper found **3035** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|219|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|219|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|219|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.223.88.232|8118|United States|Atlanta|QuadraNet Enterprises LLC|
-|2|212.112.127.20|8080|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|3|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|4|103.228.246.37|3127|Indonesia|Sidoarjo|Giga Patra Multimedia|
-|5|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|6|180.191.14.105|8080|Philippines|Baguio City|Globe Telecom|
-|7|103.167.109.151|8080|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
-|8|197.232.135.174|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|9|13.124.165.69|8888|South Korea|Seoul|Amazon Technologies Inc.|
-|10|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|11|192.119.203.124|48678|United States|Ridgecrest|Mediacom Communications|
-|12|185.182.222.178|8080|Iran|Tehran|Mobin Net Communication Company (Private Joint Stock)|
-|13|200.111.239.66|8080|Chile|Santiago|Entel Chile S.A.|
-|14|191.103.219.225|48612|Colombia|Montería|Edatel S.a. E.S.P|
-|15|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
-|16|186.97.172.178|60080|Colombia|Medellín|Colombia Móvil|
-|17|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|18|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
-|19|145.40.73.102|9443|Singapore|Singapore|Packet Host, Inc.|
-|20|145.40.73.107|10001|Singapore|Singapore|Packet Host, Inc.|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|92.242.254.25|53545|Croatia|Cerje Nebojse|Magic Net d.o.o|
+|3|103.146.185.105|3127|Indonesia|Ngadri|YAMNET|
+|4|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
+|5|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
+|6|41.191.245.37|8080|Ghana|Accra|BusyInternet Ghana Ltd|
+|7|190.110.99.105|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|8|14.241.111.38|8080|Vietnam|Hanoi|VNPT|
+|9|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
+|10|190.205.32.70|999|Venezuela|Barquisimeto|CANTV Servicios, Venezuela|
+|11|138.219.245.17|8080|Brazil|Simoes Filho|Softdados TelecomunicaÔÔes|
+|12|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
+|13|181.129.243.100|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|14|45.164.150.122|999|Guatemala|Guatemala City|JORGE MARIO, MENDOZA LUX|
+|15|41.243.7.18|8080|Democratic Republic of the Congo|Kinshasa|Airtel CD Kins|
+|16|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|17|174.81.78.64|48678|United States|Wallace|Charter Communications|
+|18|201.99.66.9|8081|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|43.250.127.98|9001|Mongolia|Ulan Bator|Wicom Networks|
+|20|161.49.212.173|1337|Philippines|Plaridel|Converge Information and Communications Technology Solutions|
 
 
 

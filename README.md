@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2944** proxies at the latest update. Usable proxies are below.
+> Scraper found **3115** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|138.117.230.140|999|Guatemala|Huehuetenango|Fibernet S.A|
-|2|91.209.114.182|6789|Hungary|Siófok|Invitech ICT Services Kft.|
-|3|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|4|175.101.14.114|83|India|Hyderabad|ExcellMedia Pvt Ltd|
-|5|45.5.58.34|999|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
-|6|103.231.218.246|8080|India|Chennai|Limras Eronet Broadband Service Private limited|
-|7|85.114.112.22|8083|Palestine|Gaza|fusion services|
-|8|200.106.184.13|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|9|180.165.130.47|53281|China|Shanghai|China Telecom (Group)|
-|10|103.145.35.30|8181|Indonesia|Sananrejo|LINTASDATA|
-|11|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|200.73.35.180|999|Chile|Las Condes|IFX Corporation|
-|13|190.113.40.230|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|14|182.53.231.229|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|15|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|204.199.113.29|999|Colombia|Bogotá|CTL Colombia|
-|17|115.243.184.76|23500|India|Navi Mumbai|Reliance Jio Infocomm Limited|
-|18|101.33.73.209|8118|South Korea|Seoul|Shenzhen Tencent Computer Systems Company Limited|
-|19|109.70.188.46|11080|Russia|Makhachkala|LTD "Elektrosvyaz"|
-|20|103.164.118.83|8080|Indonesia|Jakarta|SOLUSINET|
+|1|185.89.156.250|8181|Albania|Tregan|ATU|
+|2|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|3|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
+|4|88.255.12.24|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|5|45.118.166.114|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|6|138.117.230.140|999|Guatemala|Huehuetenango|Fibernet S.A|
+|7|45.5.68.18|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|8|103.76.27.34|8080|Indonesia|Lawang|MORATELINDO|
+|9|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
+|10|202.53.171.114|8080|Bangladesh|Gulshan|Agni Systems Ltd.|
+|11|200.24.199.146|999|Ecuador|Guayaquil|Otecel S.A.|
+|12|138.117.84.65|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|13|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|14|212.95.172.86|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
+|15|194.190.254.250|8080|Russia|Makhachkala|Federal State Institution "cientific Research Institute for System Ana|
+|16|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
+|17|45.156.29.130|9090|Turkey|Gürpınar|Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd|
+|18|139.255.123.3|8080|Indonesia|Jakarta|PT. LINKNET|
+|19|103.156.249.52|8080|Indonesia|Malang|Trans Media Telekomunikasi|
+|20|145.40.73.107|10013|Singapore|Singapore|Packet Host, Inc.|
 
 
 

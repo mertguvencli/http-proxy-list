@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3098** proxies at the latest update. Usable proxies are below.
+> Scraper found **3038** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.76.60.58|8118|Germany|Falkenstein|Hetzner Online GmbH|
-|2|157.100.56.178|999|Ecuador|Loja|Nedetel S.A.|
-|3|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|177.73.186.12|8080|Brazil|Videira|Unifique TelecomunicaÔÔes SA|
-|6|45.121.216.218|55443|Indonesia|Tangerang|PT. Mora Telematika Indonesia|
-|7|103.167.109.151|8080|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
-|8|103.156.75.41|8080|Indonesia|Gianyar|PT Trika Global Media|
-|9|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
-|10|85.25.111.162|5566|Germany|Cologne|PlusServer GmbH|
-|11|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|12|200.37.187.186|999|Peru|Cucho|Telefonica del Peru S.A.A.|
-|13|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|14|139.162.229.55|3128|United Kingdom|London|Linode, LLC|
-|15|64.184.92.8|80|United States|Amboy|Intelligent Fiber Network|
-|16|110.34.8.110|8080|Nepal|Kathmandu|Subisu Cablenet|
-|17|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|18|14.241.111.38|8080|Vietnam|Hanoi|VNPT|
-|19|177.234.196.187|999|Ecuador|Guayaquil|Nedetel S.A.|
-|20|187.190.255.132|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
+|1|168.227.56.104|8080|Brazil|Votuporanga|RF connect provedor de acesso ltda-me|
+|2|200.48.146.67|8080|Peru|Lima|Telefonica del Peru S.A.A.|
+|3|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
+|4|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|5|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|101.255.164.146|3128|Indonesia|Karawang|PT Remala Abadi|
+|7|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|8|62.152.75.110|50287|Russia|St Petersburg|Mobile TeleSystems PJSC|
+|9|190.110.111.132|999|Chile|San Vicente|Silica Networks Argentina S.A.|
+|10|103.157.81.51|8080|Indonesia|Jakarta|Komisi Yudisial RI|
+|11|185.53.35.1|8080|Ireland|Clonmel|Digiweb ltd|
+|12|190.24.119.55|999|Colombia|Bogotá|ETB - Colombia|
+|13|45.189.117.237|999|Peru|Lima|Fiber Digital S.R.L|
+|14|109.235.189.217|8080|Russia|Sochi|Dmitriy V. Kozmenko|
+|15|139.162.229.55|3128|United Kingdom|London|Linode, LLC|
+|16|103.153.232.254|8080|Nepal|Lumbini|Pals Network Pvt. Ltd|
+|17|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
+|18|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
+|19|185.182.222.178|8080|Iran|Tehran|Mobin Net Communication Company (Private Joint Stock)|
+|20|186.46.168.45|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
 
 
 

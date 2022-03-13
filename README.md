@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3035** proxies at the latest update. Usable proxies are below.
+> Scraper found **3098** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|92.242.254.25|53545|Croatia|Cerje Nebojse|Magic Net d.o.o|
-|3|103.146.185.105|3127|Indonesia|Ngadri|YAMNET|
-|4|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
-|5|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
-|6|41.191.245.37|8080|Ghana|Accra|BusyInternet Ghana Ltd|
-|7|190.110.99.105|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|8|14.241.111.38|8080|Vietnam|Hanoi|VNPT|
-|9|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
-|10|190.205.32.70|999|Venezuela|Barquisimeto|CANTV Servicios, Venezuela|
-|11|138.219.245.17|8080|Brazil|Simoes Filho|Softdados TelecomunicaÔÔes|
-|12|51.79.173.234|3128|Singapore|Singapore|OVH SAS|
-|13|181.129.243.100|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|14|45.164.150.122|999|Guatemala|Guatemala City|JORGE MARIO, MENDOZA LUX|
-|15|41.243.7.18|8080|Democratic Republic of the Congo|Kinshasa|Airtel CD Kins|
-|16|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|17|174.81.78.64|48678|United States|Wallace|Charter Communications|
-|18|201.99.66.9|8081|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|43.250.127.98|9001|Mongolia|Ulan Bator|Wicom Networks|
-|20|161.49.212.173|1337|Philippines|Plaridel|Converge Information and Communications Technology Solutions|
+|1|144.76.60.58|8118|Germany|Falkenstein|Hetzner Online GmbH|
+|2|157.100.56.178|999|Ecuador|Loja|Nedetel S.A.|
+|3|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|177.73.186.12|8080|Brazil|Videira|Unifique TelecomunicaÔÔes SA|
+|6|45.121.216.218|55443|Indonesia|Tangerang|PT. Mora Telematika Indonesia|
+|7|103.167.109.151|8080|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
+|8|103.156.75.41|8080|Indonesia|Gianyar|PT Trika Global Media|
+|9|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
+|10|85.25.111.162|5566|Germany|Cologne|PlusServer GmbH|
+|11|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|12|200.37.187.186|999|Peru|Cucho|Telefonica del Peru S.A.A.|
+|13|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|14|139.162.229.55|3128|United Kingdom|London|Linode, LLC|
+|15|64.184.92.8|80|United States|Amboy|Intelligent Fiber Network|
+|16|110.34.8.110|8080|Nepal|Kathmandu|Subisu Cablenet|
+|17|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|18|14.241.111.38|8080|Vietnam|Hanoi|VNPT|
+|19|177.234.196.187|999|Ecuador|Guayaquil|Nedetel S.A.|
+|20|187.190.255.132|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
 
 
 

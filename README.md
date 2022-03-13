@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3469** proxies at the latest update. Usable proxies are below.
+> Scraper found **3301** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|393|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|393|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|393|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
-|4|186.24.9.114|999|Venezuela|Villa Bruzual|TELEFONICA VENEZOLANA, C.A.|
-|5|27.72.147.22|40009|Vietnam|Hanoi|Newass2011xDSLHN|
-|6|83.221.208.217|1981|Russia|Rostov-on-Don|Macroregional South|
-|7|180.180.171.123|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|186.138.132.183|3128|Argentina|Buenos Aires|Telecom Argentina S.A|
-|9|180.210.184.226|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
-|10|181.48.23.250|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|11|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|77.70.35.87|37475|Bulgaria|Sofia|A1 Bulgaria EAD|
-|13|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|14|185.46.9.133|3128|Russia|Moscow|Reg.Ru AG|
-|15|103.159.46.2|83|India|Ahmedabad|King Netsol Private Limited|
-|16|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
-|17|189.129.106.41|999|Mexico|Tuxtla Gutiérrez|Uninet S.A. de C.V|
-|18|36.95.81.167|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|190.119.166.35|999|Peru|La Victoria|America Movil Peru S.A.C.|
-|20|122.144.4.126|63123|Indonesia|Bekasi|Maxindo|
+|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|2|154.212.7.26|999|Mexico|San Luis de la Paz|Ientc S De RL De CV|
+|3|194.190.254.250|8080|Russia|Makhachkala|Federal State Institution "cientific Research Institute for System Ana|
+|4|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|5|46.161.195.105|1981|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|6|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
+|7|88.255.101.236|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|185.3.214.3|80|Iran|Shahrīār|Pouya shabakeh Asr Co. (LTD.)|
+|10|181.49.100.190|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|11|202.65.158.237|84|India|Hyderabad|CtrlS Datacenters Ltd.|
+|12|14.139.87.40|3128|India|Hyderabad|National Knowledge Network|
+|13|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|14|103.149.240.25|8080|Pakistan|Rawalpindi|Khan Telecommunications PVT LTD|
+|15|91.121.208.196|5062|France|Roubaix|OVH SAS|
+|16|203.128.83.115|8080|Indonesia|Jakarta|Neuviz|
+|17|45.190.170.254|999|Peru|Lima|Softbutterfly SAC|
+|18|177.105.232.114|8080|Brazil|Joao Pinheiro|Internet Pinheirense Ltda - ME|
+|19|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
+|20|202.138.249.241|8000|Indonesia|Jakarta|PT Melvar Lintasnusa|
 
 
 

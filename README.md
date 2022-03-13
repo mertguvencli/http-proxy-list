@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3048** proxies at the latest update. Usable proxies are below.
+> Scraper found **3275** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|256|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|256|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|256|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|2|8.242.207.202|8080|Chile|Santiago|Level 3|
-|3|177.53.155.22|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
-|4|181.176.161.39|999|Peru|Huaraz|VIETTEL PERÚ S.A.C.|
-|5|131.100.48.180|999|Colombia|Neiva|Fibernet TV SAS|
-|6|109.170.97.146|8085|Russia|Sochi|Net By Net Holding LLC|
-|7|217.11.79.232|8080|Kazakhstan|Almaty|Aspan telecom|
-|8|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
-|9|182.253.107.212|8080|Indonesia|Tegal|BIZNET|
-|10|204.195.136.34|80|United States|Miami Beach|Atlantic Broadband Finance, LLC|
-|11|94.228.192.197|8087|Russia|Moscow|Uniontel ZAO network|
-|12|119.110.71.185|63123|Indonesia|Teluknaga|Maxindo|
-|13|103.161.164.113|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|14|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
-|15|138.99.176.99|999|Peru|Lima|NET WIN PERU|
-|16|109.195.69.211|8090|Russia|Krasnoyarsk|JSC "ER-Telecom Holding"|
-|17|88.255.12.25|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|18|85.31.251.62|8080|Poland|Krakow|Energit Sp. z o.o.|
-|19|185.58.16.127|8080|Ireland|Dublin|Model Telecom Ltd|
-|20|83.174.218.83|8080|Russia|Ufa|BASHTEL|
+|1|103.161.178.86|9999|Vietnam|Quan Binh Thanh|SOLARE|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|4|204.195.136.34|80|United States|Miami Beach|Atlantic Broadband Finance, LLC|
+|5|109.185.145.97|8080|Moldova|Chisinau|JSC "Moldtelecom" S.A.|
+|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|7|94.228.207.86|8087|Russia|Moscow|Uniontel ZAO network|
+|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|139.5.151.179|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|10|103.168.164.26|83|India|Pune|Nutech Broadband|
+|11|58.27.255.98|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|12|176.120.196.112|55443|Russia|Makhachkala|SUBNET05|
+|13|45.5.57.122|8080|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
+|14|103.38.5.226|81|India|Samastipur|Max tech media and communications pvt ltd|
+|15|47.241.8.6|23511|Singapore|Singapore|Alibaba.com LLC|
+|16|103.209.65.12|6666|India|Ahmedabad|Gtpl Abhilash Communication Private Limited|
+|17|190.113.42.141|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|18|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|19|38.130.248.202|999|Dominican Republic|Santa Cruz de Barahona|MR Networking, SRL|
+|20|103.123.64.24|8888|Indonesia|Jakarta|CEPATNET|
 
 
 

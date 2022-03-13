@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3408** proxies at the latest update. Usable proxies are below.
+> Scraper found **3486** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|414|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|414|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|414|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|468|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|468|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|468|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|3|190.2.210.139|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|4|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|5|181.224.207.21|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|134.209.42.113|8896|United States|Clifton|DigitalOcean, LLC|
-|9|110.172.160.42|44047|India|Solapur|World Phone Internet Services Pvt Ltd|
-|10|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|11|50.233.42.98|51696|United States|North Miami|Comcast Cable Communications, LLC|
-|12|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|13|180.191.14.105|8080|Philippines|Baguio City|Globe Telecom|
-|14|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|15|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|16|123.231.242.218|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|17|49.0.39.10|8080|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|18|103.139.47.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|19|190.122.187.178|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|20|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|1|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
+|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|4|145.40.73.107|10013|Singapore|Singapore|Packet Host, Inc.|
+|5|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
+|6|190.109.0.228|999|Colombia|San Juan de Betulia|Lazus Medellin|
+|7|145.40.73.107|10013|Singapore|Singapore|Packet Host, Inc.|
+|8|88.255.64.79|1981|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|9|103.76.27.34|8080|Indonesia|Lawang|MORATELINDO|
+|10|186.250.23.153|3128|Brazil|Parnamirim|RN Internet ServiÔos ltda - ME|
+|11|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
+|12|145.40.73.107|10013|Singapore|Singapore|Packet Host, Inc.|
+|13|43.129.235.190|8081|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
+|14|191.97.1.89|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
+|15|94.228.194.18|41890|Russia|Moscow|Uniontel Ltd|
+|16|190.116.90.45|999|Peru|La Victoria|America Movil Peru S.A.C.|
+|17|145.40.73.102|80|Singapore|Singapore|Packet Host, Inc.|
+|18|123.200.5.210|45780|Bangladesh|Gulshan|Link3 Technologies Limited|
+|19|45.5.68.82|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|20|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
 
 
 

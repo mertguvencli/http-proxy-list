@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3884** proxies at the latest update. Usable proxies are below.
+> Scraper found **3777** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|540|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|540|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|540|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|426|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|426|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|426|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|177.129.253.133|3128|Brazil|Penapolis|Maxcomm Ltda EPP|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|213.115.247.68|80|Sweden|Linköping|Telenor Norge|
-|5|138.0.188.134|10001|Brazil|Araguari|WN TELECOM LTDA - ME|
-|6|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|7|103.119.144.5|55443|Indonesia|Jakarta|PT Bali Towerindo Sentra|
-|8|182.253.197.69|8080|Indonesia|Jepara|STIE-BPD|
-|9|157.230.233.189|3000|United States|North Bergen|DigitalOcean, LLC|
-|10|8.217.2.51|59394|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|11|78.37.24.148|8080|Russia|Valday|Rostelecom networks|
-|12|165.16.27.3|1981|Libya|Al Qubbah|Aljeel Aljadeed For Technology|
-|13|122.3.2.56|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|14|41.65.252.101|1976|Egypt|Cairo|Etisalat Misr|
-|15|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
-|16|89.189.128.183|8080|Russia|Ufa|JSC "Ufanet"|
-|17|185.177.222.171|8089|Russia|Murom|Modus LLC|
-|18|190.122.187.178|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|19|103.168.44.70|3127|Indonesia|Danaraja|PT CYB Media Group|
-|20|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|1|31.3.169.53|8081|Italy|Cesena|Cesena NET S.R.L.|
+|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|3|27.72.147.22|40009|Vietnam|Hanoi|Newass2011xDSLHN|
+|4|14.139.87.40|3128|India|Hyderabad|National Knowledge Network|
+|5|185.182.222.178|8080|Iran|Tehran|Mobin Net Communication Company (Private Joint Stock)|
+|6|201.220.112.98|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|7|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|8|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
+|9|24.217.192.131|57273|United States|St Louis|Charter Communications|
+|10|45.175.160.41|999|Argentina|Tunuyan|OSORIO SERGIO ANGELINO(NETVDU).|
+|11|14.215.212.37|9168|China|Shenzhen|Chinanet|
+|12|124.83.74.218|8080|Philippines|Laya|Philippine Long Distance Telephone Co.|
+|13|190.90.102.35|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|14|190.110.99.99|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|15|122.144.6.58|63123|Indonesia|Jakarta|Maxindo|
+|16|178.252.184.142|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|17|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|18|201.150.117.192|999|Mexico|Actopan|Hulux Telecomunicaciones|
+|19|216.176.187.99|39825|United States|Los Angeles|Wowrack.com|
+|20|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
 
 
 

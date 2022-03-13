@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3446** proxies at the latest update. Usable proxies are below.
+> Scraper found **3469** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|371|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|371|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|371|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|292|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|292|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|292|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|2|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|3|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|4|77.46.138.38|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
-|5|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|6|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|176.62.178.247|47556|Russia|Moscow|OOO Istranet|
-|9|14.139.87.40|3128|India|Hyderabad|National Knowledge Network|
-|10|202.62.11.197|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|11|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|12|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
-|13|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|14|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
-|15|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
-|16|190.181.16.206|999|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|18|45.122.233.76|55443|Vietnam|Haiphong|CMC Telecom Infrastructure Company|
-|19|77.236.237.177|8080|Russia|Moscow|Enforta-MSK|
-|20|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|1|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
+|4|186.24.9.114|999|Venezuela|Villa Bruzual|TELEFONICA VENEZOLANA, C.A.|
+|5|27.72.147.22|40009|Vietnam|Hanoi|Newass2011xDSLHN|
+|6|83.221.208.217|1981|Russia|Rostov-on-Don|Macroregional South|
+|7|180.180.171.123|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|8|186.138.132.183|3128|Argentina|Buenos Aires|Telecom Argentina S.A|
+|9|180.210.184.226|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
+|10|181.48.23.250|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|11|180.250.219.61|53281|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|12|77.70.35.87|37475|Bulgaria|Sofia|A1 Bulgaria EAD|
+|13|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|14|185.46.9.133|3128|Russia|Moscow|Reg.Ru AG|
+|15|103.159.46.2|83|India|Ahmedabad|King Netsol Private Limited|
+|16|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|17|189.129.106.41|999|Mexico|Tuxtla Gutiérrez|Uninet S.A. de C.V|
+|18|36.95.81.167|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|190.119.166.35|999|Peru|La Victoria|America Movil Peru S.A.C.|
+|20|122.144.4.126|63123|Indonesia|Bekasi|Maxindo|
 
 
 

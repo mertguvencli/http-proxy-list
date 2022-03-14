@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3042** proxies at the latest update. Usable proxies are below.
+> Scraper found **3143** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|206.62.64.34|8080|Brazil|Maringá|AGIS|
-|2|96.9.87.113|8080|Cambodia|Phnom Penh|SIGROUPS|
-|3|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|4|12.31.246.5|8080|United States|Saint Helena|AT&T Services, Inc.|
-|5|181.224.207.19|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|6|170.83.60.19|55443|Brazil|Uberlândia|H-micro Assistencia Especializade EM Inform Ldta|
-|7|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
-|8|103.119.55.232|10001|Indonesia|Bandung|PT. Eka Mas Republik|
-|9|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|10|192.140.42.83|31511|Brazil|Boa Vista do Jauato|Allfiber Telecom ServiÔos de TelecomunicaÔÔes|
-|11|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|12|197.232.135.174|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|13|206.161.97.47|31337|United States|Ashburn|PCCW Global, Inc.|
-|14|117.4.139.104|8080|Vietnam|Hanoi|Viettel Corporation|
-|15|201.168.205.4|999|Mexico|Cerritos Blancos|Marcatel Com, S.A. de C.V.|
-|16|181.224.207.21|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|17|145.40.73.107|10001|Singapore|Singapore|Packet Host, Inc.|
-|18|183.88.42.62|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|19|36.91.68.150|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
+|1|46.101.245.99|8889|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|84.193.39.37|8118|Belgium|Leuven|Telenet BVBA|
+|5|92.242.254.25|53545|Croatia|Cerje Nebojse|Magic Net d.o.o|
+|6|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|14.160.29.90|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|8|198.255.17.202|3129|United States|Chicago|FDCservers.net|
+|9|175.101.120.146|8080|India|Kadapa|ExcellMedia Pvt Ltd|
+|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|11|41.204.87.90|8080|Cameroon|Yaoundé|Camtel Dla-tis Stm16|
+|12|45.202.16.126|8080|Philippines|Tandag|Infinivan Incorporated|
+|13|51.79.124.80|3128|Canada|Beauharnois|OVH SAS|
+|14|112.78.170.250|80|Indonesia|Jakarta|BIZNET|
+|15|202.53.171.114|8080|Bangladesh|Gulshan|Agni Systems Ltd.|
+|16|181.48.23.250|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|17|180.210.178.30|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
+|18|103.78.170.13|84|India|Pune|Sanjeevan Networks Services Pvt Ltd|
+|19|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|20|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3233** proxies at the latest update. Usable proxies are below.
+> Scraper found **3350** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.86.159.25|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|2|140.238.42.240|3128|Japan|Tokyo|Oracle Corporation|
-|3|85.117.56.147|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
-|4|202.146.1.119|8080|Indonesia|Jakarta|PT.GRAMEDIA|
-|5|200.32.51.179|8080|Argentina|San Fernando del Valle de Catamarca|Telefonica de Argentina|
-|6|49.156.42.210|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|7|154.236.162.34|1981|Egypt|Giza|Enterprise|
-|8|41.86.42.41|8080|Seychelles|Victoria|CWS DIB BUNDLE|
-|9|200.48.3.228|10101|Peru|Lima|Telefonica del Peru S.A.A.|
-|10|119.15.95.158|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|11|80.191.162.2|514|Iran|Shahrestān-e Bandar-e Māhshahr|Area|
-|12|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
-|13|193.150.117.99|8000|Russia|Moscow|LTD "ARENTEL"|
-|14|190.113.40.22|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|15|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|16|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
-|17|91.90.180.185|8080|Poland|Krakow|3S S.A. LIR|
-|18|190.110.111.137|999|Chile|San Vicente|Silica Networks Argentina S.A.|
-|19|103.80.77.1|443|Indonesia|Jakarta|Dewan Ketahanan Nasional|
-|20|93.99.12.253|8080|Czechia|Prague|Vodafone Czech Republic|
+|1|121.36.31.146|3389|China|Beijing|Huawei Cloud Service data center|
+|2|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
+|3|120.29.124.131|8080|Philippines|San Mateo|ComClark Network & Technology Corp|
+|4|79.122.225.166|8080|Russia|Moscow|Enforta-KMS|
+|5|47.250.41.0|80|Malaysia|Kuala Lumpur|Alibaba.com LLC|
+|6|103.208.200.115|23500|India|New Delhi|Gigantic|
+|7|103.17.213.102|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|8|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
+|9|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|10|45.5.57.122|8080|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
+|11|188.112.36.179|3128|Poland|Potok Gorny|FONE|
+|12|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|13|187.73.68.14|53281|Brazil|Congonhas|Vero Internet|
+|14|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
+|15|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|16|115.87.196.88|8080|Thailand|Bangkok|TRUEBB|
+|17|195.170.38.230|8080|Russia|Mytishchi|East Telecom Internet provider|
+|18|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
+|19|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
+|20|203.176.135.30|8080|Cambodia|Phnom Penh|MekongNet|
 
 
 

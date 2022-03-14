@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3404** proxies at the latest update. Usable proxies are below.
+> Scraper found **3485** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.36.121.222|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|2|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
-|3|135.23.201.43|8118|Canada|Gatineau|TekSavvy Solutions, Inc.|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|7|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
-|8|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
-|9|189.203.180.233|999|Mexico|Oaxaca City|Total Play Telecomunicaciones SA De CV|
-|10|79.143.87.134|9090|United Kingdom|Manchester|Hydra Communications Ltd|
-|11|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|12|103.156.249.34|8085|Indonesia|Malang|Trans Media Telekomunikasi|
-|13|103.80.77.252|8080|Indonesia|Jakarta|Dewan Ketahanan Nasional|
-|14|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|15|103.78.170.13|84|India|Pune|Sanjeevan Networks Services Pvt Ltd|
-|16|144.48.112.30|8080|Bangladesh|Dhaka|Net Cafe|
-|17|113.160.206.37|55138|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|18|103.254.185.195|53281|Nepal|Patan|WorldLink Communications|
-|19|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|20|85.217.192.39|1414|Bulgaria|Sofia|"Zonata - Natskovi & Sie" Ltd.|
+|1|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|2|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|3|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|4|115.87.196.88|8080|Thailand|Bangkok|TRUEBB|
+|5|41.204.87.90|8080|Cameroon|Yaoundé|Camtel Dla-tis Stm16|
+|6|217.74.161.241|8080|Russia|Krasnoyarsk|JSC Intertax - ISP in Krasnoyarsk region of Russia|
+|7|140.238.42.240|3128|Japan|Tokyo|Oracle Corporation|
+|8|139.255.74.125|8080|Indonesia|Cibuntu|PT. LINKNET|
+|9|120.29.124.131|8080|Philippines|San Mateo|ComClark Network & Technology Corp|
+|10|190.116.90.45|999|Peru|La Victoria|America Movil Peru S.A.C.|
+|11|94.181.48.110|1256|Russia|Moscow|Enforta-MSK|
+|12|101.53.154.137|2018|India|Noida|E2E Networks Limited|
+|13|192.140.42.83|31511|Brazil|Boa Vista do Jauato|Allfiber Telecom ServiÔos de TelecomunicaÔÔes|
+|14|190.7.58.55|3128|Argentina|Buenos Aires|Gigared S.A.|
+|15|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|16|36.95.81.167|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|5.189.186.24|5566|Germany|Nuremberg|Contabo GmbH|
+|18|79.101.67.154|8080|Serbia|Stari Grad|TELEKOM SRBIJA a.d.|
+|19|139.228.65.97|8080|Indonesia|Sawahan|PT. First Media, Tbk|
+|20|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

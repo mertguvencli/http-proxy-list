@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2971** proxies at the latest update. Usable proxies are below.
+> Scraper found **2902** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.204.109.218|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
-|2|181.78.18.93|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|103.167.109.151|8080|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
-|5|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|6|103.139.242.177|82|India|Pune|Spectram Telecom Pvt.Ltd|
-|7|122.2.28.114|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|8|103.154.24.18|8080|Indonesia|Selong|HIJRAHNET|
-|9|202.29.237.213|3128|Thailand|Bangkok|THAINET|
-|10|91.242.213.247|80|Russia|Murom|NAVIGATOR-MUROM|
-|11|88.255.101.232|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|12|101.51.55.153|8080|Thailand|Din Daeng|TOT Public Company Limited|
-|13|188.133.173.21|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
-|14|185.46.9.133|3128|Russia|Moscow|Reg.Ru AG|
-|15|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
-|16|178.168.88.199|8080|Moldova|Pirlita|SC STARNET SRL|
-|17|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|18|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
-|19|203.170.222.4|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
-|20|86.57.134.64|41890|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
+|1|96.2.228.18|8080|United States|Pierre|Midcontinent Communications|
+|2|190.186.18.177|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|3|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|4|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
+|5|104.223.88.232|8118|United States|Atlanta|QuadraNet Enterprises LLC|
+|6|201.120.27.15|53281|Mexico|Mexico City|Uninet S.A. de C.V|
+|7|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|8|38.130.248.181|999|Dominican Republic|Santa Cruz de Barahona|MR Networking, SRL|
+|9|103.146.196.35|3127|Indonesia|Banyuwangi|RIYADNETWORK|
+|10|178.217.172.206|55443|Kyrgyzstan|Bishkek|KRENA Project|
+|11|116.68.250.158|8089|Indonesia|Embongkaliasin|PT. Cross Network Indonesia|
+|12|85.235.184.186|3129|Russia|Moscow|MTS PJSC|
+|13|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
+|14|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|15|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|16|188.43.15.89|8080|Russia|Tommot|Joint Stock Company TransTeleCom|
+|17|36.92.70.209|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|18|45.156.31.19|9090|Turkey|Istanbul|ATLANTIS|
+|19|185.88.37.94|8085|Israel|Tel Aviv|Sharktech|
+|20|202.4.116.242|8080|Bangladesh|Dhaka|dhakaCom Limited|
 
 
 

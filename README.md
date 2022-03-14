@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3350** proxies at the latest update. Usable proxies are below.
+> Scraper found **3404** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.36.31.146|3389|China|Beijing|Huawei Cloud Service data center|
-|2|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
-|3|120.29.124.131|8080|Philippines|San Mateo|ComClark Network & Technology Corp|
-|4|79.122.225.166|8080|Russia|Moscow|Enforta-KMS|
-|5|47.250.41.0|80|Malaysia|Kuala Lumpur|Alibaba.com LLC|
-|6|103.208.200.115|23500|India|New Delhi|Gigantic|
-|7|103.17.213.102|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|8|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
-|9|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|10|45.5.57.122|8080|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
-|11|188.112.36.179|3128|Poland|Potok Gorny|FONE|
-|12|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|13|187.73.68.14|53281|Brazil|Congonhas|Vero Internet|
-|14|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
-|15|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
-|16|115.87.196.88|8080|Thailand|Bangkok|TRUEBB|
-|17|195.170.38.230|8080|Russia|Mytishchi|East Telecom Internet provider|
-|18|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
-|19|145.40.73.102|10013|Singapore|Singapore|Packet Host, Inc.|
-|20|203.176.135.30|8080|Cambodia|Phnom Penh|MekongNet|
+|1|181.36.121.222|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|2|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
+|3|135.23.201.43|8118|Canada|Gatineau|TekSavvy Solutions, Inc.|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|7|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
+|8|145.40.73.102|10004|Singapore|Singapore|Packet Host, Inc.|
+|9|189.203.180.233|999|Mexico|Oaxaca City|Total Play Telecomunicaciones SA De CV|
+|10|79.143.87.134|9090|United Kingdom|Manchester|Hydra Communications Ltd|
+|11|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|12|103.156.249.34|8085|Indonesia|Malang|Trans Media Telekomunikasi|
+|13|103.80.77.252|8080|Indonesia|Jakarta|Dewan Ketahanan Nasional|
+|14|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
+|15|103.78.170.13|84|India|Pune|Sanjeevan Networks Services Pvt Ltd|
+|16|144.48.112.30|8080|Bangladesh|Dhaka|Net Cafe|
+|17|113.160.206.37|55138|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|18|103.254.185.195|53281|Nepal|Patan|WorldLink Communications|
+|19|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|20|85.217.192.39|1414|Bulgaria|Sofia|"Zonata - Natskovi & Sie" Ltd.|
 
 
 

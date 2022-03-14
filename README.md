@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3248** proxies at the latest update. Usable proxies are below.
+> Scraper found **2926** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|241|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|241|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|241|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|2|181.57.192.246|999|Colombia|Barrancabermeja|Telmex Colombia S.A.|
-|3|54.217.76.59|80|Ireland|Dublin|Amazon.com, Inc.|
-|4|213.139.32.14|8080|Jordan|Amman|JTC|
-|5|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|6|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|7|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|8|177.69.180.171|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
-|9|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|10|161.49.212.173|1337|Philippines|Plaridel|Converge Information and Communications Technology Solutions|
-|11|103.122.32.10|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|12|197.246.172.10|3030|Egypt|Tanta|NOOR as20928|
-|13|103.227.141.90|8181|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
-|14|186.3.9.211|999|Ecuador|Guayaquil|Telconet S.A|
-|15|138.219.216.146|999|Argentina|Campo Viera|Jose Luis Zurakouski (MIX SERVICIOS & COMUNICACIONES)|
-|16|217.29.26.194|8080|Kyrgyzstan|Bishkek|Saimanet Telecomunications|
-|17|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|18|202.169.37.245|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|19|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|20|117.54.11.85|3128|Indonesia|Jakarta|PT IndoInternet|
+|1|103.160.201.76|8080|Indonesia|South Tangerang|PT Viriya Surya Abadi|
+|2|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|3|36.95.238.195|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|4|200.85.42.194|999|Paraguay|Fernando de la Mora|Telecel S.A.|
+|5|185.118.129.42|8080|Iraq|Baghdad|Knowledge Path Information Technology ISP|
+|6|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
+|7|182.16.163.202|3128|Indonesia|Jakarta|SOLUSINET|
+|8|200.111.22.66|999|Chile|Panguipulli|Entel Chile S.A.|
+|9|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
+|10|185.20.198.210|22800|Iraq|Basrah|Horizon Scope Mobile Telecom WLL|
+|11|195.170.38.230|8080|Russia|Mytishchi|East Telecom Internet provider|
+|12|91.90.180.185|8080|Poland|Krakow|3S S.A. LIR|
+|13|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|14|36.94.17.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|200.106.187.246|999|Argentina|Jose Maria Ezeiza|Fullnet Solutions S.A.S.|
+|16|219.92.41.224|8080|Malaysia|Cheras|TMnet|
+|17|183.88.210.77|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|18|58.27.255.98|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|19|45.5.94.178|3128|Mexico|Saltillo|Señal Interactiva, S.A De C.V|
+|20|98.154.21.253|3128|United States|Los Angeles|Charter Communications Inc|
 
 
 

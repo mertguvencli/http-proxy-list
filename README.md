@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3113** proxies at the latest update. Usable proxies are below.
+> Scraper found **2971** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.123.207.244|999|Mexico|Mexico City|Cogent Communications|
-|2|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|3|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|4|139.5.151.182|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|5|209.97.161.34|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|180.180.218.250|8080|Thailand|Khlong Sam Wa|TOT Public Company Limited|
-|7|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|8|201.249.161.51|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
-|9|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|10|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|11|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
-|12|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
-|13|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|14|158.140.169.86|80|Indonesia|Surabaya|MYREPUBLIC|
-|15|45.173.6.98|999|Colombia|Zipaquirá|Columbus Networks Colombia|
-|16|187.62.195.145|8080|Brazil|Montes Claros|UWBR VOX TelecomunicaÔÔes S/A|
-|17|117.34.25.11|55443|China|Chongqing|China Telecom (Group)|
-|18|96.2.228.18|8080|United States|Pierre|Midcontinent Communications|
-|19|79.170.154.180|8083|Russia|Moscow|Igor Vladimirovich Gorodkov|
-|20|103.213.116.10|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana|
+|1|181.204.109.218|8080|Colombia|Barranquilla|EPM Telecomunicaciones S.A. E.S.P.|
+|2|181.78.18.93|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|103.167.109.151|8080|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
+|5|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|6|103.139.242.177|82|India|Pune|Spectram Telecom Pvt.Ltd|
+|7|122.2.28.114|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|8|103.154.24.18|8080|Indonesia|Selong|HIJRAHNET|
+|9|202.29.237.213|3128|Thailand|Bangkok|THAINET|
+|10|91.242.213.247|80|Russia|Murom|NAVIGATOR-MUROM|
+|11|88.255.101.232|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|12|101.51.55.153|8080|Thailand|Din Daeng|TOT Public Company Limited|
+|13|188.133.173.21|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
+|14|185.46.9.133|3128|Russia|Moscow|Reg.Ru AG|
+|15|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
+|16|178.168.88.199|8080|Moldova|Pirlita|SC STARNET SRL|
+|17|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
+|19|203.170.222.4|8080|Thailand|Bangkok|Advanced Wireless Network Company Limited|
+|20|86.57.134.64|41890|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
 
 
 

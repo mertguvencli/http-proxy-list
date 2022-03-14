@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3369** proxies at the latest update. Usable proxies are below.
+> Scraper found **3248** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|241|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|241|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|241|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
-|2|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
-|3|213.139.32.14|8080|Jordan|Amman|JTC|
-|4|182.163.60.105|12345|Japan|Ōita|FreeBit Co., Ltd.|
-|5|120.143.18.201|8080|Japan|Toshima|INTERLINK|
-|6|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|7|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|8|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
-|9|45.172.111.3|999|Argentina|Ramblon|GPS SANJUAN SRL.|
-|10|190.111.203.179|8080|Argentina|Buenos Aires|CPS|
-|11|200.60.86.138|999|Peru|Trujillo|Telefonica del Peru S.A.A.|
-|12|43.129.235.190|8081|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
-|13|188.112.36.179|3128|Poland|Potok Gorny|FONE|
-|14|216.155.89.66|999|Chile|Santiago|Telefonica del Sur S.A.|
-|15|58.27.255.98|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|16|177.55.245.198|8080|Brazil|Jijoca de Jericoacoara|VAS Freitas Servicos de Internet Ltda|
-|17|41.243.7.18|8080|Democratic Republic of the Congo|Kinshasa|Airtel CD Kins|
-|18|212.156.55.34|8080|Turkey|Çavuşlu|Turk Telekomunikasyon A.S|
-|19|157.230.255.209|8888|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.174.4.114|8080|Pakistan|Rawalpindi|Ain Dice (Private) Limited|
+|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|2|181.57.192.246|999|Colombia|Barrancabermeja|Telmex Colombia S.A.|
+|3|54.217.76.59|80|Ireland|Dublin|Amazon.com, Inc.|
+|4|213.139.32.14|8080|Jordan|Amman|JTC|
+|5|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|6|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|7|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|8|177.69.180.171|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|9|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|10|161.49.212.173|1337|Philippines|Plaridel|Converge Information and Communications Technology Solutions|
+|11|103.122.32.10|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|12|197.246.172.10|3030|Egypt|Tanta|NOOR as20928|
+|13|103.227.141.90|8181|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
+|14|186.3.9.211|999|Ecuador|Guayaquil|Telconet S.A|
+|15|138.219.216.146|999|Argentina|Campo Viera|Jose Luis Zurakouski (MIX SERVICIOS & COMUNICACIONES)|
+|16|217.29.26.194|8080|Kyrgyzstan|Bishkek|Saimanet Telecomunications|
+|17|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|18|202.169.37.245|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|19|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|20|117.54.11.85|3128|Indonesia|Jakarta|PT IndoInternet|
 
 
 

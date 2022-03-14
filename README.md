@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2926** proxies at the latest update. Usable proxies are below.
+> Scraper found **3122** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|206|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|206|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|206|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|182|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|182|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|182|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.160.201.76|8080|Indonesia|South Tangerang|PT Viriya Surya Abadi|
-|2|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|3|36.95.238.195|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|4|200.85.42.194|999|Paraguay|Fernando de la Mora|Telecel S.A.|
-|5|185.118.129.42|8080|Iraq|Baghdad|Knowledge Path Information Technology ISP|
-|6|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|7|182.16.163.202|3128|Indonesia|Jakarta|SOLUSINET|
-|8|200.111.22.66|999|Chile|Panguipulli|Entel Chile S.A.|
-|9|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
-|10|185.20.198.210|22800|Iraq|Basrah|Horizon Scope Mobile Telecom WLL|
-|11|195.170.38.230|8080|Russia|Mytishchi|East Telecom Internet provider|
-|12|91.90.180.185|8080|Poland|Krakow|3S S.A. LIR|
-|13|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|14|36.94.17.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|200.106.187.246|999|Argentina|Jose Maria Ezeiza|Fullnet Solutions S.A.S.|
-|16|219.92.41.224|8080|Malaysia|Cheras|TMnet|
-|17|183.88.210.77|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|18|58.27.255.98|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|19|45.5.94.178|3128|Mexico|Saltillo|Señal Interactiva, S.A De C.V|
-|20|98.154.21.253|3128|United States|Los Angeles|Charter Communications Inc|
+|1|79.101.55.161|53281|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|2|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|3|213.139.32.14|8080|Jordan|Amman|JTC|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|186.219.96.47|54570|Brazil|Ourinhos|Giga TV Ltda - EPP|
+|6|103.161.178.99|9999|Vietnam|Quan Binh Thanh|SOLARE|
+|7|50.232.250.157|8080|United States|Ferndale|Comcast Cable Communications, LLC|
+|8|213.226.11.149|41878|Bulgaria|Sofia|Mobiltel EAD|
+|9|218.75.69.50|57903|China|Hangzhou|Chinanet|
+|10|103.116.203.245|43520|Indonesia|Jakarta|PT Parsaoran Global Datatrans|
+|11|170.244.210.110|999|Ecuador|Canar|Nedetel S.A.|
+|12|95.167.59.162|3128|Russia|Verkhnyaya Salda|Rostelecom Nets|
+|13|177.234.196.187|999|Ecuador|Guayaquil|Nedetel S.A.|
+|14|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|15|103.47.67.154|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|16|128.0.179.234|41258|Czechia|Prague|PODA a.s.|
+|17|182.253.108.186|8080|Indonesia|Pemalang|BIZNET|
+|18|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|19|176.74.9.62|8080|Russia|Moscow|Wiland Ltd|
+|20|120.143.18.201|8080|Japan|Toshima|INTERLINK|
 
 
 

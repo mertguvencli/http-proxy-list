@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3143** proxies at the latest update. Usable proxies are below.
+> Scraper found **3301** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|160|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|160|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|160|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|46.101.245.99|8889|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|2|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|4|84.193.39.37|8118|Belgium|Leuven|Telenet BVBA|
-|5|92.242.254.25|53545|Croatia|Cerje Nebojse|Magic Net d.o.o|
-|6|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|14.160.29.90|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|8|198.255.17.202|3129|United States|Chicago|FDCservers.net|
-|9|175.101.120.146|8080|India|Kadapa|ExcellMedia Pvt Ltd|
-|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|11|41.204.87.90|8080|Cameroon|Yaoundé|Camtel Dla-tis Stm16|
-|12|45.202.16.126|8080|Philippines|Tandag|Infinivan Incorporated|
-|13|51.79.124.80|3128|Canada|Beauharnois|OVH SAS|
-|14|112.78.170.250|80|Indonesia|Jakarta|BIZNET|
-|15|202.53.171.114|8080|Bangladesh|Gulshan|Agni Systems Ltd.|
-|16|181.48.23.250|8080|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|17|180.210.178.30|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
-|18|103.78.170.13|84|India|Pune|Sanjeevan Networks Services Pvt Ltd|
-|19|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|20|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|1|181.224.207.19|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|2|24.14.225.100|8118|United States|Mokena|Comcast Cable Communications, LLC|
+|3|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|197.232.135.174|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|6|206.161.97.47|31337|United States|Ashburn|PCCW Global, Inc.|
+|7|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|8|201.89.89.34|8080|Brazil|Colombo|Brasil Telecom S/A - Filial Distrito Federal|
+|9|192.119.203.124|48678|United States|Ridgecrest|Mediacom Communications|
+|10|170.245.132.38|999|Paraguay|Caraguatay|MACHADO BAEZ, NERY JAVIER|
+|11|91.107.15.221|53281|Russia|Lyubertsy|AVK-computer ltd|
+|12|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|13|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
+|14|36.67.27.189|39674|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|15|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
+|16|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|17|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|19|112.78.170.250|80|Indonesia|Jakarta|BIZNET|
+|20|45.43.63.230|10001|Singapore|Singapore|Zenlayer Inc|
 
 
 

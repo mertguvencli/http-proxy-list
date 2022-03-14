@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3032** proxies at the latest update. Usable proxies are below.
+> Scraper found **3087** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
-|2|181.129.98.146|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|1|12.3.243.178|8080|United States|Elk Grove Village|AT&T Services, Inc.|
+|2|147.161.167.3|10105|United Kingdom|London|Zscaler Switzerland GmbH|
 |3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|170.79.12.72|9090|Brazil|Teresina|I T Tecnologia e InformaÔÔo Ltda|
-|5|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|6|187.49.75.250|3128|Brazil|Porto Alegre|Sygo Internet|
-|7|45.229.34.101|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|8|203.114.65.85|1337|Philippines|Pasay|W Network Inc.|
-|9|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|10|77.46.138.233|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
-|11|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
-|12|112.133.215.24|8080|India|Tiruvalla|RailTel Corporation of India Ltd.|
-|13|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
-|14|103.145.168.74|83|India|Delhi|Nikhil Network Solution|
-|15|202.183.164.143|3128|Thailand|Huai Khwang|CS Loxinfo Public Company Limited|
-|16|185.3.214.3|80|Iran|Shahrīār|Pouya shabakeh Asr Co. (LTD.)|
-|17|212.112.127.20|8080|Kyrgyzstan|Bishkek|AKNET Ltd.|
-|18|191.102.250.25|8085|Argentina|Rosario|IP·RED|
-|19|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|20|190.112.137.81|8085|Argentina|Zárate|C Y M INTERNET S.R.L.|
+|4|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
+|7|191.97.16.178|999|Venezuela|Caracas|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|8|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|9|209.165.163.187|3128|United States|Anchorage|General Communication|
+|10|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
+|11|115.124.85.20|8080|Indonesia|Bekasi|PT Remala Abadi|
+|12|47.105.54.91|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
+|13|85.235.184.186|3129|Russia|Moscow|MTS PJSC|
+|14|103.11.23.0|8085|Indonesia|Jakarta|Faasri Utama Sakti|
+|15|210.5.10.87|53281|China|Beijing|China Enterprise ICT Solutions Limited|
+|16|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|17|145.40.73.107|10001|Singapore|Singapore|Packet Host, Inc.|
+|18|179.127.193.37|8080|Brazil|Iguaba Grande|Afinet Solucoes EM Tecnologia DA Informacao Ltda|
+|19|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
+|20|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
 
 
 

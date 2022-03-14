@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3087** proxies at the latest update. Usable proxies are below.
+> Scraper found **3115** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|12.3.243.178|8080|United States|Elk Grove Village|AT&T Services, Inc.|
-|2|147.161.167.3|10105|United Kingdom|London|Zscaler Switzerland GmbH|
-|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
-|7|191.97.16.178|999|Venezuela|Caracas|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|8|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|9|209.165.163.187|3128|United States|Anchorage|General Communication|
-|10|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
-|11|115.124.85.20|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|47.105.54.91|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
-|13|85.235.184.186|3129|Russia|Moscow|MTS PJSC|
-|14|103.11.23.0|8085|Indonesia|Jakarta|Faasri Utama Sakti|
-|15|210.5.10.87|53281|China|Beijing|China Enterprise ICT Solutions Limited|
-|16|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|17|145.40.73.107|10001|Singapore|Singapore|Packet Host, Inc.|
-|18|179.127.193.37|8080|Brazil|Iguaba Grande|Afinet Solucoes EM Tecnologia DA Informacao Ltda|
-|19|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
-|20|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|2|209.165.163.187|3128|United States|Anchorage|General Communication|
+|3|46.101.245.99|8889|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|161.22.34.89|999|Venezuela|Mérida|MDS TELECOM C.A.|
+|5|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
+|6|61.8.75.186|3128|Indonesia|Kuningan Barat|PT Aplikanusa Lintasarta|
+|7|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|8|91.242.213.247|8080|Russia|Murom|NAVIGATOR-MUROM|
+|9|38.7.16.49|999|Mexico|Tancitaro|Internet Telefonia Y TV De Michoacan SA De CV|
+|10|41.84.143.228|8081|Kenya|Thika|SOHO-REGIONAL|
+|11|47.105.54.91|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
+|12|103.145.130.150|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
+|13|186.67.159.91|999|Chile|Las Condes|Entel Chile S.A.|
+|14|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
+|15|103.162.205.20|8181|Indonesia|Magelang|PT Jaringan Inti Exadata|
+|16|78.47.223.55|5566|Germany|Nuremberg|Hetzner Online GmbH|
+|17|50.246.120.125|8080|United States|Washington|Comcast Cable Communications, LLC|
+|18|179.70.107.119|8080|Brazil|Salvador|Telemar Norte Leste S.A.|
+|19|185.82.99.150|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|20|46.249.123.165|6565|Iran|Shahrak-e Pābedānā|Didehban Net Company|
 
 
 

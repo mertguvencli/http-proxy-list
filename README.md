@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3275** proxies at the latest update. Usable proxies are below.
+> Scraper found **3369** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|256|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|256|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|256|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.161.178.86|9999|Vietnam|Quan Binh Thanh|SOLARE|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|4|204.195.136.34|80|United States|Miami Beach|Atlantic Broadband Finance, LLC|
-|5|109.185.145.97|8080|Moldova|Chisinau|JSC "Moldtelecom" S.A.|
-|6|120.196.112.6|3128|China|Zhuhai|China Mobile communications corporation|
-|7|94.228.207.86|8087|Russia|Moscow|Uniontel ZAO network|
-|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|139.5.151.179|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|10|103.168.164.26|83|India|Pune|Nutech Broadband|
-|11|58.27.255.98|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|12|176.120.196.112|55443|Russia|Makhachkala|SUBNET05|
-|13|45.5.57.122|8080|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
-|14|103.38.5.226|81|India|Samastipur|Max tech media and communications pvt ltd|
-|15|47.241.8.6|23511|Singapore|Singapore|Alibaba.com LLC|
-|16|103.209.65.12|6666|India|Ahmedabad|Gtpl Abhilash Communication Private Limited|
-|17|190.113.42.141|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
-|18|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|19|38.130.248.202|999|Dominican Republic|Santa Cruz de Barahona|MR Networking, SRL|
-|20|103.123.64.24|8888|Indonesia|Jakarta|CEPATNET|
+|1|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|2|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
+|3|213.139.32.14|8080|Jordan|Amman|JTC|
+|4|182.163.60.105|12345|Japan|Ōita|FreeBit Co., Ltd.|
+|5|120.143.18.201|8080|Japan|Toshima|INTERLINK|
+|6|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|7|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|8|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
+|9|45.172.111.3|999|Argentina|Ramblon|GPS SANJUAN SRL.|
+|10|190.111.203.179|8080|Argentina|Buenos Aires|CPS|
+|11|200.60.86.138|999|Peru|Trujillo|Telefonica del Peru S.A.A.|
+|12|43.129.235.190|8081|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
+|13|188.112.36.179|3128|Poland|Potok Gorny|FONE|
+|14|216.155.89.66|999|Chile|Santiago|Telefonica del Sur S.A.|
+|15|58.27.255.98|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|16|177.55.245.198|8080|Brazil|Jijoca de Jericoacoara|VAS Freitas Servicos de Internet Ltda|
+|17|41.243.7.18|8080|Democratic Republic of the Congo|Kinshasa|Airtel CD Kins|
+|18|212.156.55.34|8080|Turkey|Çavuşlu|Turk Telekomunikasyon A.S|
+|19|157.230.255.209|8888|Singapore|Singapore|DigitalOcean, LLC|
+|20|103.174.4.114|8080|Pakistan|Rawalpindi|Ain Dice (Private) Limited|
 
 
 

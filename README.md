@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3187** proxies at the latest update. Usable proxies are below.
+> Scraper found **3130** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|3|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|4|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
-|5|177.126.151.162|8081|Brazil|Belmonte|Firemicro Informática|
-|6|41.254.53.70|1976|Libya|Benghazi|LTT Network Backbone and POPs|
-|7|165.16.27.12|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|8|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
-|9|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
-|10|36.66.19.10|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|89.250.221.106|53281|Russia|Berezniki|Ltd PermInterCom PIC-BF-Network|
-|12|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|13|180.210.178.30|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
-|14|165.16.27.4|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|15|103.228.246.37|3127|Indonesia|Sidoarjo|Giga Patra Multimedia|
-|16|87.255.200.108|60080|Kazakhstan|Almaty|NLS Kazakhstan LLC|
-|17|103.146.185.105|3127|Indonesia|Ngadri|YAMNET|
-|18|177.71.92.134|8080|Brazil|Petrolina|L E M TELECOMUNICAÔÔES LTDA -ME|
-|19|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|20|103.164.112.124|10001|Indonesia|Jakarta|SOLUSINET|
+|1|91.90.180.185|8080|Poland|Krakow|3S S.A. LIR|
+|2|49.12.43.32|443|Germany|Falkenstein|Hetzner Online GmbH|
+|3|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
+|4|198.59.147.148|8080|United States|Dallas|SkyRider Communications, Inc.|
+|5|217.21.214.138|8080|Russia|Moscow|AO TRANSTELECOM|
+|6|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
+|7|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|8|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
+|9|51.250.17.27|8080|Russia|Moscow|Yandex.Cloud LLC|
+|10|109.70.188.46|11080|Russia|Makhachkala|LTD "Elektrosvyaz"|
+|11|103.228.246.37|3127|Indonesia|Sidoarjo|Giga Patra Multimedia|
+|12|36.92.70.209|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|13|103.159.220.141|8080|Indonesia|Jakarta|Universitas Muhammadiyah Jakarta|
+|14|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
+|15|177.126.151.162|8081|Brazil|Belmonte|Firemicro Informática|
+|16|45.173.6.98|999|Colombia|Zipaquirá|Columbus Networks Colombia|
+|17|202.153.233.228|8080|Indonesia|Jakarta|PT IndoInternet|
+|18|190.217.14.124|999|Venezuela|Caracas|Lan-online C.A.|
+|19|103.78.170.13|84|India|Pune|Sanjeevan Networks Services Pvt Ltd|
+|20|202.164.152.229|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
 
 
 

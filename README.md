@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3228** proxies at the latest update. Usable proxies are below.
+> Scraper found **3187** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|154.113.32.26|8080|Nigeria|Lagos|Mainone Cable Company|
-|2|181.224.207.21|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|3|177.22.88.224|3128|Brazil|Passo Fundo|Coprel Telecom Ltda|
-|4|41.65.163.86|1976|Egypt|Qutur|Etisalat Misr Mobile BB|
-|5|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|202.83.173.114|8080|Pakistan|Lahore|National Telecom Corporation|
-|8|203.176.135.30|8080|Cambodia|Phnom Penh|MekongNet|
-|9|202.62.10.51|80|Indonesia|Pamulang|Client Jakarta Iconpln|
-|10|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|11|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|12|103.101.17.174|8080|Myanmar|Yangon|Next Tier Trading Company Limited|
-|13|76.81.164.246|8080|United States|Garden Grove|Spectrum|
-|14|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
-|15|186.148.191.226|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|17|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|18|94.181.48.110|1256|Russia|Moscow|Enforta-MSK|
-|19|36.66.19.10|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|213.139.32.14|8080|Jordan|Amman|JTC|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|3|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
+|4|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
+|5|177.126.151.162|8081|Brazil|Belmonte|Firemicro Informática|
+|6|41.254.53.70|1976|Libya|Benghazi|LTT Network Backbone and POPs|
+|7|165.16.27.12|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|8|182.253.21.26|46977|Indonesia|Jakarta|Biznet Networks|
+|9|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|10|36.66.19.10|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|89.250.221.106|53281|Russia|Berezniki|Ltd PermInterCom PIC-BF-Network|
+|12|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|13|180.210.178.30|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
+|14|165.16.27.4|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|15|103.228.246.37|3127|Indonesia|Sidoarjo|Giga Patra Multimedia|
+|16|87.255.200.108|60080|Kazakhstan|Almaty|NLS Kazakhstan LLC|
+|17|103.146.185.105|3127|Indonesia|Ngadri|YAMNET|
+|18|177.71.92.134|8080|Brazil|Petrolina|L E M TELECOMUNICAÔÔES LTDA -ME|
+|19|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|20|103.164.112.124|10001|Indonesia|Jakarta|SOLUSINET|
 
 
 

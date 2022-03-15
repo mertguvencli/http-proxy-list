@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3485** proxies at the latest update. Usable proxies are below.
+> Scraper found **3499** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|2|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|3|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
-|4|115.87.196.88|8080|Thailand|Bangkok|TRUEBB|
-|5|41.204.87.90|8080|Cameroon|Yaoundé|Camtel Dla-tis Stm16|
-|6|217.74.161.241|8080|Russia|Krasnoyarsk|JSC Intertax - ISP in Krasnoyarsk region of Russia|
-|7|140.238.42.240|3128|Japan|Tokyo|Oracle Corporation|
-|8|139.255.74.125|8080|Indonesia|Cibuntu|PT. LINKNET|
-|9|120.29.124.131|8080|Philippines|San Mateo|ComClark Network & Technology Corp|
-|10|190.116.90.45|999|Peru|La Victoria|America Movil Peru S.A.C.|
-|11|94.181.48.110|1256|Russia|Moscow|Enforta-MSK|
-|12|101.53.154.137|2018|India|Noida|E2E Networks Limited|
-|13|192.140.42.83|31511|Brazil|Boa Vista do Jauato|Allfiber Telecom ServiÔos de TelecomunicaÔÔes|
-|14|190.7.58.55|3128|Argentina|Buenos Aires|Gigared S.A.|
-|15|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|16|36.95.81.167|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|5.189.186.24|5566|Germany|Nuremberg|Contabo GmbH|
-|18|79.101.67.154|8080|Serbia|Stari Grad|TELEKOM SRBIJA a.d.|
-|19|139.228.65.97|8080|Indonesia|Sawahan|PT. First Media, Tbk|
-|20|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
+|1|81.8.52.76|9090|Turkey|Istanbul|Vodafone NET Iletisim Hizmetleri Anonim Sirketi|
+|2|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|3|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|4|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|5|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|6|118.70.144.77|3120|Vietnam|Ho Chi Minh City|Vietnam Internet Network Information Center|
+|7|85.235.184.186|3129|Russia|Moscow|MTS PJSC|
+|8|103.119.55.232|10001|Indonesia|Bandung|PT. Eka Mas Republik|
+|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|103.101.104.223|8080|Indonesia|Bandung|PT. Cemerlang Multimedia|
+|11|218.106.61.165|21080|China|Jinrongjie|China Unicom CncNet|
+|12|41.204.87.90|8080|Cameroon|Yaoundé|Camtel Dla-tis Stm16|
+|13|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|14|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|15|45.121.216.219|55443|Indonesia|Tangerang|PT. Mora Telematika Indonesia|
+|16|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
+|17|144.48.112.30|8080|Bangladesh|Dhaka|Net Cafe|
+|18|139.255.77.74|8080|Indonesia|Bekasi|PT. LINKNET|
+|19|118.127.99.93|53281|Australia|Melbourne|Spirit Telecom (Australia) Pty Ltd|
+|20|139.5.150.146|3888|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
 
 
 

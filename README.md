@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2896** proxies at the latest update. Usable proxies are below.
+> Scraper found **2643** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|176|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|176|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|176|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|46.101.214.190|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|154.113.32.26|8080|Nigeria|Lagos|Mainone Cable Company|
-|6|5.139.161.156|55443|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
-|7|185.254.94.202|3128|Turkey|Ankara|Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri|
-|8|83.166.241.233|3130|Russia|Moscow|LLC Management Company "Svyaz"|
-|9|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|10|46.151.145.4|53281|Ukraine|Simferopol|Swift Trace ltd.|
-|11|200.48.3.228|10101|Peru|Lima|Telefonica del Peru S.A.A.|
-|12|103.119.60.12|80|Indonesia|Tangerang|PT. Eka Mas Republik|
-|13|187.190.255.76|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
-|14|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
-|15|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
-|16|181.224.207.21|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|17|170.245.132.38|999|Paraguay|Caraguatay|MACHADO BAEZ, NERY JAVIER|
-|18|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|19|36.95.112.65|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|177.126.151.162|8081|Brazil|Belmonte|Firemicro Informática|
+|1|45.229.33.114|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|2|103.146.196.35|3127|Indonesia|Banyuwangi|RIYADNETWORK|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|103.161.164.101|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|5|12.218.209.130|53281|United States|Milpitas|AT&T Services, Inc.|
+|6|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|7|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|8|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|9|20.205.12.114|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|10|217.21.214.138|8080|Russia|Moscow|AO TRANSTELECOM|
+|11|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
+|12|31.3.169.53|8081|Italy|Cesena|Cesena NET S.R.L.|
+|13|180.178.189.102|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
+|14|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
+|15|103.115.173.147|8080|Cambodia|Phnom Penh|TELNET CO., LTD|
+|16|212.22.72.196|8083|Russia|Moscow|LLC FIBERTEL|
+|17|14.139.87.40|3128|India|Hyderabad|National Knowledge Network|
+|18|163.172.75.81|5566|France|Paris|Online S.A.S.|
+|19|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
+|20|123.231.221.178|8080|Indonesia|Makassar|PT Aplikanusa Lintasarta|
 
 
 

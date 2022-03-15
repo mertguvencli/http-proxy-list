@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2894** proxies at the latest update. Usable proxies are below.
+> Scraper found **2824** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|2|181.49.23.78|999|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|3|80.244.228.162|1256|Russia|Moscow|Enforta-MSK|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|188.133.157.61|10000|Russia|Moscow|Enforta-MSK|
-|6|89.250.221.106|53281|Russia|Berezniki|Ltd PermInterCom PIC-BF-Network|
-|7|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|190.205.42.46|999|Venezuela|Ciudad Bolívar|CANTV Servicios, Venezuela|
-|9|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|10|110.232.67.45|55443|Indonesia|Medan|Media Antar Nusa PT.|
-|11|50.192.250.60|8080|United States|Swedesboro|Comcast Cable Communications, LLC|
-|12|113.176.88.14|8080|Vietnam|Nga Bay|VNPT|
-|13|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
-|14|170.245.132.38|999|Paraguay|Caraguatay|MACHADO BAEZ, NERY JAVIER|
-|15|122.154.35.190|8080|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|16|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|17|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
-|18|112.78.170.251|8080|Indonesia|Jakarta|BIZNET|
-|19|91.90.180.185|8080|Poland|Krakow|3S S.A. LIR|
-|20|124.156.100.83|8118|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
+|1|91.90.180.185|8080|Poland|Krakow|3S S.A. LIR|
+|2|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
+|3|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
+|4|190.60.104.218|3128|Colombia|Villavicencio|IFX Corporation|
+|5|118.97.47.250|55443|Indonesia|Bandung|PT. TELKOM INDONESIA|
+|6|181.31.225.234|3128|Argentina|Cipolletti|Telecom Argentina S.A|
+|7|185.103.168.73|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|8|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|9|68.183.58.145|5566|United States|Clifton|DigitalOcean, LLC|
+|10|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|11|14.160.29.90|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|12|202.62.10.51|80|Indonesia|Pamulang|Client Jakarta Iconpln|
+|13|170.245.132.38|999|Paraguay|Caraguatay|MACHADO BAEZ, NERY JAVIER|
+|14|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
+|15|151.236.14.178|5678|Netherlands|Schiphol|EDIS|
+|16|212.80.212.239|8080|Thailand|Nonthaburi|CAT Telecom Public Company Limited|
+|17|89.19.116.102|41890|Ukraine|Kyiv|Grygoriy Chereda|
+|18|170.238.10.129|999|Argentina|Rosario|Gonzalo Leandro Garau|
+|19|195.201.19.84|80|Germany|Nuremberg|Hetzner Online GmbH|
+|20|112.109.20.238|80|Indonesia|Embongkaliasin|DATAUTAMANET|
 
 
 

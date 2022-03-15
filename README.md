@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2762** proxies at the latest update. Usable proxies are below.
+> Scraper found **2779** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|179|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|179|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|179|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|2|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|3|181.224.207.21|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|4|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
-|5|150.230.219.72|3128|Japan|Tokyo|Oracle Corporation|
-|6|222.129.34.158|57114|China|Beijing|China Unicom Beijing Province Network|
-|7|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|8|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|10|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|11|45.133.245.159|3128|Finland|Helsinki|Network Management Ltd|
-|12|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|13|43.242.135.182|8080|Myanmar|Yangon|Global Technology Co|
-|14|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|15|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
-|16|36.95.116.69|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
-|18|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|19|218.238.214.45|8080|South Korea|Seoul|SK Broadband Co Ltd|
-|20|138.117.85.97|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|1|76.100.209.140|8118|United States|Frederick|Comcast Cable Communications, LLC|
+|2|27.105.130.93|8080|Taiwan|Taipei|SONET|
+|3|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|4|212.156.55.34|8080|Turkey|Çavuşlu|Turk Telekomunikasyon A.S|
+|5|72.47.152.224|55443|United States|Balch Springs|Suddenlink Communications|
+|6|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
+|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|200.48.3.226|10101|Peru|Lima|Telefonica del Peru S.A.A.|
+|9|222.78.6.2|8083|China|Zhangzhou|Chinanet|
+|10|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|11|61.153.251.150|22222|China|Beijing|Chinanet|
+|12|94.73.205.1|55443|Russia|Krasnoyarsk|ORIONNET|
+|13|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|14|138.117.230.140|999|Guatemala|Huehuetenango|Fibernet S.A|
+|15|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|16|49.12.43.32|80|Germany|Falkenstein|Hetzner Online GmbH|
+|17|150.136.37.217|80|United States|Ashburn|Oracle Corporation|
+|18|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|19|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|20|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
 
 
 

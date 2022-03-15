@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2696** proxies at the latest update. Usable proxies are below.
+> Scraper found **2762** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|3|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|4|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
-|5|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|6|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|124.158.88.56|54555|Mongolia|Ulan Bator|STXCitinet LLC|
-|8|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
-|9|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|10|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|103.31.39.230|8080|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
-|12|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|13|185.23.110.106|8080|Albania|Bajram Curri|Ih-network Shpk|
-|14|110.189.152.86|40698|China|Deyang|Chinanet|
-|15|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|16|103.120.175.75|80|Indonesia|Tangerang|PT. Eka Mas Republik|
-|17|154.236.162.59|1981|Egypt|Giza|Enterprise|
-|18|103.23.206.170|8080|Bangladesh|Rangpur City|Mizanur Rahman t/a Maya Cyber World|
-|19|202.51.176.74|8080|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|20|51.79.124.80|3128|Canada|Beauharnois|OVH SAS|
+|1|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|2|45.33.26.53|3128|United States|Richardson|Linode, LLC|
+|3|181.224.207.21|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|4|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
+|5|150.230.219.72|3128|Japan|Tokyo|Oracle Corporation|
+|6|222.129.34.158|57114|China|Beijing|China Unicom Beijing Province Network|
+|7|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|8|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|9|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|10|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|11|45.133.245.159|3128|Finland|Helsinki|Network Management Ltd|
+|12|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|13|43.242.135.182|8080|Myanmar|Yangon|Global Technology Co|
+|14|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|15|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
+|16|36.95.116.69|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|18|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|19|218.238.214.45|8080|South Korea|Seoul|SK Broadband Co Ltd|
+|20|138.117.85.97|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3130** proxies at the latest update. Usable proxies are below.
+> Scraper found **2894** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.90.180.185|8080|Poland|Krakow|3S S.A. LIR|
-|2|49.12.43.32|443|Germany|Falkenstein|Hetzner Online GmbH|
-|3|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
-|4|198.59.147.148|8080|United States|Dallas|SkyRider Communications, Inc.|
-|5|217.21.214.138|8080|Russia|Moscow|AO TRANSTELECOM|
-|6|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
-|7|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
-|8|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
-|9|51.250.17.27|8080|Russia|Moscow|Yandex.Cloud LLC|
-|10|109.70.188.46|11080|Russia|Makhachkala|LTD "Elektrosvyaz"|
-|11|103.228.246.37|3127|Indonesia|Sidoarjo|Giga Patra Multimedia|
-|12|36.92.70.209|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|13|103.159.220.141|8080|Indonesia|Jakarta|Universitas Muhammadiyah Jakarta|
-|14|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
-|15|177.126.151.162|8081|Brazil|Belmonte|Firemicro Informática|
-|16|45.173.6.98|999|Colombia|Zipaquirá|Columbus Networks Colombia|
-|17|202.153.233.228|8080|Indonesia|Jakarta|PT IndoInternet|
-|18|190.217.14.124|999|Venezuela|Caracas|Lan-online C.A.|
-|19|103.78.170.13|84|India|Pune|Sanjeevan Networks Services Pvt Ltd|
-|20|202.164.152.229|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|1|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|2|181.49.23.78|999|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|3|80.244.228.162|1256|Russia|Moscow|Enforta-MSK|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|188.133.157.61|10000|Russia|Moscow|Enforta-MSK|
+|6|89.250.221.106|53281|Russia|Berezniki|Ltd PermInterCom PIC-BF-Network|
+|7|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|190.205.42.46|999|Venezuela|Ciudad Bolívar|CANTV Servicios, Venezuela|
+|9|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|10|110.232.67.45|55443|Indonesia|Medan|Media Antar Nusa PT.|
+|11|50.192.250.60|8080|United States|Swedesboro|Comcast Cable Communications, LLC|
+|12|113.176.88.14|8080|Vietnam|Nga Bay|VNPT|
+|13|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
+|14|170.245.132.38|999|Paraguay|Caraguatay|MACHADO BAEZ, NERY JAVIER|
+|15|122.154.35.190|8080|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|16|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|17|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|18|112.78.170.251|8080|Indonesia|Jakarta|BIZNET|
+|19|91.90.180.185|8080|Poland|Krakow|3S S.A. LIR|
+|20|124.156.100.83|8118|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
 
 
 

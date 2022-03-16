@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2939** proxies at the latest update. Usable proxies are below.
+> Scraper found **3020** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|184|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|184|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|184|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|2|185.108.141.114|8080|Bulgaria|Sofia|NetX|
-|3|200.91.223.122|8080|Colombia|Barranquilla|IFX Corporation|
-|4|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
-|5|190.61.82.170|999|Panama|Panama City|Ufinet Panama S.A|
-|6|80.244.229.55|1256|Russia|Moscow|ArtCommunications Ltd.|
-|7|86.123.166.13|8080|Romania|Brasov|RCS & RDS|
-|8|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
-|9|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
-|10|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|11|202.40.188.94|40486|Bangladesh|Dhaka|Ranks ITT|
-|12|213.135.0.69|8080|Germany|Saarbrücken|intersaar GmbH|
-|13|200.229.147.2|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|14|181.57.202.203|999|Colombia|Barrancabermeja|Telmex Colombia S.A.|
-|15|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|16|202.141.233.66|8080|Pakistan|Karachi|Multinet Broadband|
-|17|103.11.106.209|8181|Indonesia|Ngawi|PT. Pascal Indonesia|
-|18|200.101.89.3|8080|Brazil|Campo Grande|Brasil Telecom S/A - Filial Distrito Federal|
-|19|212.156.57.214|8080|Turkey|Istanbul|Turk Telekomunikasyon A.S|
-|20|170.245.132.4|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
+|1|69.75.140.157|8080|United States|Sylmar|Spectrum|
+|2|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|3|176.88.117.138|8080|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
+|4|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|5|203.176.135.30|8080|Cambodia|Phnom Penh|MekongNet|
+|6|176.120.196.112|55443|Russia|Makhachkala|SUBNET05|
+|7|103.107.71.192|1080|Indonesia|Surakarta|PT. Media Jaringan Indonesia|
+|8|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|9|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|10|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|11|187.62.67.134|45005|Brazil|Aracaju|GN TELECOM|
+|12|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|13|190.61.82.170|999|Panama|Panama City|Ufinet Panama S.A|
+|14|68.64.250.38|8080|United States|Irving|SimpleFiber Communications LLC|
+|15|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|16|61.9.48.169|1337|Philippines|San Juan|Sky Cable Corporation|
+|17|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|18|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
+|19|105.112.84.139|41890|Nigeria|Ikoyi|Airtel Networks Limited|
+|20|103.152.100.233|8080|Pakistan|Lahore|Homenet Private Limited|
 
 
 

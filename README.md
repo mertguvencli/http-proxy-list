@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3020** proxies at the latest update. Usable proxies are below.
+> Scraper found **3129** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|177|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|177|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|177|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.75.140.157|8080|United States|Sylmar|Spectrum|
-|2|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|3|176.88.117.138|8080|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
-|4|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|5|203.176.135.30|8080|Cambodia|Phnom Penh|MekongNet|
-|6|176.120.196.112|55443|Russia|Makhachkala|SUBNET05|
-|7|103.107.71.192|1080|Indonesia|Surakarta|PT. Media Jaringan Indonesia|
-|8|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|9|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|10|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|11|187.62.67.134|45005|Brazil|Aracaju|GN TELECOM|
-|12|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|13|190.61.82.170|999|Panama|Panama City|Ufinet Panama S.A|
-|14|68.64.250.38|8080|United States|Irving|SimpleFiber Communications LLC|
-|15|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|16|61.9.48.169|1337|Philippines|San Juan|Sky Cable Corporation|
-|17|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|18|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
-|19|105.112.84.139|41890|Nigeria|Ikoyi|Airtel Networks Limited|
-|20|103.152.100.233|8080|Pakistan|Lahore|Homenet Private Limited|
+|1|52.168.142.236|8118|United States|Ashburn|Microsoft Corporation|
+|2|86.123.166.13|8080|Romania|Brasov|RCS & RDS|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|195.46.124.94|4444|Russia|Irkutsk|PJSC Rostelecom|
+|5|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|6|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
+|7|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
+|8|36.67.152.213|11111|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|9|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|10|134.209.42.113|8892|United States|Clifton|DigitalOcean, LLC|
+|11|181.224.204.22|22800|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|12|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|13|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
+|14|189.203.10.116|999|Mexico|Cuautepec de Hinojosa|Total Play Telecomunicaciones SA De CV|
+|15|123.231.221.178|8080|Indonesia|Makassar|PT Aplikanusa Lintasarta|
+|16|190.196.176.5|60080|Chile|Santiago|Gtd Internet S.A.|
+|17|190.121.128.217|999|Colombia|San Martin|Media Commerce Partners S.A|
+|18|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|19|103.213.213.14|84|India|Pune|Syscon Infoway Pvt. Ltd.|
+|20|78.47.223.55|5566|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2829** proxies at the latest update. Usable proxies are below.
+> Scraper found **3079** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|181.205.41.210|7654|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|3|181.36.121.222|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|4|93.105.40.62|41258|Poland|Bialobrzegi|Vectra S.A. BUSINESS P2P CONNECTIONS|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|7|210.77.87.71|3128|China|Beijing|CSTNET|
-|8|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|9|85.172.19.214|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|10|138.121.113.182|999|Argentina|Formosa|Refsa Telecomunicaciones|
-|11|210.245.54.97|8080|Vietnam|Hanoi|FPT Telecom Company|
-|12|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
-|13|186.250.162.166|8080|Brazil|Natal|g j pereira|
-|14|45.5.57.122|8080|Peru|Jesus Maria|Satelital Telecomunicaciones S.A.C|
-|15|36.67.152.213|11111|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|16|222.78.6.2|8083|China|Zhangzhou|Chinanet|
-|17|103.109.59.242|53281|Bangladesh|Chaumuhāni|Skynet Chowmuhani|
-|18|103.199.157.153|40049|India|Delhi|city broadband network pvt.ltd|
-|19|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|20|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
+|2|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
+|3|37.29.80.161|8080|Russia|Novosibirsk|MEGAFONSIB|
+|4|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|5|182.253.82.155|8080|Indonesia|Cikarang|BIZNET|
+|6|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
+|8|41.86.42.41|8080|Seychelles|Victoria|CWS DIB BUNDLE|
+|9|85.117.56.147|8080|Georgia|Tbilisi|Caucasus Online Ltd.|
+|10|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
+|11|202.180.54.211|8080|Indonesia|Jakarta|PT. Panca Dewata Utama|
+|12|5.189.186.24|5566|Germany|Nuremberg|Contabo GmbH|
+|13|67.206.206.2|999|Puerto Rico|Humacao|OSNET Wireless|
+|14|177.52.221.111|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|15|181.78.16.236|8080|Colombia|Cúcuta|IFX Networks Argentina S.R.L|
+|16|51.79.124.80|3128|Canada|Beauharnois|OVH SAS|
+|17|202.169.37.244|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|18|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
+|19|182.253.199.102|8080|Indonesia|Surabaya|Biznet Networks|
+|20|103.168.164.26|83|India|Pune|Nutech Broadband|
 
 
 

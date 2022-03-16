@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3176** proxies at the latest update. Usable proxies are below.
+> Scraper found **3280** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|287|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|287|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|287|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|41.111.204.186|8080|Algeria|Akbou|Algerie Telecom|
-|3|200.111.22.67|999|Chile|Panguipulli|Entel Chile S.A.|
-|4|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|5|95.216.194.46|1080|Finland|Helsinki|Hetzner Online GmbH|
-|6|14.160.29.90|8080|Vietnam|Hanoi|VNPT-VNNIC|
-|7|190.119.166.38|999|Peru|La Victoria|America Movil Peru S.A.C.|
-|8|147.75.100.31|3128|Netherlands|Schiphol|PACKET|
-|9|189.161.69.53|10101|Mexico|Puebla City|Uninet S.A. de C.V|
-|10|61.9.48.169|1337|Philippines|San Juan|Sky Cable Corporation|
-|11|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
-|12|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|13|165.16.80.101|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|91.214.31.234|8080|Ukraine|Zaporizhzhia|TOV "Telza"|
-|15|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|16|194.44.172.254|23500|Ukraine|Rivne|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|17|85.25.111.162|5566|Germany|Cologne|PlusServer GmbH|
-|18|176.214.97.13|8081|Russia|Vidnoye|JSC "ER-Telecom Holding"|
-|19|36.67.168.117|80|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|45.121.216.99|80|Indonesia|Tangerang|PT. Mora Telematika Indonesia|
+|1|12.218.209.130|53281|United States|Milpitas|AT&T Services, Inc.|
+|2|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
+|3|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
+|4|185.108.141.49|8080|Bulgaria|Sofia|NetX|
+|5|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
+|7|103.4.164.205|8080|Indonesia|Jakarta|FIBERNET|
+|8|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|9|188.43.15.89|8080|Russia|Tommot|Joint Stock Company TransTeleCom|
+|10|202.93.229.195|3128|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|11|161.49.116.131|1337|Philippines|Mandaluyong City|Converge ICT Solution Inc|
+|12|91.214.31.234|8080|Ukraine|Zaporizhzhia|TOV "Telza"|
+|13|183.88.210.77|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|14|186.13.50.16|8080|Argentina|Montserrat|Techtel LMDS Comunicaciones Interactivas S.A.|
+|15|94.28.8.61|8080|Russia|Krasnodar|Enforta-EKB|
+|16|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
+|17|188.133.153.187|8081|Russia|Moscow|Enforta-MSK|
+|18|41.190.11.94|8080|Nigeria|Lekki|Emerging Markets Telecommunication Services (EMTS) Limited|
+|19|103.133.24.97|8181|Indonesia|Gubug|PT PHATRIA INTI PERSADA|
+|20|106.0.48.130|8080|Indonesia|Denpasar|Indonesia Network Information Center|
 
 
 

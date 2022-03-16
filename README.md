@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3204** proxies at the latest update. Usable proxies are below.
+> Scraper found **2942** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.119.195.34|8080|Peru|La Victoria|America Movil Peru S.A.C.|
-|2|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|3|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|4|38.130.248.182|999|Dominican Republic|Santa Cruz de Barahona|MR Networking, SRL|
-|5|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|6|80.244.228.162|1256|Russia|Moscow|Enforta-MSK|
-|7|222.78.6.2|8083|China|Zhangzhou|Chinanet|
-|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|9|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|10|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|11|154.236.162.59|1981|Egypt|Giza|Enterprise|
-|12|89.218.58.122|8080|Kazakhstan|Almaty|JSC Kazakhtelecom|
-|13|95.104.54.227|42119|Georgia|K'alak'i T'bilisi|Magticom Ltd.|
-|14|37.26.86.206|47464|Albania|Bilisht|ATU|
-|15|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|16|62.201.217.194|8080|Iraq|Kelar|BAG|
-|17|177.71.92.134|8080|Brazil|Petrolina|L E M TELECOMUNICAÔÔES LTDA -ME|
-|18|123.200.17.107|8080|Bangladesh|Gulshan|Link3 Technologies Limited|
-|19|112.78.137.106|8080|Indonesia|Jakarta|Biznet Networks|
-|20|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|1|38.101.122.186|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|2|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|3|181.205.70.146|41890|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|4|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
+|5|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|6|177.55.245.198|8080|Brazil|Jijoca de Jericoacoara|VAS Freitas Servicos de Internet Ltda|
+|7|182.253.191.132|8080|Indonesia|Bandung|BIZNET|
+|8|222.78.6.2|8083|China|Zhangzhou|Chinanet|
+|9|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|10|190.221.174.130|8080|Argentina|Los Polvorines|AMX Argentina S.A.|
+|11|176.88.117.138|8080|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
+|12|45.231.223.250|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|13|147.75.100.31|3128|Netherlands|Schiphol|PACKET|
+|14|165.16.27.3|1976|Libya|Al Qubbah|Aljeel Aljadeed For Technology|
+|15|201.77.110.1|999|Mexico|Cuauhtemoc|Nidix Networks S.a. De C.V.|
+|16|210.245.54.97|8080|Vietnam|Hanoi|FPT Telecom Company|
+|17|150.136.37.217|80|United States|Ashburn|Oracle Corporation|
+|18|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|19|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|20|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
 
 
 

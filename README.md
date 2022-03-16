@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2997** proxies at the latest update. Usable proxies are below.
+> Scraper found **2901** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|2|179.1.73.100|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|3|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
-|4|161.49.116.131|1337|Philippines|Mandaluyong City|Converge ICT Solution Inc|
-|5|185.12.69.174|8080|Russia|Makhachkala|JSC Elektrosvyaz|
-|6|117.54.11.82|3128|Indonesia|Jakarta|PT IndoInternet|
-|7|176.214.97.13|8081|Russia|Vidnoye|JSC "ER-Telecom Holding"|
-|8|14.139.87.40|3128|India|Hyderabad|National Knowledge Network|
-|9|185.103.168.73|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|10|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|11|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|12|202.93.229.195|3128|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|13|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
-|14|176.215.184.157|1256|Russia|Moscow Oblast|JSC "ER-Telecom Holding"|
-|15|212.120.186.39|60963|Russia|Perm|Temporary|
-|16|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|17|177.128.44.126|6006|Brazil|Sapiranga|FLY & LVT|
-|18|116.206.243.50|80|Indonesia|Rowotengu|CBN|
-|19|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|20|120.197.179.166|8080|China|Dongguan|China Mobile communications corporation|
+|1|180.250.170.210|59778|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|2|66.94.97.238|443|United States|New York|Contabo Inc.|
+|3|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
+|4|176.88.117.138|8080|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
+|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|6|65.20.178.15|8080|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|7|91.207.147.243|38472|Ukraine|Sevastopol|Lancom Ltd.|
+|8|187.251.138.81|3128|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|9|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|177.87.168.6|53281|Brazil|Recife|Asstelecom telecomunicaÔÔo Ltda me|
+|11|186.97.172.178|60080|Colombia|Medellín|Colombia Móvil|
+|12|103.4.164.205|8080|Indonesia|Jakarta|FIBERNET|
+|13|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
+|14|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|15|203.189.142.168|53281|Cambodia|Phnom Penh|ONLINE|
+|16|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|17|95.189.104.181|41890|Russia|Chita|OJSC "Sibirtelecom"|
+|18|165.16.22.150|9999|Libya|Al Marj|Aljeel Aljadeed For Technology|
+|19|186.159.20.210|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|20|182.253.93.4|53281|Indonesia|Jakarta|BIZNET|
 
 
 

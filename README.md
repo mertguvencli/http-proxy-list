@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3129** proxies at the latest update. Usable proxies are below.
+> Scraper found **3140** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|177|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|177|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|177|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.168.142.236|8118|United States|Ashburn|Microsoft Corporation|
-|2|86.123.166.13|8080|Romania|Brasov|RCS & RDS|
-|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|4|195.46.124.94|4444|Russia|Irkutsk|PJSC Rostelecom|
-|5|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|6|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
-|7|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|8|36.67.152.213|11111|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|9|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|10|134.209.42.113|8892|United States|Clifton|DigitalOcean, LLC|
-|11|181.224.204.22|22800|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|12|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|13|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|14|189.203.10.116|999|Mexico|Cuautepec de Hinojosa|Total Play Telecomunicaciones SA De CV|
-|15|123.231.221.178|8080|Indonesia|Makassar|PT Aplikanusa Lintasarta|
-|16|190.196.176.5|60080|Chile|Santiago|Gtd Internet S.A.|
-|17|190.121.128.217|999|Colombia|San Martin|Media Commerce Partners S.A|
-|18|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|19|103.213.213.14|84|India|Pune|Syscon Infoway Pvt. Ltd.|
-|20|78.47.223.55|5566|Germany|Nuremberg|Hetzner Online GmbH|
+|1|190.119.195.34|8080|Peru|La Victoria|America Movil Peru S.A.C.|
+|2|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|3|190.61.82.170|999|Panama|Panama City|Ufinet Panama S.A|
+|4|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|5|210.210.130.154|8181|Indonesia|Palembang|CBN|
+|6|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|7|49.12.43.32|80|Germany|Falkenstein|Hetzner Online GmbH|
+|8|41.65.224.71|1981|Egypt|Cairo|Etisalat Misr|
+|9|80.244.230.86|8080|Russia|Moscow|ArtCommunications Ltd.|
+|10|222.129.39.98|57114|China|Beijing|China Unicom Beijing Province Network|
+|11|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
+|12|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÔÔES LTDA|
+|13|80.244.229.55|1256|Russia|Moscow|ArtCommunications Ltd.|
+|14|123.231.221.178|8080|Indonesia|Makassar|PT Aplikanusa Lintasarta|
+|15|115.74.213.139|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|16|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
+|17|94.28.8.61|8080|Russia|Krasnodar|Enforta-EKB|
+|18|38.123.207.249|999|Mexico|Mexico City|Cogent Communications|
+|19|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
+|20|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 
 
 

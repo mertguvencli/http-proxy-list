@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3280** proxies at the latest update. Usable proxies are below.
+> Scraper found **3128** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|287|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|287|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|287|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|222|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|222|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|222|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|12.218.209.130|53281|United States|Milpitas|AT&T Services, Inc.|
-|2|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
-|3|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
-|4|185.108.141.49|8080|Bulgaria|Sofia|NetX|
-|5|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
-|7|103.4.164.205|8080|Indonesia|Jakarta|FIBERNET|
-|8|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|9|188.43.15.89|8080|Russia|Tommot|Joint Stock Company TransTeleCom|
-|10|202.93.229.195|3128|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|11|161.49.116.131|1337|Philippines|Mandaluyong City|Converge ICT Solution Inc|
-|12|91.214.31.234|8080|Ukraine|Zaporizhzhia|TOV "Telza"|
-|13|183.88.210.77|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|186.13.50.16|8080|Argentina|Montserrat|Techtel LMDS Comunicaciones Interactivas S.A.|
-|15|94.28.8.61|8080|Russia|Krasnodar|Enforta-EKB|
-|16|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
-|17|188.133.153.187|8081|Russia|Moscow|Enforta-MSK|
-|18|41.190.11.94|8080|Nigeria|Lekki|Emerging Markets Telecommunication Services (EMTS) Limited|
-|19|103.133.24.97|8181|Indonesia|Gubug|PT PHATRIA INTI PERSADA|
-|20|106.0.48.130|8080|Indonesia|Denpasar|Indonesia Network Information Center|
+|1|173.196.205.170|8080|United States|Santa Ana|Charter Communications Inc|
+|2|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|3|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
+|4|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|5|213.139.32.14|8080|Jordan|Amman|JTC|
+|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|7|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
+|8|123.231.221.178|8080|Indonesia|Makassar|PT Aplikanusa Lintasarta|
+|9|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|10|116.206.243.50|80|Indonesia|Rowotengu|CBN|
+|11|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
+|12|14.139.185.73|80|India|Kottayam|National Knowledge Network|
+|13|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|14|115.243.184.76|23500|India|Navi Mumbai|Reliance Jio Infocomm Limited|
+|15|49.12.43.32|443|Germany|Falkenstein|Hetzner Online GmbH|
+|16|104.192.202.11|8080|United States|St. George|Go Fiber|
+|17|109.248.175.223|3111|Russia|Moscow|JSC Avantel|
+|18|103.204.119.186|8080|India|Mumbai|Akhuratha Communications Pvt. ltd|
+|19|176.36.20.67|61935|Ukraine|Kyiv|Lanet Network|
+|20|135.125.4.232|9090|France|Strasbourg|OVH SAS|
 
 
 

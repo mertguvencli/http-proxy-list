@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3121** proxies at the latest update. Usable proxies are below.
+> Scraper found **2977** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
-|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|93.171.192.28|8080|Russia|Voskresensk|Pvonet LTD|
-|4|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|5|200.229.147.2|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|6|91.243.192.194|8080|Ukraine|Dnipro|"Fregat TV" Ltd.|
-|7|77.46.142.150|80|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|8|103.4.164.205|8080|Indonesia|Jakarta|FIBERNET|
-|9|190.186.18.177|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|10|206.62.153.9|8080|Palestine|Gaza|AGIS|
-|11|195.46.124.94|4444|Russia|Irkutsk|PJSC Rostelecom|
-|12|181.65.154.174|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|13|191.102.64.147|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|14|185.82.98.12|9091|Lebanon|Tripoli|Protected|
-|15|139.255.99.165|50031|Indonesia|Jakarta|PT. LINKNET|
-|16|193.242.151.42|8080|Russia|Krasnodar|SvyazResurs-Kuban|
-|17|203.176.135.30|8080|Cambodia|Phnom Penh|MekongNet|
-|18|94.28.8.61|8080|Russia|Krasnodar|Enforta-EKB|
-|19|41.65.163.86|1976|Egypt|Qutur|Etisalat Misr Mobile BB|
-|20|190.2.210.249|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|1|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|147.75.100.31|3128|Netherlands|Schiphol|PACKET|
+|3|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|4|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÔÔES LTDA|
+|5|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
+|6|103.209.248.86|8080|Indonesia|Panjangjiwo|Indonesia Network Information Center|
+|7|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|8|158.255.254.2|3128|Slovakia|Giraltovce|PRESNET s.r.o.|
+|9|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|10|190.186.18.177|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|11|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|12|200.24.157.116|999|Ecuador|Azogues|Nedetel S.A.|
+|13|77.236.236.38|10000|Russia|Moscow|Enforta-MSK|
+|14|182.253.107.212|8080|Indonesia|Tegal|BIZNET|
+|15|103.161.164.101|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|16|197.245.230.122|41026|South Africa|Germiston|Vox Telecom|
+|17|177.3.137.117|80|Brazil|Itajaí|Brasil Telecom S/A - Filial Distrito Federal|
+|18|36.94.161.219|8080|Indonesia|Mapurujaya|PT. Telekomunikasi Indonesia|
+|19|103.161.164.117|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|20|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2977** proxies at the latest update. Usable proxies are below.
+> Scraper found **2997** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|144|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|144|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|144|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|147.75.100.31|3128|Netherlands|Schiphol|PACKET|
-|3|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|4|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÔÔES LTDA|
-|5|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
-|6|103.209.248.86|8080|Indonesia|Panjangjiwo|Indonesia Network Information Center|
-|7|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|8|158.255.254.2|3128|Slovakia|Giraltovce|PRESNET s.r.o.|
-|9|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|10|190.186.18.177|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|11|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|12|200.24.157.116|999|Ecuador|Azogues|Nedetel S.A.|
-|13|77.236.236.38|10000|Russia|Moscow|Enforta-MSK|
-|14|182.253.107.212|8080|Indonesia|Tegal|BIZNET|
-|15|103.161.164.101|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|16|197.245.230.122|41026|South Africa|Germiston|Vox Telecom|
-|17|177.3.137.117|80|Brazil|Itajaí|Brasil Telecom S/A - Filial Distrito Federal|
-|18|36.94.161.219|8080|Indonesia|Mapurujaya|PT. Telekomunikasi Indonesia|
-|19|103.161.164.117|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|20|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
+|1|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|2|179.1.73.100|999|Colombia|Bogotá|Internexa S.a. E.S.P|
+|3|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
+|4|161.49.116.131|1337|Philippines|Mandaluyong City|Converge ICT Solution Inc|
+|5|185.12.69.174|8080|Russia|Makhachkala|JSC Elektrosvyaz|
+|6|117.54.11.82|3128|Indonesia|Jakarta|PT IndoInternet|
+|7|176.214.97.13|8081|Russia|Vidnoye|JSC "ER-Telecom Holding"|
+|8|14.139.87.40|3128|India|Hyderabad|National Knowledge Network|
+|9|185.103.168.73|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|10|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|11|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|12|202.93.229.195|3128|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|13|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
+|14|176.215.184.157|1256|Russia|Moscow Oblast|JSC "ER-Telecom Holding"|
+|15|212.120.186.39|60963|Russia|Perm|Temporary|
+|16|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|17|177.128.44.126|6006|Brazil|Sapiranga|FLY & LVT|
+|18|116.206.243.50|80|Indonesia|Rowotengu|CBN|
+|19|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|20|120.197.179.166|8080|China|Dongguan|China Mobile communications corporation|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2779** proxies at the latest update. Usable proxies are below.
+> Scraper found **2845** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|76.100.209.140|8118|United States|Frederick|Comcast Cable Communications, LLC|
-|2|27.105.130.93|8080|Taiwan|Taipei|SONET|
-|3|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|4|212.156.55.34|8080|Turkey|Çavuşlu|Turk Telekomunikasyon A.S|
-|5|72.47.152.224|55443|United States|Balch Springs|Suddenlink Communications|
-|6|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
-|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|200.48.3.226|10101|Peru|Lima|Telefonica del Peru S.A.A.|
-|9|222.78.6.2|8083|China|Zhangzhou|Chinanet|
-|10|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|11|61.153.251.150|22222|China|Beijing|Chinanet|
-|12|94.73.205.1|55443|Russia|Krasnoyarsk|ORIONNET|
-|13|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|14|138.117.230.140|999|Guatemala|Huehuetenango|Fibernet S.A|
-|15|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|16|49.12.43.32|80|Germany|Falkenstein|Hetzner Online GmbH|
-|17|150.136.37.217|80|United States|Ashburn|Oracle Corporation|
-|18|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|19|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|20|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|45.173.6.98|999|Colombia|Zipaquirá|Columbus Networks Colombia|
+|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|4|202.162.214.243|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|5|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|6|36.95.116.69|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|7|43.242.135.182|8080|Myanmar|Yangon|Global Technology Co|
+|8|103.86.159.25|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|9|116.90.229.186|35561|Nepal|Kathmandu|Websurfer Nepal Communication System Pvt. Ltd|
+|10|218.106.61.165|21080|China|Jinrongjie|China Unicom CncNet|
+|11|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|12|46.34.132.236|3128|Russia|Moscow|OOO WestCall Ltd.|
+|13|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
+|14|1.32.59.217|47045|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|15|122.154.35.190|8080|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|16|103.14.199.129|83|India|Bengaluru|Mobiwalkers|
+|17|110.74.195.65|55443|Cambodia|Phnom Penh|EZECOM limited|
+|18|212.156.55.34|8080|Turkey|Çavuşlu|Turk Telekomunikasyon A.S|
+|19|181.49.23.78|999|Colombia|Santiago de Cali|Telmex Colombia S.A.|
+|20|201.144.14.232|53281|Mexico|Manzanillo|Uninet S.A. de C.V|
 
 
 

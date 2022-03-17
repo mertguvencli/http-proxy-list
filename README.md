@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3537** proxies at the latest update. Usable proxies are below.
+> Scraper found **3661** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|251|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|251|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|251|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|261|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|261|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|261|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|2|200.58.170.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|3|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|4|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
-|5|5.16.0.77|1256|Russia|St Petersburg|Enforta-MSK|
-|6|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|7|45.250.226.14|3128|India|Pune|Space Vision Digital Network Pvt. Ltd|
-|8|180.149.98.206|8080|Mongolia|Ulan Bator|gemnet subnetwork|
-|9|102.141.197.17|8080|Somalia|Mogadishu|Amtel LTD|
-|10|202.43.190.11|8118|Indonesia|Jakarta|CEPATNET|
-|11|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
-|12|103.14.198.234|84|India|Davangere|Mobiwalkers|
-|13|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
-|14|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
-|15|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
-|16|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
-|17|178.134.178.134|3128|Georgia|K'alak'i T'bilisi|JSC "Silknet"|
-|18|202.164.152.229|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
-|19|45.202.16.126|8080|Philippines|Tandag|Infinivan Incorporated|
-|20|190.113.40.94|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
+|1|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|2|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
+|4|188.133.139.219|1256|Russia|Moscow|Enforta-MSK|
+|5|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
+|6|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|7|182.253.186.140|8080|Indonesia|Jakarta|BIZNET|
+|8|196.219.202.74|8080|Egypt|Awsim|TE-AS|
+|9|164.90.252.243|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|11|41.65.224.70|1976|Egypt|Cairo|Etisalat Misr|
+|12|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
+|13|190.214.52.226|53281|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|14|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
+|15|36.92.140.113|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|16|105.112.142.210|8080|Nigeria|Ikoyi|Airtel Networks Limited|
+|17|200.54.194.12|53281|Chile|Providencia|Telefonica Empresas|
+|18|5.16.0.97|1256|Russia|St Petersburg|Enforta-MSK|
+|19|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|20|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
 
 
 

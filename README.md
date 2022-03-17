@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3447** proxies at the latest update. Usable proxies are below.
+> Scraper found **3537** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|2|76.81.164.246|8080|United States|Garden Grove|Spectrum|
-|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|4|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|5|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
-|6|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|7|43.132.197.151|443|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
-|8|213.139.32.14|8080|Jordan|Amman|JTC|
-|9|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
-|10|121.13.252.58|41564|China|Dongguan|Chinanet|
-|11|103.124.226.61|3127|Bangladesh|Dhaka|Level3|
-|12|124.41.213.201|39272|Nepal|Kathmandu|WorldLink Communications|
-|13|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
-|14|181.224.204.22|22800|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|15|201.120.27.15|53281|Mexico|Mexico City|Uninet S.A. de C.V|
-|16|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|17|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|18|116.68.161.54|55443|Indonesia|Jakarta|PT. Sumber Data Indonesia|
-|19|91.202.240.208|51678|Ukraine|Lviv|Komertsiyno Virobnitcha Firma "VEKTOR"|
-|20|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|1|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|2|200.58.170.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|3|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|4|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
+|5|5.16.0.77|1256|Russia|St Petersburg|Enforta-MSK|
+|6|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|7|45.250.226.14|3128|India|Pune|Space Vision Digital Network Pvt. Ltd|
+|8|180.149.98.206|8080|Mongolia|Ulan Bator|gemnet subnetwork|
+|9|102.141.197.17|8080|Somalia|Mogadishu|Amtel LTD|
+|10|202.43.190.11|8118|Indonesia|Jakarta|CEPATNET|
+|11|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
+|12|103.14.198.234|84|India|Davangere|Mobiwalkers|
+|13|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
+|14|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
+|15|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|16|14.139.184.130|3128|India|Bhalki|National Knowledge Network|
+|17|178.134.178.134|3128|Georgia|K'alak'i T'bilisi|JSC "Silknet"|
+|18|202.164.152.229|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|19|45.202.16.126|8080|Philippines|Tandag|Infinivan Incorporated|
+|20|190.113.40.94|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
 
 
 

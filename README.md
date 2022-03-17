@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3271** proxies at the latest update. Usable proxies are below.
+> Scraper found **3595** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|330|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|330|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|330|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|2|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
-|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|4|187.190.255.76|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
-|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|6|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|7|45.172.111.4|999|Argentina|Ramblon|GPS SANJUAN SRL.|
-|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|9|36.95.27.209|80|Indonesia|Cibinong|PT. Telekomunikasi Indonesia|
-|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|11|41.86.42.41|8080|Seychelles|Victoria|CWS DIB BUNDLE|
-|12|110.139.128.232|3127|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
-|13|114.5.199.220|443|Indonesia|Bandung|PT. INDOSAT Tbk|
-|14|202.180.54.211|8080|Indonesia|Jakarta|PT. Panca Dewata Utama|
-|15|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
-|16|132.255.210.122|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|17|45.174.87.18|999|Mexico|Ciudad Juárez|Computadoras y Servicios Especiales SA de CV|
-|18|180.191.20.102|8080|Philippines|Binarsang|Globe Telecom|
-|19|138.36.180.4|9292|Brazil|Birigui|FIT Telecom Eireli|
-|20|169.239.188.61|48807|Nigeria|Lagos|ETG Integrated Services Ltd. (Dolphin Telecom)|
+|1|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|2|157.230.233.189|3007|United States|North Bergen|DigitalOcean, LLC|
+|3|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|195.138.73.54|44017|Ukraine|Odessa|TeNeT Networking Centre|
+|6|200.39.63.82|999|Dominican Republic|Santiago de los Caballeros|Mktel SRL|
+|7|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|8|20.205.12.114|3128|Hong Kong|Hong Kong|Microsoft Corporation|
+|9|45.5.119.242|999|Guatemala|Guatemala City|Inversiones Grajeda Andrade S.A|
+|10|133.167.86.191|8118|Japan|Osaka|SAKURA Internet Inc.|
+|11|12.31.246.5|8080|United States|Saint Helena|AT&T Services, Inc.|
+|12|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|13|115.243.184.76|23500|India|Navi Mumbai|Reliance Jio Infocomm Limited|
+|14|168.90.15.177|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|15|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|95.154.64.101|8080|Russia|Vladivostok|OCTOPUSNET-SUBSCRIBERS|
+|17|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|140.227.127.228|80|Japan|Chiyoda|NTT PC Communications, Inc.|
+|19|51.91.109.83|80|France|Strasbourg|OVH SAS|
+|20|201.77.110.1|999|Mexico|Cuauhtemoc|Nidix Networks S.a. De C.V.|
 
 
 

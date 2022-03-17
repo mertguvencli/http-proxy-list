@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3504** proxies at the latest update. Usable proxies are below.
+> Scraper found **3156** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|50.246.120.125|8080|United States|Washington|Comcast Cable Communications, LLC|
-|2|132.255.210.117|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|3|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|4|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|197.232.135.174|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|6|176.214.99.101|1256|Russia|Vidnoye|JSC "ER-Telecom Holding"|
-|7|169.239.188.61|48807|Nigeria|Lagos|ETG Integrated Services Ltd. (Dolphin Telecom)|
-|8|102.64.66.106|8080|Tanzania|Dar es Salaam|Net Solutions Limited|
-|9|200.54.194.12|53281|Chile|Providencia|Telefonica Empresas|
-|10|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
-|11|77.236.236.44|8080|Russia|Moscow|Enforta-MSK|
-|12|76.81.164.246|8080|United States|Garden Grove|Spectrum|
-|13|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
-|14|36.67.11.41|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|15|77.236.243.125|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|16|202.169.37.246|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|17|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|18|86.57.134.64|41890|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
-|19|196.219.202.74|8080|Egypt|Awsim|TE-AS|
-|20|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|1|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|36.95.238.195|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|3|46.35.249.189|41419|Ukraine|Sevastopol|Lancom Ltd.|
+|4|46.191.239.183|8080|Russia|Sterlitamak|JSC "Ufanet"|
+|5|41.254.53.70|1981|Libya|Benghazi|LTT Network Backbone and POPs|
+|6|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|8|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|9|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|10|38.123.207.249|999|Mexico|Mexico City|Cogent Communications|
+|11|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|12|180.211.248.222|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|13|41.190.11.94|8080|Nigeria|Lekki|Emerging Markets Telecommunication Services (EMTS) Limited|
+|14|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
+|15|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|200.24.132.204|6969|Ecuador|Guayaquil|Nedetel S.A.|
+|17|190.113.40.20|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
+|18|138.117.85.97|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|19|170.245.132.4|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
+|20|185.82.99.3|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
 
 
 

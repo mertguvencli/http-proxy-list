@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3115** proxies at the latest update. Usable proxies are below.
+> Scraper found **3065** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.190.255.76|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
-|2|132.255.210.122|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|5.189.186.24|5566|Germany|Nuremberg|Contabo GmbH|
-|5|183.240.203.136|8118|China|Shenzhen|China Mobile Communications Corporation|
-|6|95.216.194.46|1080|Finland|Helsinki|Hetzner Online GmbH|
-|7|181.30.228.13|3128|Argentina|Rosario|Telecom Argentina S.A|
-|8|181.16.175.10|8080|Argentina|Monte Ralo|Colsecor Cooperativa Limitada|
-|9|101.255.127.12|8080|Indonesia|Jakarta|PT Remala Abadi|
-|10|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|11|20.74.169.104|8118|United Arab Emirates|Dubai|Microsoft Corporation|
-|12|103.255.242.115|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|13|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
-|14|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
-|15|116.206.243.50|80|Indonesia|Rowotengu|CBN|
-|16|160.154.48.46|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|17|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|18|183.91.0.120|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|19|165.16.27.12|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|154.0.14.193|8080|South Africa|Johannesburg|Cisp IP3|
+|1|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|2|201.144.14.232|53281|Mexico|Manzanillo|Uninet S.A. de C.V|
+|3|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|4|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|5|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|6|185.44.232.30|53281|Spain|Marbella|Avatel Telecom|
+|7|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
+|8|222.78.6.2|8083|China|Zhangzhou|Chinanet|
+|9|81.163.57.147|41258|Russia|Makhachkala|SUBNET05|
+|10|45.225.184.206|999|Chile|Melipilla|MJL NETWORK EIRL|
+|11|181.196.205.250|38178|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|187.144.208.108|3128|Mexico|Manzanillo|Uninet S.A. de C.V.|
+|13|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|14|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|15|138.197.148.238|80|Canada|Toronto|DigitalOcean, LLC|
+|16|109.70.188.46|11080|Russia|Makhachkala|LTD "Elektrosvyaz"|
+|17|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
+|18|80.249.135.17|8080|Russia|Moscow|Acod JSC|
+|19|38.101.122.186|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|20|170.79.12.72|9090|Brazil|Teresina|I T Tecnologia e InformaÔÔo Ltda|
 
 
 

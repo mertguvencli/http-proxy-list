@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3339** proxies at the latest update. Usable proxies are below.
+> Scraper found **3175** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|220|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|220|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|220|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
-|2|95.216.12.141|22209|Finland|Helsinki|Hetzner Online GmbH|
-|3|112.124.238.117|8080|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|4|86.123.166.13|8080|Romania|Brasov|RCS & RDS|
-|5|161.49.116.131|1337|Philippines|Mandaluyong City|Converge ICT Solution Inc|
-|6|177.71.92.134|8080|Brazil|Petrolina|L E M TELECOMUNICAÔÔES LTDA -ME|
-|7|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|1.32.59.217|47045|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|9|124.158.167.173|8080|Indonesia|Tangerang|ICON+|
-|10|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
-|11|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|12|202.141.233.66|8080|Pakistan|Karachi|Multinet Broadband|
-|13|12.31.246.5|8080|United States|Saint Helena|AT&T Services, Inc.|
-|14|110.164.59.101|8080|Thailand|Pak Kret|Triple T Internet Company Limited|
-|15|195.178.33.86|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
-|16|181.36.121.222|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|17|132.255.210.122|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|18|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|19|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
-|20|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
+|1|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|2|206.161.97.64|31337|United States|Ashburn|PCCW Global, Inc.|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|36.37.81.135|8080|Indonesia|Jakarta|LINTASARTA|
+|6|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|147.75.100.31|3128|Netherlands|Schiphol|Packet Host, Inc.|
+|8|116.206.243.50|80|Indonesia|Rowotengu|CBN|
+|9|43.242.135.182|8080|Myanmar|Yangon|Global Technology Co|
+|10|36.95.207.233|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|190.83.15.241|999|Ecuador|Zamora|TAPIA FLORES OSCAR ALDO (FIBRANET ZAMORA)|
+|12|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|13|103.124.226.57|3127|Bangladesh|Dhaka|Level3|
+|14|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|15|190.217.14.110|999|Venezuela|Caracas|Lan-online C.A.|
+|16|38.101.122.186|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|17|95.158.44.63|8080|Ukraine|Irpin|Company with additional responsibility ""BEST"|
+|18|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
+|19|12.31.246.5|8080|United States|Saint Helena|AT&T Services, Inc.|
+|20|95.165.163.188|60103|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3173** proxies at the latest update. Usable proxies are below.
+> Scraper found **3341** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|109.185.145.97|8080|Moldova|Chisinau|JSC "Moldtelecom" S.A.|
-|2|43.242.135.182|80|Myanmar|Yangon|Global Technology Co|
-|3|91.107.15.221|53281|Russia|Lyubertsy|AVK-computer ltd|
-|4|77.46.138.233|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
-|5|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|6|94.140.242.221|8080|Russia|Apatity|CityLink Ltd ISP|
-|7|223.27.194.66|63141|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|8|95.0.168.43|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|9|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|10|114.79.146.137|8080|India|Mumbai|D-VoiS Broadband Private Limited|
-|11|49.156.47.162|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|12|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
-|13|180.165.130.47|53281|China|Shanghai|China Telecom (Group)|
-|14|151.22.181.213|8080|Italy|Strongoli|INFOSTRADA|
-|15|217.160.193.210|8118|Germany|Karlsruhe|IONOS SE|
-|16|170.80.202.242|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|17|138.99.176.89|999|Peru|Lima|NET WIN PERU|
-|18|85.172.19.214|8080|Russia|Krasnodar|Southen Telecommunication Maintainer|
-|19|139.99.99.165|80|Singapore|Singapore|OVH SAS|
-|20|190.217.10.12|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|1|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|105.112.142.210|8080|Nigeria|Ikoyi|Airtel Networks Limited|
+|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|6|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
+|7|190.90.102.35|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|10|37.26.136.181|52271|Moldova|Tiraspol|JSCC Interdnestrcom|
+|11|190.171.168.90|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|12|161.49.116.131|1337|Philippines|Mandaluyong City|Converge ICT Solution Inc|
+|13|103.124.226.57|3127|Bangladesh|Dhaka|Level3|
+|14|185.175.119.113|47174|Russia|Belorechensk|Beltele COM|
+|15|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
+|16|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
+|17|190.217.14.124|999|Venezuela|Caracas|Lan-online C.A.|
+|18|222.165.205.154|8089|Indonesia|Jakarta|PT NettoCyber Indonesia|
+|19|200.229.147.2|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|20|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÔÔES LTDA|
 
 
 

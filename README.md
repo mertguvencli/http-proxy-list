@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3408** proxies at the latest update. Usable proxies are below.
+> Scraper found **3521** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|265|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|265|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|265|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|3|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|4|183.91.0.125|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|5|136.233.136.41|48976|India|Anand|Reliance Jio Infocomm Limited|
-|6|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
-|7|50.246.120.125|8080|United States|Washington|Comcast Cable Communications, LLC|
-|8|103.161.164.111|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|9|181.196.205.250|38178|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|10|201.77.110.1|999|Mexico|Cuauhtemoc|Nidix Networks S.a. De C.V.|
-|11|41.65.163.86|1976|Egypt|Qutur|Etisalat Misr Mobile BB|
-|12|195.211.219.147|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|13|103.208.200.115|23500|India|New Delhi|Gigantic|
-|14|103.73.75.69|8080|Indonesia|Karawang|PT. Wahana Internet Nusantara|
-|15|131.100.51.18|999|Colombia|Neiva|Fibernet TV SAS|
-|16|78.47.223.55|5566|Germany|Nuremberg|Hetzner Online GmbH|
-|17|177.129.11.150|8080|Brazil|Rio de Janeiro|Citta Telecom Ltda|
-|18|110.232.64.88|8080|Indonesia|Medan|Media Antar Nusa PT.|
-|19|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|20|190.242.118.92|55443|Colombia|Barranquilla|Columbus Networks USA, Inc.|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|5|106.14.187.182|21673|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|6|95.165.163.188|60103|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|7|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|8|180.148.4.194|8080|Vietnam|Hanoi|VNTT|
+|9|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|10|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|11|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|12|147.75.100.31|3128|Netherlands|Schiphol|Packet Host, Inc.|
+|13|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
+|14|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|15|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|16|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|84.241.30.43|8080|Iran|Tehran|SHATEL Network|
+|18|38.10.246.84|999|United States|Miami|Cogent Communications|
+|19|213.139.32.14|8080|Jordan|Amman|JTC|
+|20|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
 
 
 

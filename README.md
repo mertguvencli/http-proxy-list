@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3049** proxies at the latest update. Usable proxies are below.
+> Scraper found **2932** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
-|2|190.248.153.162|8080|Colombia|Arauca|EPM Telecomunicaciones S.A. E.S.P.|
-|3|121.146.167.17|4004|South Korea|Busan|Korea Telecom|
-|4|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
-|5|36.67.27.189|39674|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|6|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
-|7|89.204.214.142|8080|Ireland|Kilcock|O2 Ireland Fixed Broadband - Eircom White Label|
-|8|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
-|9|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|110.232.78.55|55667|Indonesia|Medan|Media Antar Nusa PT.|
-|11|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|12|80.244.229.55|1256|Russia|Moscow|ArtCommunications Ltd.|
-|13|197.210.217.66|34808|Nigeria|Lagos|MTN NIGERIA Communication limited|
-|14|27.147.193.82|8080|Bangladesh|Savar Upazila|Link3 Technologies Limited|
-|15|50.246.120.125|8080|United States|Washington|Comcast Cable Communications, LLC|
-|16|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
-|17|180.180.218.250|8080|Thailand|Khlong Sam Wa|TOT Public Company Limited|
-|18|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
-|19|58.147.170.114|8085|Bangladesh|Dhaka|Aftab IT Limited|
-|20|168.90.15.177|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|1|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|2|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
+|7|169.239.188.61|48807|Nigeria|Lagos|ETG Integrated Services Ltd. (Dolphin Telecom)|
+|8|95.140.31.39|41890|Russia|Moscow|Sputnik LTD|
+|9|14.192.129.140|8080|Pakistan|Karachi|Fariya Networks 129|
+|10|14.192.129.140|8080|Pakistan|Karachi|Fariya Networks 129|
+|11|220.247.171.242|8080|Indonesia|Gandul|PT Indonesia Comnets Plus|
+|12|105.112.84.139|41890|Nigeria|Ikoyi|Airtel Networks Limited|
+|13|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|14|187.189.211.201|999|Mexico|Zacatlan|Total Play Telecomunicaciones SA De CV|
+|15|200.48.3.226|10101|Peru|Lima|Telefonica del Peru S.A.A.|
+|16|80.249.135.5|8080|Russia|Moscow|Acod JSC|
+|17|202.43.115.233|8181|Indonesia|Bekasi|PT Tele Globe Global|
+|18|185.82.98.94|9091|Lebanon|Tripoli|Protected|
+|19|116.206.243.50|80|Indonesia|Rowotengu|CBN|
+|20|91.217.202.174|8080|Russia|Novosibirsk|Svyaz-Servis LTD.|
 
 
 

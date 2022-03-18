@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2682** proxies at the latest update. Usable proxies are below.
+> Scraper found **2693** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
-|2|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|3|46.161.194.71|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|4|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|5|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
-|6|198.229.231.13|8080|United States|Princeton|MTCO Communications|
-|7|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|8|202.154.180.53|46717|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|9|177.71.92.134|8080|Brazil|Petrolina|L E M TELECOMUNICAÔÔES LTDA -ME|
-|10|36.91.148.37|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|201.120.27.15|53281|Mexico|Mexico City|Uninet S.A. de C.V|
-|12|91.194.239.122|8080|Ukraine|Sevastopol|TOV NEO-TELECOM|
-|13|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
-|14|197.157.219.169|48625|Nigeria|Lagos|KKONTECH|
-|15|124.158.168.22|8080|Indonesia|Probolinggo|ICON+|
-|16|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|17|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|18|180.191.20.102|8080|Philippines|Binarsang|Globe Telecom|
-|19|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|20|192.158.15.201|60684|Canada|Toronto|Ontario Inc.|
+|1|39.103.175.42|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
+|2|14.192.129.140|8080|Pakistan|Karachi|Fariya Networks 129|
+|3|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
+|4|194.44.20.25|8282|Ukraine|Lutsk|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|5|14.192.129.140|8080|Pakistan|Karachi|Fariya Networks 129|
+|6|38.123.207.249|999|Mexico|Mexico City|Cogent Communications|
+|7|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|8|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|9|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|10|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
+|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|170.83.60.19|55443|Brazil|Uberlândia|H-micro Assistencia Especializade EM Inform Ldta|
+|13|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
+|14|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|15|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|16|163.172.75.81|5566|France|Paris|Online S.A.S.|
+|17|196.219.202.74|8080|Egypt|Awsim|TE-AS|
+|18|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|19|200.85.42.194|999|Paraguay|Fernando de la Mora|Telecel S.A.|
+|20|165.16.27.2|1981|Libya|Al Qubbah|Aljeel Aljadeed For Technology|
 
 
 

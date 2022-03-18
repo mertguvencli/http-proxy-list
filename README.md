@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3262** proxies at the latest update. Usable proxies are below.
+> Scraper found **3219** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|243|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|243|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|243|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|197.210.143.182|36496|Nigeria|Port Harcourt|MTN NIGERIA Communication limited|
-|2|180.178.189.102|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|3|45.232.213.194|8080|Brazil|Guia Lopes da Laguna|67 TELECOM|
-|4|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
-|5|176.214.97.13|8081|Russia|Vidnoye|JSC "ER-Telecom Holding"|
-|6|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|9|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|10|119.59.125.189|3128|Thailand|Samphanthawong|Metrabyte Co., Ltd|
-|11|187.190.255.132|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
-|12|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|13|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
-|14|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|15|181.48.101.245|3128|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|198.229.231.13|8080|United States|Princeton|MTCO Communications|
-|17|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
-|18|158.255.254.5|3128|Slovakia|Giraltovce|PRESNET s.r.o.|
-|19|175.103.36.70|80|Indonesia|Malang|Maxindo Mintra Solusi|
-|20|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|1|92.52.45.48|8118|Slovakia|Bratislava|Orange Slovensko|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|4|77.236.238.33|1256|Russia|Moscow|ArtCommunications Ltd.|
+|5|182.253.107.212|8080|Indonesia|Tegal|BIZNET|
+|6|186.13.50.16|8080|Argentina|Montserrat|Techtel LMDS Comunicaciones Interactivas S.A.|
+|7|36.95.21.92|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|9|194.186.114.174|41890|Russia|Moscow|PJSC "Vimpelcom"|
+|10|180.183.115.222|8080|Thailand|Bangkok|Triple T Internet Company Limited|
+|11|69.75.140.157|8080|United States|Sylmar|Spectrum|
+|12|115.243.184.76|23500|India|Navi Mumbai|Reliance Jio Infocomm Limited|
+|13|38.101.122.186|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|14|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|15|195.211.219.147|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|16|181.10.160.156|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|17|147.75.100.31|3128|Netherlands|Schiphol|Packet Host, Inc.|
+|18|58.27.255.98|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|19|103.86.187.242|23500|Philippines|Cotabato City|Bicolandia Cable TV|
+|20|8.242.207.202|8080|Chile|Santiago|Level 3|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3098** proxies at the latest update. Usable proxies are below.
+> Scraper found **3164** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|179|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|179|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|179|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|190|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|190|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|190|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.251.138.81|3128|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|2|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|3|77.236.238.69|1256|Russia|Moscow|Enforta-MSK|
-|4|216.169.73.65|34679|United States|Panguitch|South Central Communications, Inc.|
-|5|190.2.210.139|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|7|103.38.5.226|81|India|Samastipur|Max tech media and communications pvt ltd|
-|8|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|9|185.32.6.131|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
-|10|80.191.162.2|514|Iran|Shahrestān-e Bandar-e Māhshahr|Area|
-|11|177.101.55.34|9090|Brazil|Piracicaba|Snell Telecomunicações Ltda. ME|
-|12|190.13.84.172|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|162.248.164.72|8080|Canada|Toronto|DataCity|
-|14|177.234.212.71|999|Ecuador|Quito|Nedetel S.A.|
-|15|197.211.35.194|8080|Nigeria|Lagos|Globacom Limited|
-|16|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
-|17|187.45.127.87|20183|Brazil|Erebango|Mhnet Telecom|
-|18|180.178.189.126|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|19|95.158.44.63|8080|Ukraine|Irpin|Company with additional responsibility ""BEST"|
-|20|103.234.252.54|63123|Indonesia|Jakarta|Maxindo|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|3|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|4|190.90.86.65|999|Colombia|Cúcuta|Internexa S.a. E.S.P|
+|5|77.70.35.87|37475|Bulgaria|Sofia|A1 Bulgaria EAD|
+|6|61.153.251.150|22222|China|Beijing|Chinanet|
+|7|115.79.198.18|55443|Vietnam|Ho Chi Minh City|VIETELftth|
+|8|187.190.252.248|999|Mexico|Magdalena Apasco|Total Play Telecomunicaciones SA De CV|
+|9|198.229.231.13|8080|United States|Princeton|MTCO Communications|
+|10|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
+|11|58.27.255.98|80|Pakistan|Lahore|Wateen Telecom Limited|
+|12|118.99.74.15|8080|Indonesia|Jakarta|Biznet Metronet|
+|13|36.66.19.10|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|38.101.122.186|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|15|5.9.112.247|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|17|89.22.152.32|53726|Russia|Pereslavl'-Zalesskiy|Bitrace telecom Ltd.|
+|18|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|19|77.236.237.177|8080|Russia|Moscow|Enforta-MSK|
+|20|79.101.55.161|53281|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
 
 
 

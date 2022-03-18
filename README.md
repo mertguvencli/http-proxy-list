@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2975** proxies at the latest update. Usable proxies are below.
+> Scraper found **2801** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|113.214.48.5|8000|China|Hangzhou|Chinanet|
-|2|176.98.95.105|32018|Ukraine|Uman|TOV TV&Radio Company 'TIM'|
-|3|46.161.194.71|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|4|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|5|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|6|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|7|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
-|8|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
-|9|41.216.98.122|8080|Rwanda|Kigali|LTR|
-|10|112.109.20.238|8080|Indonesia|Embongkaliasin|DATAUTAMANET|
-|11|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|12|185.82.96.21|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
-|13|88.204.203.34|8080|Kazakhstan|Nur-Sultan|JSC Kazakhtelecom|
-|14|165.16.27.12|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|15|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|16|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
-|17|180.178.189.126|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|18|176.36.20.67|61935|Ukraine|Kyiv|Lanet Network|
-|19|115.79.198.18|55443|Vietnam|Ho Chi Minh City|VIETELftth|
-|20|186.24.9.114|999|Venezuela|Villa Bruzual|TELEFONICA VENEZOLANA, C.A.|
+|1|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|2|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|3|159.203.104.153|8200|United States|Clifton|DigitalOcean, LLC|
+|4|128.201.138.21|3128|Brazil|Manaus|FiOS Tecnologia|
+|5|121.146.167.17|4001|South Korea|Busan|Korea Telecom|
+|6|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|117.157.197.18|3128|China|Shenzhen|China Mobile communications corporation|
+|8|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
+|9|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|10|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|11|91.142.172.7|41890|Ukraine|Kyiv|Sitel Ltd|
+|12|122.154.35.190|8080|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|13|152.32.201.77|443|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|14|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|15|194.44.20.25|8282|Ukraine|Lutsk|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|16|196.219.202.74|8080|Egypt|Awsim|TE-AS|
+|17|188.246.186.142|41890|Russia|Moscow|OOO WestCall Ltd|
+|18|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|19|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
+|20|103.86.159.25|80|Indonesia|Jakarta|PT Cyberindo Aditama|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3016** proxies at the latest update. Usable proxies are below.
+> Scraper found **2682** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|84|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|84|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|84|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|156.200.116.73|1976|Egypt|Giza|TE Data|
-|2|185.32.6.131|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
-|3|61.153.251.150|22222|China|Beijing|Chinanet|
-|4|109.200.159.26|8080|Ukraine|Simferopol|CRELCOM|
-|5|14.192.129.140|8080|Pakistan|Karachi|Fariya Networks 129|
-|6|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|197.157.219.169|48625|Nigeria|Lagos|KKONTECH|
-|9|103.40.122.23|8087|Indonesia|Broyo Barat|PT DINAMIKA MEDIAKOM|
-|10|103.213.105.190|8080|Afghanistan|Kabul|Ankabut 002|
-|11|174.81.78.64|48678|United States|Wallace|Charter Communications|
-|12|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|13|103.73.102.174|60080|Pakistan|Lahore|KK Networks (Pvt) Ltd|
-|14|89.250.221.106|53281|Russia|Berezniki|Ltd PermInterCom PIC-BF-Network|
-|15|36.89.229.97|59707|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
-|17|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
-|18|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
-|19|217.73.139.204|8080|Albania|Tirana|ABCom HFC Residential Network|
-|20|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
+|1|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
+|2|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|3|46.161.194.71|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|4|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|5|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
+|6|198.229.231.13|8080|United States|Princeton|MTCO Communications|
+|7|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|8|202.154.180.53|46717|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|9|177.71.92.134|8080|Brazil|Petrolina|L E M TELECOMUNICAÔÔES LTDA -ME|
+|10|36.91.148.37|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|201.120.27.15|53281|Mexico|Mexico City|Uninet S.A. de C.V|
+|12|91.194.239.122|8080|Ukraine|Sevastopol|TOV NEO-TELECOM|
+|13|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
+|14|197.157.219.169|48625|Nigeria|Lagos|KKONTECH|
+|15|124.158.168.22|8080|Indonesia|Probolinggo|ICON+|
+|16|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|17|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|18|180.191.20.102|8080|Philippines|Binarsang|Globe Telecom|
+|19|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|20|192.158.15.201|60684|Canada|Toronto|Ontario Inc.|
 
 
 

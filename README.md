@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3314** proxies at the latest update. Usable proxies are below.
+> Scraper found **3262** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|184|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|184|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|184|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|243|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|243|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|243|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|3|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
-|4|200.58.170.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|5|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
-|6|77.236.238.33|1256|Russia|Moscow|ArtCommunications Ltd.|
-|7|210.245.54.97|8080|Vietnam|Hanoi|FPT Telecom Company|
-|8|49.12.43.32|5555|Germany|Falkenstein|Hetzner Online GmbH|
-|9|134.209.42.113|8899|United States|Clifton|DigitalOcean, LLC|
-|10|41.184.92.24|8080|Nigeria|Abuja|ipNX Nigeria Limited|
-|11|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|12|195.91.221.230|55443|Russia|Moscow|JSC "ER-Telecom Holding" Moscow branch|
-|13|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|14|120.29.124.131|8080|Philippines|San Mateo|ComClark Network & Technology Corp|
-|15|190.120.186.14|999|Argentina|Buenos Aires|Coseidi S.A.|
-|16|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|17|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
-|18|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
-|19|197.210.217.66|34808|Nigeria|Lagos|MTN NIGERIA Communication limited|
-|20|190.242.118.92|55443|Colombia|Barranquilla|Columbus Networks USA, Inc.|
+|1|197.210.143.182|36496|Nigeria|Port Harcourt|MTN NIGERIA Communication limited|
+|2|180.178.189.102|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
+|3|45.232.213.194|8080|Brazil|Guia Lopes da Laguna|67 TELECOM|
+|4|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
+|5|176.214.97.13|8081|Russia|Vidnoye|JSC "ER-Telecom Holding"|
+|6|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|9|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
+|10|119.59.125.189|3128|Thailand|Samphanthawong|Metrabyte Co., Ltd|
+|11|187.190.255.132|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
+|12|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|13|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|14|212.34.1.110|8080|Jordan|Amman|Jordan Telecom Group|
+|15|181.48.101.245|3128|Colombia|Bogotá|Telmex Colombia S.A.|
+|16|198.229.231.13|8080|United States|Princeton|MTCO Communications|
+|17|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
+|18|158.255.254.5|3128|Slovakia|Giraltovce|PRESNET s.r.o.|
+|19|175.103.36.70|80|Indonesia|Malang|Maxindo Mintra Solusi|
+|20|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
 
 
 

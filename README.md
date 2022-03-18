@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3046** proxies at the latest update. Usable proxies are below.
+> Scraper found **3117** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|3|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
-|9|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|10|102.66.161.210|9999|South Africa|Nelspruit|HERO TELECOMS (PTY) LTD|
-|11|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|12|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|13|113.160.206.37|55138|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|14|79.101.55.161|53281|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|15|110.232.78.55|55667|Indonesia|Medan|Media Antar Nusa PT.|
-|16|197.211.35.194|8080|Nigeria|Lagos|Globacom Limited|
-|17|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|18|45.229.33.114|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|19|196.219.202.74|8080|Egypt|Awsim|TE-AS|
-|20|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
+|1|200.24.199.146|999|Ecuador|Guayaquil|Otecel S.A.|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|103.213.116.10|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana|
+|4|181.205.46.178|41890|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|5|202.69.38.82|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
+|6|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|7|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|8|210.245.54.97|8080|Vietnam|Hanoi|FPT Telecom Company|
+|9|200.39.63.202|999|Dominican Republic|Santiago de los Caballeros|Mktel SRL|
+|10|80.92.241.98|8080|Czechia|Prague|LAM plus s.r.o.|
+|11|119.59.125.189|3128|Thailand|Samphanthawong|Metrabyte Co., Ltd|
+|12|188.246.186.142|41890|Russia|Moscow|OOO WestCall Ltd|
+|13|43.241.131.105|8080|India|Thane|Excel Solutions|
+|14|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|15|85.25.198.22|5566|France|Strasbourg|Host Europe GmbH|
+|16|197.210.105.122|41890|Nigeria|Lagos|MTN NIGERIA Communication limited|
+|17|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|18|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|19|202.69.45.22|8080|Pakistan|Karachi|Gerrys Information Technology (PVT) Ltd|
+|20|161.49.212.173|1337|Philippines|Hermosa|Converge Information and Communications Technology Solutions|
 
 
 

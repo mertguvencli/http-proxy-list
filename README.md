@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2932** proxies at the latest update. Usable proxies are below.
+> Scraper found **3016** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|2|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
-|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
-|7|169.239.188.61|48807|Nigeria|Lagos|ETG Integrated Services Ltd. (Dolphin Telecom)|
-|8|95.140.31.39|41890|Russia|Moscow|Sputnik LTD|
-|9|14.192.129.140|8080|Pakistan|Karachi|Fariya Networks 129|
-|10|14.192.129.140|8080|Pakistan|Karachi|Fariya Networks 129|
-|11|220.247.171.242|8080|Indonesia|Gandul|PT Indonesia Comnets Plus|
-|12|105.112.84.139|41890|Nigeria|Ikoyi|Airtel Networks Limited|
-|13|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|14|187.189.211.201|999|Mexico|Zacatlan|Total Play Telecomunicaciones SA De CV|
-|15|200.48.3.226|10101|Peru|Lima|Telefonica del Peru S.A.A.|
-|16|80.249.135.5|8080|Russia|Moscow|Acod JSC|
-|17|202.43.115.233|8181|Indonesia|Bekasi|PT Tele Globe Global|
-|18|185.82.98.94|9091|Lebanon|Tripoli|Protected|
-|19|116.206.243.50|80|Indonesia|Rowotengu|CBN|
-|20|91.217.202.174|8080|Russia|Novosibirsk|Svyaz-Servis LTD.|
+|1|156.200.116.73|1976|Egypt|Giza|TE Data|
+|2|185.32.6.131|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
+|3|61.153.251.150|22222|China|Beijing|Chinanet|
+|4|109.200.159.26|8080|Ukraine|Simferopol|CRELCOM|
+|5|14.192.129.140|8080|Pakistan|Karachi|Fariya Networks 129|
+|6|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|8|197.157.219.169|48625|Nigeria|Lagos|KKONTECH|
+|9|103.40.122.23|8087|Indonesia|Broyo Barat|PT DINAMIKA MEDIAKOM|
+|10|103.213.105.190|8080|Afghanistan|Kabul|Ankabut 002|
+|11|174.81.78.64|48678|United States|Wallace|Charter Communications|
+|12|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|13|103.73.102.174|60080|Pakistan|Lahore|KK Networks (Pvt) Ltd|
+|14|89.250.221.106|53281|Russia|Berezniki|Ltd PermInterCom PIC-BF-Network|
+|15|36.89.229.97|59707|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
+|17|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
+|18|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
+|19|217.73.139.204|8080|Albania|Tirana|ABCom HFC Residential Network|
+|20|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
 
 
 

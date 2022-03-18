@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3021** proxies at the latest update. Usable proxies are below.
+> Scraper found **3049** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.249.180.42|8080|Brazil|Manaus|Eyes Nwhere Sistemas Inteligentes de Imagem Ltda|
-|2|158.69.27.94|9300|Canada|Montreal|OVH SAS|
-|3|201.144.14.232|53281|Mexico|Manzanillo|Uninet S.A. de C.V|
-|4|213.5.190.194|41890|Kazakhstan|Almaty|Kar-Tel LLC|
-|5|180.178.111.218|8080|Indonesia|Pamanukan|PT Hipernet Indodata|
-|6|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
-|7|174.81.78.64|48678|United States|Wallace|Charter Communications|
-|8|128.201.138.21|3128|Brazil|Manaus|FiOS Tecnologia|
-|9|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|10|36.89.229.97|59707|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|77.46.138.233|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
-|12|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|14|36.67.27.189|39674|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|15|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|16|190.248.153.162|8080|Colombia|Arauca|EPM Telecomunicaciones S.A. E.S.P.|
-|17|190.186.1.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|18|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|19|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
-|20|93.170.122.1|8080|Ukraine|Ivano-Frankivsk|Melnichuk Mikhailo|
+|1|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
+|2|190.248.153.162|8080|Colombia|Arauca|EPM Telecomunicaciones S.A. E.S.P.|
+|3|121.146.167.17|4004|South Korea|Busan|Korea Telecom|
+|4|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|5|36.67.27.189|39674|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|6|181.188.206.75|999|Ecuador|San Felipe de Ona|Otecel S.A.|
+|7|89.204.214.142|8080|Ireland|Kilcock|O2 Ireland Fixed Broadband - Eircom White Label|
+|8|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|9|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|110.232.78.55|55667|Indonesia|Medan|Media Antar Nusa PT.|
+|11|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|12|80.244.229.55|1256|Russia|Moscow|ArtCommunications Ltd.|
+|13|197.210.217.66|34808|Nigeria|Lagos|MTN NIGERIA Communication limited|
+|14|27.147.193.82|8080|Bangladesh|Savar Upazila|Link3 Technologies Limited|
+|15|50.246.120.125|8080|United States|Washington|Comcast Cable Communications, LLC|
+|16|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|17|180.180.218.250|8080|Thailand|Khlong Sam Wa|TOT Public Company Limited|
+|18|18.216.136.190|9090|United States|Dublin|Amazon.com, Inc.|
+|19|58.147.170.114|8085|Bangladesh|Dhaka|Aftab IT Limited|
+|20|168.90.15.177|999|Colombia|Bogotá|Media Commerce Partners S.A|
 
 
 

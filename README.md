@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2964** proxies at the latest update. Usable proxies are below.
+> Scraper found **2935** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|2|103.228.119.10|8080|Indonesia|Bekasi|PT SumberKoneksi Indotelematika|
-|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|6|134.209.42.113|8896|United States|Clifton|DigitalOcean, LLC|
-|7|103.86.159.25|80|Indonesia|Jakarta|PT Cyberindo Aditama|
-|8|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
-|9|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|10|1.32.59.217|47045|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|11|58.27.255.98|80|Pakistan|Lahore|Wateen Telecom Limited|
-|12|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|14|105.112.84.139|41890|Nigeria|Ikoyi|Airtel Networks Limited|
-|15|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|16|119.2.41.201|8080|Indonesia|Jakarta|PT. Laxo Global Akses|
-|17|77.236.243.125|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|18|202.65.158.235|84|India|Hyderabad|CtrlS Datacenters Ltd.|
-|19|41.254.53.70|1976|Libya|Benghazi|LTT Network Backbone and POPs|
-|20|88.204.203.34|8080|Kazakhstan|Nur-Sultan|JSC Kazakhtelecom|
+|1|186.159.3.43|30334|Colombia|Medellín|Edatel S.a. E.S.P|
+|2|186.47.97.122|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|3|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|4|76.81.164.246|8080|United States|Garden Grove|Spectrum|
+|5|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|6|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|7|177.126.151.162|8081|Brazil|Belmonte|Firemicro Informática|
+|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|9|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|103.120.175.75|8080|Indonesia|Tangerang|PT. Eka Mas Republik|
+|11|134.209.42.113|8890|United States|Clifton|DigitalOcean, LLC|
+|12|58.27.255.98|80|Pakistan|Lahore|Wateen Telecom Limited|
+|13|197.211.35.194|8080|Nigeria|Lagos|Globacom Limited|
+|14|103.159.220.65|8080|Indonesia|South Tangerang|Universitas Muhammadiyah Jakarta|
+|15|137.59.0.134|8080|India|Srinagar|srinagar Net tech P ltd|
+|16|43.249.140.230|8080|Indonesia|Jamika|SKYLINE|
+|17|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|18|36.89.229.97|59707|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|20|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
 
 
 

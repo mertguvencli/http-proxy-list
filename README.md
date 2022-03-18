@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2801** proxies at the latest update. Usable proxies are below.
+> Scraper found **3046** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
-|2|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|3|159.203.104.153|8200|United States|Clifton|DigitalOcean, LLC|
-|4|128.201.138.21|3128|Brazil|Manaus|FiOS Tecnologia|
-|5|121.146.167.17|4001|South Korea|Busan|Korea Telecom|
-|6|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|7|117.157.197.18|3128|China|Shenzhen|China Mobile communications corporation|
-|8|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
-|9|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|10|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|11|91.142.172.7|41890|Ukraine|Kyiv|Sitel Ltd|
-|12|122.154.35.190|8080|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|13|152.32.201.77|443|Japan|Tokyo|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|14|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|15|194.44.20.25|8282|Ukraine|Lutsk|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|16|196.219.202.74|8080|Egypt|Awsim|TE-AS|
-|17|188.246.186.142|41890|Russia|Moscow|OOO WestCall Ltd|
-|18|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|19|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
-|20|103.86.159.25|80|Indonesia|Jakarta|PT Cyberindo Aditama|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|3|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|6|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|8|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|9|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|10|102.66.161.210|9999|South Africa|Nelspruit|HERO TELECOMS (PTY) LTD|
+|11|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
+|12|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|13|113.160.206.37|55138|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|14|79.101.55.161|53281|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|15|110.232.78.55|55667|Indonesia|Medan|Media Antar Nusa PT.|
+|16|197.211.35.194|8080|Nigeria|Lagos|Globacom Limited|
+|17|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|18|45.229.33.114|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|19|196.219.202.74|8080|Egypt|Awsim|TE-AS|
+|20|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
 
 
 

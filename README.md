@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2693** proxies at the latest update. Usable proxies are below.
+> Scraper found **2975** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|39.103.175.42|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
-|2|14.192.129.140|8080|Pakistan|Karachi|Fariya Networks 129|
-|3|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
-|4|194.44.20.25|8282|Ukraine|Lutsk|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|5|14.192.129.140|8080|Pakistan|Karachi|Fariya Networks 129|
-|6|38.123.207.249|999|Mexico|Mexico City|Cogent Communications|
-|7|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|8|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|9|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|10|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
-|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|170.83.60.19|55443|Brazil|Uberlândia|H-micro Assistencia Especializade EM Inform Ldta|
-|13|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
-|14|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|15|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|16|163.172.75.81|5566|France|Paris|Online S.A.S.|
-|17|196.219.202.74|8080|Egypt|Awsim|TE-AS|
-|18|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|19|200.85.42.194|999|Paraguay|Fernando de la Mora|Telecel S.A.|
-|20|165.16.27.2|1981|Libya|Al Qubbah|Aljeel Aljadeed For Technology|
+|1|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|2|176.98.95.105|32018|Ukraine|Uman|TOV TV&Radio Company 'TIM'|
+|3|46.161.194.71|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|4|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|5|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|6|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
+|7|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
+|8|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
+|9|41.216.98.122|8080|Rwanda|Kigali|LTR|
+|10|112.109.20.238|8080|Indonesia|Embongkaliasin|DATAUTAMANET|
+|11|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|12|185.82.96.21|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|13|88.204.203.34|8080|Kazakhstan|Nur-Sultan|JSC Kazakhtelecom|
+|14|165.16.27.12|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|15|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|16|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
+|17|180.178.189.126|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
+|18|176.36.20.67|61935|Ukraine|Kyiv|Lanet Network|
+|19|115.79.198.18|55443|Vietnam|Ho Chi Minh City|VIETELftth|
+|20|186.24.9.114|999|Venezuela|Villa Bruzual|TELEFONICA VENEZOLANA, C.A.|
 
 
 

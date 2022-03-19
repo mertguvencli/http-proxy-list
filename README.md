@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2949** proxies at the latest update. Usable proxies are below.
+> Scraper found **3175** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|139|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|139|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|139|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|2|95.140.31.39|41890|Russia|Moscow|Sputnik LTD|
-|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|4|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|5|158.69.67.129|5566|Canada|Montreal|OVH SAS|
-|6|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|7|5.35.38.8|32132|Russia|Korolyov|INFOLINE|
-|8|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|9|202.142.158.114|8080|Pakistan|Lahore|Gerrys Information Technology (PVT) Ltd|
-|10|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
-|11|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|12|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|13|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|14|103.164.118.83|8080|Indonesia|Jakarta|SOLUSINET|
-|15|190.119.195.34|8080|Peru|La Victoria|America Movil Peru S.A.C.|
-|16|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|17|154.72.81.154|80|Tanzania|Dar es Salaam|Liquid Telecommunications Ltd|
-|18|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|19|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
-|20|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|3|94.244.28.246|31280|Ukraine|Kyiv|Ukrdatakom LTD|
+|4|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
+|5|45.127.246.98|8080|Bangladesh|Khilgaon|Dhaka Fiber Net Limited|
+|6|103.148.39.50|84|India|Bengaluru|Broadway Communication Pvt Ltd|
+|7|201.184.107.26|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|8|36.95.65.99|8019|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|9|181.205.41.210|7654|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|10|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|11|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
+|12|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
+|13|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|203.153.125.245|8080|Indonesia|Tangerang|GMNUSANTARA|
+|16|154.73.108.173|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|17|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
+|18|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|36.66.206.74|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|20|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
 
 
 

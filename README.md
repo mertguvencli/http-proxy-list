@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2715** proxies at the latest update. Usable proxies are below.
+> Scraper found **3044** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
-|2|86.57.181.122|35709|Belarus|Vitebsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|3|181.143.224.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|4|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|5|165.16.27.14|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|6|217.73.139.204|8080|Albania|Tirana|ABCom HFC Residential Network|
-|7|203.210.84.50|8089|Indonesia|Bandung|Infrastruktur STARNET|
-|8|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|9|41.220.114.194|41890|Kenya|Nairobi|COMMSOL|
-|10|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|11|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|12|186.67.194.155|999|Chile|Las Condes|Entel Chile S.A.|
-|13|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|14|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|15|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
-|16|45.190.79.160|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
-|17|125.26.165.245|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|19|45.227.250.192|9292|Brazil|Três Lagoas|YES TELECOM TELECOMUNICAÔÔES LTDA|
-|20|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|1|50.235.149.74|8080|United States|Riverview|Comcast Cable Communications, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|4|31.163.192.161|3129|Russia|Pokachi|OJSC Rostelecom|
+|5|156.200.116.73|1981|Egypt|Giza|TE Data|
+|6|186.148.191.226|999|Colombia|Pasto|TV AZTECA SUCURSAL COLOMBIA|
+|7|118.99.74.15|8080|Indonesia|Jakarta|Biznet Metronet|
+|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|10|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|11|14.139.184.130|3128|India|Salem|National Knowledge Network|
+|12|182.253.105.123|8080|Indonesia|Cirebon|Biznet Networks|
+|13|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
+|14|197.255.55.122|41890|Nigeria|Lagos|Cobranet Limited|
+|15|182.253.191.132|8080|Indonesia|Bandung|BIZNET|
+|16|190.214.52.226|53281|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|17|200.106.187.245|999|Argentina|Jose Maria Ezeiza|Fullnet Solutions S.A.S.|
+|18|191.102.251.154|8085|Argentina|Rosario|IP·RED|
+|19|185.82.98.43|9091|Lebanon|Tripoli|Protected|
+|20|103.156.249.34|8085|Indonesia|Malang|Trans Media Telekomunikasi|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3044** proxies at the latest update. Usable proxies are below.
+> Scraper found **3018** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|50.235.149.74|8080|United States|Riverview|Comcast Cable Communications, LLC|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|4|31.163.192.161|3129|Russia|Pokachi|OJSC Rostelecom|
-|5|156.200.116.73|1981|Egypt|Giza|TE Data|
-|6|186.148.191.226|999|Colombia|Pasto|TV AZTECA SUCURSAL COLOMBIA|
-|7|118.99.74.15|8080|Indonesia|Jakarta|Biznet Metronet|
-|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
-|10|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|11|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|12|182.253.105.123|8080|Indonesia|Cirebon|Biznet Networks|
-|13|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
-|14|197.255.55.122|41890|Nigeria|Lagos|Cobranet Limited|
-|15|182.253.191.132|8080|Indonesia|Bandung|BIZNET|
-|16|190.214.52.226|53281|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|17|200.106.187.245|999|Argentina|Jose Maria Ezeiza|Fullnet Solutions S.A.S.|
-|18|191.102.251.154|8085|Argentina|Rosario|IP·RED|
-|19|185.82.98.43|9091|Lebanon|Tripoli|Protected|
-|20|103.156.249.34|8085|Indonesia|Malang|Trans Media Telekomunikasi|
+|1|191.103.219.225|48612|Colombia|Montería|Edatel S.a. E.S.P|
+|2|83.218.168.103|80|Austria|Abfaltersbach|myNet GmbH|
+|3|188.246.186.142|41890|Russia|Moscow|OOO WestCall Ltd|
+|4|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
+|5|190.90.102.35|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|6|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|8|187.190.118.188|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|9|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|10|182.253.28.124|8080|Indonesia|Jakarta|Biznet Networks|
+|11|169.239.188.61|48807|Nigeria|Lagos|ETG Integrated Services Ltd. (Dolphin Telecom)|
+|12|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|13|190.90.8.74|8080|Colombia|Bogotá|Internexa S.a. E.S.P|
+|14|14.215.212.37|9168|China|Shenzhen|Chinanet|
+|15|187.95.112.36|6666|Brazil|Campo Largo|COPEL Telecomunicações S.A|
+|16|36.94.56.90|8080|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|17|93.86.63.252|8081|Serbia|Belgrade|TELEKOM-SRBIJA|
+|18|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|19|143.208.58.93|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|20|103.81.114.182|53281|Myanmar|Yangon|Horizon Telecom International|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2964** proxies at the latest update. Usable proxies are below.
+> Scraper found **3099** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|160|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|160|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|160|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|68.208.51.61|8080|United States|Decatur|AT&T Corp|
-|2|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|197.248.64.151|8080|Kenya|Nairobi|Safaricom Limited|
-|5|103.78.170.13|84|India|Pune|Sanjeevan Networks Services Pvt Ltd|
-|6|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|7|83.218.168.103|80|Austria|Abfaltersbach|myNet GmbH|
-|8|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
-|9|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
-|10|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|11|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|217.21.214.138|8080|Russia|Moscow|AO TRANSTELECOM|
-|13|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|14|216.169.73.65|34679|United States|Panguitch|South Central Communications, Inc.|
-|15|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
-|16|156.200.116.73|1981|Egypt|Giza|TE Data|
-|17|103.199.84.122|8080|Bangladesh|Bagerhat|Summit Communication Limited|
-|18|202.147.198.115|8080|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
-|19|94.73.212.196|80|Russia|Divnogorsk|ORIONNET|
-|20|77.236.231.11|1256|Russia|Moscow|Enforta-MSK|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|3|186.47.83.126|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|4|202.162.214.243|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|5|103.133.24.97|8181|Indonesia|Gubug|PT PHATRIA INTI PERSADA|
+|6|200.16.208.187|8080|Argentina|San Nicolas|Telefonica de Argentina|
+|7|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
+|8|112.78.134.133|7777|Indonesia|Semarang|Biznet Networks|
+|9|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|197.221.158.186|8080|Uganda|Kampala|Airtel Uganda|
+|11|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|12|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|13|36.92.93.61|8080|Indonesia|Balikpapan|Telekomunikasi Indonesia|
+|14|158.69.27.94|9300|Canada|Montreal|OVH SAS|
+|15|36.92.116.26|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|16|181.224.207.21|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|17|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|19|187.190.118.188|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|20|77.236.236.38|10000|Russia|Moscow|Enforta-MSK|
 
 
 

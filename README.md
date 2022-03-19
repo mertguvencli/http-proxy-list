@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3175** proxies at the latest update. Usable proxies are below.
+> Scraper found **2715** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|3|94.244.28.246|31280|Ukraine|Kyiv|Ukrdatakom LTD|
-|4|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
-|5|45.127.246.98|8080|Bangladesh|Khilgaon|Dhaka Fiber Net Limited|
-|6|103.148.39.50|84|India|Bengaluru|Broadway Communication Pvt Ltd|
-|7|201.184.107.26|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|8|36.95.65.99|8019|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|181.205.41.210|7654|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|11|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
-|12|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
-|13|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|15|203.153.125.245|8080|Indonesia|Tangerang|GMNUSANTARA|
-|16|154.73.108.173|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|17|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|18|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|36.66.206.74|8080|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|20|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|1|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
+|2|86.57.181.122|35709|Belarus|Vitebsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|3|181.143.224.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|4|14.139.184.130|3128|India|Salem|National Knowledge Network|
+|5|165.16.27.14|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|6|217.73.139.204|8080|Albania|Tirana|ABCom HFC Residential Network|
+|7|203.210.84.50|8089|Indonesia|Bandung|Infrastruktur STARNET|
+|8|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|9|41.220.114.194|41890|Kenya|Nairobi|COMMSOL|
+|10|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|11|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|12|186.67.194.155|999|Chile|Las Condes|Entel Chile S.A.|
+|13|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
+|14|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|15|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
+|16|45.190.79.160|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
+|17|125.26.165.245|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|19|45.227.250.192|9292|Brazil|Três Lagoas|YES TELECOM TELECOMUNICAÔÔES LTDA|
+|20|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3113** proxies at the latest update. Usable proxies are below.
+> Scraper found **3033** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|194.44.20.25|8282|Ukraine|Lutsk|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|3|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|4|14.207.121.203|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|190.7.58.55|3128|Argentina|Buenos Aires|Gigared S.A.|
-|6|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|200.55.3.122|999|Argentina|Mendoza|Level 3 Argentina S.A|
-|9|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|10|36.67.152.213|11111|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|11|177.185.32.1|8080|Brazil|Ouroeste|Tecnoserve InformÔtica Ltda|
-|12|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
-|13|124.158.171.158|8080|Indonesia|Gandul|ICON+|
-|14|103.11.106.149|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|1|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
+|2|190.2.6.161|8080|Argentina|Buenos Aires|NSS S.A.|
+|3|206.161.97.4|31337|United States|Ashburn|PCCW Global, Inc.|
+|4|65.20.178.15|8080|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|5|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|6|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|7|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|8|101.53.154.137|2018|India|Noida|E2E Networks Limited|
+|9|187.45.127.87|20183|Brazil|Erebango|Mhnet Telecom|
+|10|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|11|89.188.110.196|8080|Russia|St Petersburg|Filanco LLC|
+|12|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|13|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|14|222.78.6.2|8083|China|Zhangzhou|Chinanet|
 |15|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
-|16|36.95.249.157|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|18|36.92.43.107|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|168.227.56.104|8080|Brazil|Votuporanga|RF connect provedor de acesso ltda-me|
-|20|139.5.151.179|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|16|186.97.156.130|999|Colombia|Medellín|Colombia Móvil|
+|17|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|18|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|19|200.106.187.245|999|Argentina|Jose Maria Ezeiza|Fullnet Solutions S.A.S.|
+|20|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

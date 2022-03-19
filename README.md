@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3191** proxies at the latest update. Usable proxies are below.
+> Scraper found **3111** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|205|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|205|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|205|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|3|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|147.75.100.31|3128|Netherlands|Schiphol|Packet Host, Inc.|
-|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|7|213.5.190.194|41890|Kazakhstan|Almaty|Kar-Tel LLC|
-|8|202.152.39.146|80|Indonesia|Medan|PT Aplikanusa Lintasarta|
-|9|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|10|80.244.226.92|8080|Russia|Moscow|Enforta-MSK|
-|11|66.94.97.238|443|United States|New York|Contabo Inc.|
-|12|213.135.5.141|8080|Germany|Saarbrücken|intersaar GmbH|
-|13|177.242.148.14|999|Mexico|Tizayuca|Mega Cable, S.A. de C.V.|
-|14|202.53.171.114|8080|Bangladesh|Gulshan|Agni Systems Ltd.|
-|15|178.219.37.70|8080|Russia|Khimki|Modern Technologies Ltd.|
-|16|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|112.133.215.24|8080|India|Alappuzha|RailTel Corporation of India Ltd.|
-|18|103.19.56.152|3127|Indonesia|Purwakarta|BITSNET|
-|19|103.124.226.63|3127|Bangladesh|Dhaka|Level3|
-|20|45.202.16.126|8080|Philippines|Tandag|Infinivan Incorporated|
+|1|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|2|91.142.172.7|41890|Ukraine|Kyiv|Sitel Ltd|
+|3|149.5.37.193|8080|Ireland|Dublin|Model Telecom Ltd|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|6|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|7|213.135.5.141|8080|Germany|Saarbrücken|intersaar GmbH|
+|8|147.75.100.31|3128|Netherlands|Schiphol|Packet Host, Inc.|
+|9|185.82.96.21|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|11|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|12|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|13|116.206.243.50|80|Indonesia|Rowotengu|CBN|
+|14|103.197.206.19|8080|Bangladesh|Dhaka|Cosmopolitan Communications Limited|
+|15|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|16|200.24.199.146|999|Ecuador|Guayaquil|Otecel S.A.|
+|17|190.181.16.206|999|Bolivia|La Paz|AXS Bolivia S. A.|
+|18|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|19|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
+|20|182.253.93.4|53281|Indonesia|Jakarta|BIZNET|
 
 
 

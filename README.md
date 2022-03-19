@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3061** proxies at the latest update. Usable proxies are below.
+> Scraper found **3113** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
-|2|187.251.138.81|3128|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|194.44.20.25|8282|Ukraine|Lutsk|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
 |3|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|4|200.58.170.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|5|109.70.188.46|11080|Russia|Makhachkala|LTD "Elektrosvyaz"|
-|6|180.178.189.126|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|7|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
-|8|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|9|181.224.207.19|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|10|188.133.158.27|8080|Russia|Moscow|Enforta-MSK|
-|11|177.22.88.224|3128|Brazil|Passo Fundo|Coprel Telecom Ltda|
-|12|139.0.4.34|8080|Indonesia|Jakarta|PT. First Media, Tbk|
-|13|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
-|14|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|15|185.82.98.12|9091|Lebanon|Tripoli|Protected|
-|16|154.159.243.117|8080|Kenya|Nairobi|Airtel KE Mobile Broadband|
-|17|186.67.192.246|8080|Chile|Antofagasta|Entel Chile S.A.|
-|18|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|19|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|20|143.255.53.29|3128|Brazil|Bonfim do Piaui|Oxente NET Empreendimentos Ltda - EPP|
+|4|14.207.121.203|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|190.7.58.55|3128|Argentina|Buenos Aires|Gigared S.A.|
+|6|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|7|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|200.55.3.122|999|Argentina|Mendoza|Level 3 Argentina S.A|
+|9|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|10|36.67.152.213|11111|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|11|177.185.32.1|8080|Brazil|Ouroeste|Tecnoserve InformÔtica Ltda|
+|12|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
+|13|124.158.171.158|8080|Indonesia|Gandul|ICON+|
+|14|103.11.106.149|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|15|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
+|16|36.95.249.157|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|18|36.92.43.107|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|168.227.56.104|8080|Brazil|Votuporanga|RF connect provedor de acesso ltda-me|
+|20|139.5.151.179|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
 
 
 

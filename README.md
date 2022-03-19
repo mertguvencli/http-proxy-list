@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|168|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|168|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|168|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|158|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|158|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|158|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|179.49.161.58|999|Colombia|Sandona|Integra Multisolutions|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|147.75.100.31|3128|Netherlands|Schiphol|Packet Host, Inc.|
-|4|203.210.84.50|8089|Indonesia|Bandung|Infrastruktur STARNET|
-|5|41.216.68.254|41890|Zambia|Solwezi|MTN Zambia|
-|6|45.33.26.53|3128|United States|Richardson|Linode, LLC|
-|7|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
-|8|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|9|110.232.67.45|55443|Indonesia|Medan|Media Antar Nusa PT.|
-|10|103.76.151.46|8181|Indonesia|Bogor|PT. Java Digital Nusantara|
-|11|38.123.207.249|999|Mexico|Mexico City|Cogent Communications|
-|12|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|77.236.237.177|8080|Russia|Moscow|Enforta-MSK|
-|14|121.121.105.203|8118|Malaysia|Kajang|Maxis Broadband Sdn Bhd|
-|15|165.16.27.12|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|16|213.135.5.141|8080|Germany|Saarbrücken|intersaar GmbH|
-|17|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|18|201.219.11.203|999|Ecuador|Macas|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|188.133.158.27|8080|Russia|Moscow|Enforta-MSK|
-|20|103.253.113.54|8080|Indonesia|Kuningan Barat|PT Media Andalan Nusa|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
+|3|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|7|189.90.255.107|8080|Brazil|Itabira|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|8|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|9|14.161.252.185|55443|Vietnam|Thuận An|VNPT|
+|10|5.104.174.199|23500|Bulgaria|Dobrich|DobrudjaCable Ltd.|
+|11|115.124.79.91|8080|Indonesia|Jakarta|PT Remala Abadi|
+|12|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|13|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|50.195.227.153|8080|United States|Indianapolis|Comcast Cable Communications, LLC|
+|15|103.253.113.54|8080|Indonesia|Kuningan Barat|PT Media Andalan Nusa|
+|16|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|17|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
+|18|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|19|110.74.195.65|55443|Cambodia|Phnom Penh|EZECOM limited|
+|20|109.185.145.97|8080|Moldova|Chisinau|JSC "Moldtelecom" S.A.|
 
 
 

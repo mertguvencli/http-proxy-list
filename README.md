@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3099** proxies at the latest update. Usable proxies are below.
+> Scraper found **2906** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|3|186.47.83.126|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|4|202.162.214.243|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|5|103.133.24.97|8181|Indonesia|Gubug|PT PHATRIA INTI PERSADA|
-|6|200.16.208.187|8080|Argentina|San Nicolas|Telefonica de Argentina|
-|7|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
-|8|112.78.134.133|7777|Indonesia|Semarang|Biznet Networks|
-|9|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|197.221.158.186|8080|Uganda|Kampala|Airtel Uganda|
-|11|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|12|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|13|36.92.93.61|8080|Indonesia|Balikpapan|Telekomunikasi Indonesia|
-|14|158.69.27.94|9300|Canada|Montreal|OVH SAS|
-|15|36.92.116.26|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|16|181.224.207.21|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|17|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|19|187.190.118.188|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|20|77.236.236.38|10000|Russia|Moscow|Enforta-MSK|
+|2|14.207.121.203|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|3|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|4|103.134.98.17|82|India|Tirupati|Airnetz Broadband Services Private Limited|
+|5|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|6|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|7|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|8|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|9|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|10|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|11|45.225.184.206|999|Chile|Melipilla|MJL NETWORK EIRL|
+|12|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|13|188.133.158.80|1256|Russia|Moscow|Enforta-MSK|
+|14|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
+|15|14.192.2.161|84|India|Hyderabad|Viral Communications Private Limited|
+|16|186.3.9.219|999|Ecuador|Guayaquil|Telconet S.A|
+|17|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|19|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
+|20|38.101.122.186|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
 
 
 

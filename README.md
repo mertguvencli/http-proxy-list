@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3382** proxies at the latest update. Usable proxies are below.
+> Scraper found **3480** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|432|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|432|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|432|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|382|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|382|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|382|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
 |2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|3|198.59.147.148|8080|United States|Dallas|SkyRider Communications, Inc.|
-|4|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
-|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|6|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|7|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|8|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|9|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|11|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|12|158.255.254.5|3128|Slovakia|Giraltovce|PRESNET s.r.o.|
-|13|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|14|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
-|15|201.219.11.202|999|Ecuador|Macas|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|16|81.1.26.102|8080|France|Ajaccio|SFR SA|
-|17|203.153.125.242|8080|Indonesia|Tangerang|GMNUSANTARA|
-|18|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|19|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|20|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|3|76.100.209.140|8118|United States|Frederick|Comcast Cable Communications, LLC|
+|4|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|5|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|6|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
+|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
+|9|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|10|20.194.21.114|59394|South Korea|Seoul|Microsoft Corporation|
+|11|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|77.236.237.177|8080|Russia|Moscow|Enforta-MSK|
+|13|101.99.31.69|3128|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|14|154.236.162.59|1981|Egypt|Giza|Enterprise|
+|15|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|16|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
+|17|169.239.188.61|48807|Nigeria|Lagos|ETG Integrated Services Ltd. (Dolphin Telecom)|
+|18|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|19|200.24.199.146|999|Ecuador|Guayaquil|Otecel S.A.|
+|20|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
 
 
 

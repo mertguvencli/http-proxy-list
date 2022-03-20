@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2850** proxies at the latest update. Usable proxies are below.
+> Scraper found **2499** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|3|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|4|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|160.251.19.21|8118|Japan|Shibuya|GMO Internet, Inc|
-|6|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|7|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|8|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|9|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|10|91.186.102.169|8082|Russia|Noril'sk|MTS PJSC|
-|11|182.34.211.212|25624|China|Zibo|Chinanet|
-|12|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
-|13|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|14|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|15|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|190.110.99.100|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|17|110.139.128.232|3127|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
-|18|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
-|19|223.100.215.24|8080|China|Shenyang|China Mobile communications corporation|
-|20|179.61.229.164|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|3|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|4|37.26.136.181|52271|Moldova|Tiraspol|JSCC Interdnestrcom|
+|5|47.108.217.191|8118|China|Chengdu|Hangzhou Alibaba Advertising Co|
+|6|80.93.213.213|3136|Turkey|Ankara|Fibersunucu|
+|7|80.28.148.207|3128|Spain|sa Pobla|TDENET (Red de servicios IP)|
+|8|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|9|144.217.7.157|5566|Canada|Beauharnois|OVH SAS|
+|10|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|11|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
+|12|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|13|163.172.75.81|5566|France|Paris|Online S.A.S.|
+|14|190.2.6.161|8080|Argentina|Buenos Aires|NSS S.A.|
+|15|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|16|200.73.35.180|999|Chile|Las Condes|IFX Corporation|
+|17|45.184.155.253|6969|Argentina|Laferrere|Ruiz Sebastian Alejandro|
+|18|103.129.3.246|84|India|Balianta|S S Cablenet|
+|19|190.12.57.46|8080|Ecuador|Machala|Puntonet S.A.|
+|20|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
 
 
 

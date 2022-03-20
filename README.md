@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2984** proxies at the latest update. Usable proxies are below.
+> Scraper found **3172** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|109.232.106.236|49565|Russia|Elektrostal|CJSC Thyphone Communications 106|
-|3|182.34.254.39|25624|China|Zibo|Chinanet|
-|4|122.2.28.114|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|5|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|6|77.236.237.177|8080|Russia|Moscow|Enforta-MSK|
-|7|185.162.142.81|53281|Moldova|Sergheuca|Societatea Comerciala Click-COM SRL|
-|8|1.32.59.217|47045|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|9|190.181.16.206|999|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|36.66.206.74|80|Indonesia|Malang|PT. Telekomunikasi Indonesia|
-|11|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
-|12|196.219.202.74|8080|Egypt|Awsim|TE-AS|
-|13|124.158.171.158|8080|Indonesia|Gandul|ICON+|
-|14|213.6.227.38|45730|Palestine|Nablus|Palestine Telecommunications Company|
-|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|16|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
-|17|200.54.22.74|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|18|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|19|45.70.237.81|3128|Ecuador|Cuenca|Nedetel S.A.|
-|20|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|1|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|2|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
+|3|1.179.144.41|8080|Thailand|Sankhaburi|TOT Public Company Limited|
+|4|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|5|197.210.217.66|34808|Nigeria|Lagos|MTN NIGERIA Communication limited|
+|6|213.6.66.66|48687|Palestine|Jenin|Palestine Telecommunications Company|
+|7|200.159.30.130|8080|Brazil|São Paulo|Vivo|
+|8|186.47.83.126|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|9|182.253.191.132|8080|Indonesia|Bandung|BIZNET|
+|10|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|11|181.36.121.222|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|12|201.174.104.222|999|Mexico|Chihuahua City|Transtelco Inc|
+|13|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|14|187.251.138.81|3128|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|15|202.51.176.74|8080|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|16|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|17|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|18|123.56.118.36|8080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|19|190.119.211.74|8080|Peru|Puno|America Movil Peru S.A.C.|
+|20|156.200.116.71|1976|Egypt|Giza|TE Data|
 
 
 

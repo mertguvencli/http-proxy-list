@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3480** proxies at the latest update. Usable proxies are below.
+> Scraper found **3378** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|382|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|382|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|382|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|362|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|362|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|362|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|3|76.100.209.140|8118|United States|Frederick|Comcast Cable Communications, LLC|
-|4|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|5|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|6|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
-|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
-|9|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|10|20.194.21.114|59394|South Korea|Seoul|Microsoft Corporation|
-|11|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|77.236.237.177|8080|Russia|Moscow|Enforta-MSK|
-|13|101.99.31.69|3128|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|14|154.236.162.59|1981|Egypt|Giza|Enterprise|
-|15|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|16|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
-|17|169.239.188.61|48807|Nigeria|Lagos|ETG Integrated Services Ltd. (Dolphin Telecom)|
-|18|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|19|200.24.199.146|999|Ecuador|Guayaquil|Otecel S.A.|
-|20|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
+|1|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
+|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|6|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|7|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|8|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
+|9|46.28.109.236|8118|Czechia|Hluboka nad Vltavou|WEDOS Internet|
+|10|177.185.32.1|8080|Brazil|Ouroeste|Tecnoserve InformÔtica Ltda|
+|11|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|12|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|13|66.94.97.238|443|United States|New York|Contabo Inc.|
+|14|200.89.83.130|3128|El Salvador|San Salvador|Digicel S.a. De C.V.|
+|15|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|16|170.83.60.19|55443|Brazil|Uberlândia|H-micro Assistencia Especializade EM Inform Ldta|
+|17|103.76.12.42|80|Indonesia|Bogor|MORATELINDO|
+|18|192.140.42.81|47277|Brazil|Boa Vista do Jauato|Allfiber Telecom ServiÔos de TelecomunicaÔÔes|
+|19|202.51.176.74|8080|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|20|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3024** proxies at the latest update. Usable proxies are below.
+> Scraper found **2984** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
-|3|77.236.252.133|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
-|4|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|5|78.108.192.228|41890|Russia|Moscow|OOO Suntel|
-|6|196.219.202.74|8080|Egypt|Awsim|TE-AS|
-|7|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|8|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
-|9|62.201.217.194|8080|Iraq|Kelar|BAG|
-|10|185.177.222.171|8089|Russia|Murom|Modus LLC|
-|11|180.165.130.47|53281|China|Shanghai|China Telecom (Group)|
-|12|103.243.114.206|8080|India|Pune|Gazon Communications India Limited|
-|13|198.59.147.148|8080|United States|Dallas|SkyRider Communications, Inc.|
-|14|195.178.56.37|8080|Serbia|Novi Sad|TELEKOM SRBIJA a.d.|
-|15|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|16|182.34.254.39|25624|China|Zibo|Chinanet|
-|17|132.255.210.122|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|18|31.163.192.161|3129|Russia|Pokachi|OJSC Rostelecom|
-|19|125.25.184.51|8080|Thailand|Si Racha|TOT Public Company Limited|
-|20|95.140.31.39|41890|Russia|Moscow|Sputnik LTD|
+|2|109.232.106.236|49565|Russia|Elektrostal|CJSC Thyphone Communications 106|
+|3|182.34.254.39|25624|China|Zibo|Chinanet|
+|4|122.2.28.114|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|5|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|6|77.236.237.177|8080|Russia|Moscow|Enforta-MSK|
+|7|185.162.142.81|53281|Moldova|Sergheuca|Societatea Comerciala Click-COM SRL|
+|8|1.32.59.217|47045|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|9|190.181.16.206|999|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|36.66.206.74|80|Indonesia|Malang|PT. Telekomunikasi Indonesia|
+|11|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|12|196.219.202.74|8080|Egypt|Awsim|TE-AS|
+|13|124.158.171.158|8080|Indonesia|Gandul|ICON+|
+|14|213.6.227.38|45730|Palestine|Nablus|Palestine Telecommunications Company|
+|15|158.69.53.98|9300|Canada|Montreal|OVH SAS|
+|16|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
+|17|200.54.22.74|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|18|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|19|45.70.237.81|3128|Ecuador|Cuenca|Nedetel S.A.|
+|20|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2864** proxies at the latest update. Usable proxies are below.
+> Scraper found **2883** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|84|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|84|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|84|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -43,24 +43,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
 |2|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|162.219.119.225|8080|United States|Newark|Hillbilly Wireless INC.|
-|5|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|6|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
-|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
-|9|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|10|43.250.127.98|9001|Mongolia|Ulan Bator|Wicom Networks|
-|11|94.56.27.42|3128|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|12|177.242.148.14|999|Mexico|Tizayuca|Mega Cable, S.A. de C.V.|
-|13|202.62.67.209|53281|India|Visakhapatnam|CityOnline Services|
-|14|124.41.213.201|39272|Nepal|Kathmandu|WorldLink Communications|
-|15|186.3.38.200|999|Ecuador|Guayaquil|Telconet S.A|
-|16|95.154.64.101|8080|Russia|Vladivostok|OCTOPUSNET-SUBSCRIBERS|
-|17|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|18|111.90.179.74|8080|Australia|Marble Bar|Angkor Data Communication|
-|19|51.250.17.27|8080|Russia|Moscow|Yandex.Cloud LLC|
-|20|130.185.73.139|8888|Iran|Tehran|Pars Parva System Ltd|
+|3|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|4|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|200.16.208.187|8080|Argentina|San Nicolas|Telefonica de Argentina|
+|6|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|7|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
+|9|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|10|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|11|201.184.107.26|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|12|135.125.4.232|9090|France|Strasbourg|OVH SAS|
+|13|186.3.38.200|999|Ecuador|Guayaquil|Telconet S.A|
+|14|115.85.65.94|8080|Indonesia|Jakarta|Sudirman Central Business District|
+|15|190.217.14.174|999|Venezuela|Caracas|Lan-online C.A|
+|16|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|17|110.76.148.242|8080|Indonesia|Surabaya|PT Pika Media Komunika|
+|18|222.252.194.75|8081|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|19|201.144.14.232|53281|Mexico|Manzanillo|Uninet S.A. de C.V|
+|20|165.16.0.89|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
 
 
 

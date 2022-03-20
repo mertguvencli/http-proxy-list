@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2849** proxies at the latest update. Usable proxies are below.
+> Scraper found **2895** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|2|118.89.176.33|8118|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|3|202.164.152.229|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
-|4|69.75.140.157|8080|United States|Sylmar|Spectrum|
-|5|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|6|185.32.6.131|8090|Poland|Warsaw|AS Consulting Sp. z o. o.|
-|7|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|8|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|9|159.223.136.87|3128|United States|North Bergen|DigitalOcean, LLC|
-|10|45.251.74.228|80|Indonesia|Jakarta|ORANGE-ISP|
-|11|193.68.57.81|3128|Hungary|Diosd|INVITEL Zrt.|
-|12|103.15.140.121|44759|Bangladesh|Khulna|ICC COMMUNICATION|
-|13|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|176.215.184.157|1256|Russia|Moscow Oblast|JSC "ER-Telecom Holding"|
-|15|45.181.207.129|999|Colombia|Caucasia|Quality NET JM S.a.s. Zomac|
-|16|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
-|17|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|18|158.69.67.129|5566|Canada|Montreal|OVH SAS|
-|19|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|20|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
+|1|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|2|85.115.166.241|3128|Russia|Yekaterinburg|JSC "ER-Telecom Holding" Yekaterinburg branch|
+|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|5|177.129.11.150|8080|Brazil|Rio de Janeiro|Citta Telecom Ltda|
+|6|94.56.27.42|3128|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|177.71.92.134|8080|Brazil|Petrolina|L E M TELECOMUNICAÔÔES LTDA -ME|
+|8|65.20.162.23|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|9|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
+|10|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|12|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|13|147.75.100.31|3128|Netherlands|Schiphol|Packet Host, Inc.|
+|14|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|15|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|16|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
+|17|118.67.219.153|8080|Bangladesh|Dhaka|InterCloud Limited|
+|18|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|19|118.136.52.99|8080|Indonesia|Tangerang|Linknet-Fastnet ASN|
+|20|177.3.137.117|80|Brazil|Itajaí|Brasil Telecom S/A - Filial Distrito Federal|
 
 
 

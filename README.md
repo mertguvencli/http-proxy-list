@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2769** proxies at the latest update. Usable proxies are below.
+> Scraper found **3024** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|163|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|163|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|163|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.49.116.131|1337|Philippines|Mandaluyong City|Converge ICT Solution Inc|
-|2|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|31.163.192.161|3129|Russia|Pokachi|OJSC Rostelecom|
-|4|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
-|5|198.59.147.148|8080|United States|Dallas|SkyRider Communications, Inc.|
-|6|88.255.101.236|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|7|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|8|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
-|9|79.170.154.180|8083|Russia|Moscow|Igor Vladimirovich Gorodkov|
-|10|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|11|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|12|174.139.41.164|9090|United States|Los Angeles|Krypt Technologies|
-|13|36.89.212.251|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|139.255.77.74|8080|Indonesia|Bekasi|PT. LINKNET|
-|15|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
-|16|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|17|181.78.21.174|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
-|18|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
-|19|124.83.75.239|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|20|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
+|3|77.236.252.133|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
+|4|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|5|78.108.192.228|41890|Russia|Moscow|OOO Suntel|
+|6|196.219.202.74|8080|Egypt|Awsim|TE-AS|
+|7|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|8|41.65.174.34|1981|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
+|9|62.201.217.194|8080|Iraq|Kelar|BAG|
+|10|185.177.222.171|8089|Russia|Murom|Modus LLC|
+|11|180.165.130.47|53281|China|Shanghai|China Telecom (Group)|
+|12|103.243.114.206|8080|India|Pune|Gazon Communications India Limited|
+|13|198.59.147.148|8080|United States|Dallas|SkyRider Communications, Inc.|
+|14|195.178.56.37|8080|Serbia|Novi Sad|TELEKOM SRBIJA a.d.|
+|15|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|16|182.34.254.39|25624|China|Zibo|Chinanet|
+|17|132.255.210.122|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|18|31.163.192.161|3129|Russia|Pokachi|OJSC Rostelecom|
+|19|125.25.184.51|8080|Thailand|Si Racha|TOT Public Company Limited|
+|20|95.140.31.39|41890|Russia|Moscow|Sputnik LTD|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3172** proxies at the latest update. Usable proxies are below.
+> Scraper found **3238** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|207|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|207|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|207|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|2|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
-|3|1.179.144.41|8080|Thailand|Sankhaburi|TOT Public Company Limited|
-|4|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|5|197.210.217.66|34808|Nigeria|Lagos|MTN NIGERIA Communication limited|
-|6|213.6.66.66|48687|Palestine|Jenin|Palestine Telecommunications Company|
-|7|200.159.30.130|8080|Brazil|São Paulo|Vivo|
-|8|186.47.83.126|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|182.253.191.132|8080|Indonesia|Bandung|BIZNET|
-|10|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
-|11|181.36.121.222|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|12|201.174.104.222|999|Mexico|Chihuahua City|Transtelco Inc|
-|13|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|14|187.251.138.81|3128|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|15|202.51.176.74|8080|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|16|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|17|188.163.170.130|41209|Ukraine|Lviv|Kyivstar UA|
-|18|123.56.118.36|8080|China|Beijing|Hangzhou Alibaba Advertising Co|
-|19|190.119.211.74|8080|Peru|Puno|America Movil Peru S.A.C.|
-|20|156.200.116.71|1976|Egypt|Giza|TE Data|
+|1|177.190.80.226|8080|Brazil|Pinheiral|Adsnet Telecom Ltda ME|
+|2|182.34.201.55|25624|China|Xintai|Chinanet|
+|3|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|4|182.34.254.39|25624|China|Zibo|Chinanet|
+|5|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
+|6|165.16.80.98|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|7|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|8|185.162.142.81|53281|Moldova|Sergheuca|Societatea Comerciala Click-COM SRL|
+|9|122.116.20.91|8080|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|10|103.15.60.21|8080|India|Udgir|Apollo Online Services Pvt ltd|
+|11|103.120.175.75|8080|Indonesia|Tangerang|PT. Eka Mas Republik|
+|12|197.210.217.66|34808|Nigeria|Lagos|MTN NIGERIA Communication limited|
+|13|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
+|14|82.114.106.7|1256|Russia|Moscow|Enforta-MSK|
+|15|198.59.147.147|8080|United States|Dallas|SkyRider Communications, Inc.|
+|16|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
+|17|206.43.196.24|55443|Brazil|Ananindeua|Click Speed Servicoes del Telecomunicacoes|
+|18|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
+|19|187.95.112.36|6666|Brazil|Campo Largo|COPEL Telecomunicações S.A|
+|20|203.123.57.154|63123|Indonesia|Sidoarjo|PT Maxindo Mitra Solusi|
 
 
 

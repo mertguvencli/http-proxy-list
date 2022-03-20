@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2883** proxies at the latest update. Usable proxies are below.
+> Scraper found **2858** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|113|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|113|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|113|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|2|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|3|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
-|4|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|5|200.16.208.187|8080|Argentina|San Nicolas|Telefonica de Argentina|
-|6|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|7|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
-|9|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|10|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|11|201.184.107.26|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|12|135.125.4.232|9090|France|Strasbourg|OVH SAS|
-|13|186.3.38.200|999|Ecuador|Guayaquil|Telconet S.A|
-|14|115.85.65.94|8080|Indonesia|Jakarta|Sudirman Central Business District|
-|15|190.217.14.174|999|Venezuela|Caracas|Lan-online C.A|
-|16|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|17|110.76.148.242|8080|Indonesia|Surabaya|PT Pika Media Komunika|
-|18|222.252.194.75|8081|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|19|201.144.14.232|53281|Mexico|Manzanillo|Uninet S.A. de C.V|
-|20|165.16.0.89|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|2|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|6|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|8|105.112.248.10|8080|Nigeria|Calabar|Airtel Networks Limited|
+|9|181.30.228.13|3128|Argentina|Rosario|Telecom Argentina S.A|
+|10|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|180.180.171.123|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|12|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|13|181.31.225.234|3128|Argentina|Cipolletti|Telecom Argentina S.A|
+|14|65.20.191.201|41890|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|15|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|16|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|17|41.65.224.71|1976|Egypt|Cairo|Etisalat Misr|
+|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|19|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|20|157.100.53.102|999|Ecuador|Machala|Nedetel S.A.|
 
 
 

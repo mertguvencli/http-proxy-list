@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3378** proxies at the latest update. Usable proxies are below.
+> Scraper found **3151** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|362|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|362|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|362|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
-|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|1|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
+|2|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
+|3|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
 |4|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|6|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|7|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|124.70.46.14|3128|China|Beijing|Huawei Cloud Service data center|
-|9|46.28.109.236|8118|Czechia|Hluboka nad Vltavou|WEDOS Internet|
-|10|177.185.32.1|8080|Brazil|Ouroeste|Tecnoserve InformÔtica Ltda|
-|11|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|12|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|13|66.94.97.238|443|United States|New York|Contabo Inc.|
-|14|200.89.83.130|3128|El Salvador|San Salvador|Digicel S.a. De C.V.|
-|15|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|16|170.83.60.19|55443|Brazil|Uberlândia|H-micro Assistencia Especializade EM Inform Ldta|
-|17|103.76.12.42|80|Indonesia|Bogor|MORATELINDO|
-|18|192.140.42.81|47277|Brazil|Boa Vista do Jauato|Allfiber Telecom ServiÔos de TelecomunicaÔÔes|
-|19|202.51.176.74|8080|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|20|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|5|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|6|190.100.95.229|3128|Chile|San Joaquin|VTR BANDA ANCHA S.A.|
+|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|80.93.212.44|3155|Turkey|Eyuepsultan|Fibersunucu|
+|11|118.89.176.33|8118|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|12|78.111.97.182|3142|Turkey|Eyuepsultan|FS Veri Merkezi Internet Teknolojileri Limited Sirketi|
+|13|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|14|80.93.213.213|3136|Turkey|Ankara|Fibersunucu|
+|15|45.224.153.39|999|Ecuador|Esmeraldas|Nedetel S.A.|
+|16|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|17|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|18|103.239.200.246|1337|Philippines|San Juan|Sky Cable Corporation|
+|19|217.195.203.28|3130|Turkey|Eyuepsultan|FS Veri Merkezi Internet Teknolojileri Limited Sirketi|
+|20|78.111.97.182|3142|Turkey|Eyuepsultan|FS Veri Merkezi Internet Teknolojileri Limited Sirketi|
 
 
 

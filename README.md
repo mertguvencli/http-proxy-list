@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3151** proxies at the latest update. Usable proxies are below.
+> Scraper found **2956** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
-|2|4.14.219.157|3128|United States|Newark|Level 3 Communications, Inc.|
-|3|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|4|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|5|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|6|190.100.95.229|3128|Chile|San Joaquin|VTR BANDA ANCHA S.A.|
-|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|80.93.212.44|3155|Turkey|Eyuepsultan|Fibersunucu|
-|11|118.89.176.33|8118|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|12|78.111.97.182|3142|Turkey|Eyuepsultan|FS Veri Merkezi Internet Teknolojileri Limited Sirketi|
-|13|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|14|80.93.213.213|3136|Turkey|Ankara|Fibersunucu|
-|15|45.224.153.39|999|Ecuador|Esmeraldas|Nedetel S.A.|
-|16|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|17|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|18|103.239.200.246|1337|Philippines|San Juan|Sky Cable Corporation|
-|19|217.195.203.28|3130|Turkey|Eyuepsultan|FS Veri Merkezi Internet Teknolojileri Limited Sirketi|
-|20|78.111.97.182|3142|Turkey|Eyuepsultan|FS Veri Merkezi Internet Teknolojileri Limited Sirketi|
+|1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|2|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|3|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|4|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|5|96.2.228.18|8080|United States|Pierre|Midcontinent Communications|
+|6|140.227.211.47|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|7|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|77.236.243.125|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|9|5.188.0.224|3128|United States|Newark|G-Core Labs S.A.|
+|10|134.209.42.113|8894|United States|Clifton|DigitalOcean, LLC|
+|11|46.161.194.71|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|12|182.34.211.212|25624|China|Zibo|Chinanet|
+|13|185.162.142.81|53281|Moldova|Sergheuca|Societatea Comerciala Click-COM SRL|
+|14|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|15|134.209.42.113|8894|United States|Clifton|DigitalOcean, LLC|
+|16|168.90.15.177|999|Colombia|Bogotá|Media Commerce Partners S.A|
+|17|221.145.101.63|4001|South Korea|Seoul|Korea Telecom|
+|18|160.202.40.254|808|Indonesia|Jakarta|Client Jakarta 5 8 Iconpln|
+|19|193.68.57.81|3128|Hungary|Diosd|INVITEL Zrt.|
+|20|149.154.70.112|3128|Russia|Raduzhny|TheFirst|
 
 
 

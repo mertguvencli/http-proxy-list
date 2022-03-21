@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3080** proxies at the latest update. Usable proxies are below.
+> Scraper found **3078** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|118|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|118|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|118|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
-|2|38.101.122.186|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
-|3|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|4|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|5|185.58.17.129|8080|Ireland|Ashbourne|Model Telecom Ltd|
-|6|202.153.233.228|8080|Indonesia|Jakarta|PT IndoInternet|
-|7|197.210.217.66|34808|Nigeria|Lagos|MTN NIGERIA Communication limited|
-|8|176.37.150.254|41890|Ukraine|Kyiv|Lanet Network|
-|9|124.83.75.239|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|10|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|11|109.108.68.144|41890|Ukraine|Kyiv|ISP KievNet|
-|12|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|77.236.236.38|10000|Russia|Moscow|Enforta-MSK|
-|14|49.156.42.210|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|15|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
-|16|170.83.60.19|55443|Brazil|Uberlândia|H-micro Assistencia Especializade EM Inform Ldta|
-|17|14.207.16.135|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
-|18|45.172.109.1|999|Argentina|San Juan|GPS SANJUAN SRL.|
-|19|190.110.99.107|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|20|45.189.254.33|999|Mexico|Alvarado|Tracered SA De CV|
+|1|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|185.118.129.35|8080|Iraq|Baghdad|Knowledge Path Information Technology ISP|
+|5|202.165.47.90|55443|Indonesia|Jakarta|Circlecom|
+|6|101.53.154.137|2007|India|Noida|E2E Networks Limited|
+|7|164.70.115.148|59394|Japan|Chiyoda|NTT PC Communications, Inc.|
+|8|186.47.83.126|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|9|180.165.130.47|53281|China|Shanghai|China Telecom (Group)|
+|10|177.190.80.226|8080|Brazil|Pinheiral|Adsnet Telecom Ltda ME|
+|11|185.162.142.81|53281|Moldova|Sergheuca|Societatea Comerciala Click-COM SRL|
+|12|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|13|185.82.98.2|9091|Lebanon|Tripoli|Protected|
+|14|188.169.38.111|8080|Georgia|Batumi|UTG MPLS DSL|
+|15|103.15.60.21|8080|India|Udgir|Apollo Online Services Pvt ltd|
+|16|139.99.236.128|3128|Australia|Sydney|OVH SAS|
+|17|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|18|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
+|19|103.205.183.18|55443|Bangladesh|Dhaka|MetroNet Bangladesh Ltd|
+|20|144.217.7.157|9300|Canada|Beauharnois|OVH SAS|
 
 
 

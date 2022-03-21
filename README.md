@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2819** proxies at the latest update. Usable proxies are below.
+> Scraper found **2934** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|134|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|134|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|134|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|3|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
-|4|177.39.136.163|8080|Brazil|Araucária|Dipelnet Corbelia|
-|5|45.4.252.217|999|Argentina|Obera|Fernando German Fischer (FIBERNET TELECOM)|
-|6|178.219.37.70|8080|Russia|Khimki|Modern Technologies Ltd.|
-|7|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|10|210.210.130.154|8181|Indonesia|Palembang|CBN|
-|11|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
-|12|152.67.85.151|8118|Switzerland|Zurich|Oracle Corporation|
-|13|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
-|14|50.235.149.74|8080|United States|Riverview|Comcast Cable Communications, LLC|
-|15|36.89.156.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|117.4.115.169|8080|Vietnam|Hanoi|Viettel Corporation|
-|17|45.171.242.2|8083|Brazil|Atibaia|Lucknet Telecom|
-|18|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
-|19|190.119.166.37|999|Peru|La Victoria|America Movil Peru S.A.C.|
-|20|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|2|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
+|3|138.117.110.87|999|Colombia|Cartago|Media Commerce Partners S.A|
+|4|50.232.250.157|8080|United States|Ferndale|Comcast Cable Communications, LLC|
+|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|6|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
+|7|190.171.80.91|6969|Ecuador|Quito|Ufinet Ecuador Ufiec S.A|
+|8|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|9|80.249.135.25|8080|Russia|Moscow|Acod JSC|
+|10|200.178.26.50|80|Brazil|Osasco|Claro S.A|
+|11|200.54.22.74|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|12|103.73.75.69|8080|Indonesia|Karawang|PT. Wahana Internet Nusantara|
+|13|175.100.72.95|57938|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|14|95.216.12.141|22209|Finland|Helsinki|Hetzner Online GmbH|
+|15|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
+|16|185.142.43.217|8080|Lebanon|Bednâyel|Net Pro sarl|
+|17|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|18|182.253.199.102|8080|Indonesia|Surabaya|Biznet Networks|
+|19|36.95.54.114|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|20|103.155.47.237|8080|Indonesia|Probolinggo|PRONETINDO|
 
 
 

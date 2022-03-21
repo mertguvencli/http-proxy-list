@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2736** proxies at the latest update. Usable proxies are below.
+> Scraper found **2761** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|3|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
-|4|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
-|5|220.247.171.242|8080|Indonesia|Gandul|PT Indonesia Comnets Plus|
-|6|103.207.1.82|8080|India|Tirupur|Sri Vari Network Private Limited|
-|7|36.37.160.242|8080|Cambodia|Prey Veng|VIETTEL (CAMBODIA) PTE.|
-|8|190.90.22.93|999|Colombia|La Jagua de Ibirico|Internexa S.a. E.S.P|
-|9|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
-|10|109.185.145.97|8080|Moldova|Chisinau|JSC "Moldtelecom" S.A.|
-|11|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|12|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|13|154.72.81.154|80|Tanzania|Dar es Salaam|Liquid Telecommunications Ltd|
-|14|167.172.173.210|34969|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|14.143.172.238|8080|India|Kolkata|Tata Communications Limited|
-|16|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
-|17|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
-|18|96.2.228.18|8080|United States|Pierre|Midcontinent Communications|
-|19|103.115.199.226|8181|Pakistan|Lahore|Ambitions Communication System|
-|20|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|1|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
+|2|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|3|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|4|177.185.32.1|8080|Brazil|Ouroeste|Tecnoserve InformÔtica Ltda|
+|5|201.28.39.6|3128|Brazil|São Paulo|Vivo|
+|6|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|7|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|8|177.53.221.89|39310|Brazil|Propria|Sergipeweb Provedores De Internet Ltda|
+|9|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
+|10|187.45.127.87|20183|Brazil|Erebango|Mhnet Telecom|
+|11|202.138.240.185|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
+|12|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|13|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|14|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|15|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
+|16|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|17|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|36.67.11.41|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|19|80.90.130.22|8888|Czechia|Mikulov|Oxid - III|
+|20|79.170.154.180|8083|Russia|Moscow|Igor Vladimirovich Gorodkov|
 
 
 

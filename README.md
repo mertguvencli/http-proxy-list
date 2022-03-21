@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2804** proxies at the latest update. Usable proxies are below.
+> Scraper found **2897** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|201.77.110.1|999|Mexico|Cuauhtemoc|Nidix Networks S.a. De C.V.|
-|2|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
-|3|177.128.115.51|999|Chile|Melipilla|Binet Networking Data Limitada|
-|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|5|190.109.18.66|8080|Colombia|Medellín|Lazus Medellin|
-|6|138.204.68.42|1337|Brazil|Curaca|WANTEL TECNOLOGIA LTDA. Ô EPP|
-|7|117.4.115.169|8080|Vietnam|Hanoi|Viettel Corporation|
-|8|187.95.114.125|3128|Brazil|Roncador|COPEL TelecomunicaÔÔes S.A.|
-|9|103.156.216.178|80|Indonesia|Bekasi|PT. Meiwa Mold Indonesia|
-|10|69.75.140.157|8080|United States|Sylmar|Spectrum|
-|11|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
-|12|101.255.117.122|3128|Indonesia|Bekasi|PT Remala Abadi|
-|13|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
-|14|139.255.99.162|50031|Indonesia|Jakarta|PT. LINKNET|
-|15|158.69.67.129|5566|Canada|Montreal|OVH SAS|
-|16|179.43.94.237|999|Peru|Arequipa|MEDIA COMMERCE PERÚ S.A.C|
-|17|118.97.164.19|8080|Indonesia|Jambi City|PT. TELKOM INDONESIA|
-|18|169.239.188.61|48807|Nigeria|Lagos|ETG Integrated Services Ltd. (Dolphin Telecom)|
-|19|190.113.40.94|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|20|116.68.250.158|8089|Indonesia|Embongkaliasin|PT. Cross Network Indonesia|
+|1|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|2|50.235.149.74|8080|United States|Riverview|Comcast Cable Communications, LLC|
+|3|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|201.150.117.97|999|Mexico|Mixquiahuala de Juarez|Hulux Telecomunicaciones|
+|5|182.253.186.140|8080|Indonesia|Jakarta|BIZNET|
+|6|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|7|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|8|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
+|9|212.156.57.214|8080|Turkey|Istanbul|Turk Telekomunikasyon A.S|
+|10|177.87.168.97|53281|Brazil|Recife|Asstelecom telecomunicaÔÔo Ltda me|
+|11|83.238.80.20|8081|Poland|Szepietowo|NETIA|
+|12|41.33.86.242|8080|Egypt|Cairo|TE Data|
+|13|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|15|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
+|16|37.210.75.39|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|17|77.222.152.108|8080|Ukraine|Kryvyi Rih|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
+|18|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|19|85.25.111.162|5566|Germany|Cologne|PlusServer GmbH|
+|20|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

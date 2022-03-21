@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3043** proxies at the latest update. Usable proxies are below.
+> Scraper found **2970** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.109.18.66|8080|Colombia|Medellín|Lazus Medellin|
-|2|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|3|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|5|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
-|6|87.229.183.202|8080|Russia|Moscow|PJSC "Vimpelcom"|
-|7|45.121.216.99|80|Indonesia|Tangerang|PT. Mora Telematika Indonesia|
-|8|213.6.66.66|48687|Palestine|Jenin|Palestine Telecommunications Company|
-|9|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
-|10|185.82.97.54|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
-|11|5.139.161.156|55443|Russia|Krasnodar|OJSC Rostelecom Macroregional Branch South|
-|12|186.97.172.178|60080|Colombia|Medellín|Colombia Móvil|
-|13|181.47.104.64|8080|Argentina|Buenos Aires|Telecentro S.A.|
-|14|103.18.77.238|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|15|110.77.236.178|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
-|16|185.82.99.123|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
-|17|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|18|85.25.111.162|5566|Germany|Cologne|PlusServer GmbH|
-|19|5.131.243.252|8080|Russia|Moscow|Novotelecom Ltd|
-|20|77.236.252.133|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
+|1|81.174.37.114|8080|Italy|Cittiglio|NGI|
+|2|113.214.48.5|8000|China|Hangzhou|Chinanet|
+|3|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|4|103.95.40.211|3128|Indonesia|Jakarta|X-NODE|
+|5|80.244.229.102|10000|Russia|Moscow|Enforta-MSK|
+|6|178.136.2.208|55443|Ukraine|Kyiv|VEGA Kiev|
+|7|78.108.192.228|41890|Russia|Moscow|OOO Suntel|
+|8|110.77.236.178|8080|Thailand|Bangkok|CAT Telecom Public Company Limited|
+|9|77.236.252.133|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
+|10|103.123.64.234|3128|Indonesia|Jakarta|CEPATNET|
+|11|183.88.232.207|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|12|103.161.164.111|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|13|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|14|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
+|15|119.110.72.2|3888|Indonesia|Jakarta|Maxindo|
+|16|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
+|17|115.87.196.88|8080|Thailand|Bangkok|TRUEBB|
+|18|103.250.68.10|8080|Bangladesh|Dhaka|Next Online Limited|
+|19|200.39.136.129|999|Chile|Valparaíso|Iconex SPA|
+|20|103.124.138.131|8085|Indonesia|Pati|Global Media Data Prima|
 
 
 

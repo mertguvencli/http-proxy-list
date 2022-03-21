@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2761** proxies at the latest update. Usable proxies are below.
+> Scraper found **2776** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
-|2|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|3|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|4|177.185.32.1|8080|Brazil|Ouroeste|Tecnoserve InformÔtica Ltda|
-|5|201.28.39.6|3128|Brazil|São Paulo|Vivo|
-|6|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|7|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|8|177.53.221.89|39310|Brazil|Propria|Sergipeweb Provedores De Internet Ltda|
-|9|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|10|187.45.127.87|20183|Brazil|Erebango|Mhnet Telecom|
-|11|202.138.240.185|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|12|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|13|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
-|14|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|15|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
-|16|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|17|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|18|36.67.11.41|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|19|80.90.130.22|8888|Czechia|Mikulov|Oxid - III|
-|20|79.170.154.180|8083|Russia|Moscow|Igor Vladimirovich Gorodkov|
+|1|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|2|177.242.148.14|999|Mexico|Tizayuca|Mega Cable, S.A. de C.V.|
+|3|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|4|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|5|87.229.183.202|8080|Russia|Moscow|PJSC "Vimpelcom"|
+|6|50.235.149.74|8080|United States|Riverview|Comcast Cable Communications, LLC|
+|7|185.82.96.51|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|8|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|9|36.37.160.242|8080|Cambodia|Prey Veng|VIETTEL (CAMBODIA) PTE.|
+|10|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
+|11|190.113.40.94|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
+|12|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
+|13|179.43.94.237|999|Peru|Arequipa|MEDIA COMMERCE PERÚ S.A.C|
+|14|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|15|116.90.229.186|35561|Nepal|Kathmandu|Websurfer Nepal Communication System Pvt. Ltd|
+|16|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|17|200.188.151.212|8080|Mexico|Saltillo|Television Internacional, S.A. de C.V.|
+|18|103.95.40.211|3128|Indonesia|Jakarta|X-NODE|
+|19|92.207.253.226|38157|United Kingdom|Newbury|Gamma Telecom Ltd|
+|20|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
 
 
 

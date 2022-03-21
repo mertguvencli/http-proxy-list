@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2809** proxies at the latest update. Usable proxies are below.
+> Scraper found **2819** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|119|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|119|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|119|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|41.65.174.34|1976|Egypt|Sharm el Sheikh|Etisalat Misr Mobile BB|
-|2|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|3|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|4|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|5|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|6|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|7|124.158.161.184|8080|Indonesia|Tangerang|ICON+|
-|8|198.100.61.105|8080|United States|Kewanee|Network Business Systems, Inc.|
-|9|165.16.27.13|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|10|212.46.255.78|8080|Russia|Stavropol|PJSC "Vimpelcom"|
-|11|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|12|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|13|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|14|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|15|177.87.168.105|53281|Brazil|Recife|Asstelecom telecomunicaÔÔo Ltda me|
-|16|185.103.168.73|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|17|36.95.21.92|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|88.204.203.34|8080|Kazakhstan|Nur-Sultan|JSC Kazakhtelecom|
-|19|103.209.230.185|8080|Bangladesh|Dhaka|WIMS1|
-|20|202.93.229.195|3128|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|3|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
+|4|177.39.136.163|8080|Brazil|Araucária|Dipelnet Corbelia|
+|5|45.4.252.217|999|Argentina|Obera|Fernando German Fischer (FIBERNET TELECOM)|
+|6|178.219.37.70|8080|Russia|Khimki|Modern Technologies Ltd.|
+|7|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|9|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|10|210.210.130.154|8181|Indonesia|Palembang|CBN|
+|11|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|12|152.67.85.151|8118|Switzerland|Zurich|Oracle Corporation|
+|13|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
+|14|50.235.149.74|8080|United States|Riverview|Comcast Cable Communications, LLC|
+|15|36.89.156.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|117.4.115.169|8080|Vietnam|Hanoi|Viettel Corporation|
+|17|45.171.242.2|8083|Brazil|Atibaia|Lucknet Telecom|
+|18|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
+|19|190.119.166.37|999|Peru|La Victoria|America Movil Peru S.A.C.|
+|20|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
 
 
 

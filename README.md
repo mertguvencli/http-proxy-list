@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2730** proxies at the latest update. Usable proxies are below.
+> Scraper found **2736** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|139.255.99.162|50031|Indonesia|Jakarta|PT. LINKNET|
-|2|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
-|3|154.236.162.34|1981|Egypt|Giza|Enterprise|
-|4|181.209.82.154|23500|Argentina|Dean Funes|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|5|170.254.224.7|55443|Brazil|Uba|Ciotec Telecom Ltda ME|
-|6|114.32.93.245|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|109.70.188.46|11080|Russia|Makhachkala|LTD "Elektrosvyaz"|
-|9|91.209.114.17|6789|Hungary|Budapest|Invitech ICT Services Kft.|
-|10|50.235.149.74|8080|United States|Riverview|Comcast Cable Communications, LLC|
-|11|213.32.75.44|9300|France|Paris|OVH SAS|
-|12|202.180.20.10|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|13|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|14|1.32.59.217|47045|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
-|15|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
-|16|1.1.189.58|8080|Thailand|Wichit|TOT Public Company Limited|
-|17|111.68.26.44|8080|Indonesia|Sleman|GMEDIA|
-|18|197.157.219.169|48625|Nigeria|Lagos|KKONTECH|
-|19|201.150.51.30|45005|Brazil|Maceió|E. D. SERVIÔOS DE COMUNICAÔÔES LTDA|
-|20|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|3|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
+|4|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
+|5|220.247.171.242|8080|Indonesia|Gandul|PT Indonesia Comnets Plus|
+|6|103.207.1.82|8080|India|Tirupur|Sri Vari Network Private Limited|
+|7|36.37.160.242|8080|Cambodia|Prey Veng|VIETTEL (CAMBODIA) PTE.|
+|8|190.90.22.93|999|Colombia|La Jagua de Ibirico|Internexa S.a. E.S.P|
+|9|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|10|109.185.145.97|8080|Moldova|Chisinau|JSC "Moldtelecom" S.A.|
+|11|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|12|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|13|154.72.81.154|80|Tanzania|Dar es Salaam|Liquid Telecommunications Ltd|
+|14|167.172.173.210|34969|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|15|14.143.172.238|8080|India|Kolkata|Tata Communications Limited|
+|16|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
+|17|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|18|96.2.228.18|8080|United States|Pierre|Midcontinent Communications|
+|19|103.115.199.226|8181|Pakistan|Lahore|Ambitions Communication System|
+|20|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
 
 
 

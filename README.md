@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2528** proxies at the latest update. Usable proxies are below.
+> Scraper found **2642** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.231.218.246|8080|India|Chennai|Limras Eronet Broadband Service Private limited|
-|2|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|4|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|5|103.241.204.241|3129|Indonesia|Jember|Universitas Jember|
-|6|61.9.53.157|1337|Philippines|San Juan|Sky Cable Corporation|
-|7|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|8|165.16.27.6|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|9|103.148.39.38|83|India|Bengaluru|Broadway Communication Pvt Ltd|
-|10|41.216.68.254|41890|Zambia|Solwezi|MTN Zambia|
-|11|103.227.141.90|8181|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
-|12|124.158.175.19|8080|Indonesia|Gandul|ICON+|
-|13|175.197.116.163|59394|South Korea|Seoul|Korea Telecom|
-|14|213.135.0.69|8080|Germany|Saarbrücken|intersaar GmbH|
-|15|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
-|16|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÔOS DE COMUNICAÔÔO EM INFORMATICA LTD|
-|17|87.76.1.69|8080|Russia|Ulyanovsk|JSC Telecom.ru|
-|18|139.255.77.74|8080|Indonesia|Bekasi|PT. LINKNET|
-|19|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|20|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|1|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|2|41.65.224.71|1981|Egypt|Cairo|Etisalat Misr|
+|3|89.218.186.134|3128|Kazakhstan|Pavlodar|Kazakhtelecom Data Network Administration|
+|4|131.255.134.144|8080|Brazil|Araquari|O T Tecnologia Em Informática Ltda|
+|5|41.184.178.247|8080|Nigeria|Lagos|ipNX Nigeria Limited|
+|6|181.78.16.235|8080|Colombia|Cúcuta|IFX Networks Argentina S.R.L|
+|7|45.202.16.126|8080|Philippines|Manila|Infinivan Incorporated|
+|8|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
+|9|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
+|10|190.2.209.2|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|175.101.85.129|8080|India|Dargamitta|ExcellMedia Pvt Ltd|
+|12|41.65.181.133|8089|Egypt|Cairo|Etisalat Misr|
+|13|190.11.192.118|999|Argentina|Bell Ville|Nodosud S.A|
+|14|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|15|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|16|45.174.79.117|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
+|17|197.221.85.214|8080|Ghana|Accra|Dimension Data Ltd|
+|18|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|19|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|20|45.170.100.10|999|Chile|Buin|Fibernet SPA|
 
 
 

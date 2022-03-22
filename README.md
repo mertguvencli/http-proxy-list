@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2787** proxies at the latest update. Usable proxies are below.
+> Scraper found **2619** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.171.80.91|6969|Ecuador|Quito|Ufinet Ecuador Ufiec S.A|
-|2|90.145.29.38|8080|Netherlands|Almere Stad|Eurofiber Nederland BV|
-|3|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|4|138.201.145.164|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|5|77.236.231.11|1256|Russia|Moscow|Enforta-MSK|
-|6|77.120.187.185|8080|Ukraine|Kharkiv|Volia Kharkov|
-|7|165.16.66.89|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|8|103.40.122.23|8087|Indonesia|Broyo Barat|PT DINAMIKA MEDIAKOM|
-|9|182.253.82.154|8080|Indonesia|Cikarang|BIZNET|
-|10|188.133.173.21|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
-|11|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|12|103.81.114.182|53281|Myanmar|Yangon|Horizon Telecom International|
-|13|170.79.12.72|9090|Brazil|Teresina|I T Tecnologia e InformaÔÔo Ltda|
-|14|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
-|15|181.65.154.174|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|16|36.94.61.196|4480|Indonesia|Depok|PT. Telekomunikasi Indonesia|
-|17|5.189.186.24|5566|Germany|Nuremberg|Contabo GmbH|
-|18|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|19|200.229.229.197|8080|Brazil|São Paulo|Wireless Comm Services LTDA|
-|20|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|3|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
+|4|181.143.224.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|5|14.139.184.130|3128|India|Salem|National Knowledge Network|
+|6|118.127.99.93|53281|Australia|Melbourne|Spirit Telecom (Australia) Pty Ltd|
+|7|181.49.36.124|999|Colombia|San Agustin|Telmex Colombia S.A.|
+|8|161.49.215.57|8080|Philippines|Plaridel|Converge Information and Communications Technology Solutions|
+|9|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|10|190.90.242.208|999|Colombia|Ocaña|InterNexa Global Network|
+|11|175.103.36.70|80|Indonesia|Malang|Maxindo Mintra Solusi|
+|12|170.80.202.242|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|13|80.92.241.98|8080|Czechia|Prague|LAM plus s.r.o.|
+|14|154.212.7.26|999|Mexico|San Luis de la Paz|Ientc S De RL De CV|
+|15|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
+|16|1.0.170.50|80|Thailand|Kamphaeng Saen|TOT Public Company Limited|
+|17|125.25.82.190|8080|Thailand|Amphoe Phra Pradaeng|TOT Public Company Limited|
+|18|222.74.73.202|42055|China|Bieligutai|Chinanet|
+|19|182.52.140.57|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
 
 
 

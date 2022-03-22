@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2619** proxies at the latest update. Usable proxies are below.
+> Scraper found **2528** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|167|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|167|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|167|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|181.224.207.18|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|3|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
-|4|181.143.224.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|5|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|6|118.127.99.93|53281|Australia|Melbourne|Spirit Telecom (Australia) Pty Ltd|
-|7|181.49.36.124|999|Colombia|San Agustin|Telmex Colombia S.A.|
-|8|161.49.215.57|8080|Philippines|Plaridel|Converge Information and Communications Technology Solutions|
-|9|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|10|190.90.242.208|999|Colombia|Ocaña|InterNexa Global Network|
-|11|175.103.36.70|80|Indonesia|Malang|Maxindo Mintra Solusi|
-|12|170.80.202.242|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|13|80.92.241.98|8080|Czechia|Prague|LAM plus s.r.o.|
-|14|154.212.7.26|999|Mexico|San Luis de la Paz|Ientc S De RL De CV|
-|15|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
-|16|1.0.170.50|80|Thailand|Kamphaeng Saen|TOT Public Company Limited|
-|17|125.25.82.190|8080|Thailand|Amphoe Phra Pradaeng|TOT Public Company Limited|
-|18|222.74.73.202|42055|China|Bieligutai|Chinanet|
-|19|182.52.140.57|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
+|1|103.231.218.246|8080|India|Chennai|Limras Eronet Broadband Service Private limited|
+|2|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|4|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|5|103.241.204.241|3129|Indonesia|Jember|Universitas Jember|
+|6|61.9.53.157|1337|Philippines|San Juan|Sky Cable Corporation|
+|7|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|8|165.16.27.6|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|9|103.148.39.38|83|India|Bengaluru|Broadway Communication Pvt Ltd|
+|10|41.216.68.254|41890|Zambia|Solwezi|MTN Zambia|
+|11|103.227.141.90|8181|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
+|12|124.158.175.19|8080|Indonesia|Gandul|ICON+|
+|13|175.197.116.163|59394|South Korea|Seoul|Korea Telecom|
+|14|213.135.0.69|8080|Germany|Saarbrücken|intersaar GmbH|
+|15|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|16|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÔOS DE COMUNICAÔÔO EM INFORMATICA LTD|
+|17|87.76.1.69|8080|Russia|Ulyanovsk|JSC Telecom.ru|
+|18|139.255.77.74|8080|Indonesia|Bekasi|PT. LINKNET|
+|19|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|20|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2477** proxies at the latest update. Usable proxies are below.
+> Scraper found **2657** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|2|139.255.99.163|50031|Indonesia|Jakarta|PT. LINKNET|
-|3|181.198.40.116|999|Ecuador|Cuenca|Telconet S.A|
-|4|201.120.27.15|53281|Mexico|Mexico City|Uninet S.A. de C.V|
-|5|179.42.145.23|8081|Brazil|Manaus|IHG SERVICOS TELECOM|
-|6|45.71.203.104|999|Ecuador|Loja|Nedetel S.A|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|45.173.6.98|999|Colombia|Zipaquirá|Columbus Networks Colombia|
-|9|190.119.199.20|57333|Peru|Trujillo|America Movil Peru S.A.C.|
-|10|103.36.11.17|8181|Indonesia|Pangkalan|PT Awinet Global Mandiri|
-|11|203.150.128.79|8080|Thailand|Watthana|Internet Thailand Company Ltd|
-|12|49.234.238.133|9999|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|13|190.185.116.161|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|14|222.252.194.75|8081|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|190.12.57.46|80|Ecuador|Machala|Puntonet S.A.|
-|16|45.225.184.145|999|Chile|Melipilla|MJL NETWORK EIRL|
-|17|43.245.95.210|53805|Nepal|Kathmandu|BroadLink Networks and Communications|
-|18|165.16.27.4|1976|Libya|Darnah|Aljeel Aljadeed For Technology|
-|19|116.203.67.172|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|20|138.201.154.35|24000|Germany|Falkenstein|Hetzner Online GmbH|
+|1|61.74.225.38|4001|South Korea|Gwangjin-gu|Korea Telecom|
+|2|186.159.20.210|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|3|177.11.26.208|8083|Brazil|Luziania|Btec Telecom Eireli|
+|4|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
+|5|179.189.193.101|3129|Brazil|Novo Progresso|NovaNet Provedor e Web Ltda|
+|6|187.251.138.81|3128|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|7|200.13.154.41|8080|Bolivia|Tarija|Entel S.A. - EntelNet|
+|8|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|9|190.2.210.139|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|10|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|11|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|181.49.100.190|8080|Colombia|Pitalito|Telmex Colombia S.A.|
+|13|45.229.205.124|55555|Argentina|Dock Sud|Visio RED SRL|
+|14|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|15|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|16|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
+|17|154.113.32.26|8080|Nigeria|Lagos|Mainone Cable Company|
+|18|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|19|89.189.181.161|55855|Russia|Novosibirsk|Siberian Networks ltd|
+|20|103.124.138.131|8085|Indonesia|Pati|Global Media Data Prima|
 
 
 

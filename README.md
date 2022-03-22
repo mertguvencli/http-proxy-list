@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2952** proxies at the latest update. Usable proxies are below.
+> Scraper found **2798** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|135|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|135|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|135|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
-|2|165.16.27.13|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|3|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
-|4|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
-|5|196.219.202.74|8080|Egypt|Awsim|TE-AS|
-|6|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|7|175.100.72.95|57938|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|8|101.255.103.201|53281|Indonesia|Bogor|PT Remala Abadi|
-|9|36.89.156.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|11|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|12|96.2.228.18|8080|United States|Pierre|Midcontinent Communications|
-|13|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
-|14|103.250.68.10|8080|Bangladesh|Dhaka|Next Online Limited|
-|15|122.116.20.91|8080|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|16|222.252.194.75|8081|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|17|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|18|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
-|19|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|20|103.87.201.86|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
+|1|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
+|2|14.187.207.53|19132|Vietnam|Ho Chi Minh City|VNPT|
+|3|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
+|4|158.69.53.132|9300|Canada|Montreal|OVH SAS|
+|5|185.204.197.169|8080|Italy|Rome|Pars Parva System LLC|
+|6|206.62.153.9|8080|Palestine|Gaza|AGIS|
+|7|88.204.203.34|8080|Kazakhstan|Nur-Sultan|JSC Kazakhtelecom|
+|8|185.103.168.73|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|9|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|10|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
+|11|165.16.27.13|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|12|185.82.98.2|9091|Lebanon|Tripoli|Protected|
+|13|61.216.185.88|60808|Taiwan|Chiayi|Chunghwa Telecom Co., Ltd.|
+|14|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|15|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|16|45.5.68.82|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|17|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
+|18|98.154.21.253|3128|United States|Los Angeles|Charter Communications Inc|
+|19|185.108.140.69|8080|Bulgaria|Sofia|NetX|
+|20|190.217.14.124|999|Venezuela|Caracas|Lan-online C.A.|
 
 
 

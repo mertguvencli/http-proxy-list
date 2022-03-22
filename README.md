@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2642** proxies at the latest update. Usable proxies are below.
+> Scraper found **2805** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|2|41.65.224.71|1981|Egypt|Cairo|Etisalat Misr|
-|3|89.218.186.134|3128|Kazakhstan|Pavlodar|Kazakhtelecom Data Network Administration|
-|4|131.255.134.144|8080|Brazil|Araquari|O T Tecnologia Em Informática Ltda|
-|5|41.184.178.247|8080|Nigeria|Lagos|ipNX Nigeria Limited|
-|6|181.78.16.235|8080|Colombia|Cúcuta|IFX Networks Argentina S.R.L|
-|7|45.202.16.126|8080|Philippines|Manila|Infinivan Incorporated|
-|8|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
-|9|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
-|10|190.2.209.2|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|11|175.101.85.129|8080|India|Dargamitta|ExcellMedia Pvt Ltd|
-|12|41.65.181.133|8089|Egypt|Cairo|Etisalat Misr|
-|13|190.11.192.118|999|Argentina|Bell Ville|Nodosud S.A|
-|14|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|15|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|16|45.174.79.117|999|Mexico|Ciudad Delicias|Raul Duarte Urita|
-|17|197.221.85.214|8080|Ghana|Accra|Dimension Data Ltd|
-|18|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|19|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|20|45.170.100.10|999|Chile|Buin|Fibernet SPA|
+|1|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|2|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|3|203.128.83.115|8080|Indonesia|Jakarta|Neuviz|
+|4|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|5|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
+|6|177.39.136.163|8080|Brazil|Araucária|Dipelnet Corbelia|
+|7|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|8|45.227.95.2|8085|Argentina|Lomas de Zamora|Andros-net Comunicaciones S.R.L.|
+|9|103.40.122.23|8087|Indonesia|Broyo Barat|PT DINAMIKA MEDIAKOM|
+|10|188.133.157.61|10000|Russia|Moscow|Enforta-MSK|
+|11|121.101.131.10|8080|Indonesia|Yogyakarta|TERABIT|
+|12|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
+|13|77.236.243.125|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|14|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
+|15|187.243.250.197|3128|Mexico|Mazatlán|Mega Cable, S.A. de C.V.|
+|16|89.109.252.129|8080|Russia|Balashikha|CTC-IPOE|
+|17|170.79.116.26|8080|Brazil|Natal|J D S MEDEIROS PROVEDOR DE INTERNET - ME|
+|18|36.92.134.71|999|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|19|103.250.166.12|6666|India|Gandhidham|GTPL Ahmedabad Cable N/W pvt. Ltd.|
+|20|185.20.198.108|8080|Iraq|Basrah|Horizon Scope Mobile Telecom WLL|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2567** proxies at the latest update. Usable proxies are below.
+> Scraper found **2680** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
-|2|203.223.34.2|8090|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
-|3|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
-|4|35.214.170.66|3128|Netherlands|Groningen|Google LLC|
-|5|202.147.198.115|8080|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
-|6|131.255.134.144|8080|Brazil|Araquari|O T Tecnologia Em Informática Ltda|
-|7|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
-|8|45.189.112.225|999|Ecuador|Guayaquil|Anibal Humberto Enriquez Moncayo(Comunicate)|
-|9|103.81.114.182|53281|Myanmar|Yangon|Horizon Telecom International|
-|10|45.70.201.179|999|Ecuador|San Gabriel|Nedetel S.A.|
-|11|45.167.95.184|8085|Mexico|Querétaro|Lantointernet SA De CV|
-|12|189.126.72.97|20183|Brazil|Fortaleza|Provedornet Telecom. e ServiÔos de Internet Ltda|
-|13|202.6.227.174|3888|Indonesia|Surabaya|PADINET - Padi Internet|
-|14|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|15|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|16|36.37.160.242|8080|Cambodia|Prey Veng|VIETTEL (CAMBODIA) PTE.|
-|17|92.255.205.129|8080|Russia|Kazan’|CJSC "ER-Telecom Holding" Kazan' branch|
-|18|94.231.178.249|9797|Ukraine|Zbarazh|"Galichina Telekommunication" LTD|
-|19|176.115.197.118|8080|Russia|Moscow|UnitTelecom LLC|
-|20|156.200.110.114|1981|Egypt|Giza|TE Data|
+|1|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÔOS DE COMUNICAÔÔO EM INFORMATICA LTD|
+|2|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|3|182.34.137.1|25624|China|Zibo|Chinanet|
+|4|125.26.165.245|443|Thailand|Bangkok|TOT Public Company Limited|
+|5|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
+|6|95.87.14.245|8181|Bulgaria|Kazanlak|TK-SZ|
+|7|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|8|187.190.118.188|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
+|9|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|213.226.11.149|41878|Bulgaria|Sofia|Mobiltel EAD|
+|11|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|77.236.243.125|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|13|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|14|103.155.166.242|8181|Indonesia|Bekasi|PT Network Lintas Fiberindo|
+|15|177.73.112.180|9090|Brazil|Touros|MGNET INFORMATICA E SERVIÔOS LTDA|
+|16|103.145.168.74|84|India|Delhi|Nikhil Network Solution|
+|17|103.109.96.165|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
+|18|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|19|118.69.176.168|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|20|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
 
 
 

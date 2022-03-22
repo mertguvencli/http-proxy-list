@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2853** proxies at the latest update. Usable proxies are below.
+> Scraper found **2538** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|106|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|106|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|106|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|40.83.19.31|8080|United States|Des Moines|Microsoft Corporation|
-|3|41.77.7.234|3129|Zambia|Lusaka|Airtel Zambia|
-|4|202.169.51.46|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|5|41.128.183.11|1981|Egypt|Cairo|LINKdotNET AS number|
-|6|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|7|202.145.13.109|8080|Indonesia|Puspasari|PT Jala Lintas Media|
-|8|180.178.189.102|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|9|175.197.116.163|59394|South Korea|Seoul|Korea Telecom|
-|10|178.205.254.106|8080|Russia|Kazan’|TATTELECOM|
-|11|212.73.73.234|8081|Armenia|Yerevan|Telecom Armenia CJSC|
-|12|154.236.168.179|1981|Egypt|Cairo|Etisalat Misr|
-|13|196.3.99.162|8080|Mozambique|Maputo|Eduardo Mondlane University|
-|14|45.174.249.20|999|Mexico|Morelia|Wifmax S.A de C.V.|
-|15|36.95.102.111|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|186.3.38.200|999|Ecuador|Guayaquil|Telconet S.A|
-|17|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
-|18|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|19|124.158.88.56|54555|Mongolia|Ulan Bator|STXCitinet LLC|
-|20|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
+|1|201.174.10.170|999|Mexico|Nogales|Transtelco Inc|
+|2|186.154.211.107|999|Colombia|Bogotá|ETB - Colombia|
+|3|213.5.190.194|41890|Kazakhstan|Almaty|Kar-Tel LLC|
+|4|165.16.27.12|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|7|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|8|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|9|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
+|10|203.190.45.10|3127|Indonesia|Jombang|PT Jaring Lintas Utara|
+|11|180.232.123.251|3128|Philippines|Baugo|Eastern Telecommunications Philippines, Inc.|
+|12|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|13|103.152.93.218|8181|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|14|138.204.68.42|1337|Brazil|Curaca|WANTEL TECNOLOGIA LTDA. Ô EPP|
+|15|103.166.10.134|8181|Indonesia|Tegalrejo|CV. Karomah Media Nusantara|
+|16|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|17|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
+|18|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
+|19|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
+|20|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
 
 
 

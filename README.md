@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2906** proxies at the latest update. Usable proxies are below.
+> Scraper found **2952** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|2|79.170.154.180|8083|Russia|Moscow|Igor Vladimirovich Gorodkov|
-|3|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|4|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|5|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
-|6|158.140.169.86|80|Indonesia|Surabaya|MYREPUBLIC|
-|7|200.178.26.50|80|Brazil|Osasco|Claro S.A|
-|8|185.103.168.73|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|9|170.239.255.2|55443|Brazil|Betim|Utopianet Informatica E Telecomunicacoes Ltda|
-|10|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|11|178.134.157.215|8080|Georgia|Ts'khinvali|JSC "Silknet"|
-|12|170.239.255.2|55443|Brazil|Betim|Utopianet Informatica E Telecomunicacoes Ltda|
-|13|206.62.153.9|8080|Palestine|Gaza|AGIS|
-|14|46.35.249.189|41419|Ukraine|Sevastopol|Lancom Ltd.|
-|15|182.253.199.102|8080|Indonesia|Surabaya|Biznet Networks|
-|16|36.95.54.114|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|180.178.189.126|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|18|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
-|19|144.217.7.157|5566|Canada|Beauharnois|OVH SAS|
-|20|218.238.214.45|8080|South Korea|Seoul|SK Broadband Co Ltd|
+|1|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|2|165.16.27.13|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|3|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|4|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|5|196.219.202.74|8080|Egypt|Awsim|TE-AS|
+|6|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|7|175.100.72.95|57938|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|8|101.255.103.201|53281|Indonesia|Bogor|PT Remala Abadi|
+|9|36.89.156.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|11|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|12|96.2.228.18|8080|United States|Pierre|Midcontinent Communications|
+|13|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|14|103.250.68.10|8080|Bangladesh|Dhaka|Next Online Limited|
+|15|122.116.20.91|8080|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|16|222.252.194.75|8081|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|18|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|19|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|20|103.87.201.86|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
 
 
 

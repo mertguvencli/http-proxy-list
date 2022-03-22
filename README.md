@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2634** proxies at the latest update. Usable proxies are below.
+> Scraper found **2528** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|136|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|136|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|136|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.52.241.12|999|Puerto Rico|Corozal|OSNET Wireless|
-|2|118.70.144.77|3128|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|3|174.81.78.64|48678|United States|Wallace|Charter Communications|
-|4|190.7.58.55|3128|Argentina|Buenos Aires|Gigared S.A.|
-|5|186.97.156.130|999|Colombia|Medellín|Colombia Móvil|
-|6|156.200.110.114|1976|Egypt|Giza|TE Data|
-|7|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
-|8|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|9|114.6.87.177|60811|Indonesia|Malang|PT. INDOSAT Tbk|
-|10|85.25.198.22|5566|France|Strasbourg|Host Europe GmbH|
-|11|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
-|12|200.114.84.76|8080|Argentina|La Plata|Citarella S.A.|
-|13|37.252.73.192|8080|Armenia|Noyemberyan|Ucom Cjsc|
-|14|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|86.57.181.122|35709|Belarus|Vitebsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|16|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
-|17|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
-|18|139.255.21.74|8080|Indonesia|Surabaya|PT. LINKNET|
-|19|161.49.215.57|8080|Philippines|Plaridel|Converge Information and Communications Technology Solutions|
-|20|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|1|43.134.194.21|8118|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|2|201.77.109.129|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|3|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
+|4|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|5|109.183.189.238|53959|Czechia|Brno|T-Mobile Czech Republic|
+|6|200.58.170.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|7|109.86.152.78|55443|Ukraine|Kyiv|Triolan|
+|8|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|9|193.57.43.193|81|Ukraine|Kharkiv|Pitline Ltd|
+|10|109.238.222.5|40387|Czechia|Libis|Planet A, a.s.|
+|11|96.2.228.18|8080|United States|Pierre|Midcontinent Communications|
+|12|203.150.172.151|8080|Thailand|Trang|Internet Thailand Company Ltd.|
+|13|41.164.68.42|8080|South Africa|Halfway House|Liquid Telecommunications Operations Limited|
+|14|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|15|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
+|16|186.3.9.217|999|Ecuador|Guayaquil|Telconet S.A|
+|17|154.236.168.179|1981|Egypt|Cairo|Etisalat Misr|
+|18|177.69.180.171|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|19|43.243.172.18|83|India|Pune|Shah Solutions|
+|20|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2680** proxies at the latest update. Usable proxies are below.
+> Scraper found **2771** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÔOS DE COMUNICAÔÔO EM INFORMATICA LTD|
-|2|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|3|182.34.137.1|25624|China|Zibo|Chinanet|
-|4|125.26.165.245|443|Thailand|Bangkok|TOT Public Company Limited|
-|5|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
-|6|95.87.14.245|8181|Bulgaria|Kazanlak|TK-SZ|
-|7|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|187.190.118.188|999|Mexico|Pachuca|Total Play Telecomunicaciones SA De CV|
-|9|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|213.226.11.149|41878|Bulgaria|Sofia|Mobiltel EAD|
-|11|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|77.236.243.125|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|13|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
-|14|103.155.166.242|8181|Indonesia|Bekasi|PT Network Lintas Fiberindo|
-|15|177.73.112.180|9090|Brazil|Touros|MGNET INFORMATICA E SERVIÔOS LTDA|
-|16|103.145.168.74|84|India|Delhi|Nikhil Network Solution|
-|17|103.109.96.165|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|18|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|19|118.69.176.168|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|20|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|1|181.78.18.93|999|Colombia|Montelíbano|IFX Networks Argentina S.R.L|
+|2|192.99.239.215|8080|Pakistan|Rawalpindi|OVH Hosting|
+|3|187.144.208.108|3128|Mexico|Manzanillo|Uninet S.A. de C.V.|
+|4|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|5|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|202.6.227.174|3888|Indonesia|Surabaya|PADINET - Padi Internet|
+|7|103.44.156.65|8080|India|Kolkata|Kavish online services private limited|
+|8|156.200.110.114|1981|Egypt|Giza|TE Data|
+|9|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|10|114.5.199.203|8080|Indonesia|Bandung|PT. INDOSAT Tbk|
+|11|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|12|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|13|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
+|14|212.156.57.214|8080|Turkey|Istanbul|Turk Telekomunikasyon A.S|
+|15|103.5.232.145|8080|Bangladesh|Double Moorings|Chittagong Online Limited|
+|16|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
+|17|200.8.19.18|999|Venezuela|San Felipe|Corporación Telemic C.A.|
+|18|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
+|19|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|20|45.189.58.65|9090|Ecuador|Paute|Cbvision S.A.|
 
 
 

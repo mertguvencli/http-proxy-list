@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2945** proxies at the latest update. Usable proxies are below.
+> Scraper found **2906** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|2|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|3|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|4|45.121.216.99|8080|Indonesia|Tangerang|PT. Mora Telematika Indonesia|
-|5|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|6|152.67.85.151|8118|Switzerland|Zurich|Oracle Corporation|
-|7|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|8|46.209.30.12|8080|Iran|Mashhad|Respina Networks & Beyond PJSC|
-|9|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
-|10|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
-|11|181.16.175.10|8080|Argentina|Monte Ralo|Colsecor Cooperativa Limitada|
-|12|36.37.160.242|8080|Cambodia|Prey Veng|VIETTEL (CAMBODIA) PTE.|
-|13|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
-|14|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|15|103.76.151.46|8181|Indonesia|Bogor|PT. Java Digital Nusantara|
-|16|77.222.152.108|8080|Ukraine|Kryvyi Rih|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|17|109.108.68.144|41890|Ukraine|Kyiv|ISP KievNet|
-|18|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|19|190.90.22.93|999|Colombia|La Jagua de Ibirico|Internexa S.a. E.S.P|
-|20|185.3.214.3|80|Iran|Shahrīār|Pouya shabakeh Asr Co. (LTD.)|
+|1|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|2|79.170.154.180|8083|Russia|Moscow|Igor Vladimirovich Gorodkov|
+|3|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|4|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|5|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|6|158.140.169.86|80|Indonesia|Surabaya|MYREPUBLIC|
+|7|200.178.26.50|80|Brazil|Osasco|Claro S.A|
+|8|185.103.168.73|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|9|170.239.255.2|55443|Brazil|Betim|Utopianet Informatica E Telecomunicacoes Ltda|
+|10|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
+|11|178.134.157.215|8080|Georgia|Ts'khinvali|JSC "Silknet"|
+|12|170.239.255.2|55443|Brazil|Betim|Utopianet Informatica E Telecomunicacoes Ltda|
+|13|206.62.153.9|8080|Palestine|Gaza|AGIS|
+|14|46.35.249.189|41419|Ukraine|Sevastopol|Lancom Ltd.|
+|15|182.253.199.102|8080|Indonesia|Surabaya|Biznet Networks|
+|16|36.95.54.114|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|180.178.189.126|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
+|18|189.201.148.15|999|Mexico|Mexico City|ATC HOLDING FIBRA MEXICO, S. DE R.L. DE C.V.|
+|19|144.217.7.157|5566|Canada|Beauharnois|OVH SAS|
+|20|218.238.214.45|8080|South Korea|Seoul|SK Broadband Co Ltd|
 
 
 

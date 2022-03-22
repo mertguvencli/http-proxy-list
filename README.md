@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2528** proxies at the latest update. Usable proxies are below.
+> Scraper found **2380** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.134.194.21|8118|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
-|2|201.77.109.129|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|3|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
-|4|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|5|109.183.189.238|53959|Czechia|Brno|T-Mobile Czech Republic|
-|6|200.58.170.65|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|7|109.86.152.78|55443|Ukraine|Kyiv|Triolan|
-|8|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|9|193.57.43.193|81|Ukraine|Kharkiv|Pitline Ltd|
-|10|109.238.222.5|40387|Czechia|Libis|Planet A, a.s.|
-|11|96.2.228.18|8080|United States|Pierre|Midcontinent Communications|
-|12|203.150.172.151|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|13|41.164.68.42|8080|South Africa|Halfway House|Liquid Telecommunications Operations Limited|
-|14|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|15|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
-|16|186.3.9.217|999|Ecuador|Guayaquil|Telconet S.A|
-|17|154.236.168.179|1981|Egypt|Cairo|Etisalat Misr|
-|18|177.69.180.171|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
-|19|43.243.172.18|83|India|Pune|Shah Solutions|
-|20|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|3|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|4|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|5|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
+|6|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|7|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|8|20.74.169.104|8118|United Arab Emirates|Dubai|Microsoft Corporation|
+|9|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|10|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|11|181.143.224.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|12|164.70.122.6|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
+|13|217.197.158.182|41890|Czechia|Bystrice pod Hostynem|Plusline s.r.o.|
+|14|193.242.178.90|44551|Russia|Moscow|Avelacom Business Ltd.|
+|15|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|16|160.202.40.254|808|Indonesia|Jakarta|Client Jakarta 5 8 Iconpln|
+|17|45.173.231.155|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|176.115.197.118|8080|Russia|Moscow|UnitTelecom LLC|
+|19|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|20|95.104.54.227|42119|Georgia|K'alak'i T'bilisi|Magticom Ltd.|
 
 
 

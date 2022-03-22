@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2657** proxies at the latest update. Usable proxies are below.
+> Scraper found **2567** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.74.225.38|4001|South Korea|Gwangjin-gu|Korea Telecom|
-|2|186.159.20.210|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|3|177.11.26.208|8083|Brazil|Luziania|Btec Telecom Eireli|
-|4|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
-|5|179.189.193.101|3129|Brazil|Novo Progresso|NovaNet Provedor e Web Ltda|
-|6|187.251.138.81|3128|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|7|200.13.154.41|8080|Bolivia|Tarija|Entel S.A. - EntelNet|
-|8|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|9|190.2.210.139|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|11|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|181.49.100.190|8080|Colombia|Pitalito|Telmex Colombia S.A.|
-|13|45.229.205.124|55555|Argentina|Dock Sud|Visio RED SRL|
-|14|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|15|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
-|16|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
-|17|154.113.32.26|8080|Nigeria|Lagos|Mainone Cable Company|
-|18|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|19|89.189.181.161|55855|Russia|Novosibirsk|Siberian Networks ltd|
-|20|103.124.138.131|8085|Indonesia|Pati|Global Media Data Prima|
+|1|51.222.40.26|9090|Canada|Beauharnois|OVH SAS|
+|2|203.223.34.2|8090|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
+|3|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|4|35.214.170.66|3128|Netherlands|Groningen|Google LLC|
+|5|202.147.198.115|8080|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
+|6|131.255.134.144|8080|Brazil|Araquari|O T Tecnologia Em Informática Ltda|
+|7|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
+|8|45.189.112.225|999|Ecuador|Guayaquil|Anibal Humberto Enriquez Moncayo(Comunicate)|
+|9|103.81.114.182|53281|Myanmar|Yangon|Horizon Telecom International|
+|10|45.70.201.179|999|Ecuador|San Gabriel|Nedetel S.A.|
+|11|45.167.95.184|8085|Mexico|Querétaro|Lantointernet SA De CV|
+|12|189.126.72.97|20183|Brazil|Fortaleza|Provedornet Telecom. e ServiÔos de Internet Ltda|
+|13|202.6.227.174|3888|Indonesia|Surabaya|PADINET - Padi Internet|
+|14|132.255.210.118|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|15|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|16|36.37.160.242|8080|Cambodia|Prey Veng|VIETTEL (CAMBODIA) PTE.|
+|17|92.255.205.129|8080|Russia|Kazan’|CJSC "ER-Telecom Holding" Kazan' branch|
+|18|94.231.178.249|9797|Ukraine|Zbarazh|"Galichina Telekommunication" LTD|
+|19|176.115.197.118|8080|Russia|Moscow|UnitTelecom LLC|
+|20|156.200.110.114|1981|Egypt|Giza|TE Data|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2543** proxies at the latest update. Usable proxies are below.
+> Scraper found **2562** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.48.101.245|3128|Colombia|Medellín|Telmex Colombia S.A.|
-|2|191.97.1.89|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
-|3|61.8.75.186|3128|Indonesia|Kuningan Barat|PT Aplikanusa Lintasarta|
-|4|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
-|5|202.150.150.211|8080|Indonesia|Banyusari|PT Comtronics Systems|
-|6|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|7|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|8|177.47.183.65|8080|Brazil|Aracaju|CI CENTRO DE INFORMAÇÕES LTDA|
-|9|51.178.182.23|3128|France|Strasbourg|OVH SAS|
-|10|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
-|11|89.204.214.142|8080|Ireland|Kilcock|O2 Ireland Fixed Broadband - Eircom White Label|
-|12|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|103.131.214.138|8080|Pakistan|Khanewal|INSTACOM Pvt. LTD|
-|14|5.160.91.130|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
-|15|12.218.209.130|53281|United States|Milpitas|AT&T Services, Inc.|
-|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|17|176.213.143.38|3128|Russia|Rostov-on-Don|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
-|18|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|19|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|20|45.184.155.84|6969|Argentina|Laferrere|Ruiz Sebastian Alejandro|
+|1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|2|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|3|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|212.3.135.232|3128|Russia|Smolensk|Smolensk branch of the JSC "CenterTelecom"|
+|5|200.159.30.130|8080|Brazil|São Paulo|Vivo|
+|6|189.203.10.141|999|Mexico|Santa Cruz Amilpas|Total Play Telecomunicaciones SA De CV|
+|7|92.247.2.26|21231|Bulgaria|Sofia|A1 Bulgaria EAD|
+|8|182.253.82.156|8080|Indonesia|Cikarang|BIZNET|
+|9|203.189.89.153|8080|Indonesia|Jakarta|Departemen Energi dan Sumber Daya Mineral|
+|10|103.209.230.113|8080|Bangladesh|Dhaka|WIMS1|
+|11|187.243.250.197|3128|Mexico|Mazatlán|Mega Cable, S.A. de C.V.|
+|12|103.151.20.111|8080|Indonesia|Makassar|Dinas Komunikasi dan Informatika Kota Makassar|
+|13|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|14|41.111.204.186|8080|Algeria|Akbou|Algerie Telecom|
+|15|103.76.12.42|8181|Indonesia|Bogor|MORATELINDO|
+|16|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
+|17|190.119.199.20|57333|Peru|Trujillo|America Movil Peru S.A.C.|
+|18|46.99.183.154|1234|Albania|Tirana|IPKO Telecommunications LLC|
+|19|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|20|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

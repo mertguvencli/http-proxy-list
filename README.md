@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2767** proxies at the latest update. Usable proxies are below.
+> Scraper found **2795** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|2|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|3|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|4|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|5|177.55.207.38|8080|Brazil|Carmo|Sumicity Telecomunicacoes S.A.|
-|6|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|7|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|8|91.93.118.3|8090|Turkey|Ankara|Tellcom Iletisim Hizmetleri A.S.|
-|9|197.210.96.85|8080|Nigeria|Owerri|MTN NIGERIA Communication limited|
-|10|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|11|31.173.94.93|43539|Russia|Kolomna|MegaFon|
-|12|103.23.206.170|8080|Bangladesh|Rangpur City|Mizanur Rahman t/a Maya Cyber World|
-|13|65.20.191.201|80|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
-|14|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
-|15|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
-|16|132.255.210.115|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|17|185.82.99.123|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
-|18|103.125.162.134|83|India|Hyderabad|CtrlS Datacenters Ltd.|
-|19|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
-|20|103.14.20.28|7777|Indonesia|Garut|PT Citra Jelajah Informatika|
+|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|3|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|4|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|5|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
+|6|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|7|177.190.80.226|8080|Brazil|Pinheiral|Adsnet Telecom Ltda ME|
+|8|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|9|138.219.216.146|999|Argentina|Campo Viera|Jose Luis Zurakouski (MIX SERVICIOS & COMUNICACIONES)|
+|10|185.143.42.54|8080|Iraq|Ramadi|LinkiWay DMCC|
+|11|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|12|190.7.58.55|3128|Argentina|Buenos Aires|Gigared S.A.|
+|13|201.187.101.12|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|14|89.250.149.114|60981|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|15|41.65.181.133|8089|Egypt|Cairo|Etisalat Misr|
+|16|103.95.40.211|3128|Indonesia|Jakarta|X-NODE|
+|17|45.70.201.176|999|Ecuador|San Gabriel|Nedetel S.A.|
+|18|177.126.151.162|8081|Brazil|Belmonte|Firemicro Informática|
+|19|14.139.184.130|3128|India|Salem|National Knowledge Network|
+|20|191.97.1.91|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2857** proxies at the latest update. Usable proxies are below.
+> Scraper found **2590** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,25 +41,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|91.90.180.185|8080|Poland|Krakow|3S S.A. LIR|
-|2|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|3|132.255.210.115|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|4|149.56.96.252|9300|Canada|Montreal|OVH SAS|
-|5|23.132.48.1|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
-|6|190.109.18.66|8080|Colombia|Medellín|Lazus Medellin|
-|7|94.28.8.61|8080|Russia|Krasnodar|Enforta-EKB|
-|8|36.89.148.47|33677|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|103.161.164.111|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|10|36.95.65.99|8019|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|12|41.33.86.242|8080|Egypt|Cairo|TE Data|
-|13|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|14|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|15|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|101.53.154.137|2009|India|Noida|E2E Networks Limited|
-|17|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|18|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
-|19|202.62.10.51|80|Indonesia|Pamulang|Client Jakarta Iconpln|
+|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|3|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|4|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
+|5|45.191.196.253|999|Peru|Lima|Softbutterfly SAC|
+|6|133.167.86.191|8118|Japan|Osaka|SAKURA Internet Inc.|
+|7|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
+|8|207.180.192.43|8118|Germany|Nuremberg|Contabo GmbH|
+|9|186.3.9.218|999|Ecuador|Guayaquil|Telconet S.A|
+|10|46.0.203.186|8080|Russia|Samara|JSC "ER-Telecom Holding"|
+|11|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|12|43.252.10.212|2222|Indonesia|Jakarta|QUANTUMNET|
+|13|138.117.85.121|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|14|36.67.152.213|11111|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
+|15|36.91.98.115|8181|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|16|165.16.80.101|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|17|36.94.27.124|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|36.67.11.41|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
+|19|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
 |20|85.235.184.186|3129|Russia|Moscow|MTS PJSC|
 
 

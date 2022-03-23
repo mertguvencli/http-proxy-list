@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2512** proxies at the latest update. Usable proxies are below.
+> Scraper found **2503** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.213.105.190|8080|Afghanistan|Kabul|Ankabut 002|
-|2|77.238.129.14|55443|Russia|Voronezh|LLC Intercon|
-|3|200.24.132.204|6969|Ecuador|Guayaquil|Nedetel S.A.|
-|4|175.101.14.115|84|India|Hyderabad|ExcellMedia Pvt Ltd|
-|5|124.40.244.137|8080|India|Bengaluru|provided to BBNL|
-|6|203.130.23.250|80|Pakistan|Lahore|Supernet, PDS Limited|
-|7|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|8|113.161.240.86|8080|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|9|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|10|187.121.244.215|3128|Brazil|Rio de Janeiro|GSCOM TECNOLOGIA E SERVIÔOS EM TELECOMUNICAÔÔO LTD|
-|11|203.153.125.246|8080|Indonesia|Tangerang|GMNUSANTARA|
-|12|87.249.6.137|8082|Russia|Moscow|TEL|
-|13|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|14|59.98.4.71|8080|India|Itanagar|BSNL Internet|
-|15|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|17|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|18|103.209.88.72|8080|India|Guntur|TransMedia Technologies (AP) PVT LTD|
-|19|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|20|185.56.209.114|52342|Poland|Domaslaw|GreenLan|
+|1|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|2|202.180.21.107|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|3|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
+|4|103.46.233.186|81|India|Vaddangi|Apple Broadband Services Pvt.ltd|
+|5|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
+|6|190.113.40.20|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
+|7|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|8|165.16.27.6|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|212.156.57.214|8080|Turkey|Istanbul|Turk Telekomunikasyon A.S|
+|11|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|77.238.129.14|55443|Russia|Voronezh|LLC Intercon|
+|13|103.241.205.136|3129|Indonesia|Jember|Universitas Jember|
+|14|103.106.219.77|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|15|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|16|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|17|201.217.246.178|8080|Argentina|Villa Angela|Ecom Chaco S.A.|
+|18|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÔOS DE COMUNICAÔÔO EM INFORMATICA LTD|
+|19|132.255.210.122|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|20|190.119.195.34|8080|Peru|La Victoria|America Movil Peru S.A.C.|
 
 
 

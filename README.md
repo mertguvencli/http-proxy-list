@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2398** proxies at the latest update. Usable proxies are below.
+> Scraper found **2534** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|41|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|41|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|41|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|2|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|4|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|5|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|6|85.25.198.22|5566|France|Strasbourg|Host Europe GmbH|
-|7|190.2.211.134|8080|Colombia|Popayán|TV AZTECA SUCURSAL COLOMBIA|
-|8|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
-|9|50.233.42.98|51696|United States|North Miami|Comcast Cable Communications, LLC|
-|10|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|11|178.176.38.177|8080|Russia|Moscow|MegaFon|
-|12|77.238.129.14|55443|Russia|Voronezh|LLC Intercon|
-|13|124.226.138.97|9797|China|Lilancun|Chinanet|
-|14|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
-|15|140.227.211.47|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|16|122.3.2.56|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
-|17|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
-|18|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|19|114.32.93.245|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|138.122.6.140|999|Venezuela|Caracas|Lan-online C.A.|
+|1|177.242.151.136|8080|Mexico|Xonacatlan|Mega Cable, S.A. de C.V.|
+|2|187.121.244.215|3128|Brazil|Rio de Janeiro|GSCOM TECNOLOGIA E SERVIÔOS EM TELECOMUNICAÔÔO LTD|
+|3|146.196.106.34|8080|Indonesia|Teluknaga|PT Maxindo Mitra Solusi|
+|4|186.3.9.218|999|Ecuador|Guayaquil|Telconet S.A|
+|5|201.150.117.97|999|Mexico|Mixquiahuala de Juarez|Hulux Telecomunicaciones|
+|6|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|7|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|8|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|9|196.219.202.74|8080|Egypt|Awsim|TE-AS|
+|10|41.76.216.123|8088|South Africa|Pretoria|Green Flash Trading|
+|11|23.132.48.1|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|12|83.238.80.11|8081|Poland|Szepietowo|NETIA|
+|13|61.8.75.186|3128|Indonesia|Kuningan Barat|PT Aplikanusa Lintasarta|
+|14|182.253.197.69|8080|Indonesia|Jakarta|STIE-BPD|
+|15|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
+|16|36.91.166.98|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
+|17|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|18|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|19|45.170.101.2|999|Chile|Buin|Fibernet SPA|
+|20|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

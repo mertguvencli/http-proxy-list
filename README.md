@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2503** proxies at the latest update. Usable proxies are below.
+> Scraper found **2564** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|82|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|82|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|82|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|78|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|78|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|78|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|2|202.180.21.107|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|3|45.231.221.193|999|Mexico|Tijuana|Distrokom S De RL De CV|
-|4|103.46.233.186|81|India|Vaddangi|Apple Broadband Services Pvt.ltd|
-|5|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|6|190.113.40.20|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|7|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
-|8|165.16.27.6|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|212.156.57.214|8080|Turkey|Istanbul|Turk Telekomunikasyon A.S|
-|11|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|77.238.129.14|55443|Russia|Voronezh|LLC Intercon|
-|13|103.241.205.136|3129|Indonesia|Jember|Universitas Jember|
-|14|103.106.219.77|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|15|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|16|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|17|201.217.246.178|8080|Argentina|Villa Angela|Ecom Chaco S.A.|
-|18|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÔOS DE COMUNICAÔÔO EM INFORMATICA LTD|
-|19|132.255.210.122|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
-|20|190.119.195.34|8080|Peru|La Victoria|America Movil Peru S.A.C.|
+|1|200.26.190.202|999|Belize|Belize City|TELERY NETWORKS, S.R.L|
+|2|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|3|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|4|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|5|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
+|6|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|7|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|8|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|9|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|10|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|11|103.31.44.203|8080|Indonesia|Medan|Media Antar Nusa PT.|
+|12|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|13|27.105.130.93|8080|Taiwan|Taipei|SONET|
+|14|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|15|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|16|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|17|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|176.214.97.13|8081|Russia|Vidnoye|JSC "ER-Telecom Holding"|
+|19|46.38.43.20|8082|Russia|Moscow|TEL|
+|20|103.103.212.222|53281|India|Indore|Five Net Service Provider Pvt. Ltd.|
 
 
 

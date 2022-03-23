@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2849** proxies at the latest update. Usable proxies are below.
+> Scraper found **2767** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|190.61.41.106|999|Colombia|Valledupar|Ufinet Panama S.A.|
-|3|161.49.212.173|1337|Philippines|Hermosa|Converge Information and Communications Technology Solutions|
-|4|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|5|103.133.24.97|8181|Indonesia|Gubug|PT PHATRIA INTI PERSADA|
-|6|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|7|125.163.161.250|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|87.229.183.202|8080|Russia|Moscow|PJSC "Vimpelcom"|
-|9|139.99.99.165|8000|Singapore|Singapore|OVH SAS|
-|10|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|11|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
-|12|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|13|36.67.168.117|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|36.37.180.59|65205|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE|
-|15|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|5.16.0.77|1256|Russia|St Petersburg|Enforta-MSK|
-|17|200.39.136.130|999|Chile|Valparaíso|Iconex SPA|
-|18|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|19|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
-|20|198.52.241.12|999|Puerto Rico|Corozal|OSNET Wireless|
+|1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|2|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|3|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|4|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|5|177.55.207.38|8080|Brazil|Carmo|Sumicity Telecomunicacoes S.A.|
+|6|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|7|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|8|91.93.118.3|8090|Turkey|Ankara|Tellcom Iletisim Hizmetleri A.S.|
+|9|197.210.96.85|8080|Nigeria|Owerri|MTN NIGERIA Communication limited|
+|10|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|11|31.173.94.93|43539|Russia|Kolomna|MegaFon|
+|12|103.23.206.170|8080|Bangladesh|Rangpur City|Mizanur Rahman t/a Maya Cyber World|
+|13|65.20.191.201|80|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|14|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
+|15|78.25.143.179|8080|Russia|Kolomna|CJSC Kolomna-Sviaz TV|
+|16|132.255.210.115|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|17|185.82.99.123|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|18|103.125.162.134|83|India|Hyderabad|CtrlS Datacenters Ltd.|
+|19|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
+|20|103.14.20.28|7777|Indonesia|Garut|PT Citra Jelajah Informatika|
 
 
 

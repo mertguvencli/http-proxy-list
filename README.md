@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2590** proxies at the latest update. Usable proxies are below.
+> Scraper found **2543** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|3|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
-|4|130.185.119.20|3128|Germany|Düsseldorf|Contabo GmbH|
-|5|45.191.196.253|999|Peru|Lima|Softbutterfly SAC|
-|6|133.167.86.191|8118|Japan|Osaka|SAKURA Internet Inc.|
-|7|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
-|8|207.180.192.43|8118|Germany|Nuremberg|Contabo GmbH|
-|9|186.3.9.218|999|Ecuador|Guayaquil|Telconet S.A|
-|10|46.0.203.186|8080|Russia|Samara|JSC "ER-Telecom Holding"|
-|11|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|12|43.252.10.212|2222|Indonesia|Jakarta|QUANTUMNET|
-|13|138.117.85.121|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|14|36.67.152.213|11111|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|15|36.91.98.115|8181|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|16|165.16.80.101|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|17|36.94.27.124|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|36.67.11.41|8080|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|19|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|20|85.235.184.186|3129|Russia|Moscow|MTS PJSC|
+|1|181.48.101.245|3128|Colombia|Medellín|Telmex Colombia S.A.|
+|2|191.97.1.89|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
+|3|61.8.75.186|3128|Indonesia|Kuningan Barat|PT Aplikanusa Lintasarta|
+|4|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
+|5|202.150.150.211|8080|Indonesia|Banyusari|PT Comtronics Systems|
+|6|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|7|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|177.47.183.65|8080|Brazil|Aracaju|CI CENTRO DE INFORMAÇÕES LTDA|
+|9|51.178.182.23|3128|France|Strasbourg|OVH SAS|
+|10|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
+|11|89.204.214.142|8080|Ireland|Kilcock|O2 Ireland Fixed Broadband - Eircom White Label|
+|12|1.1.220.100|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|103.131.214.138|8080|Pakistan|Khanewal|INSTACOM Pvt. LTD|
+|14|5.160.91.130|3128|Iran|Tehran|Respina Networks & Beyond PJSC|
+|15|12.218.209.130|53281|United States|Milpitas|AT&T Services, Inc.|
+|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|17|176.213.143.38|3128|Russia|Rostov-on-Don|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
+|18|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|19|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|20|45.184.155.84|6969|Argentina|Laferrere|Ruiz Sebastian Alejandro|
 
 
 

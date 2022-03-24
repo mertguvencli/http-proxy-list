@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2700** proxies at the latest update. Usable proxies are below.
+> Scraper found **2722** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|2|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|3|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|4|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|5|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
-|8|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
-|9|170.245.132.4|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
-|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|11|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|12|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
-|13|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|14|103.152.93.218|8181|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
-|15|185.94.218.57|43403|Ukraine|Lviv|LITECH-ISP|
-|16|36.91.148.37|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|83.221.208.217|1981|Russia|Rostov-on-Don|Macroregional South|
-|18|45.175.160.125|999|Argentina|Tunuyan|OSORIO SERGIO ANGELINO(NETVDU).|
-|19|80.244.229.102|10000|Russia|Moscow|Enforta-MSK|
-|20|122.144.6.58|63123|Indonesia|Jakarta|Maxindo|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|191.97.1.89|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
+|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|8|200.24.157.116|999|Ecuador|Azogues|Nedetel S.A.|
+|9|202.29.237.212|3128|Thailand|Bangkok|THAINET|
+|10|128.201.31.64|666|Brazil|Salvador|Poliserv Servicos E Comercio Ltda - ME|
+|11|110.235.249.226|8080|Cambodia|Phnom Penh|COGETEL Co|
+|12|101.51.139.179|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|13|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
+|14|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
+|15|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
+|16|159.65.69.186|9300|United States|Santa Clara|DigitalOcean, LLC|
+|17|202.180.20.10|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|18|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
+|19|51.159.66.158|3128|France|Paris|SCALEWAY|
+|20|139.255.128.114|8080|Indonesia|Jakarta|PT. First Media, Tbk|
 
 
 

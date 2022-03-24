@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.90.83.225|999|Colombia|Cúcuta|Internexa S.a. E.S.P|
-|2|139.255.99.163|50031|Indonesia|Jakarta|PT. LINKNET|
-|3|176.37.150.254|41890|Ukraine|Kyiv|Lanet Network|
-|4|103.146.170.193|83|India|Nalgonda|Thrishul Broadband Private Ltd|
-|5|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|6|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|7|103.145.35.30|8181|Indonesia|Sananrejo|LINTASDATA|
-|8|95.158.44.63|8080|Ukraine|Irpin|Company with additional responsibility ""BEST"|
-|9|103.245.204.213|8080|Bangladesh|Azimpur|Next Online Ltd.|
-|10|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|11|190.119.166.37|999|Peru|La Victoria|America Movil Peru S.A.C.|
-|12|45.177.108.165|999|Colombia|Baraya|TV AZTECA SUCURSAL COLOMBIA|
-|13|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|15|190.151.99.114|999|Chile|Santiago|Entel Chile S.A.|
-|16|76.80.19.107|8080|United States|San Bernardino|Charter Communications|
-|17|186.159.3.43|30334|Colombia|Medellín|Edatel S.a. E.S.P|
-|18|195.175.89.198|8080|Turkey|Antalya|TTnetTurkTelekom|
-|19|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
-|20|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|1|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|2|186.3.9.218|999|Ecuador|Guayaquil|Telconet S.A|
+|3|177.234.196.187|999|Ecuador|Guayaquil|Nedetel S.A.|
+|4|170.238.10.65|999|Argentina|Rosario|Gonzalo Leandro Garau|
+|5|185.243.174.26|8080|Czechia|Rychnov nad Kneznou|Tlapnet s.r.o.|
+|6|45.177.109.197|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|159.192.138.170|8080|Thailand|Chana|CAT-BB|
+|8|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|9|45.173.231.155|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|10|180.94.69.66|8080|Afghanistan|Herat|Government Communications Network|
+|11|201.217.55.97|8080|Paraguay|Asunción|CO.PA.CO|
+|12|176.236.141.30|10001|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|13|190.12.95.170|47029|Peru|Independencia|Optical Technologies S.A.C|
+|14|103.14.199.22|83|India|Bengaluru|Mobiwalkers|
+|15|190.92.67.210|999|Honduras|La Belgica|Cablecolor S.A|
+|16|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|17|201.220.112.98|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|18|103.125.162.134|84|India|Hyderabad|CtrlS Datacenters Ltd.|
+|19|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|20|5.104.174.199|23500|Bulgaria|Dobrich|DobrudjaCable Ltd.|
 
 
 

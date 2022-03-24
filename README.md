@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2843** proxies at the latest update. Usable proxies are below.
+> Scraper found **2717** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.18.77.237|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|2|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|3|212.154.23.118|9090|Turkey|Istanbul|TurkNet Iletisim Hizmetleri|
-|4|94.228.207.86|8087|Russia|Moscow|Uniontel ZAO network|
-|5|154.73.108.157|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|6|43.249.224.170|83|India|Hyderabad|Equinox Consulting PVT LTD|
-|7|190.97.236.140|999|Venezuela|San Cristóbal|NetLink América C.A.|
-|8|103.129.3.246|82|India|Balianta|S S Cablenet|
-|9|12.31.246.5|8080|United States|Saint Helena|AT&T Services, Inc.|
-|10|201.217.246.178|8080|Argentina|Villa Angela|Ecom Chaco S.A.|
-|11|1.186.245.226|80|India|Navi Mumbai|D-VoiS Broadband Private Limited|
-|12|188.239.89.158|53281|Ukraine|Kremenchug|Telecommunication company "Link Telecom" LTD|
-|13|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|14|122.2.28.114|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|15|156.200.110.114|1981|Egypt|Giza|TE Data|
-|16|177.73.112.211|9090|Brazil|Touros|MGNET INFORMATICA E SERVIÇOS LTDA|
-|17|103.119.144.4|55443|Indonesia|Jakarta|PT Bali Towerindo Sentra|
-|18|101.255.77.6|8080|Indonesia|Jakarta|PT Remala Abadi|
-|19|149.34.7.65|8080|Spain|Barcelona|Adamo Telecom Iberia S.A.|
-|20|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|191.102.107.235|999|Colombia|Malaga|TV AZTECA SUCURSAL COLOMBIA|
+|3|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|4|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|5|138.117.84.65|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|6|190.186.18.177|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|7|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|8|110.34.32.221|8080|Pakistan|Karachi|Fiberlink PVT LTD|
+|9|202.154.180.53|46717|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|10|217.60.194.46|8080|Iran|Tehran|SHATEL Network|
+|11|81.91.137.43|8080|Iran|Tajrīsh|DATAK Internet Engineering, Inc|
+|12|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
+|13|190.110.99.104|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|14|131.72.224.202|55443|Panama|David|Comunicaciones Tasion|
+|15|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
+|16|80.244.226.92|8080|Russia|Moscow|Enforta-MSK|
+|17|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|18|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|19|45.70.237.81|3128|Ecuador|Cuenca|Nedetel S.A.|
+|20|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
 
 
 

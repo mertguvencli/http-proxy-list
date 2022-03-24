@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2612** proxies at the latest update. Usable proxies are below.
+> Scraper found **2592** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|47|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|47|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|47|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.174.70.18|53281|Mexico|Huatabampo|Index Datacom S.a. De C.V.|
-|2|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|3|203.217.169.100|6969|Cambodia|Phnom Penh|S.I Group|
-|4|192.109.219.82|8080|Albania|Sarandë|Roland Delia trading as NEWAVE|
-|5|45.77.125.208|59394|United States|Los Angeles|The Constant Company|
-|6|139.99.99.165|3128|Singapore|Singapore|OVH SAS|
-|7|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|9|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|10|185.61.94.65|61616|Russia|Moscow|Fortex CJSC|
-|11|183.88.212.184|8080|Thailand|Sattahip|Triple T Broadband Public Company Limited|
-|12|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
-|13|138.219.216.146|999|Argentina|Campo Viera|Jose Luis Zurakouski (MIX SERVICIOS & COMUNICACIONES)|
-|14|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
-|15|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|16|181.205.41.210|7654|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|17|181.48.101.245|3128|Colombia|Medellín|Telmex Colombia S.A.|
-|18|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|19|103.110.90.250|8080|Indonesia|Jakarta|ICONPLN|
-|20|37.228.65.107|32052|Kazakhstan|Aktau|Jusan Mobile JSC|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|134.209.42.113|8895|United States|Clifton|DigitalOcean, LLC|
+|3|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|50.201.51.216|8080|United States|Ashburn|Comcast Cable Communications, LLC|
+|6|165.16.27.13|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|7|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|8|103.123.64.24|8888|Indonesia|Jakarta|CEPATNET|
+|9|212.164.52.198|443|Russia|Novosibirsk|Rostelecom networks|
+|10|103.79.74.1|53879|India|Tirupur|Tiruppur Broadwave Private Limited|
+|11|36.95.79.7|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|110.34.13.4|8080|Nepal|Kathmandu|Subisu Cablenet|
+|13|91.93.42.119|10001|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
+|14|202.62.84.210|53281|India|Vijayawada|CityOnline Services Ltd|
+|15|177.69.180.171|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|16|85.25.198.22|5566|France|Strasbourg|Host Europe GmbH|
+|17|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|19|103.14.198.105|83|India|Bengaluru|Mobiwalkers|
+|20|190.110.99.101|999|Chile|Rancagua|Silica Networks Argentina S.A.|
 
 
 

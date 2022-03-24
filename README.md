@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2779** proxies at the latest update. Usable proxies are below.
+> Scraper found **2735** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|115|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|115|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|115|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|119|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|119|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|119|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|50.235.149.74|8080|United States|Chicago|Comcast Cable Communications, LLC|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|103.243.114.206|8080|India|Pune|Gazon Communications India Limited|
-|4|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|5|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
-|6|41.33.86.242|8080|Egypt|Cairo|TE Data|
-|7|45.229.248.50|999|Argentina|La Plata|Wi-sim Comunicaciones SRL|
-|8|185.103.168.77|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
-|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|204.199.119.75|8080|Colombia|Bogotá|CTL Colombia|
-|11|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|12|165.16.66.89|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|13|87.249.6.137|8082|Russia|Moscow|TEL|
-|14|175.106.10.226|51630|Indonesia|Jakarta|Quantum Dist POP GC|
-|15|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|16|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
-|17|103.213.105.190|8080|Afghanistan|Kabul|Ankabut 002|
-|18|109.72.239.54|41890|Russia|Moscow|MOSLINE|
-|19|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|20|179.49.161.214|999|Colombia|Gacheta|Integra Multisolutions|
+|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|2|47.119.133.82|8118|China|Shenzhen|Addresses CNNIC|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|186.3.38.200|999|Ecuador|Guayaquil|Telconet S.A|
+|5|82.114.106.40|1256|Russia|Moscow|Enforta-MSK|
+|6|94.56.27.42|3128|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|7|160.202.40.254|808|Indonesia|Jakarta|Client Jakarta 5 8 Iconpln|
+|8|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|9|45.229.34.100|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|10|36.95.116.69|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|12|103.21.163.81|6666|India|Navsari|Narmada Cyberzone pvt. ltd|
+|13|91.93.42.118|10001|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
+|14|195.9.61.22|45225|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|15|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|16|41.86.42.41|8080|Seychelles|Victoria|CWS DIB BUNDLE|
+|17|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|200.122.255.42|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P|
+|19|190.90.22.93|999|Colombia|La Jagua de Ibirico|Internexa S.a. E.S.P|
+|20|197.221.158.186|8080|Uganda|Kampala|Airtel Uganda|
 
 
 

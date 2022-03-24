@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2717** proxies at the latest update. Usable proxies are below.
+> Scraper found **2740** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|175|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|175|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|175|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|191.102.107.235|999|Colombia|Malaga|TV AZTECA SUCURSAL COLOMBIA|
-|3|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|4|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|5|138.117.84.65|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|6|190.186.18.177|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|7|62.205.169.74|53281|Russia|Moscow|CORBINA|
-|8|110.34.32.221|8080|Pakistan|Karachi|Fiberlink PVT LTD|
-|9|202.154.180.53|46717|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|10|217.60.194.46|8080|Iran|Tehran|SHATEL Network|
-|11|81.91.137.43|8080|Iran|Tajrīsh|DATAK Internet Engineering, Inc|
-|12|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
-|13|190.110.99.104|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|14|131.72.224.202|55443|Panama|David|Comunicaciones Tasion|
-|15|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
-|16|80.244.226.92|8080|Russia|Moscow|Enforta-MSK|
-|17|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|18|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|19|45.70.237.81|3128|Ecuador|Cuenca|Nedetel S.A.|
-|20|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|186.47.83.126|80|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|3|45.174.249.1|999|Mexico|Morelia|Wifmax S.A de C.V.|
+|4|156.200.116.73|1981|Egypt|Giza|TE Data|
+|5|201.174.10.170|999|Mexico|Nogales|Transtelco Inc|
+|6|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|7|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|8|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|9|185.61.92.207|43947|Russia|Moscow Oblast|Fortex CJSC|
+|10|115.75.1.156|38351|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|11|103.239.147.250|54623|India|Ahmedabad|Fiberpipe communications pvt. ltd|
+|12|190.8.38.83|999|Dominican Republic|Boca Chica|Trilogy Dominicana, S.A.|
+|13|200.122.226.43|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P|
+|14|118.67.221.82|8080|Bangladesh|Gulshan|InterCloud Limited|
+|15|94.73.205.1|55443|Russia|Krasnoyarsk|ORIONNET|
+|16|187.237.121.46|80|Mexico|Tuxpam de Rodriguez Cano|Uninet S.A. de C.V.|
+|17|222.216.37.138|808|China|Lilancun|Chinanet|
+|18|149.28.95.93|8080|United States|Los Angeles|The Constant Company|
+|19|95.9.194.13|56726|Turkey|Altindag|TurkTelekom|
+|20|149.62.177.117|3128|Spain|Alhaurin de la Torre|Avatel Telecom|
 
 
 

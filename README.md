@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2862** proxies at the latest update. Usable proxies are below.
+> Scraper found **2843** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
-|3|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
-|5|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|6|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|7|88.255.101.230|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|8|200.39.136.130|999|Chile|Valparaíso|Iconex SPA|
-|9|5.131.243.10|8080|Russia|Moscow|Novotelecom Ltd|
-|10|103.236.193.225|83|India|Hyderabad|Go WiFi Networking Solutions Pvt Ltd|
-|11|202.146.1.119|8080|Indonesia|Jakarta|PT.GRAMEDIA|
-|12|139.99.99.165|80|Singapore|Singapore|OVH SAS|
-|13|202.159.101.44|8088|Indonesia|Jakarta|PT IndoInternet|
-|14|179.189.193.101|3129|Brazil|Novo Progresso|NovaNet Provedor e Web Ltda|
-|15|210.5.10.87|53281|China|Beijing|China Enterprise ICT Solutions Limited|
-|16|36.90.119.217|8080|Indonesia|Jombang|PT. Telekomunikasi Indonesia|
-|17|164.70.115.148|59394|Japan|Chiyoda|NTT PC Communications, Inc.|
-|18|103.78.171.10|83|India|Ranjani|Sanjeevan Networks Services Pvt Ltd|
-|19|176.214.97.55|1256|Russia|Vidnoye|JSC "ER-Telecom Holding"|
-|20|1.32.59.217|47045|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|1|103.18.77.237|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|2|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|3|212.154.23.118|9090|Turkey|Istanbul|TurkNet Iletisim Hizmetleri|
+|4|94.228.207.86|8087|Russia|Moscow|Uniontel ZAO network|
+|5|154.73.108.157|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|6|43.249.224.170|83|India|Hyderabad|Equinox Consulting PVT LTD|
+|7|190.97.236.140|999|Venezuela|San Cristóbal|NetLink América C.A.|
+|8|103.129.3.246|82|India|Balianta|S S Cablenet|
+|9|12.31.246.5|8080|United States|Saint Helena|AT&T Services, Inc.|
+|10|201.217.246.178|8080|Argentina|Villa Angela|Ecom Chaco S.A.|
+|11|1.186.245.226|80|India|Navi Mumbai|D-VoiS Broadband Private Limited|
+|12|188.239.89.158|53281|Ukraine|Kremenchug|Telecommunication company "Link Telecom" LTD|
+|13|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|14|122.2.28.114|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|15|156.200.110.114|1981|Egypt|Giza|TE Data|
+|16|177.73.112.211|9090|Brazil|Touros|MGNET INFORMATICA E SERVIÇOS LTDA|
+|17|103.119.144.4|55443|Indonesia|Jakarta|PT Bali Towerindo Sentra|
+|18|101.255.77.6|8080|Indonesia|Jakarta|PT Remala Abadi|
+|19|149.34.7.65|8080|Spain|Barcelona|Adamo Telecom Iberia S.A.|
+|20|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
 
 
 

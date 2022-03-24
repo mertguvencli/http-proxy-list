@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2638** proxies at the latest update. Usable proxies are below.
+> Scraper found **2658** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|176.9.63.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|3|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|4|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
-|5|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
-|6|187.188.171.73|6969|Mexico|Coatzacoalcos|Total Play Telecomunicaciones SA De CV|
-|7|190.214.52.226|53281|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|8|138.219.245.17|8080|Brazil|Simoes Filho|Softdados TelecomunicaÔÔes|
-|9|193.193.240.37|45944|Kazakhstan|Oral|"ASTEL" OJSC|
-|10|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
-|11|77.66.176.95|8888|Russia|Krasnodar|ROSTOV-GSPD|
-|12|82.114.106.40|1256|Russia|Moscow|Enforta-MSK|
-|13|139.99.99.165|3128|Singapore|Singapore|OVH SAS|
-|14|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
-|15|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|16|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
-|17|103.81.214.254|84|India|Chamoli|Hps Digital Broadband|
-|18|159.192.138.170|8080|Thailand|Chana|CAT-BB|
-|19|38.123.207.249|999|Mexico|Mexico City|Cogent Communications|
-|20|110.74.195.65|55443|Cambodia|Phnom Penh|EZECOM limited|
+|2|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|3|177.234.236.1|999|Ecuador|Machala|Nedetel S.A.|
+|4|181.205.41.210|7654|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|5|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|6|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
+|7|203.207.52.206|8085|Indonesia|Kuningan Barat|PT Media Akses Global Indo|
+|8|118.172.43.60|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|9|200.111.22.67|999|Chile|Panguipulli|Entel Chile S.A.|
+|10|93.99.12.17|8080|Czechia|Prague|Vodafone Czech Republic|
+|11|131.72.224.202|55443|Panama|David|Comunicaciones Tasion|
+|12|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
+|13|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|14|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
+|15|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
+|16|217.60.194.46|8080|Iran|Tehran|SHATEL Network|
+|17|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|18|110.235.250.155|8080|Cambodia|Phnom Penh|COGETEL Co|
+|19|204.199.113.30|999|Colombia|Bogotá|CTL Colombia|
+|20|191.97.16.208|999|Venezuela|Caracas|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
 
 
 

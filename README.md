@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2794** proxies at the latest update. Usable proxies are below.
+> Scraper found **2779** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|128|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|128|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|128|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|103.121.49.137|8080|Bangladesh|Jhingergacha|T Network|
-|5|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|6|20.117.80.140|80|United Kingdom|London|Microsoft Corporation|
-|7|212.174.242.114|8080|Turkey|Adana|TurkTelecom|
-|8|140.227.127.205|80|Japan|Chiyoda|NTT PC Communications, Inc.|
-|9|195.138.73.54|44017|Ukraine|Odessa|TeNeT Networking Centre|
-|10|131.72.69.14|8080|Brazil|Moita Bonita|TOP NET SERVI?OS LTDA|
-|11|190.2.209.59|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|190.109.11.44|6969|Colombia|Santiago de Cali|Lazus Medellin|
-|13|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|14|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|15|88.255.101.227|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|16|176.192.80.10|3128|Russia|Moscow|Net By Net Holding LLC|
-|17|115.124.85.170|8080|Indonesia|Bekasi|PT Remala Abadi|
-|18|103.124.136.212|3127|Indonesia|Jekulo|Global Media Data Prima|
-|19|103.12.160.85|31231|Cambodia|Phnom Penh|KingCorp Inc|
-|20|93.113.233.73|3128|Iran|Tehran|Afranet Co|
+|1|50.235.149.74|8080|United States|Chicago|Comcast Cable Communications, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|103.243.114.206|8080|India|Pune|Gazon Communications India Limited|
+|4|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|5|175.106.10.227|7878|Indonesia|Jakarta|Quantum Dist POP GC|
+|6|41.33.86.242|8080|Egypt|Cairo|TE Data|
+|7|45.229.248.50|999|Argentina|La Plata|Wi-sim Comunicaciones SRL|
+|8|185.103.168.77|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|204.199.119.75|8080|Colombia|Bogotá|CTL Colombia|
+|11|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|12|165.16.66.89|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|13|87.249.6.137|8082|Russia|Moscow|TEL|
+|14|175.106.10.226|51630|Indonesia|Jakarta|Quantum Dist POP GC|
+|15|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|16|80.82.55.71|80|Russia|Voronezh|CenterTelecom Voronezh ISP|
+|17|103.213.105.190|8080|Afghanistan|Kabul|Ankabut 002|
+|18|109.72.239.54|41890|Russia|Moscow|MOSLINE|
+|19|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|20|179.49.161.214|999|Colombia|Gacheta|Integra Multisolutions|
 
 
 

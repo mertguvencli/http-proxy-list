@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2722** proxies at the latest update. Usable proxies are below.
+> Scraper found **2794** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|128|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|128|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|128|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|191.97.1.89|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|7|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|8|200.24.157.116|999|Ecuador|Azogues|Nedetel S.A.|
-|9|202.29.237.212|3128|Thailand|Bangkok|THAINET|
-|10|128.201.31.64|666|Brazil|Salvador|Poliserv Servicos E Comercio Ltda - ME|
-|11|110.235.249.226|8080|Cambodia|Phnom Penh|COGETEL Co|
-|12|101.51.139.179|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|14|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
-|15|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
-|16|159.65.69.186|9300|United States|Santa Clara|DigitalOcean, LLC|
-|17|202.180.20.10|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|18|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
-|19|51.159.66.158|3128|France|Paris|SCALEWAY|
-|20|139.255.128.114|8080|Indonesia|Jakarta|PT. First Media, Tbk|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|103.121.49.137|8080|Bangladesh|Jhingergacha|T Network|
+|5|14.139.184.130|3128|India|Salem|National Knowledge Network|
+|6|20.117.80.140|80|United Kingdom|London|Microsoft Corporation|
+|7|212.174.242.114|8080|Turkey|Adana|TurkTelecom|
+|8|140.227.127.205|80|Japan|Chiyoda|NTT PC Communications, Inc.|
+|9|195.138.73.54|44017|Ukraine|Odessa|TeNeT Networking Centre|
+|10|131.72.69.14|8080|Brazil|Moita Bonita|TOP NET SERVI?OS LTDA|
+|11|190.2.209.59|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|12|190.109.11.44|6969|Colombia|Santiago de Cali|Lazus Medellin|
+|13|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|14|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|15|88.255.101.227|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|16|176.192.80.10|3128|Russia|Moscow|Net By Net Holding LLC|
+|17|115.124.85.170|8080|Indonesia|Bekasi|PT Remala Abadi|
+|18|103.124.136.212|3127|Indonesia|Jekulo|Global Media Data Prima|
+|19|103.12.160.85|31231|Cambodia|Phnom Penh|KingCorp Inc|
+|20|93.113.233.73|3128|Iran|Tehran|Afranet Co|
 
 
 

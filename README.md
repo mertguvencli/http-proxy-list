@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2658** proxies at the latest update. Usable proxies are below.
+> Scraper found **2838** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|3|177.234.236.1|999|Ecuador|Machala|Nedetel S.A.|
-|4|181.205.41.210|7654|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|5|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|6|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|7|203.207.52.206|8085|Indonesia|Kuningan Barat|PT Media Akses Global Indo|
-|8|118.172.43.60|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|200.111.22.67|999|Chile|Panguipulli|Entel Chile S.A.|
-|10|93.99.12.17|8080|Czechia|Prague|Vodafone Czech Republic|
-|11|131.72.224.202|55443|Panama|David|Comunicaciones Tasion|
-|12|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
-|13|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
-|14|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
-|15|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
-|16|217.60.194.46|8080|Iran|Tehran|SHATEL Network|
-|17|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|18|110.235.250.155|8080|Cambodia|Phnom Penh|COGETEL Co|
-|19|204.199.113.30|999|Colombia|Bogotá|CTL Colombia|
-|20|191.97.16.208|999|Venezuela|Caracas|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|3|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|4|200.106.124.119|999|Peru|Tacna|Telefonica del Peru|
+|5|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
+|6|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|8|34.229.168.95|8118|United States|Ashburn|Amazon.com, Inc.|
+|9|138.59.150.198|8080|Brazil|Santo André|Wireless Comm Services LTDA|
+|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|11|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|12|95.167.59.162|3128|Russia|Verkhnyaya Salda|Rostelecom Nets|
+|13|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|14|202.61.254.57|8118|Germany|Nuremberg|netcup GmbH|
+|15|46.38.242.194|80|Germany|Karlsruhe|netcup GmbH|
+|16|180.178.189.102|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
+|17|124.121.116.12|8213|Thailand|Nonthaburi|TRUEBB|
+|18|177.53.221.89|39310|Brazil|Propria|Sergipeweb Provedores De Internet Ltda|
+|19|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|20|77.236.238.33|1256|Russia|Moscow|ArtCommunications Ltd.|
 
 
 

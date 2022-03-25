@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2224** proxies at the latest update. Usable proxies are below.
+> Scraper found **2441** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
-|2|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|3|85.158.75.102|53281|Latvia|Ventspils|Skatvis|
-|4|87.76.1.69|8080|Russia|Ulyanovsk|JSC Telecom.ru|
-|5|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
-|6|160.119.149.150|8080|Uganda|Kampala|Blue Crane Communications (U) Ltd|
-|7|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|8|192.99.239.215|8080|Pakistan|Rawalpindi|OVH Hosting|
-|9|81.15.242.73|8080|Poland|Piatnica|Montmay Sp. z o.o.|
-|10|45.77.125.208|59394|United States|Los Angeles|The Constant Company|
-|11|180.178.189.102|8080|Pakistan|Lahore|KK Networks (Pvt.) Limited|
-|12|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
-|13|36.255.211.1|54623|India|Ahmedabad|Fiberpipe communications pvt. ltd|
-|14|138.219.216.146|999|Argentina|Campo Viera|Jose Luis Zurakouski (MIX SERVICIOS & COMUNICACIONES)|
-|15|78.37.24.148|8080|Russia|Valday|Rostelecom networks|
-|16|89.189.181.161|55855|Russia|Novosibirsk|Siberian Networks ltd|
-|17|95.142.223.24|56379|Italy|Caldiero|Nebula Fiber s.r.l.|
-|18|138.122.6.140|999|Venezuela|Caracas|Lan-online C.A.|
-|19|216.169.73.65|34679|United States|Panguitch|South Central Communications, Inc.|
-|20|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|1|43.250.127.98|9001|Mongolia|Ulan Bator|Wicom Networks|
+|2|103.31.39.230|8080|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
+|3|94.228.194.18|41890|Russia|Moscow|Uniontel Ltd|
+|4|165.16.27.12|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|5|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|6|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|7|181.209.99.218|999|Argentina|Cachi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|8|187.111.176.65|8080|Brazil|Sorocaba|super midia tv a cabo ltda|
+|9|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|10|202.153.233.228|8080|Indonesia|Jakarta|PT IndoInternet|
+|11|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|12|192.99.239.215|8080|Pakistan|Rawalpindi|OVH Hosting|
+|13|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|14|186.96.111.178|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|15|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|16|103.168.164.26|82|India|Pune|Nutech Broadband|
+|17|101.108.113.242|8080|Thailand|Khlong Luang|TOT Public Company Limited|
+|18|182.53.197.156|43060|Thailand|Lampang|TOT Public Company Limited|
+|19|181.65.154.174|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|20|186.13.50.16|8080|Argentina|Montserrat|Techtel LMDS Comunicaciones Interactivas S.A.|
 
 
 

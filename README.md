@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2672** proxies at the latest update. Usable proxies are below.
+> Scraper found **2744** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|200.6.185.62|6969|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|4|103.24.125.33|83|India|Hyderabad|Tri-Networks|
-|5|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
-|6|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|7|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
-|8|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|9|181.10.123.154|999|Argentina|Salta|Telecom Argentina S.A.|
-|10|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
-|11|62.138.8.42|5566|France|Strasbourg|Host Europe GmbH|
-|12|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|13|14.241.225.134|443|Vietnam|Ho Chi Minh City|VNPT|
-|14|158.69.67.129|5566|Canada|Montreal|OVH SAS|
-|15|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|16|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|17|120.194.55.139|6969|China|Zhengzhou|China Mobile communications corporation|
-|18|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
-|19|139.99.99.165|8080|Singapore|Singapore|OVH SAS|
-|20|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|2|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|3|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|4|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|5|193.150.117.31|8000|Russia|Moscow|LTD "ARENTEL"|
+|6|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
+|7|213.232.127.206|8085|Iran|Tehran|Toesegaran Shabakeh Arseh Novin Ltd|
+|8|87.241.220.96|8080|Russia|Moscow|Enforta-OMSK|
+|9|62.182.114.164|60731|Bulgaria|Sofia|Orlandonet ltd.|
+|10|154.73.108.173|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|11|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
+|12|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|13|201.234.53.213|999|Peru|Lima|Level 3 Peru S.A|
+|14|194.233.73.107|443|Singapore|Singapore|Contabo Asia Private Limited|
+|15|185.187.197.106|81|Russia|Prokhladnyy|Ates LLC|
+|16|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|17|103.14.198.54|83|India|Bengaluru|Mobiwalkers|
+|18|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
+|19|103.248.93.5|8080|India|Delhi|Ani Network Pvt Ltd|
+|20|85.235.184.186|3129|Russia|Moscow|MTS PJSC|
 
 
 

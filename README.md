@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2284** proxies at the latest update. Usable proxies are below.
+> Scraper found **2310** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|12.218.209.130|53281|United States|Milpitas|AT&T Services, Inc.|
-|3|192.109.219.82|8080|Albania|Sarandë|Roland Delia trading as NEWAVE|
-|4|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
-|5|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
-|6|202.143.122.2|8080|Pakistan|Karachi|Satcomm (Pvt.) Ltd.|
-|7|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|8|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|9|200.60.86.138|999|Peru|Trujillo|Telefonica del Peru S.A.A.|
-|10|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|11|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|182.237.16.7|83|India|Jaipur|Uclix|
-|13|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
-|14|117.4.115.169|8080|Vietnam|Hanoi|Viettel Corporation|
-|15|129.205.183.59|8081|South Africa|Cape Town|Seacom Western Cape (Pty) Ltd|
-|16|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
-|17|37.120.192.154|8080|Netherlands|Amsterdam|M247 Ltd|
-|18|138.122.6.140|999|Venezuela|Caracas|Lan-online C.A.|
-|19|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
-|20|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
+|1|218.149.163.134|8080|South Korea|Jeju City|Korea Telecom|
+|2|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|3|200.26.190.203|999|Belize|Belize City|TELERY NETWORKS, S.R.L|
+|4|103.123.234.106|8080|India|Narsingpur|Manish Kumar|
+|5|103.154.230.58|8080|Indonesia|Lamongan|DIGITNET|
+|6|181.143.37.90|8181|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|7|181.30.228.13|3128|Argentina|Rosario|Telecom Argentina S.A|
+|8|131.72.69.14|8080|Brazil|Moita Bonita|TOP NET SERVI?OS LTDA|
+|9|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
+|10|203.123.56.2|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|11|50.235.149.74|8080|United States|Chicago|Comcast Cable Communications, LLC|
+|12|93.99.12.30|8080|Czechia|Prague|Vodafone Czech Republic|
+|13|103.159.46.2|82|India|Ahmedabad|King Netsol Private Limited|
+|14|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|15|103.11.106.25|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|16|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
+|17|178.18.242.116|3128|Germany|Frankfurt am Main|Inline Internet Online Dienste GmbH|
+|18|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|19|138.201.154.35|24000|Germany|Falkenstein|Hetzner Online GmbH|
+|20|45.77.125.208|59394|United States|Los Angeles|The Constant Company|
 
 
 

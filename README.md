@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2744** proxies at the latest update. Usable proxies are below.
+> Scraper found **2543** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|101|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|101|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|101|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
-|2|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|3|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|4|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|5|193.150.117.31|8000|Russia|Moscow|LTD "ARENTEL"|
-|6|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
-|7|213.232.127.206|8085|Iran|Tehran|Toesegaran Shabakeh Arseh Novin Ltd|
-|8|87.241.220.96|8080|Russia|Moscow|Enforta-OMSK|
-|9|62.182.114.164|60731|Bulgaria|Sofia|Orlandonet ltd.|
-|10|154.73.108.173|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|11|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
-|12|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
-|13|201.234.53.213|999|Peru|Lima|Level 3 Peru S.A|
-|14|194.233.73.107|443|Singapore|Singapore|Contabo Asia Private Limited|
-|15|185.187.197.106|81|Russia|Prokhladnyy|Ates LLC|
-|16|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|17|103.14.198.54|83|India|Bengaluru|Mobiwalkers|
-|18|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
-|19|103.248.93.5|8080|India|Delhi|Ani Network Pvt Ltd|
-|20|85.235.184.186|3129|Russia|Moscow|MTS PJSC|
+|1|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|2|119.59.125.189|3128|Thailand|Samphanthawong|Metrabyte Co., Ltd|
+|3|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|4|101.53.154.137|2016|India|Noida|E2E Networks Limited|
+|5|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
+|6|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
+|7|24.227.247.186|8080|United States|Irving|Spectrum|
+|8|186.3.9.217|999|Ecuador|Guayaquil|Telconet S.A|
+|9|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|10|45.127.56.194|83|India|Hyderabad|Tri-Networks|
+|11|186.3.9.219|999|Ecuador|Guayaquil|Telconet S.A|
+|12|115.87.196.88|8080|Thailand|Bangkok|TRUEBB|
+|13|176.214.99.101|1256|Russia|Vidnoye|JSC "ER-Telecom Holding"|
+|14|36.95.79.7|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|103.124.226.63|3127|Bangladesh|Dhaka|Level3|
+|16|173.249.57.9|443|Germany|Nuremberg|Contabo GmbH|
+|17|170.80.202.242|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|18|14.177.236.212|55443|Vietnam|Hanoi|VNPT|
+|19|200.37.199.190|999|Peru|Piura|Telefonica del Peru S.A.A.|
+|20|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
 
 
 

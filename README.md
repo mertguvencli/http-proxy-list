@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2440** proxies at the latest update. Usable proxies are below.
+> Scraper found **2433** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|50|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|50|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|50|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|217.160.193.210|8118|Germany|Karlsruhe|IONOS SE|
-|3|149.34.7.65|8080|Spain|Barcelona|Adamo Telecom Iberia S.A.|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|95.0.168.43|1976|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|6|12.88.29.66|9080|United States|New York|AT&T Services, Inc.|
-|7|27.255.3.134|3128|Pakistan|Karachi|Fiberlink Pvt. Ltd|
-|8|88.255.101.237|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|9|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|10|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|11|82.167.252.66|8080|Saudi Arabia|Riyadh|ORBITNET.KSA|
-|12|79.120.177.106|8080|Hungary|Budapest|Invitech ICT Services Kft.|
-|13|1.2.252.65|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|14|183.88.232.207|8080|Thailand|Thanyaburi|Triple T Broadband Public Company Limited|
-|15|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|16|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|17|5.131.243.11|8080|Russia|Moscow|Novotelecom Ltd|
-|18|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|19|91.93.42.116|10001|Turkey|Istanbul|Tellcom Iletisim Hizmetleri A.S.|
-|20|88.255.102.176|8081|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|1|52.169.143.106|8080|Ireland|Dublin|Microsoft Corporation|
+|2|67.73.245.218|999|Colombia|Puerto Wilches|Level 3|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|109.86.152.78|55443|Ukraine|Kyiv|Triolan|
+|5|110.34.32.221|8080|Pakistan|Karachi|Fiberlink PVT LTD|
+|6|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|7|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|8|188.133.158.27|8080|Russia|Moscow|Enforta-MSK|
+|9|37.110.6.178|8080|Russia|Moscow|NCNET|
+|10|41.76.216.123|8088|South Africa|Pretoria|Green Flash Trading|
+|11|41.216.98.122|8080|Rwanda|Kigali|LTR|
+|12|149.56.96.252|5566|Canada|Montreal|OVH SAS|
+|13|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|14|41.60.233.86|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|15|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|16|154.212.7.26|999|Mexico|San Luis de la Paz|Ientc S De RL De CV|
+|17|184.155.36.194|8080|United States|Pocatello|CABLE ONE, INC.|
+|18|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|19|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
+|20|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

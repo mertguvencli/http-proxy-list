@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2396** proxies at the latest update. Usable proxies are below.
+> Scraper found **2284** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|62|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|62|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|62|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|2|61.153.251.150|22222|China|Beijing|Chinanet|
-|3|186.3.38.201|999|Ecuador|Guayaquil|Telconet S.A|
-|4|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|5|121.151.223.96|1337|South Korea|Yeongju|Korea Telecom|
-|6|182.253.186.140|8080|Indonesia|Jakarta|BIZNET|
-|7|187.216.93.20|55443|Mexico|Hermosillo|Uninet S.A. de C.V.|
-|8|62.138.8.42|5566|France|Strasbourg|Host Europe GmbH|
-|9|101.255.164.146|3128|Indonesia|Karawang|PT Remala Abadi|
-|10|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|11|182.253.82.156|8080|Indonesia|Cikarang|BIZNET|
-|12|181.204.163.36|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|13|201.144.14.232|53281|Mexico|Manzanillo|Uninet S.A. de C.V|
-|14|69.43.44.106|8080|United States|Morgantown|CityNet|
-|15|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|16|194.44.15.222|8081|Ukraine|Bryukhovychi|UARNET-LL|
-|17|1.2.252.65|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|18|84.53.247.204|53281|Russia|Vladimir|Elcom ISP|
-|19|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|20|188.133.173.21|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
+|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|12.218.209.130|53281|United States|Milpitas|AT&T Services, Inc.|
+|3|192.109.219.82|8080|Albania|Sarandë|Roland Delia trading as NEWAVE|
+|4|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
+|5|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|6|202.143.122.2|8080|Pakistan|Karachi|Satcomm (Pvt.) Ltd.|
+|7|181.78.1.205|591|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|8|80.240.126.125|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|9|200.60.86.138|999|Peru|Trujillo|Telefonica del Peru S.A.A.|
+|10|185.253.154.181|3128|Spain|Barcelona|Cloudi Nextgen SL|
+|11|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|182.237.16.7|83|India|Jaipur|Uclix|
+|13|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
+|14|117.4.115.169|8080|Vietnam|Hanoi|Viettel Corporation|
+|15|129.205.183.59|8081|South Africa|Cape Town|Seacom Western Cape (Pty) Ltd|
+|16|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
+|17|37.120.192.154|8080|Netherlands|Amsterdam|M247 Ltd|
+|18|138.122.6.140|999|Venezuela|Caracas|Lan-online C.A.|
+|19|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
+|20|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
 
 
 

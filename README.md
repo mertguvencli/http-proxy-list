@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2624** proxies at the latest update. Usable proxies are below.
+> Scraper found **2575** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|45|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|45|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|45|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|49|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|49|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|49|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.119.195.34|8080|Peru|La Victoria|America Movil Peru S.A.C.|
-|2|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
-|3|45.116.229.183|8080|India|Kozhikode|DWANIRINN|
-|4|222.165.205.204|8080|Indonesia|Jakarta|PT NettoCyber Indonesia|
-|5|182.253.189.244|8080|Indonesia|Jakarta|BIZNET|
-|6|45.43.63.230|10001|Singapore|Singapore|Zenlayer Inc|
-|7|103.76.151.46|8181|Indonesia|Bogor|PT. Java Digital Nusantara|
-|8|36.37.160.242|8080|Cambodia|Prey Veng|VIETTEL (CAMBODIA) PTE.|
-|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|11|200.54.194.12|53281|Chile|Providencia|Telefonica Empresas|
-|12|202.93.229.195|3128|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|13|102.68.134.94|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|51.79.144.52|8000|Singapore|Singapore|OVH SAS|
-|15|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
-|16|118.69.176.168|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|17|188.72.6.98|37083|Iraq|Sulaymaniyah|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
-|18|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|19|200.101.150.202|8080|Brazil|Curitiba|Brasil Telecom S/A - Filial Distrito Federal|
-|20|176.214.97.13|8081|Russia|Vidnoye|JSC "ER-Telecom Holding"|
+|1|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|2|45.177.109.219|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|3|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|4|94.56.27.42|3128|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
+|5|181.209.99.218|999|Argentina|Cachi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|6|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|7|150.107.207.137|61954|Nepal|Bhojpur|Techminds Network Pvt. Ltd|
+|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|9|118.172.201.216|8080|Thailand|Doembang Nangbuat|TOT Public Company Limited|
+|10|13.66.38.250|8080|United States|San Antonio|Microsoft Corporation|
+|11|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|12|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
+|13|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
+|14|138.122.6.140|999|Venezuela|Caracas|Lan-online C.A.|
+|15|116.206.243.50|80|Indonesia|Rowotengu|CBN|
+|16|103.65.214.83|8080|Indonesia|Bantul|PT.Broadband Indonesia Pratama|
+|17|95.142.223.24|56379|Italy|Caldiero|Nebula Fiber s.r.l.|
+|18|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|19|188.246.186.142|41890|Russia|Moscow|OOO WestCall Ltd|
+|20|122.3.2.56|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
 
 
 

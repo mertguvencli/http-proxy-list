@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2624** proxies at the latest update. Usable proxies are below.
+> Scraper found **2687** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|46|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|46|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|46|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|134.209.42.113|8888|United States|Clifton|DigitalOcean, LLC|
-|2|190.185.116.161|999|Honduras|San Pedro Sula|Redes y Telecomunicaciones|
-|3|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|4|45.171.242.2|8083|Brazil|Atibaia|Lucknet Telecom|
-|5|112.78.170.251|80|Indonesia|Jakarta|BIZNET|
-|6|187.19.102.22|3128|Brazil|Cascavel|CERTTO TELECOMUNICAÇÕES LTDA EPP|
-|7|188.166.181.59|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|147.75.113.227|8080|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
-|9|185.82.98.43|9091|Lebanon|Tripoli|Protected|
-|10|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|11|201.120.27.15|53281|Mexico|Mexico City|Uninet S.A. de C.V|
-|12|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
-|13|93.117.72.27|43631|Moldova|Ciorescu|Moldtelecom SA|
-|14|76.81.164.246|8080|United States|Garden Grove|Spectrum|
-|15|203.189.89.153|8080|Indonesia|Jakarta|Departemen Energi dan Sumber Daya Mineral|
-|16|45.77.125.208|59394|United States|Los Angeles|The Constant Company|
-|17|200.60.86.138|999|Peru|Trujillo|Telefonica del Peru S.A.A.|
-|18|103.120.153.58|84|India|Pundri|Dstech Cyberspace Pvt Ltd|
-|19|68.208.51.61|8080|United States|Decatur|AT&T Corp|
-|20|190.121.128.217|999|Colombia|Oiba|Media Commerce Partners S.A|
+|1|103.133.24.97|8181|Indonesia|Gubug|PT PHATRIA INTI PERSADA|
+|2|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|3|202.159.101.43|8088|Indonesia|Jakarta|PT IndoInternet|
+|4|177.69.180.171|8080|Brazil|Juiz de Fora|ALGAR TELECOM S/A|
+|5|158.181.21.247|8081|Kyrgyzstan|Bishkek|Megaline LLC|
+|6|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|7|45.181.207.129|999|Colombia|Caucasia|Quality NET JM S.a.s. Zomac|
+|8|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|9|103.134.98.17|82|India|Tirupati|Airnetz Broadband Services Private Limited|
+|10|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|11|180.232.123.251|3128|Philippines|Baugo|Eastern Telecommunications Philippines, Inc.|
+|12|98.154.21.253|3128|United States|Los Angeles|Charter Communications Inc|
+|13|103.106.219.77|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|14|5.35.38.8|32132|Russia|Korolyov|INFOLINE|
+|15|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
+|16|80.106.247.145|53410|Greece|Piraeus|Ote SA (Hellenic Telecommunications Organisation)|
+|17|103.158.121.79|8080|Indonesia|Indramayu|CDN|
+|18|88.255.101.228|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|19|95.0.206.22|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|20|178.18.242.116|3128|Germany|Frankfurt am Main|Inline Internet Online Dienste GmbH|
 
 
 

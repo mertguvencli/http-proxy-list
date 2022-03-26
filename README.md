@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2496** proxies at the latest update. Usable proxies are below.
+> Scraper found **2538** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|28|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|28|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|28|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|41|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|41|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|41|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|2|154.73.108.157|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|3|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|4|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|5|182.16.163.202|3128|Indonesia|Jakarta|SOLUSINET|
+|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|12.88.29.66|9080|United States|New York|AT&T Services, Inc.|
+|3|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
+|4|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|5|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
 |6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|7|46.219.8.201|41890|Ukraine|Kyiv|o3 core|
-|8|1.2.252.65|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|81.15.242.73|8080|Poland|Piatnica|Montmay Sp. z o.o.|
-|10|190.121.128.217|999|Colombia|Oiba|Media Commerce Partners S.A|
-|11|81.91.144.190|55443|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
-|12|129.153.111.20|59394|United States|Phoenix|Oracle Corporation|
-|13|103.95.40.211|3128|Indonesia|Jakarta|X-NODE|
-|14|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
-|15|91.108.155.196|8080|Iran|Jongīyeh|Rayaneh Gostar Farzanegan Ahvaz LTD|
-|16|167.71.190.253|80|United States|Clifton|DigitalOcean, LLC|
-|17|185.72.27.98|8080|Iran|Isfahan|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|18|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|19|201.234.53.213|999|Peru|Lima|Level 3 Peru S.A|
-|20|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|7|89.203.235.110|9999|Czechia|Sezemice|CD-Telematika|
+|8|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|9|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|114.32.93.245|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|154.212.7.26|999|Mexico|San Luis de la Paz|Ientc S De RL De CV|
+|12|46.161.195.105|1981|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|13|161.22.34.100|999|Venezuela|Mérida|MDS TELECOM C.A.|
+|14|45.175.139.133|999|Colombia|Juntas de Tamana|Media Commerce Partners S.A|
+|15|98.154.21.253|3128|United States|Los Angeles|Charter Communications Inc|
+|16|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
+|17|161.22.35.254|999|Venezuela|Tovar Municipality|MDS TELECOM C.A.|
+|18|5.180.130.90|8080|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
+|19|103.146.30.178|8080|Indonesia|Kuningan Barat|PT MITRA VISIONER PRATAMA|
+|20|1.0.205.87|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 

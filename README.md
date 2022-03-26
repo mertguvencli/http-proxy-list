@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2502** proxies at the latest update. Usable proxies are below.
+> Scraper found **2553** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|57|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|57|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|57|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.250.180.4|6969|Ecuador|Latacunga|Nedetel S.A|
-|2|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|3|77.236.238.179|8080|Russia|Moscow|ArtCommunications Ltd.|
-|4|194.44.15.222|8081|Ukraine|Bryukhovychi|UARNET-LL|
-|5|103.18.77.237|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|6|102.66.161.210|9999|South Africa|Nelspruit|HERO TELECOMS (PTY) LTD|
-|7|95.0.168.44|1976|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|8|51.158.112.32|3128|France|Paris|SCALEWAY|
-|9|201.150.117.128|999|Mexico|Tetepango|Hulux Telecomunicaciones|
-|10|176.214.97.55|1256|Russia|Vidnoye|JSC "ER-Telecom Holding"|
-|11|188.165.59.127|3128|France|Paris|OVH ISP|
-|12|38.101.122.186|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
-|13|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|14|138.219.216.146|999|Argentina|Campo Viera|Jose Luis Zurakouski (MIX SERVICIOS & COMUNICACIONES)|
-|15|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
-|16|138.201.154.35|24000|Germany|Falkenstein|Hetzner Online GmbH|
-|17|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
-|18|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
-|19|91.217.121.210|3128|United States|New York|M247 Ltd|
-|20|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|1|109.108.68.144|41890|Ukraine|Kyiv|ISP KievNet|
+|2|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
+|3|151.80.196.163|8010|France|Roubaix|OVH SAS|
+|4|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|5|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|149.34.7.65|8080|Spain|Barcelona|Adamo Telecom Iberia S.A.|
+|7|112.250.107.37|53281|China|Bizidian|China Unicom CHINA169 Shandong Province Network|
+|8|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|31.131.67.14|8080|Ukraine|Yevpatoriya|PE Zinstein Hariton Vladimirovich|
+|10|120.29.124.131|8080|Philippines|San Mateo|ComClark Network & Technology Corp|
+|11|103.255.242.115|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|12|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
+|13|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|14|187.102.209.133|999|Peru|Lima|INTEL COMUNICACIONES PERÚ SAC|
+|15|84.53.247.204|53281|Russia|Vladimir|Elcom ISP|
+|16|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|17|46.209.30.12|8080|Iran|Mashhad|Respina Networks & Beyond PJSC|
+|18|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|19|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
+|20|188.133.173.21|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2528** proxies at the latest update. Usable proxies are below.
+> Scraper found **2519** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|59|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|59|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|59|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|200.229.147.2|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
-|5|103.152.93.218|8181|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
-|6|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|8|59.98.4.70|8080|India|Itanagar|BSNL Internet|
-|9|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
-|10|37.252.73.192|8080|Armenia|Noyemberyan|Ucom Cjsc|
-|11|170.80.202.234|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|12|187.111.176.65|8080|Brazil|Sorocaba|super midia tv a cabo ltda|
-|13|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|15|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|16|195.140.226.244|8080|Ukraine|Kharkiv|Therecom Ltd|
-|17|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|18|189.193.254.10|999|Mexico|Lerma de Villada|Mega Cable, S.A. de C.V.|
-|19|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
-|20|217.21.214.138|8080|Russia|Moscow|OOO TRANSTELECOM|
+|1|186.154.211.107|999|Colombia|Bogotá|ETB - Colombia|
+|2|125.87.84.215|57114|China|Chongqing|Chinanet|
+|3|103.73.75.69|8080|Indonesia|Karawang|PT. Wahana Internet Nusantara|
+|4|190.113.40.227|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
+|5|103.123.234.106|8080|India|Narsingpur|Manish Kumar|
+|6|201.144.14.232|53281|Mexico|Manzanillo|Uninet S.A. de C.V|
+|7|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|8|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
+|9|122.154.35.190|8080|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|10|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|11|185.177.222.171|8089|Russia|Murom|Modus LLC|
+|12|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|13|103.92.101.115|8080|India|Bengaluru|Bangalore Broadband Network Pvt Ltd|
+|14|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|15|202.129.196.242|53879|India|Alandurai|Wireline Solution India Pvt Ltd.|
+|16|78.38.100.121|8080|Iran|Tehran|Iran Telecommunication Company PJS|
+|17|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|18|183.88.92.164|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|19|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
+|20|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

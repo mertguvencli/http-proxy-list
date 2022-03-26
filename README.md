@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2498** proxies at the latest update. Usable proxies are below.
+> Scraper found **2506** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|51|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|51|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|51|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|43|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|43|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|43|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|2|217.73.139.204|8080|Albania|Tirana|ABCom HFC Residential Network|
-|3|31.42.57.1|8080|Ukraine|Smila|Limited Liability Company AVATOR ISP|
-|4|98.115.7.156|8080|United States|Doylestown|Verizon Business|
-|5|181.224.162.199|999|Colombia|Buenaventura|Level 3 Communications, Inc.|
-|6|203.128.83.115|8080|Indonesia|Jakarta|Neuviz|
-|7|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|8|43.224.10.37|6666|India|Surat|gtpl hariom world vision|
-|9|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|10|139.255.25.106|8080|Indonesia|Jakarta|PT. LINKNET|
-|11|45.184.155.84|6969|Argentina|Laferrere|Ruiz Sebastian Alejandro|
-|12|69.43.44.106|8080|United States|Morgantown|CityNet|
-|13|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
-|14|162.219.119.225|8080|United States|Newark|Hillbilly Wireless INC.|
-|15|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|16|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
-|17|138.201.154.35|24000|Germany|Falkenstein|Hetzner Online GmbH|
-|18|41.111.213.190|8080|Algeria|Belcourt|Algerie Telecom|
-|19|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|20|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|185.103.168.78|8080|Kazakhstan|Altayskoye|JSC Alma Telecommunications|
+|3|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|4|203.223.34.2|8090|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
+|5|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|6|88.255.102.176|8081|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|7|129.153.111.20|59394|United States|Phoenix|Oracle Corporation|
+|8|195.138.90.226|3128|Ukraine|Odessa|TeNeT Networking Centre|
+|9|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|10|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
+|11|190.110.99.101|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|12|95.0.168.58|1976|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|13|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|14|103.207.3.6|83|India|Orathanadu|Sri Vari Network Private Limited|
+|15|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
+|16|186.67.26.181|999|Chile|Santiago|Entel Chile S.A.|
+|17|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|18|192.121.246.23|8118|United States|New York|PVDataNet AB|
+|19|167.71.190.253|80|United States|Clifton|DigitalOcean, LLC|
+|20|158.69.67.129|5566|Canada|Montreal|OVH SAS|
 
 
 

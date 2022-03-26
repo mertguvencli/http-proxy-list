@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2575** proxies at the latest update. Usable proxies are below.
+> Scraper found **2580** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|49|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|49|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|49|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|46|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|46|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|46|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|2|45.177.109.219|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|3|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|4|94.56.27.42|3128|United Arab Emirates|Dubai|Emirates Telecommunications Corporation|
-|5|181.209.99.218|999|Argentina|Cachi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|6|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|7|150.107.207.137|61954|Nepal|Bhojpur|Techminds Network Pvt. Ltd|
-|8|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|9|118.172.201.216|8080|Thailand|Doembang Nangbuat|TOT Public Company Limited|
-|10|13.66.38.250|8080|United States|San Antonio|Microsoft Corporation|
-|11|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|12|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
-|13|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
-|14|138.122.6.140|999|Venezuela|Caracas|Lan-online C.A.|
-|15|116.206.243.50|80|Indonesia|Rowotengu|CBN|
-|16|103.65.214.83|8080|Indonesia|Bantul|PT.Broadband Indonesia Pratama|
-|17|95.142.223.24|56379|Italy|Caldiero|Nebula Fiber s.r.l.|
-|18|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|19|188.246.186.142|41890|Russia|Moscow|OOO WestCall Ltd|
-|20|122.3.2.56|8080|Philippines|Bacolod City|Philippine Long Distance Telephone Co.|
+|1|185.194.142.229|8118|Germany|Karlsruhe|netcup GmbH|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|196.15.213.235|3128|South Africa|Christiana|Telkom SA Ltd.|
+|4|78.25.145.146|8080|Russia|Moscow|CJSC Kolomna-Sviaz TV|
+|5|36.95.156.127|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|6|110.74.208.154|21776|Cambodia|Phnom Penh|EZECOM limited|
+|7|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|8|110.232.67.45|55443|Indonesia|Medan|Media Antar Nusa PT.|
+|9|190.119.199.20|57333|Peru|Trujillo|America Movil Peru S.A.C.|
+|10|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
+|11|80.253.31.206|8080|Russia|Moscow|LLC SETEL|
+|12|200.24.130.37|8080|Ecuador|Babahoyo|Nedetel S.A|
+|13|182.16.163.202|3128|Indonesia|Jakarta|SOLUSINET|
+|14|45.77.125.208|59394|United States|Los Angeles|The Constant Company|
+|15|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|16|102.68.134.94|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|17|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|18|180.180.123.40|8080|Thailand|Pathum Thani|TOT Public Company Limited|
+|19|134.209.216.204|3130|United States|North Bergen|DigitalOcean, LLC|
+|20|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
 
 
 

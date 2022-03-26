@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2489** proxies at the latest update. Usable proxies are below.
+> Scraper found **2498** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|25|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|25|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|25|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|43|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|43|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|43|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|2|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|3|118.97.47.249|55443|Indonesia|Bandung|PT. TELKOM INDONESIA|
-|4|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|5|121.151.223.96|1337|South Korea|Yeongju|Korea Telecom|
-|6|45.173.6.98|999|Colombia|Zipaquirá|Columbus Networks Colombia|
-|7|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
-|8|95.154.104.147|44393|Russia|Vladivostok|Octopusnet Jurs|
-|9|103.81.114.182|53281|Myanmar|Yangon|Horizon Telecom International|
-|10|167.71.190.253|80|United States|Clifton|DigitalOcean, LLC|
-|11|176.236.85.246|9090|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|12|103.227.141.90|8181|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
-|13|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|14|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|15|190.110.99.101|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|16|136.233.136.41|48976|India|Anand|Reliance Jio Infocomm Limited|
-|17|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|18|103.27.179.63|8888|Hong Kong|Hong Kong|Shenzhen Katherine Heng Technology Information Co., Ltd.|
-|19|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
-|20|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|1|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|2|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|3|45.227.95.2|8085|Argentina|Lomas de Zamora|Andros-net Comunicaciones S.R.L.|
+|4|190.61.41.106|999|Colombia|Valledupar|Ufinet Panama S.A.|
+|5|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|6|150.129.54.111|6666|India|Bhuj|GTPL Link Network Pvt Ltd|
+|7|89.171.41.90|6969|Poland|Warsaw|Netia SA|
+|8|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|45.7.135.238|999|Colombia|Ataco|TV AZTECA SUCURSAL COLOMBIA|
+|10|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|13|37.120.192.154|8080|Netherlands|Amsterdam|M247 Ltd|
+|14|36.80.51.175|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|15|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|16|103.162.205.25|8181|Indonesia|Magelang|PT Jaringan Inti Exadata|
+|17|103.216.82.37|6666|India|Udaipur|Gtpl Dcpl Private Limited|
+|18|190.217.14.170|999|Venezuela|Caracas|Lan-online C.A|
+|19|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
+|20|89.189.181.161|55855|Russia|Novosibirsk|Siberian Networks ltd|
 
 
 

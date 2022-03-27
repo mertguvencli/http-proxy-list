@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2474** proxies at the latest update. Usable proxies are below.
+> Scraper found **2510** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|46|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|46|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|46|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|36|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|36|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|36|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|3|179.61.229.164|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|4|204.195.136.34|80|United States|Miami Beach|Atlantic Broadband Finance, LLC|
-|5|149.56.96.252|9300|Canada|Montreal|OVH SAS|
-|6|202.159.101.42|8088|Indonesia|Jakarta|PT IndoInternet|
-|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|165.16.46.215|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|9|117.121.206.111|9797|Indonesia|Purwokerto|PT Sekawan Global Komunika|
-|10|190.104.1.19|999|Bolivia|Santa Cruz|Telefónica Celular de Bolivia S.A.|
-|11|116.254.116.234|8080|Indonesia|Semarang|PT Media Sarana Data|
-|12|12.88.29.66|9080|United States|New York|AT&T Services, Inc.|
-|13|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
-|14|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|15|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|16|62.138.3.125|5566|France|Strasbourg|Host Europe GmbH|
-|17|177.91.98.252|8080|Brazil|Bom Jesus da Lapa|Pollynet - MP Telecom Servicos E Comercio Ltda|
-|18|37.210.75.39|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|19|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
-|20|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
+|1|54.237.111.226|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|4|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
+|5|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|7|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
+|8|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|9|103.199.84.122|8080|Bangladesh|Bagerhat|Summit Communication Limited|
+|10|45.250.226.14|3128|India|Pune|Space Vision Digital Network Pvt. Ltd|
+|11|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|12|147.135.134.57|5566|France|Gravelines|OVH SAS|
+|13|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|14|115.87.197.107|80|Thailand|Bangkok|TRUEBB|
+|15|200.116.198.180|32605|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
+|16|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
+|17|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
+|18|180.180.171.123|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|20|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
 
 
 

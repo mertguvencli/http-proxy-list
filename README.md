@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2378** proxies at the latest update. Usable proxies are below.
+> Scraper found **2363** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|30|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|30|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|30|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|24|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|24|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|24|
 
 ## Sources
 
@@ -43,24 +43,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
 |2|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|3|80.209.240.12|3128|United States|New York|HOSTKEY|
-|4|170.80.202.238|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|5|45.229.248.26|999|Argentina|La Plata|Wi-sim Comunicaciones SRL|
-|6|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|7|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|8|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
-|10|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|11|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|12|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|13|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
-|14|143.47.226.72|3128|United Kingdom|London|Oracle Corporation|
-|15|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
-|16|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|181.78.16.235|8080|Colombia|Cúcuta|IFX Networks Argentina S.R.L|
-|18|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|19|67.73.188.138|999|Colombia|Bogotá|CTL LATAM|
-|20|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|3|191.97.1.91|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
+|4|200.24.157.118|999|Ecuador|Azogues|Nedetel S.A.|
+|5|183.88.213.85|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
+|6|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|7|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|8|186.1.206.158|3128|Haiti|Port-au-Prince|Télécommunications de Haití (Teleco)|
+|9|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|10|45.175.139.133|999|Colombia|Juntas de Tamana|Media Commerce Partners S.A|
+|11|182.74.218.23|3128|India|Bengaluru|Bharti Airtel Limited|
+|12|190.100.95.229|3128|Chile|San Joaquin|VTR BANDA ANCHA S.A.|
+|13|164.70.115.148|59394|Japan|Chiyoda|NTT PC Communications, Inc.|
+|14|110.78.22.40|8080|Thailand|Chatuchak|CAT Telecom Public Company Limited|
+|15|103.152.232.179|8080|Indonesia|Subang|PT Kingpolah Network Solutions|
+|16|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|17|179.105.101.27|8080|Brazil|Vitória|Claro S.A.|
+|18|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|19|1.174.161.20|8080|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
+|20|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
 
 
 

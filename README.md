@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2641** proxies at the latest update. Usable proxies are below.
+> Scraper found **2614** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|60|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|60|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|60|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|2|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|3|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|4|41.191.245.59|8080|Ghana|Accra|BusyInternet Ghana Ltd|
-|5|181.209.99.218|999|Argentina|Cachi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|6|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
-|7|103.31.39.230|8080|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
-|8|114.5.199.208|8080|Indonesia|Bandung|PT. INDOSAT Tbk|
-|9|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|10|60.211.218.78|53281|China|Jinan|CNC Group CHINA169 Shandong Province Network|
-|11|200.37.140.35|10101|Peru|Lima|Telefonica del Peru S.A.A.|
-|12|77.236.231.11|1256|Russia|Moscow|Enforta-MSK|
-|13|103.213.213.22|82|India|Pune|Syscon Infoway Pvt. Ltd.|
-|14|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|15|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
-|16|173.165.102.210|8080|United States|Bloomington|Comcast Cable Communications|
-|17|191.97.19.81|999|Venezuela|Caracas|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|18|109.200.159.27|8080|Ukraine|Simferopol|CRELCOM|
-|19|185.204.197.169|8080|Italy|Rome|Pars Parva System LLC|
-|20|103.209.230.113|8080|Bangladesh|Dhaka|WIMS1|
+|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|2|188.121.20.133|8118|Poland|Wroclaw|Internet Union S.A.|
+|3|46.219.8.201|41890|Ukraine|Kyiv|o3 core|
+|4|46.99.205.2|8080|Kosovo|Istok|IPKO Telecommunications LLC|
+|5|109.170.97.146|8085|Russia|Sochi|Net By Net Holding LLC|
+|6|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
+|7|186.3.9.218|999|Ecuador|Guayaquil|Telconet S.A|
+|8|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
+|9|202.43.72.203|8080|Indonesia|Kuningan Barat|PT. INTERLINK TECHNOLOGY|
+|10|103.111.57.59|8090|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|11|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|12|103.23.206.170|8080|Bangladesh|Rangpur City|Mizanur Rahman t/a Maya Cyber World|
+|13|194.233.69.126|443|Singapore|Singapore|Contabo Asia Private Limited|
+|14|200.39.136.129|999|Chile|Valparaíso|Iconex SPA|
+|15|12.88.29.66|9080|United States|New York|AT&T Services, Inc.|
+|16|122.15.131.65|57873|India|Kolkata|VODAFONE-STATIC|
+|17|116.68.250.158|8089|Indonesia|Embongkaliasin|PT. Cross Network Indonesia|
+|18|212.126.107.2|31475|Iraq|Erbil|AL-SARD FIBER Co. Internet Fiber and Optical Cable Services /Ltd.|
+|19|178.18.242.116|3128|Germany|Frankfurt am Main|Inline Internet Online Dienste GmbH|
+|20|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
 
 
 

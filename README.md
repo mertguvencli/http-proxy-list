@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2511** proxies at the latest update. Usable proxies are below.
+> Scraper found **2447** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|42|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|42|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|42|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|35|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|35|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|35|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|2|144.91.66.128|3128|Germany|Nuremberg|Contabo GmbH|
-|3|45.6.98.207|8888|Brazil|Aracoiaba da Serra|Spin TelecomunicaÔÔes|
-|4|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
-|5|144.91.85.172|3128|Germany|Nuremberg|Contabo GmbH|
-|6|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|7|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|8|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|9|45.79.77.226|3128|United States|Fremont|Linode, LLC|
-|10|36.37.160.242|8080|Cambodia|Prey Veng|VIETTEL (CAMBODIA) PTE.|
-|11|181.37.179.49|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|12|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|13|78.37.24.148|8080|Russia|Valday|Rostelecom networks|
-|14|189.193.254.10|999|Mexico|Lerma de Villada|Mega Cable, S.A. de C.V.|
-|15|103.143.195.65|1080|Indonesia|Medan|TRINITY|
-|16|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|17|102.64.66.106|8080|Tanzania|Dar es Salaam|Net Solutions Limited|
-|18|68.208.51.61|8080|United States|Decatur|AT&T Corp|
-|19|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|20|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
+|1|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|2|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|3|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
+|4|62.138.3.125|5566|France|Strasbourg|Host Europe GmbH|
+|5|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|6|45.181.207.129|999|Colombia|Caucasia|Quality NET JM S.a.s. Zomac|
+|7|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
+|8|66.94.97.238|443|United States|New York|Contabo Inc.|
+|9|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|10|190.110.99.98|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|11|45.175.139.133|999|Colombia|Juntas de Tamana|Media Commerce Partners S.A|
+|12|181.78.16.235|8080|Colombia|Cúcuta|IFX Networks Argentina S.R.L|
+|13|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|14|103.14.198.145|83|India|Bengaluru|Mobiwalkers|
+|15|88.255.101.228|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|16|1.2.252.65|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|17|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
+|18|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|19|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|20|103.239.147.250|54623|India|Ahmedabad|Fiberpipe communications pvt. ltd|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2539** proxies at the latest update. Usable proxies are below.
+> Scraper found **2666** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|204.199.113.27|999|Colombia|Bogotá|CTL Colombia|
-|3|190.2.210.249|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|4|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|5|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
-|6|45.202.16.126|8080|Philippines|Manila|Infinivan Incorporated|
-|7|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|8|167.172.173.210|40711|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|76.81.164.246|8080|United States|Garden Grove|Spectrum|
-|10|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
-|11|45.166.144.2|999|Chile|Santiago|Fullsolution S.P.A.|
-|12|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|13|61.9.53.157|1337|Philippines|San Juan|Sky Cable Corporation|
-|14|177.53.221.89|39310|Brazil|Propria|Sergipeweb Provedores De Internet Ltda|
-|15|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|16|41.65.67.166|1981|Egypt|Giza|Enterprise|
-|17|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|18|144.217.7.157|5566|Canada|Beauharnois|OVH SAS|
-|19|114.32.93.245|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|20|188.72.6.98|37083|Iraq|Sulaymaniyah|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
+|2|103.151.246.38|10001|Indonesia|Mamuju|MANAKARRANET|
+|3|103.208.200.115|23500|India|New Delhi|Gigantic|
+|4|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|5|103.18.77.236|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|6|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
+|7|185.142.43.217|8080|Lebanon|Bednâyel|Net Pro sarl|
+|8|201.174.10.170|999|Mexico|Nogales|Transtelco Inc|
+|9|179.189.193.101|3129|Brazil|Novo Progresso|NovaNet Provedor e Web Ltda|
+|10|45.190.79.160|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
+|11|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|12|1.186.40.35|1111|India|Attur|D-VoiS Broadband Private Limited|
+|13|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|14|43.224.10.57|6666|India|Surat|gtpl hariom world vision|
+|15|191.97.19.81|999|Venezuela|Caracas|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|16|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|17|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|18|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
+|19|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
+|20|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

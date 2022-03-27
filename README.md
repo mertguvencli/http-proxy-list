@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2620** proxies at the latest update. Usable proxies are below.
+> Scraper found **2641** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|60|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|60|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|60|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|103.161.164.101|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|3|176.222.63.242|8080|Iraq|Baghdad|Larsa Mountain for Information Technology Ltd|
-|4|91.209.114.17|6789|Hungary|Budapest|Invitech ICT Services Kft.|
-|5|201.186.131.56|999|Chile|Temuco|Telefonica del Sur S.A.|
-|6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|7|212.126.107.2|31475|Iraq|Erbil|AL-SARD FIBER Co. Internet Fiber and Optical Cable Services /Ltd.|
-|8|71.25.47.187|8080|United States|Baltimore|Comcast Cable Communications, LLC|
-|9|212.73.73.234|8081|Armenia|Yerevan|Telecom Armenia CJSC|
-|10|105.112.135.162|8080|Nigeria|Ikoyi|Airtel Networks Limited|
-|11|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|12|190.0.17.66|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|13|200.114.84.76|8080|Argentina|La Plata|Citarella S.A.|
-|14|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
-|15|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|16|185.177.222.171|8089|Russia|Murom|Modus LLC|
-|17|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
-|18|34.132.61.61|3127|United States|Council Bluffs|Google LLC|
-|19|37.120.192.154|8080|Netherlands|Amsterdam|M247 Ltd|
-|20|188.246.186.142|41890|Russia|Moscow|OOO WestCall Ltd|
+|1|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|2|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|3|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|4|41.191.245.59|8080|Ghana|Accra|BusyInternet Ghana Ltd|
+|5|181.209.99.218|999|Argentina|Cachi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|6|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|7|103.31.39.230|8080|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
+|8|114.5.199.208|8080|Indonesia|Bandung|PT. INDOSAT Tbk|
+|9|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|10|60.211.218.78|53281|China|Jinan|CNC Group CHINA169 Shandong Province Network|
+|11|200.37.140.35|10101|Peru|Lima|Telefonica del Peru S.A.A.|
+|12|77.236.231.11|1256|Russia|Moscow|Enforta-MSK|
+|13|103.213.213.22|82|India|Pune|Syscon Infoway Pvt. Ltd.|
+|14|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|15|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
+|16|173.165.102.210|8080|United States|Bloomington|Comcast Cable Communications|
+|17|191.97.19.81|999|Venezuela|Caracas|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
+|18|109.200.159.27|8080|Ukraine|Simferopol|CRELCOM|
+|19|185.204.197.169|8080|Italy|Rome|Pars Parva System LLC|
+|20|103.209.230.113|8080|Bangladesh|Dhaka|WIMS1|
 
 
 

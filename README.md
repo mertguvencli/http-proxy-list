@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2363** proxies at the latest update. Usable proxies are below.
+> Scraper found **2411** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|24|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|24|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|24|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|42|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|42|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|42|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|3|191.97.1.91|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
-|4|200.24.157.118|999|Ecuador|Azogues|Nedetel S.A.|
-|5|183.88.213.85|8080|Thailand|Chon Buri|Triple T Broadband Public Company Limited|
-|6|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|7|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|8|186.1.206.158|3128|Haiti|Port-au-Prince|Télécommunications de Haití (Teleco)|
-|9|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|10|45.175.139.133|999|Colombia|Juntas de Tamana|Media Commerce Partners S.A|
-|11|182.74.218.23|3128|India|Bengaluru|Bharti Airtel Limited|
-|12|190.100.95.229|3128|Chile|San Joaquin|VTR BANDA ANCHA S.A.|
-|13|164.70.115.148|59394|Japan|Chiyoda|NTT PC Communications, Inc.|
-|14|110.78.22.40|8080|Thailand|Chatuchak|CAT Telecom Public Company Limited|
-|15|103.152.232.179|8080|Indonesia|Subang|PT Kingpolah Network Solutions|
-|16|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|17|179.105.101.27|8080|Brazil|Vitória|Claro S.A.|
-|18|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|19|1.174.161.20|8080|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|20|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|1|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|103.247.15.57|8080|Indonesia|Bancang|TERABIT|
+|4|103.231.218.246|8080|India|Chennai|Limras Eronet Broadband Service Private limited|
+|5|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|6|128.201.30.218|666|Brazil|Salvador|Poliserv Servicos E Comercio Ltda - ME|
+|7|188.133.153.187|8081|Russia|Moscow|Enforta-MSK|
+|8|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|9|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
+|10|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
+|11|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|12|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|13|157.100.53.102|999|Ecuador|Machala|Nedetel S.A.|
+|14|89.171.41.90|6969|Poland|Warsaw|Netia SA|
+|15|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
+|16|85.235.184.186|3129|Russia|Moscow|MTS PJSC|
+|17|137.184.136.135|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
+|19|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|20|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
 
 
 

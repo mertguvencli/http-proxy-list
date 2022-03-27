@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2376** proxies at the latest update. Usable proxies are below.
+> Scraper found **2398** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|35|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|35|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|35|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|39|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|39|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|39|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|1|54.217.76.59|80|Ireland|Dublin|Amazon.com, Inc.|
+|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
 |3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|4|213.32.75.44|9300|France|Paris|OVH SAS|
-|5|144.91.85.172|3128|Germany|Nuremberg|Contabo GmbH|
-|6|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|7|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|8|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
-|9|80.63.84.58|8081|Denmark|Copenhagen|TDC A/S|
-|10|103.47.66.150|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
-|11|103.106.219.77|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
-|12|200.24.157.118|999|Ecuador|Azogues|Nedetel S.A.|
-|13|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|14|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
-|15|45.77.125.208|59394|United States|Los Angeles|The Constant Company|
+|4|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|5|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|6|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|7|45.71.203.106|999|Ecuador|Loja|Nedetel S.A|
+|8|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
+|9|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|10|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|11|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|12|117.54.238.62|8080|Indonesia|Jakarta|PT IndoInternet|
+|13|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|14|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|109.235.189.217|8080|Russia|Sochi|Dmitriy V. Kozmenko|
 |16|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|17|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|18|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|19|43.245.95.210|53805|Nepal|Kathmandu|BroadLink Networks and Communications|
-|20|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|17|147.135.134.57|5566|France|Gravelines|OVH SAS|
+|18|103.86.187.242|23500|Philippines|Cotabato City|Bicolandia Cable TV|
+|19|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|20|51.79.144.52|3128|Singapore|Singapore|OVH SAS|
 
 
 

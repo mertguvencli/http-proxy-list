@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2688** proxies at the latest update. Usable proxies are below.
+> Scraper found **2507** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|48|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|48|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|48|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.239.200.246|1337|Philippines|San Juan|Sky Cable Corporation|
-|2|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|3|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
-|4|103.163.193.97|83|India|Bongaigaon|Orbit Broadband|
-|5|103.167.109.151|8080|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
-|6|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|7|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|8|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|9|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|10|54.217.76.59|80|Ireland|Dublin|Amazon.com, Inc.|
-|11|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|12|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|203.210.84.50|8089|Indonesia|Bandung|Infrastruktur STARNET|
-|14|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|15|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|16|203.123.56.2|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|17|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|18|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|19|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
-|20|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
+|1|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|2|192.109.219.82|8080|Albania|Sarandë|Roland Delia trading as NEWAVE|
+|3|190.205.32.70|999|Venezuela|Barquisimeto|CANTV Servicios, Venezuela|
+|4|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|5|158.69.71.245|9300|Canada|Montreal|OVH SAS|
+|6|190.217.14.121|999|Venezuela|Caracas|Lan-online C.A.|
+|7|118.69.176.168|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|8|178.176.38.177|8080|Russia|Moscow|MegaFon|
+|9|217.180.218.36|8080|United States|Lansing|Metronet|
+|10|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|11|216.176.187.99|8889|United States|Los Angeles|Wowrack.com|
+|12|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|13|79.127.56.147|8080|Iran|Mashhad|Asiatech Data Transmission company|
+|14|200.37.140.35|10101|Peru|Lima|Telefonica del Peru S.A.A.|
+|15|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|16|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|17|190.108.200.176|8080|Guyana|Georgetown|E-Networks Inc.|
+|18|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|19|200.32.80.54|999|Colombia|Bogotá|Level 3 Colombia S.A|
+|20|130.185.73.139|8888|Iran|Tehran|Pars Parva System Ltd|
 
 
 

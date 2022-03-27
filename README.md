@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2447** proxies at the latest update. Usable proxies are below.
+> Scraper found **2378** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|35|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|35|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|35|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|30|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|30|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|30|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
 |2|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|3|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
-|4|62.138.3.125|5566|France|Strasbourg|Host Europe GmbH|
-|5|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|6|45.181.207.129|999|Colombia|Caucasia|Quality NET JM S.a.s. Zomac|
-|7|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
-|8|66.94.97.238|443|United States|New York|Contabo Inc.|
-|9|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
-|10|190.110.99.98|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|11|45.175.139.133|999|Colombia|Juntas de Tamana|Media Commerce Partners S.A|
-|12|181.78.16.235|8080|Colombia|Cúcuta|IFX Networks Argentina S.R.L|
-|13|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|14|103.14.198.145|83|India|Bengaluru|Mobiwalkers|
-|15|88.255.101.228|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|16|1.2.252.65|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|17|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
-|18|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|19|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|20|103.239.147.250|54623|India|Ahmedabad|Fiberpipe communications pvt. ltd|
+|3|80.209.240.12|3128|United States|New York|HOSTKEY|
+|4|170.80.202.238|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|5|45.229.248.26|999|Argentina|La Plata|Wi-sim Comunicaciones SRL|
+|6|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|7|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|8|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|9|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
+|10|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|11|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|12|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|13|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
+|14|143.47.226.72|3128|United Kingdom|London|Oracle Corporation|
+|15|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
+|16|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|181.78.16.235|8080|Colombia|Cúcuta|IFX Networks Argentina S.R.L|
+|18|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|19|67.73.188.138|999|Colombia|Bogotá|CTL LATAM|
+|20|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
 
 
 

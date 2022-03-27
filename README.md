@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2510** proxies at the latest update. Usable proxies are below.
+> Scraper found **2511** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|36|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|36|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|36|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|42|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|42|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|42|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.237.111.226|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|4|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
-|5|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
-|6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|7|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
-|8|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|9|103.199.84.122|8080|Bangladesh|Bagerhat|Summit Communication Limited|
-|10|45.250.226.14|3128|India|Pune|Space Vision Digital Network Pvt. Ltd|
-|11|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|12|147.135.134.57|5566|France|Gravelines|OVH SAS|
-|13|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|14|115.87.197.107|80|Thailand|Bangkok|TRUEBB|
-|15|200.116.198.180|32605|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
-|16|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
-|17|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
-|18|180.180.171.123|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|19|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|20|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
+|1|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|2|144.91.66.128|3128|Germany|Nuremberg|Contabo GmbH|
+|3|45.6.98.207|8888|Brazil|Aracoiaba da Serra|Spin TelecomunicaÔÔes|
+|4|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|5|144.91.85.172|3128|Germany|Nuremberg|Contabo GmbH|
+|6|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|7|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|8|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|9|45.79.77.226|3128|United States|Fremont|Linode, LLC|
+|10|36.37.160.242|8080|Cambodia|Prey Veng|VIETTEL (CAMBODIA) PTE.|
+|11|181.37.179.49|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|12|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|13|78.37.24.148|8080|Russia|Valday|Rostelecom networks|
+|14|189.193.254.10|999|Mexico|Lerma de Villada|Mega Cable, S.A. de C.V.|
+|15|103.143.195.65|1080|Indonesia|Medan|TRINITY|
+|16|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|17|102.64.66.106|8080|Tanzania|Dar es Salaam|Net Solutions Limited|
+|18|68.208.51.61|8080|United States|Decatur|AT&T Corp|
+|19|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|20|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

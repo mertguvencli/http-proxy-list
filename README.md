@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2420** proxies at the latest update. Usable proxies are below.
+> Scraper found **2425** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|39|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|39|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|39|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|28|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|28|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|28|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|2|200.6.254.254|999|Guatemala|Guatemala City|Telgua|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|84.53.247.204|53281|Russia|Vladimir|Elcom ISP|
-|5|31.173.94.93|43539|Russia|Kolomna|MegaFon|
-|6|45.77.125.208|59394|United States|Los Angeles|The Constant Company|
-|7|117.2.28.235|55443|Vietnam|Khánh Hải|Viettel Corporation|
-|8|103.111.57.59|8090|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|9|45.250.226.14|3128|India|Pune|Space Vision Digital Network Pvt. Ltd|
-|10|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|12|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|13|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|3|188.170.129.149|3128|Russia|Ulyanovsk|MegaFon|
+|4|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|5|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|6|200.24.157.118|999|Ecuador|Azogues|Nedetel S.A.|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|8|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
+|9|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|10|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|11|162.219.119.225|8080|United States|Newark|Hillbilly Wireless INC.|
+|12|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|13|103.46.233.186|83|India|Vaddangi|Apple Broadband Services Pvt.ltd|
 |14|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|15|182.74.218.23|3128|India|Bengaluru|Bharti Airtel Limited|
-|16|45.166.144.2|999|Chile|Santiago|Fullsolution S.P.A.|
-|17|116.80.87.146|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
-|18|138.117.84.161|8080|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|19|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|20|45.156.31.31|9090|Turkey|Istanbul|ATLANTIS|
+|15|41.65.67.166|1981|Egypt|Giza|Enterprise|
+|16|79.120.177.106|8080|Hungary|Budapest|Invitech ICT Services Kft.|
+|17|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|18|82.167.252.66|8080|Saudi Arabia|Riyadh|ORBITNET.KSA|
+|19|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|20|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
 
 
 

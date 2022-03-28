@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2379** proxies at the latest update. Usable proxies are below.
+> Scraper found **2335** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|28|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|28|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|28|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|35|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|35|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|35|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|109.86.152.78|55443|Ukraine|Kyiv|Triolan|
-|4|200.32.80.56|999|Colombia|Bogotá|Level 3 Communications, Inc.|
-|5|217.11.79.232|8080|Kazakhstan|Almaty|Aspan telecom|
-|6|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|7|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
-|8|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|9|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|10|45.173.231.155|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
-|11|103.123.64.24|8888|Indonesia|Jakarta|CEPATNET|
-|12|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
-|13|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|14|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|15|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|16|195.211.219.147|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|17|103.124.226.63|3127|Bangladesh|Dhaka|Level3|
-|18|176.106.255.3|8080|Russia|Moscow|NPF SOFTVIDEO Ltd|
-|19|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|20|134.209.42.113|8889|United States|Clifton|DigitalOcean, LLC|
+|2|91.150.67.17|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|3|200.77.121.214|999|Mexico|Soledad de Doblado|Mega Cable, S.A. de C.V.|
+|4|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|5|94.156.6.137|8080|Bulgaria|Sofia|Neterra - NET1|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|103.199.159.193|40049|India|Moradabad|city broadband network pvt.ltd|
+|8|178.158.230.160|41890|Ukraine|Kyiv|Maximum-Net LLC|
+|9|37.29.80.161|8080|Russia|Novosibirsk|MEGAFONSIB|
+|10|216.169.73.65|34679|United States|Panguitch|South Central Communications, Inc.|
+|11|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
+|12|41.60.234.180|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|13|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|14|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|15|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
+|16|43.228.125.189|8080|Singapore|Singapore|Layerstack Limited|
+|17|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
+|18|79.127.56.147|8080|Iran|Mashhad|Asiatech Data Transmission company|
+|19|184.82.128.211|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|20|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
 
 
 

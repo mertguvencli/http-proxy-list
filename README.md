@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2336** proxies at the latest update. Usable proxies are below.
+> Scraper found **2327** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|30|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|30|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|30|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|41|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|41|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|41|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|3|41.86.251.61|8080|Benin|Cotonou|ISOCEL SA|
-|4|187.109.40.9|20183|Brazil|São Paulo|Ultranet Telecomunicações Ltda|
-|5|77.236.237.241|1256|Russia|Moscow|Enforta-MSK|
-|6|185.187.197.106|81|Russia|Prokhladnyy|Ates LLC|
-|7|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|8|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|9|37.255.135.18|8080|Iran|Isfahan|Iran Telecommunication Company PJS|
-|10|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|11|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
-|12|212.164.52.198|443|Russia|Novosibirsk|Rostelecom networks|
-|13|111.68.26.237|8080|Indonesia|Sleman|GMEDIA|
-|14|46.161.195.105|1981|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|15|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
-|16|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
-|17|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|18|103.105.228.134|8080|India|Mumbai|Mnk Infoway Private Limited|
-|19|186.125.59.8|46316|Argentina|Florentino Ameghino|Telecom Argentina S.A.|
-|20|179.70.107.119|8080|Brazil|Salvador|Telemar Norte Leste S.A.|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|4|36.92.93.61|8080|Indonesia|Balikpapan|Telekomunikasi Indonesia|
+|5|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|6|187.6.13.230|3128|Brazil|Brasília|Brasil Telecom S/A - Filial Distrito Federal|
+|7|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|8|201.249.161.51|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
+|9|105.112.135.162|8080|Nigeria|Ikoyi|Airtel Networks Limited|
+|10|125.25.82.190|8080|Thailand|Amphoe Phra Pradaeng|TOT Public Company Limited|
+|11|146.196.106.34|8080|Indonesia|Teluknaga|PT Maxindo Mitra Solusi|
+|12|78.37.24.148|8080|Russia|Valday|Rostelecom networks|
+|13|186.154.211.107|999|Colombia|Bogotá|ETB - Colombia|
+|14|203.189.230.198|8080|Bangladesh|Dhaka|ZIPNET Limited|
+|15|176.214.99.101|1256|Russia|Vidnoye|JSC "ER-Telecom Holding"|
+|16|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|17|103.24.125.33|83|India|Hyderabad|Tri-Networks|
+|18|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|19|80.63.84.58|8081|Denmark|Copenhagen|TDC A/S|
+|20|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
 
 
 

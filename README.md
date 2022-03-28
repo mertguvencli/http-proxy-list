@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2421** proxies at the latest update. Usable proxies are below.
+> Scraper found **2450** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|43|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|43|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|43|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|2|54.237.111.226|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|4|178.170.195.245|9999|Russia|Moscow|Cloud technology Limited (Ltd.)|
-|5|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
-|6|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
-|7|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|8|45.167.95.184|8085|Mexico|Querétaro|Lantointernet SA De CV|
-|9|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|10|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|11|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|13|85.25.139.22|5566|France|Strasbourg|Host Europe GmbH|
-|14|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|15|159.192.138.170|8080|Thailand|Chana|CAT-BB|
-|16|113.212.87.242|83|India|Ahmedabad|INPLs|
-|17|45.229.33.114|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|18|47.108.217.191|8118|China|Chengdu|Hangzhou Alibaba Advertising Co|
-|19|45.229.205.124|55555|Argentina|Dock Sud|Visio RED SRL|
-|20|190.210.211.70|8080|Argentina|Buenos Aires|NSS S.A.|
+|1|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|213.232.127.206|8085|Iran|Tehran|Toesegaran Shabakeh Arseh Novin Ltd|
+|7|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
+|8|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|9|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|10|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|11|200.114.84.76|8080|Argentina|La Plata|Citarella S.A.|
+|12|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|13|181.198.194.23|3127|Ecuador|Guayaquil|Telconet S.A|
+|14|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|15|103.81.114.182|53281|Myanmar|Yangon|Horizon Telecom International|
+|16|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|17|185.187.197.106|81|Russia|Prokhladnyy|Ates LLC|
+|18|77.104.97.5|8080|Iran|Tehran|Respina|
+|19|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|20|161.22.34.100|999|Venezuela|Mérida|MDS TELECOM C.A.|
 
 
 

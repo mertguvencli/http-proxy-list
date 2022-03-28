@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2450** proxies at the latest update. Usable proxies are below.
+> Scraper found **2396** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|43|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|43|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|43|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|44|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|44|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|44|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
 |2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 |4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|213.232.127.206|8085|Iran|Tehran|Toesegaran Shabakeh Arseh Novin Ltd|
-|7|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
-|8|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|9|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
-|10|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|11|200.114.84.76|8080|Argentina|La Plata|Citarella S.A.|
-|12|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|13|181.198.194.23|3127|Ecuador|Guayaquil|Telconet S.A|
-|14|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|15|103.81.114.182|53281|Myanmar|Yangon|Horizon Telecom International|
-|16|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|17|185.187.197.106|81|Russia|Prokhladnyy|Ates LLC|
-|18|77.104.97.5|8080|Iran|Tehran|Respina|
-|19|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|20|161.22.34.100|999|Venezuela|Mérida|MDS TELECOM C.A.|
+|5|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|6|91.145.198.184|8080|Ukraine|Kyiv|Lifecell UA|
+|7|36.95.15.149|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|8|103.124.97.11|8080|Nepal|Kaski|Pokhara Internet Pvt. Ltd|
+|9|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|10|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|11|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|186.154.211.107|999|Colombia|Bogotá|ETB - Colombia|
+|13|46.191.239.183|8080|Russia|Sterlitamak|JSC "Ufanet"|
+|14|104.192.202.11|8080|United States|St. George|Go Fiber|
+|15|190.92.49.150|999|Honduras|Ciudad Choluteca|Cablecolor S.A.|
+|16|188.165.59.127|3128|France|Paris|OVH ISP|
+|17|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|18|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|19|202.75.97.82|47009|Indonesia|Jakarta|Yudhawira Khatulistiwa|
+|20|159.224.232.222|3128|Ukraine|Dnipro|Triolan|
 
 
 

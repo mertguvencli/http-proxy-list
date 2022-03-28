@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2327** proxies at the latest update. Usable proxies are below.
+> Scraper found **2421** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|41|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|41|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|41|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|4|36.92.93.61|8080|Indonesia|Balikpapan|Telekomunikasi Indonesia|
-|5|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|6|187.6.13.230|3128|Brazil|Brasília|Brasil Telecom S/A - Filial Distrito Federal|
-|7|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|8|201.249.161.51|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
-|9|105.112.135.162|8080|Nigeria|Ikoyi|Airtel Networks Limited|
-|10|125.25.82.190|8080|Thailand|Amphoe Phra Pradaeng|TOT Public Company Limited|
-|11|146.196.106.34|8080|Indonesia|Teluknaga|PT Maxindo Mitra Solusi|
-|12|78.37.24.148|8080|Russia|Valday|Rostelecom networks|
-|13|186.154.211.107|999|Colombia|Bogotá|ETB - Colombia|
-|14|203.189.230.198|8080|Bangladesh|Dhaka|ZIPNET Limited|
-|15|176.214.99.101|1256|Russia|Vidnoye|JSC "ER-Telecom Holding"|
-|16|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|17|103.24.125.33|83|India|Hyderabad|Tri-Networks|
-|18|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|19|80.63.84.58|8081|Denmark|Copenhagen|TDC A/S|
-|20|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|54.237.111.226|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|4|178.170.195.245|9999|Russia|Moscow|Cloud technology Limited (Ltd.)|
+|5|74.207.235.154|8082|United States|Atlanta|Linode, LLC|
+|6|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|7|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|8|45.167.95.184|8085|Mexico|Querétaro|Lantointernet SA De CV|
+|9|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|10|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|11|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|13|85.25.139.22|5566|France|Strasbourg|Host Europe GmbH|
+|14|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|15|159.192.138.170|8080|Thailand|Chana|CAT-BB|
+|16|113.212.87.242|83|India|Ahmedabad|INPLs|
+|17|45.229.33.114|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|18|47.108.217.191|8118|China|Chengdu|Hangzhou Alibaba Advertising Co|
+|19|45.229.205.124|55555|Argentina|Dock Sud|Visio RED SRL|
+|20|190.210.211.70|8080|Argentina|Buenos Aires|NSS S.A.|
 
 
 

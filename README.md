@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2453** proxies at the latest update. Usable proxies are below.
+> Scraper found **2386** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|57|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|57|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|57|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|50|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|50|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|50|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|186.97.156.130|999|Colombia|Medellín|Colombia Móvil|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
 |3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|4|190.210.8.92|8080|Argentina|Buenos Aires|NSS S.A.|
-|5|45.229.33.114|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
-|6|138.117.84.65|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
-|7|177.55.207.38|8080|Brazil|Campos dos Goytacazes|Sumicity Telecomunicacoes S.A.|
-|8|118.172.201.216|8080|Thailand|Doembang Nangbuat|TOT Public Company Limited|
-|9|149.34.7.65|8080|Spain|Barcelona|Adamo Telecom Iberia S.A.|
-|10|103.145.151.130|8080|Indonesia|Depok|PT. Indonesia Comnets Plus|
-|11|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
-|12|124.158.167.26|8080|Indonesia|Tangerang|ICON+|
-|13|47.96.151.68|7890|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|14|103.161.31.137|83|India|Hyderabad|Venkata Sai Internet Pvt. Ltd|
-|15|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|16|189.196.46.2|999|Mexico|Ciudad Serdan|Mega Cable, S.A. de C.V.|
-|17|110.74.195.34|25|Cambodia|Phnom Penh|EZECOM limited|
-|18|36.66.124.193|3128|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
-|19|165.16.27.6|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|20|36.94.8.23|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|4|159.224.232.222|3128|Ukraine|Dnipro|Triolan|
+|5|183.88.228.208|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|6|37.29.80.161|8080|Russia|Novosibirsk|MEGAFONSIB|
+|7|132.255.210.122|999|El Salvador|Santa Rosa de Lima|Conective S.a. De C.V.|
+|8|101.255.117.122|3128|Indonesia|Bekasi|PT Remala Abadi|
+|9|103.18.77.238|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|10|103.159.200.3|8080|India|Kolhapur|Maxtech Broadband Pvt Ltd|
+|11|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
+|12|195.140.226.244|8080|Ukraine|Kharkiv|Therecom Ltd|
+|13|216.176.187.99|8889|United States|Los Angeles|Wowrack.com|
+|14|186.1.206.158|3128|Haiti|Port-au-Prince|Télécommunications de Haití (Teleco)|
+|15|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|16|190.92.49.150|999|Honduras|Ciudad Choluteca|Cablecolor S.A.|
+|17|181.198.86.74|999|Ecuador|Guayaquil|Telconet S.A|
+|18|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|19|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|20|151.22.181.213|8080|Italy|Strongoli|INFOSTRADA|
 
 
 

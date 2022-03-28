@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2445** proxies at the latest update. Usable proxies are below.
+> Scraper found **2373** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|36|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|36|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|36|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|26|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|26|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|26|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|3|95.158.44.63|8080|Ukraine|Irpin|Company with additional responsibility ""BEST"|
+|2|89.171.41.90|6969|Poland|Warsaw|Netia SA|
+|3|83.12.128.42|8080|Poland|Piotrkow Trybunalski|Orange Polska Spolka Akcyjna|
 |4|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|5|103.227.141.90|8181|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
-|6|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|7|41.191.245.59|8080|Ghana|Accra|BusyInternet Ghana Ltd|
-|8|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|9|45.170.101.2|999|Chile|Buin|Fibernet SPA|
-|10|198.229.231.13|8080|United States|Princeton|MTCO Communications|
-|11|43.228.125.189|8080|Singapore|Singapore|Layerstack Limited|
-|12|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
-|13|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|14|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|15|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
-|16|82.167.252.66|8080|Saudi Arabia|Riyadh|ORBITNET.KSA|
-|17|200.25.254.193|54240|Colombia|Medellín|Andinet ON Line|
-|18|103.145.57.109|8080|Bangladesh|Bogra|Rainbow Network|
-|19|217.29.26.194|8080|Kyrgyzstan|Bishkek|Saimanet Telecomunications|
-|20|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|5|58.27.255.98|8080|Pakistan|Lahore|Wateen Telecom Limited|
+|6|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|7|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|8|177.55.207.38|8080|Brazil|Campos dos Goytacazes|Sumicity Telecomunicacoes S.A.|
+|9|217.180.218.36|8080|United States|Lansing|Metronet|
+|10|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|11|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
+|12|192.109.219.82|8080|Albania|Sarandë|Roland Delia trading as NEWAVE|
+|13|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|14|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
+|15|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|16|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|17|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|18|101.99.31.69|3128|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|19|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|20|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
 
 
 

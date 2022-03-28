@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2456** proxies at the latest update. Usable proxies are below.
+> Scraper found **2610** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|3|157.230.34.152|39521|Singapore|Singapore|DigitalOcean, LLC|
-|4|41.186.44.106|3128|Rwanda|Kigali|MTN Rwandacell|
-|5|103.168.164.26|83|India|Pune|Nutech Broadband|
-|6|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|7|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|8|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
-|9|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|10|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|13|200.106.124.233|999|Peru|Tacna|Telefonica del Peru|
-|14|202.145.13.109|8080|Indonesia|Puspasari|PT Jala Lintas Media|
-|15|212.100.84.10|8080|Nigeria|Lagos|Autonomous System number for Cyber Space|
-|16|77.46.138.38|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
-|17|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
-|18|110.235.250.155|8080|Cambodia|Phnom Penh|COGETEL Co|
-|19|201.220.102.146|8080|Chile|Talca|Telefonica del Sur S.A.|
-|20|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|3|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|4|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|5|50.233.228.147|8080|United States|Aurora|Comcast Cable Communications, LLC|
+|6|103.156.218.232|8080|Indonesia|Bekasi|MYREPUBLIC|
+|7|103.18.77.238|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
+|8|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|9|194.233.73.106|443|Singapore|Singapore|Contabo Asia Private Limited|
+|10|182.253.93.4|53281|Indonesia|Jakarta|BIZNET|
+|11|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
+|12|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|13|200.77.121.214|999|Mexico|Soledad de Doblado|Mega Cable, S.A. de C.V.|
+|14|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|15|91.186.102.169|8082|Russia|Noril'sk|MTS PJSC|
+|16|103.147.77.66|5030|Indonesia|Madiun|TRIDATA|
+|17|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|18|190.54.100.74|8080|Chile|Santiago|Telmex Chile Internet S.A.|
+|19|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|20|110.235.250.155|8080|Cambodia|Phnom Penh|COGETEL Co|
 
 
 

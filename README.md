@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2317** proxies at the latest update. Usable proxies are below.
+> Scraper found **2379** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|32|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|32|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|32|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|28|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|28|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|28|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|2|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|5|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|6|133.167.121.133|1976|Japan|Osaka|SAKURA Internet Inc.|
-|7|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|197.210.141.218|8080|Nigeria|Port Harcourt|MTN NIGERIA Communication limited|
-|9|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|10|1.2.199.37|8080|Thailand|Phichit|TOT Public Company Limited|
-|11|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|12|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|109.86.152.78|55443|Ukraine|Kyiv|Triolan|
+|4|200.32.80.56|999|Colombia|Bogotá|Level 3 Communications, Inc.|
+|5|217.11.79.232|8080|Kazakhstan|Almaty|Aspan telecom|
+|6|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|7|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
+|8|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|9|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|10|45.173.231.155|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|11|103.123.64.24|8888|Indonesia|Jakarta|CEPATNET|
+|12|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
 |13|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|14|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
-|15|69.43.44.106|8080|United States|Morgantown|CityNet|
-|16|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|17|187.95.114.125|3128|Brazil|Roncador|COPEL TelecomunicaÔÔes S.A.|
-|18|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|19|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|20|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|14|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|15|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|16|195.211.219.147|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|17|103.124.226.63|3127|Bangladesh|Dhaka|Level3|
+|18|176.106.255.3|8080|Russia|Moscow|NPF SOFTVIDEO Ltd|
+|19|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|20|134.209.42.113|8889|United States|Clifton|DigitalOcean, LLC|
 
 
 

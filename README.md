@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2396** proxies at the latest update. Usable proxies are below.
+> Scraper found **2324** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|40|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|40|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|40|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|50|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|50|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|50|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|3|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|4|62.141.90.254|8080|Russia|Moscow|COMBELNET|
-|5|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
-|6|190.145.200.126|53281|Colombia|Bogotá|Telmex Colombia S.A.|
-|7|181.224.207.20|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|8|203.84.153.210|8080|Indonesia|Jakarta|PT Orion Cyber Internet|
-|9|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos HYP|
-|10|43.252.10.212|2222|Indonesia|Jakarta|QUANTUMNET|
-|11|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|12|45.70.15.8|8080|Ecuador|Alausi|Nedetel S.A.|
-|13|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|14|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|15|79.104.25.218|8080|Russia|Moscow|EDN SOVINTEL|
-|16|61.9.48.169|1337|Philippines|San Juan|Sky Cable Corporation|
-|17|79.140.17.172|8016|Russia|Orenburg|JSC "Ufanet"|
-|18|177.93.50.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|107.178.9.186|8080|United States|Godley|Nextlink Broadband|
-|20|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|1|54.237.111.226|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|3|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|4|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|6|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|7|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|8|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|9|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|10|2.184.4.70|6565|Iran|Zarand|Iran Telecommunication Company PJS|
+|11|101.51.106.70|49285|Thailand|Songkhla|TOT Public Company Limited|
+|12|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|13|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|14|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|15|181.198.194.23|3127|Ecuador|Guayaquil|Telconet S.A|
+|16|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|17|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|18|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
+|19|67.73.188.138|999|Colombia|Bogotá|CTL LATAM|
+|20|181.129.243.100|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2410** proxies at the latest update. Usable proxies are below.
+> Scraper found **2436** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|41|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|41|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|41|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|44|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|44|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|44|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|4|118.89.176.33|8118|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|5|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|6|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|180.211.193.130|3127|Bangladesh|Barishal|Bangladesh Telecommunications Company Ltd.|
-|8|190.2.211.134|8080|Colombia|Popayán|TV AZTECA SUCURSAL COLOMBIA|
-|9|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|10|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|11|103.250.156.24|6666|India|Siddhapur|GTPL Sorath Telelink Pvt. Ltd|
-|12|15.235.132.138|8080|Singapore|Singapore|OVH Singapore PTE. LTD|
-|13|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
-|14|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
-|16|190.110.99.101|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|5|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
+|6|103.207.3.6|83|India|Orathanadu|Sri Vari Network Private Limited|
+|7|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|8|185.72.27.98|8080|Iran|Isfahan|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|9|190.110.99.106|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|10|45.172.111.5|999|Argentina|Ramblon|GPS SANJUAN SRL.|
+|11|185.94.218.57|43403|Ukraine|Lviv|LITECH-ISP|
+|12|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|13|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|14|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|15|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|16|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
 |17|205.155.45.139|3128|United States|Gonzales|California State University Network|
-|18|50.233.228.147|8080|United States|Aurora|Comcast Cable Communications, LLC|
-|19|188.190.245.135|55443|Ukraine|Kyiv|LocalNet Ltd.|
-|20|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|18|181.129.70.82|46752|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|20|41.65.67.166|1981|Egypt|Giza|Enterprise|
 
 
 

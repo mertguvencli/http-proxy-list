@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2308** proxies at the latest update. Usable proxies are below.
+> Scraper found **2343** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|31|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|31|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|31|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|30|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|30|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|30|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
-|2|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
-|3|67.212.83.53|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
-|4|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|5|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|6|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|7|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
-|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|115.87.197.107|80|Thailand|Bangkok|TRUEBB|
-|10|173.165.102.210|8080|United States|Bloomington|Comcast Cable Communications|
-|11|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
-|12|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
-|13|143.110.146.53|3128|United States|Santa Clara|DigitalOcean, LLC|
-|14|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
-|15|176.235.139.34|10001|Turkey|Çorum|Superonline Iletisim Hizmetleri A.S.|
-|16|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|17|202.146.228.254|8088|Indonesia|Bekasi|PT Centrin Utama|
-|18|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
-|19|177.91.98.252|8080|Brazil|Bom Jesus da Lapa|Pollynet - MP Telecom Servicos E Comercio Ltda|
-|20|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|1|181.37.179.49|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|2|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|3|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|4|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|7|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
+|8|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|9|161.18.235.183|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|10|101.99.32.122|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|11|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
+|13|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|14|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|15|45.176.95.100|999|Dominican Republic|Cotui|Exito Vision Cable S.A.S|
+|16|103.148.192.74|8080|Indonesia|Bandung|PT. Akashia Thuba Jaya|
+|17|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|18|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|19|202.129.196.242|53879|India|Alandurai|Wireline Solution India Pvt Ltd.|
+|20|193.150.117.102|8000|Russia|Moscow|LTD "ARENTEL"|
 
 
 

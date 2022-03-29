@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2416** proxies at the latest update. Usable proxies are below.
+> Scraper found **2408** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|39|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|39|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|39|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|45|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|45|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|45|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.229.205.191|55555|Argentina|Dock Sud|Visio RED SRL|
-|2|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|3|165.16.27.13|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|4|201.150.117.97|999|Mexico|Mixquiahuala de Juarez|Hulux Telecomunicaciones|
-|5|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|6|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
-|7|5.35.38.8|32132|Russia|Korolyov|INFOLINE|
-|8|43.224.10.23|6666|India|Surat|gtpl hariom world vision|
-|9|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
-|10|190.202.111.202|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|11|202.146.228.254|8088|Indonesia|Bekasi|PT Centrin Utama|
-|12|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|13|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
-|14|212.100.84.10|8080|Nigeria|Lagos|Autonomous System number for Cyber Space|
-|15|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|16|1.186.40.35|1111|India|Attur|D-VoiS Broadband Private Limited|
-|17|186.218.119.183|8080|Brazil|Caruaru|Claro S.A.|
-|18|77.222.52.199|3128|Russia|St Petersburg|Spaceweb network|
-|19|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|20|110.77.134.106|8080|Thailand|Thon Buri|CAT Telecom Public Company Limited|
+|1|67.212.83.54|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
+|4|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|5|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
+|6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|7|45.70.15.9|8080|Ecuador|Alausi|Nedetel S.A.|
+|8|193.242.151.44|8080|Russia|Krasnodar|SvyazResurs-Kuban|
+|9|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|10|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|11|188.133.157.61|10000|Russia|Moscow|Enforta-MSK|
+|12|27.105.130.93|8080|Taiwan|Taipei|SONET|
+|13|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|14|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
+|15|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|16|202.29.237.210|3128|Thailand|Bangkok|THAINET|
+|17|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
+|19|178.93.151.100|8080|Ukraine|Kyiv|UKRTELECOM|
+|20|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 

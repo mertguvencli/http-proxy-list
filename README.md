@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2401** proxies at the latest update. Usable proxies are below.
+> Scraper found **2367** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|32|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|32|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|32|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|41|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|41|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|41|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.237.111.226|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
-|3|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|4|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|5|190.128.225.116|999|Paraguay|Asunción|Telecel S.A.|
-|6|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|8|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|9|41.76.149.62|8080|Mozambique|Maputo|VM  S.A|
-|10|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|11|103.156.128.245|8080|Indonesia|Randugembolo|PT Skynet Lintas Nusantara|
-|12|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|13|190.92.49.150|999|Honduras|Ciudad Choluteca|Cablecolor S.A.|
-|14|205.155.45.139|3128|United States|Gonzales|California State University Network|
-|15|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|16|103.161.31.137|83|India|Hyderabad|Venkata Sai Internet Pvt. Ltd|
-|17|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
-|18|38.87.210.34|55443|Panama|Panama City|Gold Data C.A.|
-|19|45.161.115.48|999|Chile|Salamanca|Servicios E Inversiones Villasolis Ltda.|
-|20|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|1|45.189.254.33|999|Mexico|Alvarado|Tracered SA De CV|
+|2|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|3|187.109.37.53|20183|Brazil|Taubate|Ultranet TelecomunicaÔÔes Ltda|
+|4|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|89.204.214.142|8080|Ireland|Kilcock|O2 Ireland Fixed Broadband - Eircom White Label|
+|6|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|7|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|8|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
+|9|191.97.1.91|999|Colombia|Guachene|TV AZTECA SUCURSAL COLOMBIA|
+|10|94.130.244.179|5566|Germany|Schriesheim|Hetzner Online GmbH|
+|11|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|12|217.195.203.29|3131|Turkey|Eyuepsultan|FS Veri Merkezi Internet Teknolojileri Limited Sirketi|
+|13|80.93.212.46|3128|Turkey|Eyuepsultan|Fibersunucu|
+|14|197.232.65.40|55443|Kenya|Nairobi|Jamii Telecommunications Limited|
+|15|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|16|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|17|177.93.50.5|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|18|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|19|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|20|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
 
 
 

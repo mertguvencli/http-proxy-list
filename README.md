@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2444** proxies at the latest update. Usable proxies are below.
+> Scraper found **2416** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|49|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|49|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|49|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|39|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|39|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|39|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|2|45.184.155.84|6969|Argentina|Laferrere|Ruiz Sebastian Alejandro|
-|3|103.111.57.59|8090|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|4|213.33.152.178|41890|Russia|Moscow|EDN Sovintel|
-|5|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|6|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|7|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|8|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|10|177.155.215.36|8080|Brazil|Sinop|Giga Byte Telecomunicacoes Ltda|
-|11|212.42.116.161|8080|Kyrgyzstan|Bishkek|"ElCat" Ltd.|
-|12|129.205.106.226|8080|Nigeria|Ibadan|Globacom Limited|
-|13|67.73.188.138|999|Colombia|Bogotá|CTL LATAM|
-|14|103.243.114.206|8080|India|Pune|Gazon Communications India Limited|
-|15|81.91.144.190|55443|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
-|16|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|17|103.159.47.5|82|India|Ahmedabad|King Netsol Private Limited|
-|18|79.111.13.155|50625|Russia|Moscow|Net By Net Holding LLC|
-|19|14.241.111.38|8080|Vietnam|Hanoi|VNPT|
-|20|88.255.101.230|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|1|45.229.205.191|55555|Argentina|Dock Sud|Visio RED SRL|
+|2|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|3|165.16.27.13|1976|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|4|201.150.117.97|999|Mexico|Mixquiahuala de Juarez|Hulux Telecomunicaciones|
+|5|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|6|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
+|7|5.35.38.8|32132|Russia|Korolyov|INFOLINE|
+|8|43.224.10.23|6666|India|Surat|gtpl hariom world vision|
+|9|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|10|190.202.111.202|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|11|202.146.228.254|8088|Indonesia|Bekasi|PT Centrin Utama|
+|12|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|13|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
+|14|212.100.84.10|8080|Nigeria|Lagos|Autonomous System number for Cyber Space|
+|15|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|16|1.186.40.35|1111|India|Attur|D-VoiS Broadband Private Limited|
+|17|186.218.119.183|8080|Brazil|Caruaru|Claro S.A.|
+|18|77.222.52.199|3128|Russia|St Petersburg|Spaceweb network|
+|19|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|20|110.77.134.106|8080|Thailand|Thon Buri|CAT Telecom Public Company Limited|
 
 
 

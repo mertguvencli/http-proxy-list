@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2550** proxies at the latest update. Usable proxies are below.
+> Scraper found **2534** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|74|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|74|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|74|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|2|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|3|58.69.78.53|8080|Philippines|Quezon City|Philippine Long Distance Telephone Co.|
+|1|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|3|172.96.169.33|9955|Puerto Rico|Guaynabo|Fuse Telecom LLC|
 |4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|36.66.242.148|43936|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|6|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|7|131.161.68.41|31264|Brazil|Rio de Janeiro|MS NUNES INFORMAÔÔO TECNOLOGICA LTDA|
-|8|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|9|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|10|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|11|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|12|165.16.27.4|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|13|45.64.122.210|47552|Philippines|Floridablanca|PhilCom Corporation|
-|14|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|15|83.12.128.42|8080|Poland|Piotrkow Trybunalski|Orange Polska Spolka Akcyjna|
-|16|68.64.250.38|8080|United States|Irving|SimpleFiber Communications LLC|
-|17|138.122.6.210|999|Venezuela|Caracas|Lan-online C.A.|
-|18|202.40.177.69|80|Bangladesh|Dhaka|Ranks ITT|
-|19|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
-|20|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|5|181.224.162.199|999|Colombia|Buenaventura|Level 3 Communications, Inc.|
+|6|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|7|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|8|103.4.167.46|8080|Indonesia|Jakarta|FIBERNET|
+|9|193.150.117.74|8000|Russia|Moscow|LTD "ARENTEL"|
+|10|112.78.170.251|80|Indonesia|Jakarta|BIZNET|
+|11|41.254.53.70|1981|Libya|Benghazi|LTT Network Backbone and POPs|
+|12|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|13|179.43.101.150|999|Argentina|Belen de Escobar|Advantun SRL|
+|14|45.5.68.18|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|15|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|16|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|17|95.167.29.50|8080|Russia|St Petersburg|PJSC Rostelecom|
+|18|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|19|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|20|41.86.251.61|8080|Benin|Cotonou|ISOCEL SA|
 
 
 

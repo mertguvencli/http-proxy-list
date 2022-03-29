@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2467** proxies at the latest update. Usable proxies are below.
+> Scraper found **2451** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|4|185.17.134.149|45984|Russia|Makhachkala|JSC Elektrosvyaz|
-|5|197.210.141.218|8080|Nigeria|Port Harcourt|MTN NIGERIA Communication limited|
-|6|103.220.204.101|59570|Bangladesh|Dhaka|KS Network|
-|7|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|8|212.200.39.210|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|9|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|10|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|11|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
-|12|158.140.169.101|10000|Indonesia|Surabaya|MYREPUBLIC|
-|13|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|14|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|15|83.238.13.109|8080|Poland|Warsaw|NETIA|
-|16|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
-|17|200.92.152.50|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
-|18|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|19|223.204.203.240|8080|Thailand|Khueang Nai|Triple T Broadband Public Company Limited|
-|20|109.108.68.144|41890|Ukraine|Kyiv|ISP KievNet|
+|1|107.178.9.186|8080|United States|Godley|Nextlink Broadband|
+|2|45.175.160.125|999|Argentina|Tunuyan|OSORIO SERGIO ANGELINO(NETVDU).|
+|3|181.198.40.116|999|Ecuador|Cuenca|Telconet S.A|
+|4|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|5|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|6|103.143.195.2|1080|Indonesia|Medan|TRINITY|
+|7|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|8|217.180.218.36|8080|United States|Lansing|Metronet|
+|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|186.96.50.39|999|Mexico|Fuentes del Pedregal|Total Play Telecomunicaciones SA De CV|
+|11|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|12|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|13|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|14|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|15|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|16|5.16.0.174|8080|Russia|St Petersburg|Enforta-MSK|
+|17|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
+|18|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|19|138.201.167.116|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
 
 
 

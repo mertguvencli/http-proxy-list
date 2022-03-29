@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2408** proxies at the latest update. Usable proxies are below.
+> Scraper found **2308** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|45|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|45|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|45|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|31|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|31|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|31|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|67.212.83.54|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
-|4|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|5|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
-|6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|7|45.70.15.9|8080|Ecuador|Alausi|Nedetel S.A.|
-|8|193.242.151.44|8080|Russia|Krasnodar|SvyazResurs-Kuban|
-|9|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|10|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|11|188.133.157.61|10000|Russia|Moscow|Enforta-MSK|
-|12|27.105.130.93|8080|Taiwan|Taipei|SONET|
-|13|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|14|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
-|15|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|16|202.29.237.210|3128|Thailand|Bangkok|THAINET|
-|17|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|18|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|19|178.93.151.100|8080|Ukraine|Kyiv|UKRTELECOM|
-|20|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|1|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
+|2|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
+|3|67.212.83.53|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
+|4|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|5|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|6|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|7|200.37.240.130|999|Peru|San Isidro|Telefonica del Peru S.A.A.|
+|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|115.87.197.107|80|Thailand|Bangkok|TRUEBB|
+|10|173.165.102.210|8080|United States|Bloomington|Comcast Cable Communications|
+|11|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|12|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
+|13|143.110.146.53|3128|United States|Santa Clara|DigitalOcean, LLC|
+|14|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
+|15|176.235.139.34|10001|Turkey|Çorum|Superonline Iletisim Hizmetleri A.S.|
+|16|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|17|202.146.228.254|8088|Indonesia|Bekasi|PT Centrin Utama|
+|18|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
+|19|177.91.98.252|8080|Brazil|Bom Jesus da Lapa|Pollynet - MP Telecom Servicos E Comercio Ltda|
+|20|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

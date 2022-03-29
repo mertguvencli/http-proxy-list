@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2331** proxies at the latest update. Usable proxies are below.
+> Scraper found **2401** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|30|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|30|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|30|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|32|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|32|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|32|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.0.168.42|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|2|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
-|3|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|4|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
-|5|190.24.119.55|999|Colombia|Bogotá|ETB - Colombia|
-|6|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|7|176.236.141.30|10001|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|8|82.114.106.7|1256|Russia|Moscow|Enforta-MSK|
-|9|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|10|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|11|81.91.144.190|55443|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
-|12|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|13|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|14|158.69.67.129|5566|Canada|Montreal|OVH SAS|
-|15|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|17|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|18|91.209.114.182|6789|Hungary|Siófok|Invitech ICT Services Kft.|
-|19|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
-|20|185.82.98.73|9093|Lebanon|Tripoli|Protected|
+|1|54.237.111.226|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
+|3|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|4|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|5|190.128.225.116|999|Paraguay|Asunción|Telecel S.A.|
+|6|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|8|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|9|41.76.149.62|8080|Mozambique|Maputo|VM  S.A|
+|10|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|11|103.156.128.245|8080|Indonesia|Randugembolo|PT Skynet Lintas Nusantara|
+|12|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|13|190.92.49.150|999|Honduras|Ciudad Choluteca|Cablecolor S.A.|
+|14|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|15|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|16|103.161.31.137|83|India|Hyderabad|Venkata Sai Internet Pvt. Ltd|
+|17|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
+|18|38.87.210.34|55443|Panama|Panama City|Gold Data C.A.|
+|19|45.161.115.48|999|Chile|Salamanca|Servicios E Inversiones Villasolis Ltda.|
+|20|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

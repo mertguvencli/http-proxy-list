@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2343** proxies at the latest update. Usable proxies are below.
+> Scraper found **2331** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.37.179.49|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|2|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|3|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|4|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|7|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
-|8|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|9|161.18.235.183|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|10|101.99.32.122|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
-|11|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
-|13|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|14|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|15|45.176.95.100|999|Dominican Republic|Cotui|Exito Vision Cable S.A.S|
-|16|103.148.192.74|8080|Indonesia|Bandung|PT. Akashia Thuba Jaya|
-|17|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|18|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|19|202.129.196.242|53879|India|Alandurai|Wireline Solution India Pvt Ltd.|
-|20|193.150.117.102|8000|Russia|Moscow|LTD "ARENTEL"|
+|1|95.0.168.42|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|2|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
+|3|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|4|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
+|5|190.24.119.55|999|Colombia|Bogotá|ETB - Colombia|
+|6|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|7|176.236.141.30|10001|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|8|82.114.106.7|1256|Russia|Moscow|Enforta-MSK|
+|9|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|10|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|11|81.91.144.190|55443|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
+|12|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
+|13|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|158.69.67.129|5566|Canada|Montreal|OVH SAS|
+|15|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|17|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|18|91.209.114.182|6789|Hungary|Siófok|Invitech ICT Services Kft.|
+|19|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|20|185.82.98.73|9093|Lebanon|Tripoli|Protected|
 
 
 

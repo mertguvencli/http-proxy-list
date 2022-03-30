@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2402** proxies at the latest update. Usable proxies are below.
+> Scraper found **2335** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|26|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|26|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|26|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|31|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|31|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|31|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|146.120.213.228|8080|Kyrgyzstan|Bishkek|Inform Communications Ltd.|
-|3|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
-|4|41.193.206.41|8080|South Africa|Durban|Vox Telecom|
-|5|103.161.31.137|83|India|Hyderabad|Venkata Sai Internet Pvt. Ltd|
-|6|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|7|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|8|200.37.140.35|10101|Peru|Lima|Telefonica del Peru S.A.A.|
-|9|94.141.117.1|8080|Russia|Moscow|MediaCom LLC|
-|10|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|11|105.112.135.162|8080|Nigeria|Ikoyi|Airtel Networks Limited|
-|12|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|13|88.255.168.11|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|14|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|15|177.93.50.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|16|177.93.50.5|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|17|41.65.67.166|1981|Egypt|Giza|Enterprise|
-|18|103.152.232.14|8080|Indonesia|Belendung|PT Kingpolah Network Solutions|
-|19|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|20|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|1|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|2|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|3|67.212.83.53|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
+|4|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|5|212.164.52.198|443|Russia|Novosibirsk|Rostelecom networks|
+|6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|7|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|8|66.94.97.238|443|United States|New York|Contabo Inc.|
+|9|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|10|200.92.152.50|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|11|151.236.14.178|5678|Netherlands|Schiphol|EDIS|
+|12|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|13|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|14|36.95.156.125|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|16|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|17|203.177.133.235|8080|Philippines|Taguig|Globe Telecom|
+|18|103.21.163.76|6666|India|Navsari|Narmada Cyberzone pvt. ltd|
+|19|77.222.52.199|3128|Russia|St Petersburg|Spaceweb network|
+|20|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
 
 
 

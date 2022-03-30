@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2440** proxies at the latest update. Usable proxies are below.
+> Scraper found **2448** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|40|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|40|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|40|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|42|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|42|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|42|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|4|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|5|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|6|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
-|7|187.178.69.144|8080|Mexico|Tepepan|Axtel, S.A.B. de C.V.|
-|8|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|9|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|10|189.172.158.44|999|Mexico|Mérida|Uninet S.A. de C.V|
-|11|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|12|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
-|13|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|14|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|15|170.79.91.204|999|Colombia|Choco|TV AZTECA SUCURSAL COLOMBIA|
-|16|5.160.101.170|3128|Iran|Tehran|Respina Data processing company PJSC|
-|17|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|18|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|19|103.216.82.20|6666|India|Udaipur|Gtpl Dcpl Private Limited|
-|20|85.198.142.186|8081|Ukraine|Dnipro|Apex NCC|
+|1|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|2|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|4|34.132.146.179|3128|United States|Council Bluffs|Google LLC|
+|5|66.94.97.238|443|United States|New York|Contabo Inc.|
+|6|79.140.17.172|8016|Russia|Orenburg|JSC "Ufanet"|
+|7|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|8|196.44.117.51|8080|Nigeria|Uyo|Ecoband Ltd|
+|9|83.12.128.42|8080|Poland|Piotrkow Trybunalski|Orange Polska Spolka Akcyjna|
+|10|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|11|103.47.67.154|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|12|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|13|200.114.84.76|8080|Argentina|La Plata|Citarella S.A.|
+|14|68.64.250.38|8080|United States|Irving|SimpleFiber Communications LLC|
+|15|149.154.157.17|5678|Italy|Milan|EDIS|
+|16|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
+|17|190.0.17.66|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|18|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|19|181.10.160.156|8080|Argentina|La Carlota|Telecom Argentina S.A|
+|20|167.114.96.27|9300|Canada|Montreal|OVH SAS|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2448** proxies at the latest update. Usable proxies are below.
+> Scraper found **2262** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|47|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|47|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|47|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|55|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|55|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|55|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|2|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|5|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|6|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
-|7|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|8|200.8.190.45|999|Venezuela|Barquisimeto|Corporación Telemic C.A.|
-|9|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|10|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|11|83.238.80.10|8081|Poland|Szepietowo|NETIA|
-|12|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|13|45.167.95.184|8085|Mexico|Querétaro|Lantointernet SA De CV|
-|14|177.93.33.188|8080|Colombia|Santander de Quilichao|TV AZTECA SUCURSAL COLOMBIA|
-|15|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|16|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|17|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|18|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|19|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|20|212.112.127.20|8080|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|2|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|4|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|5|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|6|200.6.254.254|999|Guatemala|Guatemala City|Telgua|
+|7|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
+|8|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|9|184.155.36.194|8080|United States|Pocatello|CABLE ONE, INC.|
+|10|186.3.9.218|999|Ecuador|Guayaquil|Telconet S.A|
+|11|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|12|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
+|13|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|14|181.198.40.116|999|Ecuador|Cuenca|Telconet S.A|
+|15|196.20.21.82|8080|Namibia|Windhoek|MTN SA|
+|16|45.156.31.18|9090|Turkey|Istanbul|ATLANTIS|
+|17|176.98.95.105|32018|Ukraine|Uman|TOV TV&Radio Company 'TIM'|
+|18|45.166.144.2|999|Chile|Santiago|Fullsolution S.P.A.|
+|19|190.210.211.70|8080|Argentina|Buenos Aires|NSS S.A.|
+|20|163.53.209.7|6666|India|Modasa|GTPL Shiv Network Pvt Ltd|
 
 
 

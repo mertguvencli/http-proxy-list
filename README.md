@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2608** proxies at the latest update. Usable proxies are below.
+> Scraper found **2481** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|55|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|55|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|55|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|4|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
-|5|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
-|6|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|7|221.226.94.218|110|China|Nanjing|CHINANET jiangsu province network|
-|8|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|9|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|10|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|11|89.171.41.90|6969|Poland|Warsaw|Netia SA|
-|12|200.92.152.50|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
-|13|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|14|45.190.79.160|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
-|15|91.93.118.3|8090|Turkey|Ankara|Superonline Iletisim Hizmetleri A.S.|
-|16|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
-|17|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
-|18|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|19|85.105.139.53|8090|Turkey|Cankaya|TurkTelecom|
-|20|83.12.128.42|8080|Poland|Piotrkow Trybunalski|Orange Polska Spolka Akcyjna|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
+|5|109.70.188.46|11080|Russia|Makhachkala|LTD "Elektrosvyaz"|
+|6|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
+|7|50.236.203.15|8080|United States|Oak Park|Comcast Cable Communications, LLC|
+|8|175.103.36.70|80|Indonesia|Malang|Maxindo Mintra Solusi|
+|9|46.161.194.71|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|10|180.210.178.30|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
+|11|115.247.13.154|8080|India|Mumbai|Reliance Jio Infocomm Limited|
+|12|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|13|212.42.116.161|8080|Kyrgyzstan|Bishkek|"ElCat" Ltd.|
+|14|158.140.181.148|8081|Indonesia|Bogor|MYREPUBLIC|
+|15|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|16|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|17|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|18|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
+|19|103.153.226.66|3128|India|Jhansi|Maba Safenet Broadband Services Private Limited|
+|20|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
 
 
 

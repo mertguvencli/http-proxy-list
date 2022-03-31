@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2495** proxies at the latest update. Usable proxies are below.
+> Scraper found **2516** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|48|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|48|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|48|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|2|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|3|45.183.142.123|999|Ecuador|Santo Domingo de los Colorados|COMPAÑIA ELECTROMECANICOS PARA EL DESARROLLO CSED SA|
-|4|158.69.53.132|9300|Canada|Montreal|OVH SAS|
-|5|43.224.8.124|6666|India|Surendranagar|gtpl hariom world vision|
-|6|45.167.95.184|8085|Mexico|Querétaro|Lantointernet SA De CV|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|4|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|5|183.89.90.162|8080|Thailand|Bang Na|Triple T Broadband Public Company Limited|
+|6|52.201.218.80|8000|United States|Ashburn|Amazon.com, Inc.|
 |7|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|8|45.230.172.13|8080|Mexico|Culiacán|Opsicome SA De CV|
-|9|149.154.157.17|5678|Italy|Milan|EDIS|
+|8|105.112.135.162|8080|Nigeria|Ikoyi|Airtel Networks Limited|
+|9|80.63.84.58|8081|Denmark|Copenhagen|TDC A/S|
 |10|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|11|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
-|12|184.155.36.194|8080|United States|Pocatello|CABLE ONE, INC.|
-|13|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|14|212.174.44.87|8085|Turkey|Gaziantep|Turk Telekomunikasyon Anonim Sirketi|
-|15|205.185.228.154|8888|United States|Humboldt|Infostructure Cable and Internet|
-|16|103.47.67.154|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
-|17|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|18|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|19|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
-|20|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|11|149.154.157.17|5678|Italy|Milan|EDIS|
+|12|151.80.196.163|8010|France|Roubaix|OVH SAS|
+|13|218.185.234.194|8080|Australia|Melbourne|World Without Wires Pty Ltd|
+|14|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|15|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|16|66.94.97.238|443|United States|New York|Contabo Inc.|
+|17|200.92.152.50|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|18|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
+|19|45.238.21.210|999|Chile|Santiago|Airpoint Telecomunicaciones Limitada|
+|20|85.105.139.53|8090|Turkey|Cankaya|TurkTelecom|
 
 
 

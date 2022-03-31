@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2482** proxies at the latest update. Usable proxies are below.
+> Scraper found **2449** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|48|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|48|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|48|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|2|46.229.187.169|53281|Russia|Yaroslavl|Yarnet Ltd|
-|3|46.151.145.4|53281|Ukraine|Simferopol|Swift Trace ltd.|
-|4|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
-|5|183.89.90.162|8080|Thailand|Bang Na|Triple T Broadband Public Company Limited|
-|6|194.233.73.106|443|Singapore|Singapore|Contabo Asia Private Limited|
-|7|202.136.89.213|8080|Bangladesh|Dhaka|Circle Network|
-|8|186.159.20.210|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|9|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
-|10|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|11|103.153.226.66|3128|India|Bairai|Maba Safenet Broadband Services Private Limited|
-|12|190.13.84.172|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|102.68.128.217|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|15|205.155.45.139|3128|United States|Gonzales|California State University Network|
-|16|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
-|17|170.79.235.3|999|Chile|Buin|TNA Solutions SpA|
-|18|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|19|41.86.251.61|8080|Benin|Cotonou|ISOCEL SA|
-|20|149.154.157.17|5678|Italy|Milan|EDIS|
+|1|54.237.111.226|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|3|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|4|202.4.116.242|8080|Bangladesh|Dhaka|dhakaCom Limited|
+|5|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
+|6|175.101.80.140|8080|India|Hyderabad|ExcellMedia Pvt Ltd|
+|7|80.63.84.58|8081|Denmark|Copenhagen|TDC A/S|
+|8|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|9|14.102.31.75|8080|India|Indore|WORLDPHONE|
+|10|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
+|11|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|12|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
+|13|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|14|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|15|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|16|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|17|80.78.237.2|55443|Bulgaria|Gotse Delchev|UltraNET - Halil Network|
+|18|103.121.23.71|8080|Indonesia|Cipayung|PT. Eka Mas Republik|
+|19|52.201.218.80|8000|United States|Ashburn|Amazon.com, Inc.|
+|20|85.25.198.22|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

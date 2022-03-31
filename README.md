@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2668** proxies at the latest update. Usable proxies are below.
+> Scraper found **2605** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|2|95.216.12.141|22209|Finland|Helsinki|Hetzner Online GmbH|
-|3|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|6|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|7|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|8|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
-|9|119.15.95.158|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|10|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
-|11|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|12|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
-|13|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|14|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|15|41.220.238.130|83|Kenya|Nairobi|Liquid Telecommunications Ltd|
-|16|89.204.214.142|8080|Ireland|Kilcock|O2 Ireland Fixed Broadband - Eircom White Label|
-|17|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
-|18|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|19|47.254.248.149|8080|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
-|20|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|1|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|3|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|4|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|5|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|7|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|8|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|9|1.179.148.9|55636|Thailand|Sankhaburi|TOT Public Company Limited|
+|10|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|11|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|12|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|13|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|14|85.25.139.22|5566|France|Strasbourg|Host Europe GmbH|
+|15|146.120.213.228|8080|Kyrgyzstan|Bishkek|Inform Communications Ltd.|
+|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|17|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|18|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
+|19|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
+|20|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

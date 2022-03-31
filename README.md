@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|55|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|55|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|55|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|3|67.212.83.55|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
-|4|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
+|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
 |5|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|36.95.156.127|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|8|197.248.157.159|8080|Kenya|Nairobi|Safaricom Limited|
-|9|191.97.19.49|999|Venezuela|Caracas|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|10|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|11|194.233.73.106|443|Singapore|Singapore|Contabo Asia Private Limited|
-|12|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
-|13|45.176.95.100|999|Dominican Republic|Cotui|Exito Vision Cable S.A.S|
-|14|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|15|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|16|88.132.95.93|53281|Hungary|Palhaza|PRTELECOM|
-|17|198.229.231.13|8080|United States|Princeton|MTCO Communications|
-|18|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|19|212.174.44.87|8085|Turkey|Gaziantep|Turk Telekomunikasyon Anonim Sirketi|
-|20|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|6|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|7|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|8|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|9|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|10|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|11|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|12|179.106.86.3|8080|Brazil|Conceicao da Aparecida|Rede Nets Ltda.|
+|13|170.79.12.72|9090|Brazil|Teresina|I T Tecnologia e InformaÔÔo Ltda|
+|14|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|15|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|16|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|17|85.25.119.241|5566|France|Strasbourg|BSB-SERVICE|
+|18|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|19|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
+|20|152.231.27.33|60080|Colombia|Santiago de Cali|Colombiatel Telecomunicaciones|
 
 
 

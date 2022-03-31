@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2499** proxies at the latest update. Usable proxies are below.
+> Scraper found **2495** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|52|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|52|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|52|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|173.165.102.210|8080|United States|Chicago|Comcast Cable Communications|
-|4|195.170.38.230|8080|Russia|Mytishchi|East Telecom Internet provider|
-|5|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|6|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|8|89.171.41.90|6969|Poland|Warsaw|Netia SA|
-|9|184.155.36.194|8080|United States|Pocatello|CABLE ONE, INC.|
-|10|185.103.168.76|8080|Kazakhstan|Nur-Sultan|JSC Alma Telecommunications|
-|11|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
-|12|105.112.135.162|8080|Nigeria|Ikoyi|Airtel Networks Limited|
-|13|87.249.9.193|8082|Russia|Moscow|OOO Suntel|
-|14|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|15|151.80.196.163|8010|France|Roubaix|OVH SAS|
-|16|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|17|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|18|216.176.187.99|39825|United States|Los Angeles|Wowrack.com|
-|19|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
-|20|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|3|45.183.142.123|999|Ecuador|Santo Domingo de los Colorados|COMPAÑIA ELECTROMECANICOS PARA EL DESARROLLO CSED SA|
+|4|158.69.53.132|9300|Canada|Montreal|OVH SAS|
+|5|43.224.8.124|6666|India|Surendranagar|gtpl hariom world vision|
+|6|45.167.95.184|8085|Mexico|Querétaro|Lantointernet SA De CV|
+|7|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|8|45.230.172.13|8080|Mexico|Culiacán|Opsicome SA De CV|
+|9|149.154.157.17|5678|Italy|Milan|EDIS|
+|10|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|11|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|12|184.155.36.194|8080|United States|Pocatello|CABLE ONE, INC.|
+|13|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|14|212.174.44.87|8085|Turkey|Gaziantep|Turk Telekomunikasyon Anonim Sirketi|
+|15|205.185.228.154|8888|United States|Humboldt|Infostructure Cable and Internet|
+|16|103.47.67.154|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|17|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|18|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|19|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
+|20|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
 
 
 

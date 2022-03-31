@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2563** proxies at the latest update. Usable proxies are below.
+> Scraper found **2499** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|63|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|63|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|63|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|3|5.101.98.235|3128|Netherlands|Amsterdam|DigitalOcean|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|6|58.27.233.34|8080|Pakistan|Lahore|Wateen Telecom Limited|
-|7|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|8|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|9|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|10|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|11|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|12|76.81.164.246|8080|United States|Garden Grove|Spectrum|
-|13|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
-|14|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|15|164.92.79.71|3128|United States|Santa Clara|DigitalOcean, LLC|
-|16|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
-|17|43.228.125.189|8080|Singapore|Singapore|Layerstack Limited|
-|18|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|19|103.153.226.66|3128|India|Bairai|Maba Safenet Broadband Services Private Limited|
-|20|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|173.165.102.210|8080|United States|Chicago|Comcast Cable Communications|
+|4|195.170.38.230|8080|Russia|Mytishchi|East Telecom Internet provider|
+|5|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|6|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|8|89.171.41.90|6969|Poland|Warsaw|Netia SA|
+|9|184.155.36.194|8080|United States|Pocatello|CABLE ONE, INC.|
+|10|185.103.168.76|8080|Kazakhstan|Nur-Sultan|JSC Alma Telecommunications|
+|11|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT|
+|12|105.112.135.162|8080|Nigeria|Ikoyi|Airtel Networks Limited|
+|13|87.249.9.193|8082|Russia|Moscow|OOO Suntel|
+|14|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|15|151.80.196.163|8010|France|Roubaix|OVH SAS|
+|16|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|17|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|18|216.176.187.99|39825|United States|Los Angeles|Wowrack.com|
+|19|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
+|20|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2568** proxies at the latest update. Usable proxies are below.
+> Scraper found **2569** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|71|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|71|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|71|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|2|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|3|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|6|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|7|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
-|8|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|9|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|10|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|11|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|12|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|13|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
-|14|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|15|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|17|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|18|190.120.251.26|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|19|176.74.9.62|8080|Russia|Moscow|Wiland Ltd|
-|20|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|1|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|3|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|4|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|6|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|7|178.93.151.100|8080|Ukraine|Kyiv|UKRTELECOM|
+|8|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|9|216.66.76.238|8080|United States|Chicago|Hurricane Electric LLC|
+|10|67.212.83.54|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
+|11|5.188.136.52|8080|Ukraine|Dnipro|Selectel|
+|12|67.73.188.138|999|Colombia|Bogotá|CTL LATAM|
+|13|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|14|23.234.213.157|6666|United States|Santa Clarita|Multacom Corporation|
+|15|177.107.195.173|8080|Brazil|São Paulo|HIT TelecomunicaÔÔes Ltda.|
+|16|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
+|17|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|18|196.1.184.194|47646|Nigeria|Lagos|eStream Networks|
+|19|105.112.135.162|8080|Nigeria|Ikoyi|Airtel Networks Limited|
+|20|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
 
 
 

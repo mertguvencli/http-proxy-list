@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2606** proxies at the latest update. Usable proxies are below.
+> Scraper found **2629** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.255.77.74|8080|Indonesia|Bekasi|PT. LINKNET|
-|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|8|37.210.75.39|8080|Qatar|Doha|Ooredoo Q.S.C.|
-|9|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
-|10|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
-|11|122.3.41.154|8090|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
+|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|47.88.57.22|7328|United States|San Mateo|Alibaba.com LLC|
+|3|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|4|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|165.16.5.77|1981|Libya|Benghazi|Aljeel Aljadeed For Technology|
+|6|176.236.157.155|8080|Turkey|Kilis|Tellcom Iletisim Hizmetleri A.S.|
+|7|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|8|200.24.157.118|999|Ecuador|Azogues|Nedetel S.A.|
+|9|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|10|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|11|54.217.76.59|80|Ireland|Dublin|Amazon.com, Inc.|
 |12|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|13|180.250.153.129|53281|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
-|14|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|15|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|16|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|17|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|18|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
-|19|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
-|20|186.154.211.107|999|Colombia|Bogotá|ETB - Colombia|
+|13|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|14|77.222.52.199|3128|Russia|St Petersburg|Spaceweb network|
+|15|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|16|159.224.243.185|37793|Ukraine|Dnipro|Content Delivery Network LTD|
+|17|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
+|18|200.92.152.50|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|19|200.39.136.129|999|Chile|Valparaíso|Iconex SPA|
+|20|189.193.254.10|999|Mexico|Lerma de Villada|Mega Cable, S.A. de C.V.|
 
 
 

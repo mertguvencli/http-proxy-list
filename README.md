@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2651** proxies at the latest update. Usable proxies are below.
+> Scraper found **2693** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|94|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|94|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|94|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|202.182.57.10|8080|Indonesia|Bogor|PT. Arsen Kusuma Indonesia|
-|5|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|6|103.105.228.134|8080|India|Mumbai|Mnk Infoway Private Limited|
-|7|118.163.13.200|8080|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|8|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|9|103.148.39.38|83|India|Bengaluru|Broadway Communication Pvt Ltd|
-|10|202.152.12.202|8080|Indonesia|Dukuh|PT Aplikanusa Lintasarta|
-|11|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|12|178.168.88.199|8080|Moldova|Buiucani|SC STARNET SRL|
-|13|190.61.41.106|999|Colombia|Valledupar|Ufinet Panama S.A.|
-|14|157.100.56.178|999|Ecuador|Loja|Nedetel S.A.|
-|15|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
-|16|201.150.117.97|999|Mexico|Mixquiahuala de Juarez|Hulux Telecomunicaciones|
-|17|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|18|47.242.230.213|12345|Hong Kong|Hong Kong|Alibaba.com LLC|
-|19|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|20|14.139.185.73|80|India|Trivandrum|National Knowledge Network|
+|1|186.97.156.130|999|Colombia|Medellín|Colombia Móvil|
+|2|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
+|3|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|4|189.203.180.233|999|Mexico|Oaxaca City|Total Play Telecomunicaciones SA De CV|
+|5|41.33.86.242|8080|Egypt|Cairo|TE Data|
+|6|105.112.142.210|8080|Nigeria|Ikoyi|Airtel Networks Limited|
+|7|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|8|146.196.106.34|8080|Indonesia|Teluknaga|PT Maxindo Mitra Solusi|
+|9|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|10|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|11|177.101.55.34|9090|Brazil|Piracicaba|Snell Telecomunicações Ltda. ME|
+|12|89.19.116.102|41890|Ukraine|Kyiv|Grygoriy Chereda|
+|13|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|14|36.92.107.194|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|15|165.16.119.177|1976|Libya|Tripoli|Aljeel Aljadeed Technology|
+|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|17|96.9.69.164|53281|Cambodia|Phnom Penh|SIGROUPS|
+|18|103.156.70.26|8089|Indonesia|Banyuwangi|PT Indo Access Semesta|
+|19|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|20|103.15.60.21|8080|India|Hyderabad|Apollo Online Services Pvt ltd|
 
 
 

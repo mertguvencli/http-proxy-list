@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2592** proxies at the latest update. Usable proxies are below.
+> Scraper found **2606** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|81|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|81|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|81|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|3|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|4|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|5|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|6|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|7|45.176.95.100|999|Dominican Republic|Cotui|Exito Vision Cable S.A.S|
-|8|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|9|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|10|110.139.128.232|3127|Indonesia|Banjarmasin|PT. TELKOM INDONESIA|
-|11|68.64.250.38|8080|United States|Irving|SimpleFiber Communications LLC|
-|12|181.224.162.199|999|Colombia|Buenaventura|Level 3 Communications, Inc.|
-|13|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|14|36.67.168.117|80|Indonesia|Bambu Apus|PT. Telekomunikasi Indonesia|
-|15|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
-|16|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.255.77.74|8080|Indonesia|Bekasi|PT. LINKNET|
+|6|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|8|37.210.75.39|8080|Qatar|Doha|Ooredoo Q.S.C.|
+|9|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|10|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
+|11|122.3.41.154|8090|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
+|12|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|13|180.250.153.129|53281|Indonesia|Semarang|PT. Telekomunikasi Indonesia|
+|14|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|15|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|16|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
 |17|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|18|116.0.54.30|8080|Pakistan|Lahore|Supernet|
-|19|197.211.35.194|8080|Nigeria|Lagos|Globacom Limited|
-|20|43.228.125.189|8080|Singapore|Singapore|Layerstack Limited|
+|18|103.239.201.166|1337|Philippines|San Juan|Sky Cable Corporation|
+|19|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
+|20|186.154.211.107|999|Colombia|Bogotá|ETB - Colombia|
 
 
 

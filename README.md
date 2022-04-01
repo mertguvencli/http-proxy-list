@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2528** proxies at the latest update. Usable proxies are below.
+> Scraper found **2512** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|45|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|45|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|45|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|2|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|3|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|178.205.254.106|8080|Russia|Kazan’|TATTELECOM|
-|6|182.253.191.132|8080|Indonesia|Bandung|BIZNET|
-|7|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|8|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|9|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|10|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
-|11|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
-|12|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|31.43.52.176|41890|Ukraine|Kalynivka|Ukrainian Telecommunication Group LLC|
-|14|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|15|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
-|16|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|17|190.120.250.218|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|18|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
-|19|77.233.5.68|55443|Russia|Krasnodar|Yug-Link|
-|20|43.134.189.122|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|1|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|1.0.205.87|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|5|103.153.226.66|3128|India|Bairai|Maba Safenet Broadband Services Private Limited|
+|6|94.232.11.178|46449|Russia|Moscow|Net By Net Holding LLC|
+|7|181.129.201.170|999|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
+|8|81.91.144.190|55443|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
+|9|138.219.216.146|999|Argentina|Campo Viera|Jose Luis Zurakouski (MIX SERVICIOS & COMUNICACIONES)|
+|10|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|11|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|12|110.78.112.198|8080|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|13|185.94.215.18|8080|Ukraine|Simferopol|CrimeaTelecom|
+|14|177.107.195.173|8080|Brazil|São Paulo|HIT TelecomunicaÔÔes Ltda.|
+|15|103.81.77.194|83|India|Tanuku|Coastal Broadband And Online Services Pvt. Ltd.|
+|16|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
+|17|188.133.152.103|9080|Russia|Moscow|Enforta-MSK|
+|18|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|19|52.201.218.80|8000|United States|Ashburn|Amazon.com, Inc.|
+|20|185.230.4.233|55443|Bulgaria|Sofia|VIPNET PRIM Ltd|
 
 
 

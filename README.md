@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2571** proxies at the latest update. Usable proxies are below.
+> Scraper found **2531** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|70|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|70|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|70|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|3|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|4|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|5|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|6|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|7|186.208.81.214|3129|Brazil|Sertao|RazaoInfo Internet Ltda|
-|8|45.190.79.160|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
-|9|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|10|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|11|177.107.195.173|8080|Brazil|São Paulo|HIT TelecomunicaÔÔes Ltda.|
-|12|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|13|103.140.188.61|8085|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
-|14|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|15|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|16|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|17|103.83.178.166|8181|Indonesia|Tangerang|PT SOLUSI TRIMEGAH PERSADA|
-|18|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|19|176.236.141.30|10001|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|20|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|3|83.218.168.103|80|Austria|Innsbruck|myNet GmbH|
+|4|77.242.1.101|41890|Russia|Moscow|Limited Company Sakha Sprint Network|
+|5|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|6|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
+|7|213.6.28.66|8080|Palestine|Ramallah|Palestine Telecommunications Company|
+|8|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|9|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|10|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|11|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|13|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
+|14|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
+|15|181.129.243.100|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|16|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|17|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|18|80.63.84.58|8081|Denmark|Copenhagen|TDC A/S|
+|19|77.46.138.38|8080|Serbia|Presevo|TELEKOM-SRBIJA|
+|20|36.255.211.1|54623|India|Ahmedabad|Fiberpipe communications pvt. ltd|
 
 
 

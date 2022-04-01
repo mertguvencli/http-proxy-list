@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2693** proxies at the latest update. Usable proxies are below.
+> Scraper found **2837** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|94|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|94|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|94|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.97.156.130|999|Colombia|Medellín|Colombia Móvil|
-|2|186.159.3.193|56861|Colombia|Medellín|Edatel S.a. E.S.P|
-|3|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|4|189.203.180.233|999|Mexico|Oaxaca City|Total Play Telecomunicaciones SA De CV|
-|5|41.33.86.242|8080|Egypt|Cairo|TE Data|
-|6|105.112.142.210|8080|Nigeria|Ikoyi|Airtel Networks Limited|
-|7|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|8|146.196.106.34|8080|Indonesia|Teluknaga|PT Maxindo Mitra Solusi|
-|9|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|10|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|11|177.101.55.34|9090|Brazil|Piracicaba|Snell Telecomunicações Ltda. ME|
-|12|89.19.116.102|41890|Ukraine|Kyiv|Grygoriy Chereda|
-|13|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|14|36.92.107.194|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|15|165.16.119.177|1976|Libya|Tripoli|Aljeel Aljadeed Technology|
-|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|17|96.9.69.164|53281|Cambodia|Phnom Penh|SIGROUPS|
-|18|103.156.70.26|8089|Indonesia|Banyuwangi|PT Indo Access Semesta|
-|19|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|20|103.15.60.21|8080|India|Hyderabad|Apollo Online Services Pvt ltd|
+|1|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|2|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|7|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|8|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|9|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
+|10|83.218.168.103|8080|Austria|Innsbruck|myNet GmbH|
+|11|181.129.243.100|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|12|178.168.31.146|443|Moldova|Chisinau|SC STARNET SRL|
+|13|195.211.219.147|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|14|67.212.83.54|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
+|15|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
+|16|212.95.180.50|53281|Bulgaria|Sofia|Orbitel customer and internal|
+|17|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|18|181.78.15.105|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|19|94.75.76.10|8080|Poland|Mokotów|ASTER Sp. z o.o|
+|20|182.53.50.2|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2531** proxies at the latest update. Usable proxies are below.
+> Scraper found **2568** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|71|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|71|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|71|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|3|83.218.168.103|80|Austria|Innsbruck|myNet GmbH|
-|4|77.242.1.101|41890|Russia|Moscow|Limited Company Sakha Sprint Network|
-|5|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|6|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
-|7|213.6.28.66|8080|Palestine|Ramallah|Palestine Telecommunications Company|
-|8|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|9|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|10|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
-|11|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|13|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
-|14|20.88.122.67|8080|United States|Ashburn|Microsoft Corporation|
-|15|181.129.243.100|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|16|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|17|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|18|80.63.84.58|8081|Denmark|Copenhagen|TDC A/S|
-|19|77.46.138.38|8080|Serbia|Presevo|TELEKOM-SRBIJA|
-|20|36.255.211.1|54623|India|Ahmedabad|Fiberpipe communications pvt. ltd|
+|2|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|3|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|6|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|7|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
+|8|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|9|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|49.233.173.151|9080|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|11|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|12|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|13|111.23.16.250|3128|China|Changsha|China Mobile communications corporation|
+|14|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|15|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|17|121.88.250.73|3128|South Korea|Gwangmyeong|DLIVE|
+|18|190.120.251.26|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|19|176.74.9.62|8080|Russia|Moscow|Wiland Ltd|
+|20|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
 
 
 

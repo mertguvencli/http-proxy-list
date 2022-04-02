@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2711** proxies at the latest update. Usable proxies are below.
+> Scraper found **2774** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|4|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|5|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|6|177.93.50.11|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|186.250.160.234|8080|Brazil|Natal|g j pereira|
-|8|202.141.233.66|8080|Pakistan|Karachi|Multinet Broadband|
-|9|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|10|36.91.148.37|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|12|103.163.134.4|8181|Indonesia|Songgon|PT Jawa Provider Telematika|
-|13|45.251.74.142|18080|Indonesia|Jakarta|ORANGE-ISP|
-|14|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|15|103.80.237.211|3888|Indonesia|Kemanggisan|PT MITRA VISIONER PRATAMA|
-|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|17|45.173.199.126|3128|Venezuela|Cagua|360net C.A.|
-|18|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|19|43.245.95.210|53805|Nepal|Kathmandu|BroadLink Networks and Communications|
-|20|197.232.65.40|55443|Kenya|Nairobi|Jamii Telecommunications Limited|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|3|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|6|186.96.111.178|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|190.26.217.98|999|Colombia|Montelíbano|ETB - Colombia|
+|8|187.110.236.145|53281|Brazil|Magalhaes de Almeida|MOB SERVICOS DE TELECOMUNICACOES S.A|
+|9|162.219.119.225|8080|United States|Oil Trough|Hillbilly Wireless INC.|
+|10|191.242.230.135|8080|Brazil|Farroupilha|Domi Informatica|
+|11|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|12|190.186.18.161|999|Bolivia|Santa Cruz|Cotas Ltda.|
+|13|195.182.152.238|38178|Russia|St Petersburg|Comlink ISP|
+|14|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|15|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
+|16|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|17|88.255.106.26|8080|Turkey|Istanbul|TurkTelekom|
+|18|103.19.58.158|3127|Indonesia|Banyuwangi|BITSNET|
+|19|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|190.109.6.113|999|Colombia|Bogotá|Lazus Medellin|
 
 
 

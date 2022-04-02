@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2714** proxies at the latest update. Usable proxies are below.
+> Scraper found **2674** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|118.127.99.93|53281|Australia|Melbourne|Spirit Telecom (Australia) Pty Ltd|
-|4|203.172.207.23|8080|Thailand|Pom Prap Sattru Phai|Office of Info.Tech. Admin. for Educational Development|
-|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|6|202.180.21.107|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|7|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
-|8|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|9|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
-|10|82.114.106.7|1256|Russia|Moscow|Enforta-MSK|
-|11|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|12|91.150.189.122|30389|Poland|Rzeszów|Skyware Sp. z o.o.|
-|13|185.142.67.23|8080|Russia|Lytkarino|Wellcom-l ISP|
-|14|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
-|15|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|16|179.43.101.150|999|Argentina|Belen de Escobar|Advantun SRL|
-|17|152.26.231.86|9443|United States|Enfield|MCNC|
-|18|177.107.195.173|8080|Brazil|São Paulo|HIT TelecomunicaÔÔes Ltda.|
-|19|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|20|205.185.228.154|8888|United States|Humboldt|Infostructure Cable and Internet|
+|1|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|4|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|6|103.234.252.54|63123|Indonesia|Jakarta|Maxindo|
+|7|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
+|8|47.242.230.213|12345|Hong Kong|Hong Kong|Alibaba.com LLC|
+|9|36.95.15.146|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|10|103.240.168.138|6666|India|Ahmedabad|Gtpl Surat Telelink PVT LTD|
+|11|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
+|12|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|13|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|14|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|15|175.106.14.30|8089|Indonesia|Bintaro|Quantum Dist POP GC|
+|16|45.225.184.177|999|Chile|Melipilla|MJL NETWORK EIRL|
+|17|91.217.42.4|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
+|18|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|19|185.255.46.73|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|20|36.255.86.114|84|India|Bengaluru|Gatik Business Solutions|
 
 
 

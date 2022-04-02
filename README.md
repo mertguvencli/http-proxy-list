@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|112|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|112|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|112|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|94.141.117.1|8080|Russia|Moscow|MediaCom LLC|
-|3|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
-|4|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|139.255.25.85|3128|Indonesia|Jakarta|PT. LINKNET|
-|6|157.230.34.152|46234|Singapore|Singapore|DigitalOcean, LLC|
-|7|181.143.37.90|8181|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|8|190.0.17.66|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|9|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|10|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
-|11|118.67.219.153|8080|Bangladesh|Dhaka|InterCloud Limited|
-|12|202.29.237.210|3128|Thailand|Bangkok|THAINET|
-|13|103.110.90.250|8080|Indonesia|Jakarta|ICONPLN|
-|14|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|15|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|16|167.179.45.50|55443|Cambodia|Phnom Penh|NeocomISP Limited|
-|17|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|18|77.236.237.241|1256|Russia|Moscow|Enforta-MSK|
-|19|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
-|20|188.133.137.9|8081|Russia|Moscow|Enforta-SPB|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|118.127.99.93|53281|Australia|Melbourne|Spirit Telecom (Australia) Pty Ltd|
+|4|203.172.207.23|8080|Thailand|Pom Prap Sattru Phai|Office of Info.Tech. Admin. for Educational Development|
+|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|6|202.180.21.107|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|7|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
+|8|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|9|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
+|10|82.114.106.7|1256|Russia|Moscow|Enforta-MSK|
+|11|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|12|91.150.189.122|30389|Poland|Rzeszów|Skyware Sp. z o.o.|
+|13|185.142.67.23|8080|Russia|Lytkarino|Wellcom-l ISP|
+|14|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
+|15|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|16|179.43.101.150|999|Argentina|Belen de Escobar|Advantun SRL|
+|17|152.26.231.86|9443|United States|Enfield|MCNC|
+|18|177.107.195.173|8080|Brazil|São Paulo|HIT TelecomunicaÔÔes Ltda.|
+|19|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|20|205.185.228.154|8888|United States|Humboldt|Infostructure Cable and Internet|
 
 
 

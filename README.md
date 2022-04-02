@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2701** proxies at the latest update. Usable proxies are below.
+> Scraper found **2640** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 |3|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|8|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|9|103.167.109.151|8080|Indonesia|South Tangerang|PT. Fiber Networks Indonesia|
-|10|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
-|11|43.243.174.26|84|India|Pune|Shah Solutions|
-|12|93.86.63.252|8081|Serbia|Kraljevo|TELEKOM-SRBIJA|
-|13|45.251.74.142|18080|Indonesia|Jakarta|ORANGE-ISP|
-|14|62.201.212.214|8080|Iraq|Sulaymaniyah|NETWORKS-SULY1|
-|15|139.255.10.234|8080|Indonesia|Bangah|PT. LINKNET|
-|16|115.87.196.88|8080|Thailand|Bangkok|TRUEBB|
-|17|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|18|160.251.14.122|3129|Japan|Shibuya|GMO Internet, Inc|
-|19|87.255.13.217|8080|Russia|Khimki|BIG TELECOM CLOSED JSC|
-|20|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
+|4|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
+|5|72.47.152.224|55443|United States|Balch Springs|Suddenlink Communications|
+|6|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
+|9|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|10|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
+|11|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|12|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
+|13|119.235.17.105|55443|Indonesia|Jakarta|PT Inet Global Indo|
+|14|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
+|15|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
+|16|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
+|17|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|18|45.250.226.14|3128|India|Pune|Space Vision Digital Network Pvt. Ltd|
+|19|110.232.64.89|8080|Indonesia|Medan|Media Antar Nusa PT.|
+|20|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
 
 
 

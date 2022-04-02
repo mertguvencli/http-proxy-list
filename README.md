@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2470** proxies at the latest update. Usable proxies are below.
+> Scraper found **2562** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|48|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|48|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|48|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|2|83.12.128.42|8080|Poland|Piotrkow Trybunalski|Orange Polska Spolka Akcyjna|
-|3|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|6|43.134.189.122|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|7|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|8|190.71.50.58|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
-|9|205.155.45.139|3128|United States|Gonzales|California State University Network|
-|10|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
-|11|78.30.230.117|50932|Ukraine|Sevastopol|Lancom Ltd.|
-|12|190.90.242.208|999|Colombia|Ocaña|InterNexa Global Network|
-|13|78.29.36.210|9080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
-|14|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|15|45.175.160.25|999|Argentina|Tunuyan|OSORIO SERGIO ANGELINO(NETVDU).|
-|16|116.0.54.30|8080|Pakistan|Lahore|Supernet|
-|17|93.86.63.73|8080|Serbia|Kraljevo|TELEKOM-SRBIJA|
-|18|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
-|19|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|103.175.237.79|3127|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|61.9.34.98|1337|Philippines|San Juan|Sky Cable Corporation|
+|5|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|6|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|7|202.169.252.212|8181|Indonesia|Kuningan Barat|PT. Rabik Bangun Pertiwi|
+|8|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
+|9|103.216.82.18|6666|India|Udaipur|Gtpl Dcpl Private Limited|
+|10|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|11|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|12|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
+|13|181.198.194.23|3127|Ecuador|Guayaquil|Telconet S.A|
+|14|45.79.77.226|3128|United States|Fremont|Linode, LLC|
+|15|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|16|45.173.231.155|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|17|62.141.90.254|8080|Russia|Moscow|COMBELNET|
+|18|103.153.226.66|3128|India|Bairai|Maba Safenet Broadband Services Private Limited|
+|19|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
+|20|125.25.33.78|8080|Thailand|Chiang Mai|TOT Public Company Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2655** proxies at the latest update. Usable proxies are below.
+> Scraper found **2755** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|53|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|53|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|53|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|72|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|72|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|72|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|2|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
-|6|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|7|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|8|206.62.153.9|8080|Palestine|Gaza|AGIS|
-|9|190.24.119.55|999|Colombia|Bogotá|ETB - Colombia|
-|10|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|11|145.40.73.107|10003|Singapore|Singapore|Packet Host, Inc.|
-|12|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|13|102.68.128.218|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|191.97.19.18|999|Venezuela|Caracas|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|15|110.74.198.132|56765|Cambodia|Phnom Penh|EZECOM limited|
-|16|200.48.3.227|10101|Peru|Lima|Telefonica del Peru S.A.A.|
-|17|200.24.157.116|999|Ecuador|Azogues|Nedetel S.A.|
-|18|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|19|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|1|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|1.13.165.87|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|6|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|7|139.0.4.34|8080|Indonesia|Cipulir|PT. First Media, Tbk|
+|8|45.183.142.123|999|Ecuador|Santo Domingo de los Colorados|COMPAÑIA ELECTROMECANICOS PARA EL DESARROLLO CSED SA|
+|9|68.64.250.38|8080|United States|Irving|SimpleFiber Communications LLC|
+|10|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|11|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|12|152.169.106.145|80|Argentina|Neuquén|Telecom Argentina S.A|
+|13|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|14|200.6.254.254|999|Guatemala|Guatemala City|Telgua|
+|15|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|16|77.70.35.87|37475|Bulgaria|Sofia|A1 Bulgaria EAD|
+|17|152.231.25.58|8080|Colombia|Santiago de Cali|Colombiatel Telecomunicaciones|
+|18|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|19|118.190.244.234|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
+|20|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
 
 
 

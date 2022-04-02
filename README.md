@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2702** proxies at the latest update. Usable proxies are below.
+> Scraper found **2810** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -43,24 +43,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
 |2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|3|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
-|6|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|7|89.171.41.90|6969|Poland|Warsaw|Netia SA|
-|8|120.194.55.139|6969|China|Zhengzhou|China Mobile communications corporation|
-|9|20.81.62.32|3128|United States|Ashburn|Microsoft Corporation|
-|10|204.195.136.34|80|United States|Miami Beach|Atlantic Broadband Finance, LLC|
-|11|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|12|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
-|13|117.4.115.169|8080|Vietnam|Hanoi|Viettel Corporation|
-|14|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|15|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
-|16|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|17|185.56.209.114|52342|Poland|Domaslaw|GreenLan|
-|18|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|19|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|20|14.139.185.73|80|India|Trivandrum|National Knowledge Network|
+|3|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|6|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|7|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|8|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|190.69.153.82|999|Colombia|Facatativá|Colombia Telecomunicaciones S.a. ESP|
+|11|103.153.226.66|3128|India|Bairai|Maba Safenet Broadband Services Private Limited|
+|12|80.244.230.86|8080|Russia|Moscow|ArtCommunications Ltd.|
+|13|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|14|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|15|47.102.110.19|7890|China|Shanghai|Addresses CNNIC|
+|16|118.70.109.148|55443|Vietnam|Hanoi|FPT Telecom Company|
+|17|45.173.231.155|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|18|85.25.155.103|5566|France|Strasbourg|BSB-SERVICE|
+|19|45.189.254.33|999|Mexico|Alvarado|Tracered SA De CV|
+|20|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
 
 
 

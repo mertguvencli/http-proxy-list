@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2837** proxies at the latest update. Usable proxies are below.
+> Scraper found **2714** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|2|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
-|7|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|8|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|9|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
-|10|83.218.168.103|8080|Austria|Innsbruck|myNet GmbH|
-|11|181.129.243.100|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|12|178.168.31.146|443|Moldova|Chisinau|SC STARNET SRL|
-|13|195.211.219.147|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|14|67.212.83.54|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
-|15|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
-|16|212.95.180.50|53281|Bulgaria|Sofia|Orbitel customer and internal|
-|17|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|18|181.78.15.105|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
-|19|94.75.76.10|8080|Poland|Mokotów|ASTER Sp. z o.o|
-|20|182.53.50.2|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|94.141.117.1|8080|Russia|Moscow|MediaCom LLC|
+|3|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
+|4|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|139.255.25.85|3128|Indonesia|Jakarta|PT. LINKNET|
+|6|157.230.34.152|46234|Singapore|Singapore|DigitalOcean, LLC|
+|7|181.143.37.90|8181|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|8|190.0.17.66|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|10|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
+|11|118.67.219.153|8080|Bangladesh|Dhaka|InterCloud Limited|
+|12|202.29.237.210|3128|Thailand|Bangkok|THAINET|
+|13|103.110.90.250|8080|Indonesia|Jakarta|ICONPLN|
+|14|89.250.152.76|8080|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|15|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|16|167.179.45.50|55443|Cambodia|Phnom Penh|NeocomISP Limited|
+|17|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|18|77.236.237.241|1256|Russia|Moscow|Enforta-MSK|
+|19|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
+|20|188.133.137.9|8081|Russia|Moscow|Enforta-SPB|
 
 
 

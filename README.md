@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2560** proxies at the latest update. Usable proxies are below.
+> Scraper found **2639** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|3|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|4|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|5|118.190.244.234|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
-|6|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
-|7|46.151.145.4|53281|Ukraine|Simferopol|Swift Trace ltd.|
-|8|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|9|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|10|181.48.101.245|3128|Colombia|Medellín|Telmex Colombia S.A.|
-|11|205.185.228.154|8888|United States|Humboldt|Infostructure Cable and Internet|
-|12|159.192.104.53|8080|Thailand|Samphanthawong|CAT-BB|
-|13|152.26.231.86|9443|United States|Enfield|MCNC|
-|14|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|15|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|16|110.235.250.155|8080|Cambodia|Phnom Penh|COGETEL Co|
-|17|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|18|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|19|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|20|121.151.223.96|1337|South Korea|Yeongju|Korea Telecom|
+|1|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|2|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|3|177.93.50.11|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|4|154.113.32.26|8080|Nigeria|Lagos|Mainone Cable Company|
+|5|103.160.201.76|8080|Indonesia|Bekasi|PT Viriya Surya Abadi|
+|6|118.190.244.234|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
+|7|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
+|8|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|213.6.99.106|8080|Palestine|Bethlehem|Palestine Telecommunications Company|
+|10|185.94.215.18|8080|Ukraine|Simferopol|CrimeaTelecom|
+|11|223.27.194.66|63141|Thailand|Bangkok|United Information Highway Co., Ltd.|
+|12|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|13|167.114.96.27|5566|Canada|Montreal|OVH SAS|
+|14|194.233.73.103|443|Singapore|Singapore|Contabo Asia Private Limited|
+|15|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|16|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
+|17|65.21.111.230|5566|Finland|Helsinki|Hetzner Online GmbH|
+|18|115.85.73.179|3128|Indonesia|Jakarta|Sudirman Central Business District|
+|19|200.25.254.193|54240|Colombia|Medellín|Andinet ON Line|
+|20|34.132.61.61|3127|United States|Council Bluffs|Google LLC|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2534** proxies at the latest update. Usable proxies are below.
+> Scraper found **2563** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|82|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|82|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|82|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|96.95.164.41|3128|United States|Brighton|Comcast Cable Communications, LLC|
-|3|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|4|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|5|43.134.189.122|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|6|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|7|118.190.244.234|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
-|8|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|9|213.5.190.194|41890|Kazakhstan|Almaty|Kar-Tel LLC|
-|10|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|11|45.181.207.129|999|Colombia|Caucasia|Quality NET JM S.a.s. Zomac|
-|12|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|13|103.239.200.246|1337|Philippines|San Juan|Sky Cable Corporation|
-|14|51.81.155.84|3128|United States|Hillsboro|OVH SAS|
-|15|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
-|16|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
-|17|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
-|18|103.121.41.165|8080|Pakistan|Karachi|Satcomm (Pvt.) Ltd.|
-|19|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
-|20|82.114.106.7|1256|Russia|Moscow|Enforta-MSK|
+|1|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|2|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|5|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|6|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|7|200.125.171.201|9991|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|8|103.106.219.77|8080|Indonesia|Pasuruan|PT. ARTHA LINTAS DATA MANDIRI|
+|9|36.92.134.71|999|Indonesia|Bekasi|Telekomunikasi Indonesia|
+|10|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|11|203.153.125.245|8080|Indonesia|Tangerang|GMNUSANTARA|
+|12|43.134.189.122|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|14|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
+|15|203.123.56.2|63123|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|16|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|17|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
+|18|139.255.71.90|8080|Indonesia|Jakarta|PT. LINKNET|
+|19|45.5.94.178|3128|Mexico|Saltillo|Señal Interactiva, S.A De C.V|
+|20|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
 
 
 

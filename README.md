@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2653** proxies at the latest update. Usable proxies are below.
+> Scraper found **2539** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|59|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|59|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|59|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|2|134.209.42.113|8890|United States|Clifton|DigitalOcean, LLC|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
-|6|128.201.138.21|3128|Brazil|Manaus|FiOS Tecnologia|
-|7|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|2|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|3|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|4|31.163.192.161|3129|Russia|Pokachi|OJSC Rostelecom|
+|5|88.255.64.94|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|6|85.25.198.22|5566|France|Strasbourg|Host Europe GmbH|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 |8|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|9|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|10|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|9|159.192.104.53|8080|Thailand|Samphanthawong|CAT-BB|
+|10|205.155.45.139|3128|United States|Gonzales|California State University Network|
 |11|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|13|69.43.44.106|8080|United States|Morgantown|CityNet|
-|14|185.177.222.171|8089|Russia|Murom|Modus LLC|
-|15|41.77.188.178|80|Guinea|Kaloum|VDC Telecom|
-|16|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom|
-|17|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
-|18|205.155.45.139|3128|United States|Gonzales|California State University Network|
-|19|213.251.238.26|8080|Russia|Moscow|NLine-Kiev|
-|20|45.6.4.58|8080|Argentina|San Miguel de Tucumán|Providers S.A.|
+|12|190.110.99.107|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|13|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|14|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|15|190.128.225.117|999|Paraguay|Asunción|Telecel S.A.|
+|16|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|17|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|18|43.134.189.122|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|19|85.25.119.241|5566|France|Strasbourg|BSB-SERVICE|
+|20|183.88.232.207|8080|Thailand|Thanyaburi|Triple T Broadband Public Company Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2639** proxies at the latest update. Usable proxies are below.
+> Scraper found **2666** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|2|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
-|3|177.93.50.11|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|4|154.113.32.26|8080|Nigeria|Lagos|Mainone Cable Company|
-|5|103.160.201.76|8080|Indonesia|Bekasi|PT Viriya Surya Abadi|
-|6|118.190.244.234|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
-|7|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|9|213.6.99.106|8080|Palestine|Bethlehem|Palestine Telecommunications Company|
-|10|185.94.215.18|8080|Ukraine|Simferopol|CrimeaTelecom|
-|11|223.27.194.66|63141|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|12|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|13|167.114.96.27|5566|Canada|Montreal|OVH SAS|
-|14|194.233.73.103|443|Singapore|Singapore|Contabo Asia Private Limited|
-|15|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|16|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
-|17|65.21.111.230|5566|Finland|Helsinki|Hetzner Online GmbH|
-|18|115.85.73.179|3128|Indonesia|Jakarta|Sudirman Central Business District|
-|19|200.25.254.193|54240|Colombia|Medellín|Andinet ON Line|
-|20|34.132.61.61|3127|United States|Council Bluffs|Google LLC|
+|2|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|103.111.53.102|63238|Indonesia|Kuningan Barat|PT Indonesia Comnets Plus|
+|5|200.6.185.62|6969|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|6|181.48.101.245|3128|Colombia|Medellín|Telmex Colombia S.A.|
+|7|187.44.1.41|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
+|8|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|9|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|10|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|11|85.25.199.50|5566|France|Strasbourg|Host Europe GmbH|
+|12|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|13|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
+|14|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|45.5.94.178|3128|Mexico|Saltillo|Señal Interactiva, S.A De C.V|
+|16|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|17|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|18|103.14.198.21|83|India|Bengaluru|Mobiwalkers|
+|19|45.181.206.1|999|Colombia|Caucasia|Quality NET JM S.a.s. Zomac|
+|20|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
 
 
 

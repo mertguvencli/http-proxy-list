@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2473** proxies at the latest update. Usable proxies are below.
+> Scraper found **2553** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|46|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|46|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|46|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|5|190.248.153.162|8080|Colombia|Arauca|EPM Telecomunicaciones S.A. E.S.P.|
-|6|102.68.128.217|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|7|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|8|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|9|152.26.231.86|9443|United States|Enfield|MCNC|
-|10|205.155.45.139|3128|United States|Gonzales|California State University Network|
-|11|162.219.119.225|8080|United States|Oil Trough|Hillbilly Wireless INC.|
-|12|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|13|190.60.104.218|3128|Colombia|Villavicencio|IFX Corporation|
-|14|102.68.135.21|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|15|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|16|152.26.231.86|9443|United States|Enfield|MCNC|
-|17|176.32.185.22|8080|Russia|St Petersburg|SEVEREN|
-|18|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
-|19|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
-|20|78.47.227.89|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|2|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|3|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|4|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|5|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|6|101.53.158.48|9200|India|Noida|E2E Networks Limited|
+|7|200.54.22.74|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|8|181.115.187.218|8080|Bolivia|La Paz|Entel S.A. - EntelNet|
+|9|187.44.1.41|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
+|10|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|11|78.37.24.148|8080|Russia|Valday|Rostelecom networks|
+|12|186.16.206.168|999|Paraguay|Asunción|Telecel S.A.|
+|13|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|14|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|15|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|16|43.134.189.122|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|17|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|18|62.75.229.51|5566|France|Strasbourg|Host Europe GmbH|
+|19|20.103.139.62|3128|Netherlands|Amsterdam|Microsoft Corporation|
+|20|183.89.8.194|8080|Thailand|Nan|Triple T Broadband Public Company Limited|
 
 
 

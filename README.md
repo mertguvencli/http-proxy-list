@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2537** proxies at the latest update. Usable proxies are below.
+> Scraper found **2653** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|56|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|56|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|56|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|3|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
-|4|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|5|103.14.198.145|83|India|Bengaluru|Mobiwalkers|
-|6|177.128.44.126|6006|Brazil|Sapiranga|FLY & LVT|
-|7|101.255.127.10|8080|Indonesia|Jakarta|PT Remala Abadi|
+|1|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|2|134.209.42.113|8890|United States|Clifton|DigitalOcean, LLC|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|62.75.236.132|5566|France|Strasbourg|Host Europe GmbH|
+|6|128.201.138.21|3128|Brazil|Manaus|FiOS Tecnologia|
+|7|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
 |8|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|9|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|10|157.230.40.79|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|43.134.189.122|8888|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
-|12|190.60.104.218|3128|Colombia|Villavicencio|IFX Corporation|
-|13|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|14|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|15|65.20.183.187|8080|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
-|16|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|17|186.46.168.44|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|18|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|19|203.150.128.56|8080|Thailand|Watthana|Internet Thailand Company Ltd|
-|20|194.233.73.103|443|Singapore|Singapore|Contabo Asia Private Limited|
+|9|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|10|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|11|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|13|69.43.44.106|8080|United States|Morgantown|CityNet|
+|14|185.177.222.171|8089|Russia|Murom|Modus LLC|
+|15|41.77.188.178|80|Guinea|Kaloum|VDC Telecom|
+|16|196.0.111.194|34638|Uganda|Kampala|Uganda Telecom|
+|17|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
+|18|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|19|213.251.238.26|8080|Russia|Moscow|NLine-Kiev|
+|20|45.6.4.58|8080|Argentina|San Miguel de Tucumán|Providers S.A.|
 
 
 

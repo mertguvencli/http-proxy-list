@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2758** proxies at the latest update. Usable proxies are below.
+> Scraper found **2560** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|112|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|112|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|112|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|81|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|81|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|81|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|153.126.179.216|8080|Japan|Osaka|SAKURA Internet Inc.|
-|5|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
-|6|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
-|7|109.70.188.46|11080|Russia|Makhachkala|LTD "Elektrosvyaz"|
-|8|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
-|9|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
-|10|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
-|11|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|12|186.215.68.51|3127|Brazil|Brasília|Vivo|
-|13|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|14|182.253.140.250|8080|Indonesia|Denpasar|Biznet Networks|
-|15|202.145.13.109|8080|Indonesia|Puspasari|PT Jala Lintas Media|
-|16|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|17|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|18|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|19|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
-|20|91.142.172.7|41890|Ukraine|Kyiv|Sitel Ltd|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|188.234.216.66|49585|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|3|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|4|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|5|45.176.95.100|999|Dominican Republic|Cotui|Exito Vision Cable S.A.S|
+|6|118.190.244.234|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
+|7|187.243.250.197|3128|Mexico|Mazatlán|Mega Cable, S.A. de C.V.|
+|8|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
+|9|65.20.191.201|80|Iraq|Basrah|EarthLink Ltd. Communications&Internet Services|
+|10|177.93.50.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|11|49.156.42.210|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|12|103.121.41.165|8080|Pakistan|Karachi|Satcomm (Pvt.) Ltd.|
+|13|109.170.97.146|8085|Russia|Sochi|Net By Net Holding LLC|
+|14|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|15|202.63.243.226|8080|Nepal|Kathmandu|Subisu Cablenet|
+|16|31.163.192.161|3129|Russia|Pokachi|OJSC Rostelecom|
+|17|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
+|18|80.191.162.2|514|Iran|Shahrestān-e Bandar-e Māhshahr|Area|
+|19|103.107.71.192|1080|Indonesia|Surakarta|PT. Media Jaringan Indonesia|
+|20|110.34.13.4|8080|Nepal|Kathmandu|Subisu Cablenet|
 
 
 

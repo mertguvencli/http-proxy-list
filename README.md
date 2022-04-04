@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2513** proxies at the latest update. Usable proxies are below.
+> Scraper found **2530** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|61|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|61|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|61|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|2|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
-|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|4|50.193.36.173|8080|United States|Lathrop|Comcast Cable Communications|
-|5|158.181.21.247|8081|Kyrgyzstan|Bishkek|Megaline LLC|
-|6|139.255.10.234|8080|Indonesia|Bangah|PT. LINKNET|
-|7|161.189.32.94|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|8|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|9|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|10|106.14.175.35|8080|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|1|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|2|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|4|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|5|23.234.213.157|6666|United States|Santa Clarita|Multacom Corporation|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|9|176.106.255.3|8080|Russia|Moscow|NPF SOFTVIDEO Ltd|
+|10|103.153.226.66|3128|India|Bairai|Maba Safenet Broadband Services Private Limited|
 |11|169.239.188.61|48807|Nigeria|Lagos|ETG Integrated Services Ltd. (Dolphin Telecom)|
-|12|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|13|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|14|179.43.101.150|999|Argentina|Belen de Escobar|Advantun SRL|
-|15|46.219.8.201|41890|Ukraine|Kyiv|o3 core|
-|16|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|17|103.167.162.39|8080|Pakistan|Lahore|THE INFINITY BROADBAND (PVT) LIMITED|
-|18|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|19|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|20|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|12|14.139.184.130|3128|India|Salem|National Knowledge Network|
+|13|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|14|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|15|110.39.42.246|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|16|36.95.84.151|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|27.42.168.46|55481|China|Shenzhen|China Unicom Guangdong Province Network|
+|18|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
+|19|190.110.99.98|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|20|60.191.76.122|3128|China|Hangzhou|Chinanet|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2530** proxies at the latest update. Usable proxies are below.
+> Scraper found **2499** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|62|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|62|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|62|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
-|2|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|4|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|5|23.234.213.157|6666|United States|Santa Clarita|Multacom Corporation|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|9|176.106.255.3|8080|Russia|Moscow|NPF SOFTVIDEO Ltd|
-|10|103.153.226.66|3128|India|Bairai|Maba Safenet Broadband Services Private Limited|
-|11|169.239.188.61|48807|Nigeria|Lagos|ETG Integrated Services Ltd. (Dolphin Telecom)|
-|12|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|13|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|14|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|15|110.39.42.246|3128|Pakistan|Lahore|Wateen Telecom Limited|
-|16|36.95.84.151|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|27.42.168.46|55481|China|Shenzhen|China Unicom Guangdong Province Network|
-|18|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
-|19|190.110.99.98|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|20|60.191.76.122|3128|China|Hangzhou|Chinanet|
+|1|45.32.83.231|3128|United States|Los Angeles|Choopa|
+|2|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|4|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
+|5|181.78.13.230|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
+|6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|7|197.248.157.159|8080|Kenya|Nairobi|Safaricom Limited|
+|8|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|9|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
+|10|161.132.122.60|999|Peru|Lima|Optical Technologies S.A.C.|
+|11|5.189.186.24|5566|Germany|Nuremberg|Contabo GmbH|
+|12|31.163.192.161|3129|Russia|Pokachi|OJSC Rostelecom|
+|13|213.32.75.44|5566|France|Paris|OVH SAS|
+|14|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
+|15|193.200.151.69|48241|Ukraine|Bakalove|LIMANET Ltd.|
+|16|149.56.96.252|9300|Canada|Montreal|OVH SAS|
+|17|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|18|77.236.236.44|8080|Russia|Moscow|Enforta-MSK|
+|19|165.16.66.89|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|20|164.163.190.27|8080|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
 
 
 

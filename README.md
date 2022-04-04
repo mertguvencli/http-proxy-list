@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2499** proxies at the latest update. Usable proxies are below.
+> Scraper found **2589** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.32.83.231|3128|United States|Los Angeles|Choopa|
-|2|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|4|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
-|5|181.78.13.230|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
-|6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|7|197.248.157.159|8080|Kenya|Nairobi|Safaricom Limited|
-|8|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|9|146.185.169.166|7018|Netherlands|Amsterdam|DigitalOcean, LLC|
-|10|161.132.122.60|999|Peru|Lima|Optical Technologies S.A.C.|
-|11|5.189.186.24|5566|Germany|Nuremberg|Contabo GmbH|
-|12|31.163.192.161|3129|Russia|Pokachi|OJSC Rostelecom|
-|13|213.32.75.44|5566|France|Paris|OVH SAS|
-|14|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
-|15|193.200.151.69|48241|Ukraine|Bakalove|LIMANET Ltd.|
-|16|149.56.96.252|9300|Canada|Montreal|OVH SAS|
-|17|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|18|77.236.236.44|8080|Russia|Moscow|Enforta-MSK|
-|19|165.16.66.89|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|164.163.190.27|8080|Mexico|Apatzingán|Internet Telefonia Y TV De Michoacan SA De CV|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|3|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|5|162.55.163.151|80|Germany|Falkenstein|Hetzner Online GmbH|
+|6|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
+|7|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|24.43.140.138|8080|United States|Palm Springs|Charter Communications|
+|10|202.169.51.46|8080|Indonesia|Menteng|Biznet - PSN-NAP|
+|11|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|12|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|13|101.53.154.137|2003|India|Noida|E2E Networks Limited|
+|14|5.149.219.201|8080|Ukraine|Sevastopol|Lancom Ltd.|
+|15|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|16|203.189.137.137|8080|Cambodia|Phnom Penh|ONLINE|
+|17|173.212.213.133|3128|Germany|Nuremberg|Contabo GmbH|
+|18|103.240.160.21|6666|India|Padharia|Gujarat Telelink Pvt Ltd|
+|19|203.170.209.7|8081|Thailand|Huai Khwang|Advanced Wireless Network Company Limited|
+|20|178.167.66.141|55443|Russia|Elektrogorsk|for Flex Ltd|
 
 
 

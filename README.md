@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|89|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|89|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|89|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
-|5|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|6|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|7|202.63.243.226|8080|Nepal|Kathmandu|Subisu Cablenet|
-|8|103.168.164.26|83|India|Pune|Nutech Broadband|
-|9|91.217.42.4|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
-|10|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
-|11|188.43.15.89|8080|Russia|Tommot|Joint Stock Company TransTeleCom|
-|12|186.103.130.92|8080|Chile|Santiago|Telefonica Empresas|
-|13|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|14|113.161.70.165|41890|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|15|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|16|202.191.108.42|8080|Myanmar|Falam|Telecom International Myanmar Company Limited|
-|17|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|18|45.189.58.71|9090|Ecuador|Paute|Cbvision S.A.|
-|19|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
-|20|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|1|218.238.214.45|8080|South Korea|Yongsan-dong|SK Broadband Co Ltd|
+|2|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|118.190.244.234|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
+|4|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|5|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|6|61.135.155.82|443|China|Xicheng District|China Unicom Beijing Province Network|
+|7|95.0.168.58|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|8|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|9|80.63.84.58|8081|Denmark|Copenhagen|TDC A/S|
+|10|80.243.158.6|8080|Ukraine|Kyiv|Lanet Network|
+|11|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|12|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|13|47.51.51.190|8080|United States|Glendale|Charter Communications|
+|14|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|15|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|16|79.120.177.106|8080|Hungary|Budapest|Invitech ICT Services Kft.|
+|17|202.152.39.146|80|Indonesia|Medan|PT Aplikanusa Lintasarta|
+|18|45.64.99.237|8080|Indonesia|Melati|ARGON|
+|19|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|20|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
 
 
 

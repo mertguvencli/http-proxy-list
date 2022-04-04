@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2525** proxies at the latest update. Usable proxies are below.
+> Scraper found **2441** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|47|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|47|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|47|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|59|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|59|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|59|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|2|103.153.226.66|3128|India|Bairai|Maba Safenet Broadband Services Private Limited|
-|3|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|4|27.105.130.93|8080|Taiwan|Taipei|SONET|
-|5|5.180.130.91|80|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
+|1|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
 |6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
 |7|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|8|190.120.252.38|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|9|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
-|10|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
+|8|114.79.146.137|8080|India|Mumbai|D-VoiS Broadband Private Limited|
+|9|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|10|103.4.94.12|3128|Pakistan|Lahore|HEC|
 |11|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|12|88.255.64.94|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|13|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|14|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|15|45.32.83.231|3128|United States|Los Angeles|Choopa|
-|16|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|17|138.219.216.146|999|Argentina|Campo Viera|Jose Luis Zurakouski (MIX SERVICIOS & COMUNICACIONES)|
-|18|94.74.132.129|808|Iran|Shiraz|Farahoosh Dena PLC|
-|19|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|20|154.236.162.59|1981|Egypt|Giza|Enterprise|
+|12|181.198.194.23|3127|Ecuador|Guayaquil|Telconet S.A|
+|13|91.193.253.188|23500|Ukraine|Makiivka|Online Technologies LTD|
+|14|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|15|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
+|16|173.197.167.242|8080|United States|Ontario|Spectrum|
+|17|89.250.149.114|60981|Russia|Tyumen|JSC "ER-Telecom Holding"|
+|18|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|19|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|20|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

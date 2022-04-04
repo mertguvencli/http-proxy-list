@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2560** proxies at the latest update. Usable proxies are below.
+> Scraper found **2632** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|63|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|63|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|63|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|1|207.180.221.178|3128|Germany|Nuremberg|Contabo GmbH|
 |2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|88.255.101.229|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|4|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|5|118.190.244.234|3128|China|Qingdao|Hangzhou Alibaba Advertising Co|
-|6|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|7|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|8|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
-|10|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|11|103.1.93.184|55443|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
-|12|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
-|13|149.154.157.17|5678|Italy|Milan|EDIS|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|5|36.95.74.103|8080|Indonesia|Pegangsaan Dua|PT. Telekomunikasi Indonesia|
+|6|178.159.40.19|8080|Russia|Moscow|Linenet Ltd.|
+|7|103.4.94.12|3128|Pakistan|Lahore|HEC|
+|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|9|213.251.238.26|8080|Russia|Moscow|NLine-Kiev|
+|10|80.244.230.86|8080|Russia|Moscow|ArtCommunications Ltd.|
+|11|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|12|45.32.83.231|3128|United States|Los Angeles|Choopa|
+|13|123.231.221.178|8080|Indonesia|Makassar|PT Aplikanusa Lintasarta|
 |14|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|15|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|16|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|17|85.25.119.241|5566|France|Strasbourg|BSB-SERVICE|
-|18|130.185.73.139|8888|Iran|Tehran|Pars Parva System Ltd|
-|19|8.242.207.202|8080|Chile|Santiago|Level 3|
-|20|123.56.124.235|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
+|15|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|16|103.161.164.109|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|17|203.172.207.23|8080|Thailand|Pom Prap Sattru Phai|Office of Info.Tech. Admin. for Educational Development|
+|18|103.199.84.122|8080|Bangladesh|Bagerhat|Summit Communication Limited|
+|19|101.99.32.122|8080|Vietnam|Ho Chi Minh City|CMC Telecom Infrastructure Company|
+|20|149.154.157.17|5678|Italy|Milan|EDIS|
 
 
 

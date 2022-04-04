@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|52|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|52|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|52|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|39|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|39|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|39|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|2|85.25.155.103|5566|France|Strasbourg|Host Europe GmbH|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|5|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|6|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|7|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|8|188.133.137.9|8081|Russia|Moscow|Enforta-SPB|
-|9|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|2|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|3|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|6|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|7|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|8|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
 |10|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|11|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|12|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|13|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|14|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|15|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|16|202.65.158.235|83|India|Hyderabad|CtrlS Datacenters Ltd.|
-|17|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|18|205.155.45.139|3128|United States|Gonzales|California State University Network|
-|19|140.227.127.228|80|Japan|Chiyoda|NTT PC Communications, Inc.|
-|20|103.14.198.145|83|India|Bengaluru|Mobiwalkers|
+|11|186.13.50.16|8080|Argentina|Montserrat|Techtel LMDS Comunicaciones Interactivas S.A.|
+|12|103.153.226.66|3128|India|Bairai|Maba Safenet Broadband Services Private Limited|
+|13|103.42.162.50|8080|India|Sangli|ADVANT|
+|14|196.3.99.162|8080|Mozambique|Maputo|Eduardo Mondlane University|
+|15|85.25.119.241|5566|France|Strasbourg|BSB-SERVICE|
+|16|162.241.55.222|1081|United States|Provo|Unified Layer|
+|17|45.181.122.73|999|Chile|Rancagua|Interpit Telecomunicaciones Ltda|
+|18|185.204.197.169|8080|Italy|Rome|Pars Parva System LLC|
+|19|181.78.18.25|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
+|20|176.215.184.157|1256|Russia|Moscow Oblast|JSC "ER-Telecom Holding"|
 
 
 

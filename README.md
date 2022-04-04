@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2737** proxies at the latest update. Usable proxies are below.
+> Scraper found **2719** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|98|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|98|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|98|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|2|201.144.14.232|53281|Mexico|Manzanillo|Uninet S.A. de C.V|
-|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
-|6|121.151.223.96|1337|South Korea|Yeongju|Korea Telecom|
-|7|103.207.3.6|83|India|Tiruchi|Sri Vari Network Private Limited|
-|8|177.37.167.78|3128|Brazil|Jaguaribe|Brisanet Servicos De Telecomunicacoes Ltda|
-|9|87.236.233.183|8080|Jordan|Amman|Jordanian Universities Network L.L.C.|
-|10|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
-|11|190.71.64.180|8080|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P|
-|12|191.97.18.177|999|Venezuela|Caracas|INVERSIONES FRITZ 78 C.A.(WIFI SOLUTION)|
-|13|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|14|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|15|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|16|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
+|5|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|6|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|7|202.63.243.226|8080|Nepal|Kathmandu|Subisu Cablenet|
+|8|103.168.164.26|83|India|Pune|Nutech Broadband|
+|9|91.217.42.4|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
+|10|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
+|11|188.43.15.89|8080|Russia|Tommot|Joint Stock Company TransTeleCom|
+|12|186.103.130.92|8080|Chile|Santiago|Telefonica Empresas|
+|13|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|14|113.161.70.165|41890|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|15|62.112.118.14|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|16|202.191.108.42|8080|Myanmar|Falam|Telecom International Myanmar Company Limited|
 |17|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|18|189.199.106.202|999|Mexico|Jacona de Plancarte|Mega Cable, S.A. de C.V.|
-|19|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|20|45.174.70.18|53281|Mexico|Huatabampo|Index Datacom S.a. De C.V.|
+|18|45.189.58.71|9090|Ecuador|Paute|Cbvision S.A.|
+|19|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|20|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
 
 
 

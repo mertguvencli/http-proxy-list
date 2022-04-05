@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2573** proxies at the latest update. Usable proxies are below.
+> Scraper found **2590** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|54|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|54|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|54|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|51|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|51|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|51|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|183.89.63.56|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|24.43.140.138|8080|United States|Palm Springs|Charter Communications|
-|6|14.241.38.220|19132|Vietnam|Hanoi|VNPT|
-|7|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|8|202.52.13.2|8089|Indonesia|Arjuna|PT SKYLINE SEMESTA|
-|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|10|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|11|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|3|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|4|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|5|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|6|31.10.76.43|41890|Russia|Ramenskoye|CJSC "AVIEL"|
+|7|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
+|8|45.6.4.58|8080|Argentina|San Miguel de Tucumán|Providers S.A.|
+|9|177.107.195.173|8080|Brazil|Rio de Janeiro|HIT TelecomunicaÔÔes Ltda.|
+|10|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|11|103.206.168.202|8083|Indonesia|Duri Pulo|INFOTEK|
 |12|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|13|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|14|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|15|45.173.230.5|6969|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|16|95.67.19.181|3128|Ukraine|Kyiv|Cosmonova|
-|17|103.1.104.14|8080|Malaysia|Kuala Lumpur|Tmnet, Telekom Malaysia Bhd.|
-|18|77.222.52.199|3128|Russia|St Petersburg|Spaceweb network|
-|19|205.155.45.139|3128|United States|Gonzales|California State University Network|
-|20|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|13|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|14|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
+|15|186.103.203.202|999|Chile|Santiago|Telefonica Empresas|
+|16|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|17|190.121.128.217|999|Colombia|Oiba|Media Commerce Partners S.A|
+|18|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|19|200.37.187.218|999|Peru|Cucho|Telefonica del Peru S.A.A.|
+|20|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2924** proxies at the latest update. Usable proxies are below.
+> Scraper found **2806** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|2|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 |3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
-|7|91.103.31.147|81|Armenia|Yerevan|MTS Armenia CJSC|
-|8|5.59.136.230|8080|Russia|Rostov-on-Don|Timer, LLC|
-|9|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|10|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
-|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|13|213.251.238.26|8080|Russia|Moscow|NLine-Kiev|
-|14|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|15|194.44.15.222|8081|Ukraine|Bryukhovychi|UARNET-LL|
-|16|176.235.99.103|9090|Turkey|Isparta|Superonline Iletisim Hizmetleri A.S.|
-|17|180.180.123.40|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|37.187.121.221|1081|France|Gravelines|OVH SAS|
-|19|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|20|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|4|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|5|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|6|116.68.161.54|55443|Indonesia|Jakarta|PT. Sumber Data Indonesia|
+|7|170.81.35.26|36681|Costa Rica|San José|Navegalo S.A.|
+|8|60.250.159.191|45983|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|9|179.43.96.178|8080|Peru|Arequipa|GLG PERU SAC|
+|10|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
+|11|85.25.155.103|5566|France|Strasbourg|Host Europe GmbH|
+|12|202.29.243.36|8081|Thailand|Den Chai|THAINET|
+|13|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|14|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
+|15|103.241.227.110|6666|India|Ahmedabad|GTPL SMC Network PVT LTD|
+|16|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
+|17|186.3.9.218|999|Ecuador|Guayaquil|Telconet S.A|
+|18|200.111.239.66|8080|Chile|Santiago|Entel Chile S.A.|
+|19|202.4.101.222|8080|Bangladesh|Dhaka|dhakaCom Limited|
+|20|116.0.4.54|8080|Indonesia|Bekasi|PT Hasindo Net|
 
 
 

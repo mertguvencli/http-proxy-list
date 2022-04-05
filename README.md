@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2768** proxies at the latest update. Usable proxies are below.
+> Scraper found **2924** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|2|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
 |3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|6|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
-|7|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|9|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
-|10|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|11|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|12|1.4.198.22|8081|Thailand|Bangkok|TOT Public Company Limited|
-|13|159.192.131.178|8080|Thailand|Samphanthawong|CAT-BB|
-|14|200.39.153.1|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
-|15|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|16|41.75.4.208|53281|Botswana|Gaborone|OPQ Net|
-|17|36.95.156.127|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|18|87.255.13.217|8080|Russia|Khimki|BIG TELECOM CLOSED JSC|
-|19|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|20|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|4|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|6|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
+|7|91.103.31.147|81|Armenia|Yerevan|MTS Armenia CJSC|
+|8|5.59.136.230|8080|Russia|Rostov-on-Don|Timer, LLC|
+|9|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|10|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
+|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|212.175.118.173|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|13|213.251.238.26|8080|Russia|Moscow|NLine-Kiev|
+|14|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|15|194.44.15.222|8081|Ukraine|Bryukhovychi|UARNET-LL|
+|16|176.235.99.103|9090|Turkey|Isparta|Superonline Iletisim Hizmetleri A.S.|
+|17|180.180.123.40|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|37.187.121.221|1081|France|Gravelines|OVH SAS|
+|19|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|20|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
 
 
 

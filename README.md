@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2605** proxies at the latest update. Usable proxies are below.
+> Scraper found **2690** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|149.28.95.93|8080|United States|Los Angeles|The Constant Company|
-|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|3|135.23.201.43|8118|Canada|Gatineau|TekSavvy Solutions, Inc.|
-|4|34.94.137.131|80|United States|Los Angeles|Google LLC|
-|5|95.140.27.135|58901|Russia|Moscow|Sputnik LTD|
-|6|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|7|190.202.111.202|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
-|8|185.171.202.131|3128|France|Troyes|Dyjix Association|
-|9|162.241.55.222|1081|United States|Provo|Unified Layer|
-|10|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|11|43.243.140.198|8080|Indonesia|Jakarta|CEPATNET|
-|12|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|13|45.229.56.64|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
-|14|45.70.15.7|8080|Ecuador|Guayaquil|Nedetel S.A.|
-|15|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|16|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|17|189.203.10.141|999|Mexico|Santa Cruz Amilpas|Total Play Telecomunicaciones SA De CV|
-|18|45.156.31.0|9090|Turkey|Istanbul|ATLANTIS|
-|19|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|20|91.93.42.114|10001|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|1|37.187.121.221|1081|France|Gravelines|OVH SAS|
+|2|172.104.48.219|8080|Singapore|Singapore|Linode, LLC|
+|3|190.60.104.218|3128|Colombia|Villavicencio|IFX Corporation|
+|4|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|5|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
+|6|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
+|7|103.148.39.50|83|India|Bengaluru|Broadway Communication Pvt Ltd|
+|8|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
+|9|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|10|91.217.42.4|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
+|11|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|12|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|13|176.214.35.132|8080|Russia|Zvenigorod|JSC "ER-Telecom Holding"|
+|14|46.161.194.71|8080|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|15|168.8.209.253|8080|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|16|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
+|17|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
+|18|5.16.1.17|8080|Russia|St Petersburg|Enforta-MSK|
+|19|185.127.224.60|41890|Russia|Moscow|Rusphone OOO|
+|20|185.189.199.75|23500|Bulgaria|Bansko|Mis70 LTD|
 
 
 

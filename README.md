@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2776** proxies at the latest update. Usable proxies are below.
+> Scraper found **2836** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|2|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
-|3|37.187.121.221|1081|France|Gravelines|OVH SAS|
-|4|162.241.55.222|1081|United States|Provo|Unified Layer|
-|5|196.15.213.235|3128|South Africa|Christiana|Telkom SA Ltd.|
-|6|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|7|151.80.196.163|8010|France|Roubaix|OVH SAS|
-|8|62.138.3.125|5566|France|Strasbourg|Host Europe GmbH|
-|9|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
-|10|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|11|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
-|12|180.210.178.30|8080|Bangladesh|Dhaka|Premium Connectivity Limited|
-|13|68.64.250.38|8080|United States|Irving|SimpleFiber Communications LLC|
-|14|103.156.145.49|83|India|Gandhinagar|Treelink Broadband Private Limited|
-|15|110.232.78.55|55667|Indonesia|Medan|Media Antar Nusa PT.|
-|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|17|177.73.16.74|55443|Brazil|Uberlândia|Max WIFI Telecom Ltda.|
-|18|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|19|187.188.171.73|6969|Mexico|Coatzacoalcos|Total Play Telecomunicaciones SA De CV|
-|20|195.175.89.198|8080|Turkey|Antalya|TTnetTurkTelekom|
+|1|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|2|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|3|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|4|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|7|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|8|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|9|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|10|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
+|11|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
+|12|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|13|185.94.218.57|43403|Ukraine|Lviv|LITECH-ISP|
+|14|103.156.17.35|8181|Indonesia|Amis Empat|RSTNET|
+|15|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|16|38.101.122.186|999|Dominican Republic|Santo Domingo Este|Cogent Communications|
+|17|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|18|36.94.183.153|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|84.252.139.198|3128|Russia|Moscow|Yandex.Cloud LLC|
+|20|85.25.155.103|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

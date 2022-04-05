@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2688** proxies at the latest update. Usable proxies are below.
+> Scraper found **2573** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|51|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|51|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|51|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|54|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|54|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|54|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|2|194.182.64.18|8081|Czechia|Prague|INTERNET CZ, a.s.|
-|3|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
-|4|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|5|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
-|9|47.242.254.136|8119|Hong Kong|Hong Kong|Alibaba.com LLC|
-|10|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|11|115.124.79.91|8080|Indonesia|Bandung|PT Remala Abadi|
-|12|149.28.95.93|8080|United States|Los Angeles|The Constant Company|
-|13|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|15|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|16|45.169.163.73|999|Chile|Melipilla|Telecomunicaciones Wifired Limitada|
-|17|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
-|18|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|19|182.52.140.57|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|20|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|1|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|183.89.63.56|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|5|24.43.140.138|8080|United States|Palm Springs|Charter Communications|
+|6|14.241.38.220|19132|Vietnam|Hanoi|VNPT|
+|7|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|8|202.52.13.2|8089|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|11|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|12|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|14|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|15|45.173.230.5|6969|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|16|95.67.19.181|3128|Ukraine|Kyiv|Cosmonova|
+|17|103.1.104.14|8080|Malaysia|Kuala Lumpur|Tmnet, Telekom Malaysia Bhd.|
+|18|77.222.52.199|3128|Russia|St Petersburg|Spaceweb network|
+|19|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|20|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

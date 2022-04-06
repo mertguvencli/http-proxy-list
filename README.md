@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2576** proxies at the latest update. Usable proxies are below.
+> Scraper found **2608** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|1|54.193.249.144|8080|United States|San Jose|Amazon.com, Inc.|
+|2|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
 |3|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|4|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|5|200.6.254.254|999|Guatemala|Guatemala City|Telgua|
-|6|27.72.105.233|19132|Vietnam|Hanoi|Newass2011xDSLHN|
-|7|45.177.108.165|999|Colombia|Baraya|TV AZTECA SUCURSAL COLOMBIA|
-|8|124.41.213.201|39272|Nepal|Kathmandu|WorldLink Communications|
-|9|181.40.115.102|999|Paraguay|Asunción|Telecel S.A.|
-|10|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
-|11|222.124.193.113|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|12|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|13|43.241.29.201|8080|India|Chalisgaon|Intech Online Private Limited|
-|14|18.230.108.102|8888|Brazil|São Paulo|Amazon Technologies Inc.|
-|15|103.199.156.41|40049|India|Rudrapur|city broadband network pvt.ltd|
-|16|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|17|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
-|18|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|19|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
-|20|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|4|50.192.250.60|8080|United States|Swedesboro|Comcast Cable Communications, LLC|
+|5|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|7|190.113.42.73|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|8|186.3.85.131|999|Ecuador|Loja|Telconet S.A|
+|9|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|10|125.25.184.51|8080|Thailand|Chon Buri|TOT Public Company Limited|
+|11|80.106.247.145|53410|Greece|Piraeus|Ote SA (Hellenic Telecommunications Organisation)|
+|12|103.146.30.125|8080|Indonesia|Kuningan Barat|PT MITRA VISIONER PRATAMA|
+|13|14.139.185.73|80|India|Trivandrum|National Knowledge Network|
+|14|154.127.219.242|999|Angola|Luanda|TV CABO ANGOLA LDA|
+|15|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|16|212.126.107.2|31475|Iraq|Sulaymaniyah|AL-SARD FIBER Co. Internet Fiber and Optical Cable Services /Ltd.|
+|17|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|18|91.107.15.221|53281|Russia|Lyubertsy|AVK-computer ltd|
+|19|103.1.104.14|8080|Malaysia|Kuala Lumpur|Tmnet, Telekom Malaysia Bhd.|
+|20|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

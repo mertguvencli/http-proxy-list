@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2850** proxies at the latest update. Usable proxies are below.
+> Scraper found **2920** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.94.97.238|443|United States|New York|Contabo Inc.|
-|2|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|6|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|7|187.44.1.41|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao Ltda|
-|8|62.205.169.74|53281|Russia|Moscow|CORBINA|
-|9|45.227.72.50|8080|Brazil|Lago da Pedra|Dunas Telecom|
-|10|36.95.84.151|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|181.209.77.130|8080|Argentina|Villa Maria Grande|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|12|65.121.180.14|21988|United States|Salt Lake City|CenturyLink Communications|
-|13|85.25.155.103|5566|France|Strasbourg|Host Europe GmbH|
-|14|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
-|15|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|16|134.209.42.113|8899|United States|Clifton|DigitalOcean, LLC|
-|17|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|18|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|19|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
-|20|189.196.46.2|999|Mexico|Ciudad Serdan|Mega Cable, S.A. de C.V.|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|54.36.180.244|1081|France|Gravelines|OVH SAS|
+|3|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|4|88.46.137.82|8080|Italy|Milan|Telecom Italia S.p.A.|
+|5|121.13.252.62|41564|China|Guangzhou|Chinanet|
+|6|45.119.83.40|3128|Vietnam|Ho Chi Minh City|Long Van System Solution|
+|7|189.51.4.254|45367|Brazil|São Paulo|Transit do Brasil S/A|
+|8|188.133.137.9|8081|Russia|Moscow|Enforta-SPB|
+|9|45.230.169.9|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|10|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|11|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|12|103.11.106.8|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|13|185.82.98.4|9091|Lebanon|Tripoli|Protected|
+|14|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|15|14.241.38.220|19132|Vietnam|Hanoi|VNPT|
+|16|80.244.230.86|8080|Russia|Moscow|ArtCommunications Ltd.|
+|17|1.4.198.22|8081|Thailand|Bangkok|TOT Public Company Limited|
+|18|103.73.75.69|8080|Indonesia|Karangligar|PT. Wahana Internet Nusantara|
+|19|62.33.210.34|8333|Russia|Izhevsk|TRANS-TELECOM|
+|20|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
 
 
 

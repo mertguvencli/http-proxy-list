@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2616** proxies at the latest update. Usable proxies are below.
+> Scraper found **2607** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
-|5|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
-|6|1.179.144.41|8080|Thailand|Sankhaburi|TOT Public Company Limited|
-|7|194.233.73.107|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|146.120.174.149|8989|Ukraine|Ivanykivka|Gargat Igor Vasilevich|
-|9|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
-|10|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|11|162.241.55.222|1081|United States|Provo|Unified Layer|
-|12|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|13|62.33.210.34|8333|Russia|Izhevsk|TRANS-TELECOM|
-|14|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|15|180.193.222.138|8080|Philippines|Sibalom|Philippine Long Distance Telephone Co.|
-|16|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
-|17|203.170.209.7|8081|Thailand|Huai Khwang|Advanced Wireless Network Company Limited|
-|18|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|19|138.204.171.134|8118|Mexico|Mexico City|Fast Serv Inc|
-|20|117.4.115.169|8080|Vietnam|Hanoi|Viettel Corporation|
+|1|116.203.201.82|8443|Germany|Nuremberg|Hetzner Online GmbH|
+|2|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|6|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|7|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|8|187.95.114.125|3128|Brazil|Roncador|COPEL TelecomunicaÔÔes S.A.|
+|9|47.242.230.213|12345|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|200.92.152.50|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|11|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
+|12|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|13|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|14|200.48.3.227|10101|Peru|Lima|Telefonica del Peru S.A.A.|
+|15|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
+|16|203.217.169.100|6969|Cambodia|Phnom Penh|S.I Group|
+|17|82.119.150.122|8080|Russia|Stavropol|AS8342 and AS8263|
+|18|103.154.24.18|8080|Indonesia|Selong|HIJRAHNET|
+|19|186.3.85.131|999|Ecuador|Loja|Telconet S.A|
+|20|91.219.183.135|8080|Russia|St Petersburg|Smart Telecom Limited|
 
 
 

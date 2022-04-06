@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2739** proxies at the latest update. Usable proxies are below.
+> Scraper found **2800** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|101|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|101|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|101|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|168.196.215.16|9999|Brazil|Ibirapitanga|ITA TELECOM|
-|3|212.126.107.2|31475|Iraq|Sulaymaniyah|AL-SARD FIBER Co. Internet Fiber and Optical Cable Services /Ltd.|
-|4|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
-|5|103.152.232.14|8080|Indonesia|Belendung|PT Kingpolah Network Solutions|
-|6|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
-|7|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
-|9|103.156.17.35|8181|Indonesia|Amis Empat|RSTNET|
-|10|187.109.120.136|38653|Brazil|Juiz de Fora|Avelino e Rodrigues LTDA|
-|11|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|12|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|13|88.255.65.117|8080|Turkey|Kayseri|Turk Telekomunikasyon Anonim Sirketi|
-|14|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|184.168.122.176|80|Singapore|Singapore|GoDaddy.com, LLC|
-|16|202.162.214.243|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|17|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|18|104.192.202.11|8080|United States|St. George|Go Fiber|
-|19|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
-|20|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|1|104.161.92.74|3128|United States|Phoenix|Input Output Flood LLC|
+|2|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|190.2.214.90|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
+|5|69.63.73.171|53281|Eswatini|Piggs Peak|Swaziland Posts & Telecommunications Corp.|
+|6|91.207.238.107|56288|Russia|Balakovo|NPF-LAI|
+|7|181.78.27.225|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|8|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|9|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|10|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
+|11|187.190.226.235|9991|Mexico|Querétaro|Total Play Telecomunicaciones SA De CV|
+|12|14.139.184.130|3128|India|Salem|National Knowledge Network|
+|13|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|14|45.176.95.101|999|Dominican Republic|Cotui|Exito Vision Cable S.A.S|
+|15|187.45.106.164|3128|Brazil|Maravilha|Mhnet Telecom|
+|16|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|17|212.115.232.79|31280|Ukraine|Dnipro|ISP "Fregat"|
+|18|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|19|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|20|157.245.50.4|1081|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

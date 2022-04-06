@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2626** proxies at the latest update. Usable proxies are below.
+> Scraper found **2576** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|2|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|5|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
-|6|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
-|7|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|8|177.126.151.162|8081|Brazil|Belmonte|Firemicro Informática|
-|9|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
-|10|185.17.134.149|45984|Russia|Makhachkala|JSC Elektrosvyaz|
-|11|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|12|170.80.202.238|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|13|194.233.69.126|443|Singapore|Singapore|Contabo Asia Private Limited|
-|14|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
-|15|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
-|16|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|17|188.133.139.219|1256|Russia|Moscow|Enforta-MSK|
-|18|175.101.14.121|83|India|Hyderabad|ExcellMedia Pvt Ltd|
-|19|186.47.97.122|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|20|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
+|1|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|4|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|5|200.6.254.254|999|Guatemala|Guatemala City|Telgua|
+|6|27.72.105.233|19132|Vietnam|Hanoi|Newass2011xDSLHN|
+|7|45.177.108.165|999|Colombia|Baraya|TV AZTECA SUCURSAL COLOMBIA|
+|8|124.41.213.201|39272|Nepal|Kathmandu|WorldLink Communications|
+|9|181.40.115.102|999|Paraguay|Asunción|Telecel S.A.|
+|10|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
+|11|222.124.193.113|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|12|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|13|43.241.29.201|8080|India|Chalisgaon|Intech Online Private Limited|
+|14|18.230.108.102|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|15|103.199.156.41|40049|India|Rudrapur|city broadband network pvt.ltd|
+|16|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|17|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|18|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|19|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
+|20|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2744** proxies at the latest update. Usable proxies are below.
+> Scraper found **2669** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.211.155.34|8080|United States|Milford|FirstLight Fiber|
-|2|103.10.22.236|8080|Mongolia|Ulan Bator|Kewiko LLC|
-|3|193.242.178.90|44551|Russia|Moscow|Avelacom Business Ltd.|
-|4|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|5|101.133.138.238|8118|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|6|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|7|103.81.194.68|8080|Indonesia|Jakarta|PT Rtiga Global Media|
-|8|186.1.206.158|3128|Haiti|Port-au-Prince|Télécommunications de Haití (Teleco)|
-|9|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
-|10|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
-|11|131.100.51.45|999|Colombia|El Doncello|Fibernet TV SAS|
-|12|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|138.219.216.146|999|Argentina|Campo Viera|Jose Luis Zurakouski (MIX SERVICIOS & COMUNICACIONES)|
-|14|45.230.169.9|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|15|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|16|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|17|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|18|119.76.142.159|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|19|85.25.119.241|5566|France|Strasbourg|BSB-SERVICE|
-|20|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
+|1|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|2|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|3|177.37.167.78|3128|Brazil|Jaguaribe|Brisanet Servicos De Telecomunicacoes Ltda|
+|4|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|5|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|6|181.209.105.154|8080|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|7|190.85.34.141|999|Colombia|Barranquilla|Telmex Colombia S.A.|
+|8|217.60.195.37|8080|Iran|Karaj|SHATEL Network|
+|9|94.74.132.129|808|Iran|Shiraz|Farahoosh Dena PLC|
+|10|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|11|150.129.54.111|6666|India|Bhuj|GTPL Link Network Pvt Ltd|
+|12|167.86.86.203|1081|Germany|Nuremberg|Contabo GmbH|
+|13|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|14|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|15|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|16|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|17|186.3.85.131|999|Ecuador|Loja|Telconet S.A|
+|18|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|19|179.40.95.8|999|Argentina|San Vicente|Telefonica de Argentina|
+|20|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
 
 
 

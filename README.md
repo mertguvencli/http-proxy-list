@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2641** proxies at the latest update. Usable proxies are below.
+> Scraper found **2655** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|79|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|79|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|79|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|76|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|76|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|76|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|2|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|3|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
-|4|218.1.200.180|57114|China|Shanghai|China Telecom|
-|5|200.125.171.60|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|6|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|7|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
-|8|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
-|9|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|103.164.112.124|10001|Indonesia|Jakarta|SOLUSINET|
-|11|27.105.130.93|8080|Taiwan|Taipei|SONET|
-|12|200.116.198.180|32605|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
-|13|12.88.29.66|9080|United States|Pauls Valley|AT&T Services, Inc.|
-|14|194.233.86.75|45232|Singapore|Singapore|Contabo Asia Private Limited|
-|15|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|16|181.78.27.225|999|Paraguay|Asunción|Ufinet Paraguay S.A|
-|17|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|18|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|19|202.180.20.66|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|20|103.159.46.18|83|India|Ahmedabad|King Netsol Private Limited|
+|1|45.42.177.37|3128|United States|Ashburn|PeaceWeb|
+|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|5|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|6|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|7|202.154.191.38|8080|Indonesia|Batam|PT SOLNET INDONESIA|
+|8|201.217.246.178|8080|Argentina|Villa Angela|Ecom Chaco S.A.|
+|9|65.121.180.14|21988|United States|Salt Lake City|CenturyLink Communications|
+|10|200.106.124.204|999|Peru|Tacna|Telefonica del Peru|
+|11|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|12|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|13|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|192.99.239.215|8080|Pakistan|Rawalpindi|OVH Hosting|
+|15|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|37.29.80.161|8080|Russia|Novosibirsk|MEGAFONSIB|
+|17|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|101.109.176.170|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|19|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
+|20|190.2.214.90|999|Colombia|Villavicencio|TV AZTECA SUCURSAL COLOMBIA|
 
 
 

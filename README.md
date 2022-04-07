@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2680** proxies at the latest update. Usable proxies are below.
+> Scraper found **2662** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|107|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|107|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|107|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|4|192.241.158.51|1081|United States|North Bergen|DigitalOcean, LLC|
-|5|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|6|43.224.10.33|6666|India|Surat|gtpl hariom world vision|
-|7|45.160.74.1|999|Chile|Lampa|Besthost Spa|
-|8|101.255.103.201|53281|Indonesia|Bukit Duri|PT Remala Abadi|
-|9|188.133.173.21|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
-|10|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
-|11|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|12|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|13|103.124.97.11|8080|Nepal|Kaski|Pokhara Internet Pvt. Ltd|
-|14|103.78.75.91|8080|Indonesia|Pekan Baru|PT Indonesia Comnets Plus|
-|15|157.100.53.102|999|Ecuador|Machala|Nedetel S.A.|
-|16|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
-|18|197.210.105.122|41890|Nigeria|Lagos|MTN NIGERIA Communication limited|
-|19|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|20|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|3|190.113.40.94|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
+|4|156.67.172.185|3128|Germany|Ibbenbueren|Deutsche Glasfaser Business GmbH|
+|5|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|6|138.0.89.154|999|Colombia|Popayán|Dobleclick Software E Ingeneria|
+|7|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|8|159.192.138.170|8080|Thailand|Chana|CAT-BB|
+|9|103.4.94.12|3128|Pakistan|Lahore|HEC|
+|10|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
+|11|103.227.141.90|8181|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
+|12|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|13|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|14|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|15|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|16|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|17|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
+|18|1.179.144.41|8080|Thailand|Sankhaburi|TOT Public Company Limited|
+|19|45.164.150.122|999|Guatemala|Chichicastenango|JORGE MARIO, MENDOZA LUX|
+|20|82.209.210.179|8080|Belarus|Berëzovka|Republican Unitary Telecommunication Enterprise Beltelecom|
 
 
 

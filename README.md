@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2704** proxies at the latest update. Usable proxies are below.
+> Scraper found **2755** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.42.177.37|3128|United States|Ashburn|PeaceWeb|
-|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|3|45.85.249.66|3128|Turkey|Istanbul|Emrecan Oksum|
-|4|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|1.20.166.142|8080|Thailand|Khwaeng Thung Song Hong|TOT-MOBILE|
-|6|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|7|188.133.188.59|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
-|8|189.193.224.222|999|Mexico|Zacatelco|Mega Cable, S.A. de C.V.|
-|9|179.43.94.238|999|Peru|Arequipa|MEDIA COMMERCE PERÚ S.A.C|
-|10|58.53.46.231|7082|China|Wulipu|Chinanet|
-|11|194.233.86.75|45232|Singapore|Singapore|Contabo Asia Private Limited|
-|12|177.87.168.101|53281|Brazil|Recife|Asstelecom telecomunicaÔÔo Ltda me|
-|13|181.10.160.157|8080|Argentina|La Carlota|Telecom Argentina S.A|
-|14|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|15|188.133.136.69|8080|Russia|Moscow|Enforta-MSK|
-|16|180.211.183.2|8080|Bangladesh|Dhaka|Bangladesh Telecommunications Company Ltd.|
-|17|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|18|162.241.55.222|1081|United States|Provo|Unified Layer|
-|19|138.0.89.154|999|Colombia|Popayán|Dobleclick Software E Ingeneria|
-|20|43.252.10.212|2222|Indonesia|Jakarta|QUANTUMNET|
+|1|66.135.6.203|59394|United States|Piscataway|The Constant Company|
+|2|45.42.177.37|3128|United States|Ashburn|PeaceWeb|
+|3|194.233.86.75|45232|Singapore|Singapore|Contabo Asia Private Limited|
+|4|202.29.237.210|3128|Thailand|Bangkok|THAINET|
+|5|183.89.63.56|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|6|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|7|84.22.209.91|8080|Russia|St Petersburg|JSC "ER-Telecom Holding"|
+|8|93.86.63.73|8080|Serbia|Kraljevo|TELEKOM-SRBIJA|
+|9|162.241.55.222|1081|United States|Provo|Unified Layer|
+|10|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
+|11|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
+|12|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|13|101.133.231.6|80|China|Shanghai|Hangzhou Alibaba Advertising Co|
+|14|200.233.92.222|20183|Brazil|Alfenas|Rede Popular De Internet Ltda|
+|15|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|16|61.153.251.150|22222|China|Beijing|Chinanet|
+|17|180.211.248.222|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|18|95.154.104.147|44393|Russia|Vladivostok|Octopusnet Jurs|
+|19|160.19.155.51|8080|Sierra Leone|Freetown|PCS Holdings Limited|
+|20|186.3.85.131|999|Ecuador|Loja|Telconet S.A|
 
 
 

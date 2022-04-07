@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2662** proxies at the latest update. Usable proxies are below.
+> Scraper found **2824** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|3|190.113.40.94|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|4|156.67.172.185|3128|Germany|Ibbenbueren|Deutsche Glasfaser Business GmbH|
-|5|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|6|138.0.89.154|999|Colombia|Popayán|Dobleclick Software E Ingeneria|
+|1|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|4|179.43.94.238|999|Peru|Arequipa|MEDIA COMMERCE PERÚ S.A.C|
+|5|27.72.105.233|19132|Vietnam|Hanoi|Newass2011xDSLHN|
+|6|101.53.154.137|2009|India|Noida|E2E Networks Limited|
 |7|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|8|159.192.138.170|8080|Thailand|Chana|CAT-BB|
-|9|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|10|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
-|11|103.227.141.90|8181|Indonesia|Bukit Tinggi|Gnet Biaro Akses|
-|12|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|13|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|14|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|15|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|16|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
-|17|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
-|18|1.179.144.41|8080|Thailand|Sankhaburi|TOT Public Company Limited|
-|19|45.164.150.122|999|Guatemala|Chichicastenango|JORGE MARIO, MENDOZA LUX|
-|20|82.209.210.179|8080|Belarus|Berëzovka|Republican Unitary Telecommunication Enterprise Beltelecom|
+|8|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|9|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
+|10|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|11|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|186.3.85.131|999|Ecuador|Loja|Telconet S.A|
+|13|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|14|89.204.214.142|8080|Ireland|Kilcock|O2 Ireland Fixed Broadband - Eircom White Label|
+|15|41.33.86.242|8080|Egypt|Cairo|TE Data|
+|16|205.155.45.139|3128|United States|Gonzales|California State University Network|
+|17|200.122.226.43|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P|
+|18|162.241.55.222|1081|United States|Provo|Unified Layer|
+|19|217.180.218.36|8080|United States|Lansing|Metronet|
+|20|222.252.156.61|62694|Vietnam|Thai Nguyen|VietNam Post and Telecom Corporation|
 
 
 

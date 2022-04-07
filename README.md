@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2825** proxies at the latest update. Usable proxies are below.
+> Scraper found **2946** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|122|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|122|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|122|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|137.184.136.135|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|4|187.216.90.46|53281|Mexico|Mexico City|Uninet S.A. de C.V.|
-|5|45.229.31.34|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
-|6|202.180.17.86|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|7|91.219.183.135|8080|Russia|St Petersburg|Smart Telecom Limited|
-|8|194.135.45.230|41890|Russia|Simferopol|KRYMTELEKOM|
-|9|177.37.167.78|3128|Brazil|Jaguaribe|Brisanet Servicos De Telecomunicacoes Ltda|
-|10|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|11|41.86.42.41|8080|Seychelles|Cascade|CWS DIB BUNDLE|
-|12|183.88.219.206|41564|Thailand|Chom Thong|Triple T Broadband Public Company Limited|
-|13|116.0.4.54|8080|Indonesia|Bekasi|PT Hasindo Net|
-|14|190.12.56.58|8080|Ecuador|Machala|Puntonet S.A.|
-|15|185.201.88.128|6969|Russia|Perm|Enter LLC|
-|16|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|17|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
-|18|159.223.87.10|3128|Singapore|Singapore|DigitalOcean, LLC|
-|19|67.205.128.38|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|193.106.138.52|3128|Ukraine|Kyiv|PJSC "Industrial Media Network"|
+|1|64.227.6.0|4003|United States|North Bergen|DigitalOcean, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|4|201.144.14.232|53281|Mexico|Manzanillo|Uninet S.A. de C.V|
+|5|14.139.184.130|3128|India|Salem|National Knowledge Network|
+|6|159.224.232.222|3128|Ukraine|Dnipro|Triolan|
+|7|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
+|8|200.16.208.187|8080|Argentina|San Nicolas|Telefonica de Argentina|
+|9|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|10|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
+|11|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|12|212.112.127.20|8080|Kyrgyzstan|Bishkek|AKNET Ltd.|
+|13|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|14|187.216.93.20|55443|Mexico|Hermosillo|Uninet S.A. de C.V.|
+|15|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|16|91.186.102.169|8082|Russia|Noril'sk|MTS PJSC|
+|17|45.229.31.34|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
+|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|19|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|20|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
 
 
 

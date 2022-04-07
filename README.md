@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2872** proxies at the latest update. Usable proxies are below.
+> Scraper found **2827** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|2|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|3|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|4|110.74.222.71|44970|Cambodia|Phnom Penh|EZECOM limited|
-|5|186.202.176.153|8888|Brazil|Itacoatiara|Locaweb ServiÔos de Internet S/A|
-|6|186.97.156.130|999|Colombia|Medellín|Colombia Móvil|
-|7|203.150.172.151|8080|Thailand|Trang|Internet Thailand Company Ltd.|
-|8|154.113.32.17|8080|Nigeria|Lagos|Mainone Cable Company|
-|9|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
-|10|177.136.84.164|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
-|11|103.145.130.150|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
-|12|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
-|13|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|14|103.148.195.22|8080|Indonesia|Tabanan|Dinas Komunikasi DAN Informatika Kabupaten Tabanan|
-|15|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|16|113.177.48.183|19132|Vietnam|Hanoi|VNPT|
-|17|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
-|18|4.59.83.198|8080|United States|Naples|Level 3|
-|19|27.72.244.228|8080|Vietnam|Thai Nguyen|Newass2011xDSLHN|
-|20|103.152.100.187|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|208.113.200.100|3128|United States|Pelham|New Dream Network, LLC|
+|3|190.110.111.145|999|Chile|San Vicente|Silica Networks Argentina S.A.|
+|4|140.227.211.47|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
+|5|45.230.169.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|6|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|7|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|103.10.62.238|19305|Indonesia|Bandung|PT Hipernet Indodata|
+|9|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|10|161.22.33.181|999|Venezuela|Petare|MDS TELECOM C.A|
+|11|200.106.184.13|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|12|62.138.3.125|5566|France|Strasbourg|Host Europe GmbH|
+|13|98.154.21.253|3128|United States|Los Angeles|Charter Communications Inc|
+|14|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
+|15|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|16|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|17|203.128.83.115|8080|Indonesia|Jakarta|Neuviz|
+|18|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
+|19|111.90.179.74|8080|Australia|Perth|Angkor Data Communication|
+|20|197.232.82.243|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2827** proxies at the latest update. Usable proxies are below.
+> Scraper found **2633** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|65|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|65|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|65|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|208.113.200.100|3128|United States|Pelham|New Dream Network, LLC|
-|3|190.110.111.145|999|Chile|San Vicente|Silica Networks Argentina S.A.|
-|4|140.227.211.47|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|5|45.230.169.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|6|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|7|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|103.10.62.238|19305|Indonesia|Bandung|PT Hipernet Indodata|
-|9|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|10|161.22.33.181|999|Venezuela|Petare|MDS TELECOM C.A|
-|11|200.106.184.13|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|12|62.138.3.125|5566|France|Strasbourg|Host Europe GmbH|
-|13|98.154.21.253|3128|United States|Los Angeles|Charter Communications Inc|
-|14|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
-|15|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
-|16|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|17|203.128.83.115|8080|Indonesia|Jakarta|Neuviz|
-|18|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
-|19|111.90.179.74|8080|Australia|Perth|Angkor Data Communication|
-|20|197.232.82.243|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|1|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
+|2|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|3|130.61.255.166|8118|Germany|Frankfurt am Main|Oracle Corporation|
+|4|12.88.29.66|9080|United States|Pauls Valley|AT&T Services, Inc.|
+|5|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|6|221.226.75.86|55443|China|Nanjing|CHINANET jiangsu province network|
+|7|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|8|181.143.235.99|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|9|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
+|10|45.178.133.19|999|Chile|Curicó|Mundonet S.p.A|
+|11|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
+|12|167.172.173.210|44541|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|13|167.172.173.210|44541|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|14|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|15|170.79.235.3|999|Chile|Buin|TNA Solutions SpA|
+|16|200.122.226.43|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P|
+|17|191.102.104.226|999|Colombia|Gama|TV AZTECA SUCURSAL COLOMBIA|
+|18|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|19|153.126.179.216|8080|Japan|Osaka|SAKURA Internet Inc.|
+|20|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 

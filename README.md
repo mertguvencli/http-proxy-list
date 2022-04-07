@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2824** proxies at the latest update. Usable proxies are below.
+> Scraper found **2825** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|122|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|122|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|122|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|4|179.43.94.238|999|Peru|Arequipa|MEDIA COMMERCE PERÚ S.A.C|
-|5|27.72.105.233|19132|Vietnam|Hanoi|Newass2011xDSLHN|
-|6|101.53.154.137|2009|India|Noida|E2E Networks Limited|
-|7|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|8|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|9|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
-|10|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|11|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|186.3.85.131|999|Ecuador|Loja|Telconet S.A|
-|13|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|14|89.204.214.142|8080|Ireland|Kilcock|O2 Ireland Fixed Broadband - Eircom White Label|
-|15|41.33.86.242|8080|Egypt|Cairo|TE Data|
-|16|205.155.45.139|3128|United States|Gonzales|California State University Network|
-|17|200.122.226.43|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P|
-|18|162.241.55.222|1081|United States|Provo|Unified Layer|
-|19|217.180.218.36|8080|United States|Lansing|Metronet|
-|20|222.252.156.61|62694|Vietnam|Thai Nguyen|VietNam Post and Telecom Corporation|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|137.184.136.135|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|4|187.216.90.46|53281|Mexico|Mexico City|Uninet S.A. de C.V.|
+|5|45.229.31.34|11211|Argentina|Mar del Plata|Fibras Opticas De MAR Del Plata S.A.|
+|6|202.180.17.86|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|7|91.219.183.135|8080|Russia|St Petersburg|Smart Telecom Limited|
+|8|194.135.45.230|41890|Russia|Simferopol|KRYMTELEKOM|
+|9|177.37.167.78|3128|Brazil|Jaguaribe|Brisanet Servicos De Telecomunicacoes Ltda|
+|10|103.4.94.12|3128|Pakistan|Lahore|HEC|
+|11|41.86.42.41|8080|Seychelles|Cascade|CWS DIB BUNDLE|
+|12|183.88.219.206|41564|Thailand|Chom Thong|Triple T Broadband Public Company Limited|
+|13|116.0.4.54|8080|Indonesia|Bekasi|PT Hasindo Net|
+|14|190.12.56.58|8080|Ecuador|Machala|Puntonet S.A.|
+|15|185.201.88.128|6969|Russia|Perm|Enter LLC|
+|16|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|17|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
+|18|159.223.87.10|3128|Singapore|Singapore|DigitalOcean, LLC|
+|19|67.205.128.38|3128|United States|North Bergen|DigitalOcean, LLC|
+|20|193.106.138.52|3128|Ukraine|Kyiv|PJSC "Industrial Media Network"|
 
 
 

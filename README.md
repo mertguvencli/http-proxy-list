@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2755** proxies at the latest update. Usable proxies are below.
+> Scraper found **2641** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.135.6.203|59394|United States|Piscataway|The Constant Company|
-|2|45.42.177.37|3128|United States|Ashburn|PeaceWeb|
-|3|194.233.86.75|45232|Singapore|Singapore|Contabo Asia Private Limited|
-|4|202.29.237.210|3128|Thailand|Bangkok|THAINET|
-|5|183.89.63.56|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|6|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|7|84.22.209.91|8080|Russia|St Petersburg|JSC "ER-Telecom Holding"|
-|8|93.86.63.73|8080|Serbia|Kraljevo|TELEKOM-SRBIJA|
-|9|162.241.55.222|1081|United States|Provo|Unified Layer|
-|10|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
-|11|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
-|12|181.196.241.198|9100|Ecuador|Isidro Ayora|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|101.133.231.6|80|China|Shanghai|Hangzhou Alibaba Advertising Co|
-|14|200.233.92.222|20183|Brazil|Alfenas|Rede Popular De Internet Ltda|
-|15|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|16|61.153.251.150|22222|China|Beijing|Chinanet|
-|17|180.211.248.222|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
-|18|95.154.104.147|44393|Russia|Vladivostok|Octopusnet Jurs|
-|19|160.19.155.51|8080|Sierra Leone|Freetown|PCS Holdings Limited|
-|20|186.3.85.131|999|Ecuador|Loja|Telconet S.A|
+|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|2|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|3|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
+|4|218.1.200.180|57114|China|Shanghai|China Telecom|
+|5|200.125.171.60|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|6|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|7|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|8|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
+|9|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|103.164.112.124|10001|Indonesia|Jakarta|SOLUSINET|
+|11|27.105.130.93|8080|Taiwan|Taipei|SONET|
+|12|200.116.198.180|32605|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
+|13|12.88.29.66|9080|United States|Pauls Valley|AT&T Services, Inc.|
+|14|194.233.86.75|45232|Singapore|Singapore|Contabo Asia Private Limited|
+|15|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|16|181.78.27.225|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|17|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|18|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|19|202.180.20.66|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|20|103.159.46.18|83|India|Ahmedabad|King Netsol Private Limited|
 
 
 

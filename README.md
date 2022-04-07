@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2746** proxies at the latest update. Usable proxies are below.
+> Scraper found **2839** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|73|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|73|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|73|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|115|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|115|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|115|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|2|188.138.11.39|5566|France|Strasbourg|Host Europe GmbH|
-|3|183.89.63.56|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|4|186.232.42.82|8080|Brazil|Rio de Janeiro|Connect Network|
-|5|186.216.80.166|3128|Brazil|São Paulo|Rede Brasileira de Comunicacao S/A|
-|6|118.99.76.101|3127|Indonesia|Surabaya|Biznet Networks|
-|7|103.146.222.2|83|India|Bukru|BOBCPL|
-|8|176.214.97.55|1256|Russia|Vidnoye|JSC "ER-Telecom Holding"|
-|9|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|10|162.241.55.222|1081|United States|Provo|Unified Layer|
-|11|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|12|202.62.11.10|41890|Indonesia|Pamulang|PT Indonesia Comnets Plus|
-|13|95.0.168.42|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|14|45.42.177.37|3128|United States|Ashburn|PeaceWeb|
-|15|12.88.29.66|9080|United States|Pauls Valley|AT&T Services, Inc.|
-|16|102.68.135.21|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|17|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
-|18|185.204.197.169|8080|Italy|Rome|Pars Parva System LLC|
-|19|107.178.9.186|8080|United States|Godley|Nextlink Broadband|
-|20|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
+|1|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|2|66.135.6.203|59394|United States|Piscataway|The Constant Company|
+|3|194.233.86.75|45232|Singapore|Singapore|Contabo Asia Private Limited|
+|4|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|5|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|6|222.79.63.199|9999|China|Beijing|Chinanet|
+|7|45.76.35.33|22225|Netherlands|Amsterdam|The Constant Company|
+|8|103.194.175.135|8080|Indonesia|Bandung|MYNET|
+|9|152.231.29.41|999|Colombia|Pasto|Colombiatel Telecomunicaciones|
+|10|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|11|43.128.171.170|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|12|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
+|13|188.235.130.50|8080|Russia|Engel's|JSC "ER-Telecom Holding"|
+|14|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
+|15|96.9.87.113|8080|Cambodia|Phnom Penh|SIGROUPS|
+|16|103.117.194.166|8080|Bangladesh|Dhaka|DigiCon Telecommunication Ltd|
+|17|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|18|162.241.55.222|1081|United States|Provo|Unified Layer|
+|19|103.31.39.230|8080|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
+|20|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
 
 
 

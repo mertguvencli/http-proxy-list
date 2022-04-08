@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2721** proxies at the latest update. Usable proxies are below.
+> Scraper found **2640** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|181.78.20.45|999|Colombia|Armenia|IFX Networks Argentina S.R.L|
-|2|45.5.68.25|999|Peru|Lima|Wi-net Telecom S.A.C.|
-|3|45.177.109.197|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|4|201.157.254.26|8080|Brazil|Salvador|TASCOM TELECOMUNICAÔÔES LTDA|
-|5|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|6|196.44.117.51|8080|Nigeria|Uyo|Ecoband Ltd|
-|7|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|8|196.3.97.82|23500|Mozambique|Maputo|Eduardo Mondlane University|
-|9|202.29.237.212|3128|Thailand|Bangkok|THAINET|
-|10|181.198.194.23|3127|Ecuador|Guayaquil|Telconet S.A|
-|11|190.2.213.34|6969|Colombia|Bucaramanga|TV AZTECA SUCURSAL COLOMBIA|
-|12|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|13|83.12.128.42|8080|Poland|Piotrkow Trybunalski|Orange Polska Spolka Akcyjna|
-|14|103.160.54.103|8080|Indonesia|Sukabumi|PT Sukabumi Sinar Vision|
-|15|62.138.3.125|5566|France|Strasbourg|Host Europe GmbH|
-|16|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|17|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
-|18|93.157.163.66|35081|Russia|Volzhskiy|Powernet Ltd|
-|19|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|1|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|222.79.63.199|9999|China|Beijing|Chinanet|
+|4|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
+|5|103.161.164.111|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|6|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|7|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|8|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|192.119.203.124|48678|United States|Ridgecrest|Mediacom Communications|
+|11|188.133.153.143|8080|Russia|Moscow|Enforta-MSK|
+|12|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|13|103.206.128.1|7532|India|Greater Noida|Elyzium Securitech Pvt. Ltd.|
+|14|181.198.194.23|3127|Ecuador|Guayaquil|Telconet S.A|
+|15|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
+|16|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|17|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|18|69.163.252.140|1081|United States|Brea|New Dream Network, LLC|
+|19|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|20|197.248.184.157|53281|Kenya|Nairobi|Safaricom Limited|
 
 
 

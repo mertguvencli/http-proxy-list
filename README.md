@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2818** proxies at the latest update. Usable proxies are below.
+> Scraper found **2877** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|3|94.62.90.70|80|Portugal|Lisbon|Vodafone Portugal|
-|4|182.34.196.189|25624|China|Zibo|Chinanet|
-|5|202.43.72.203|8080|Indonesia|Kuningan Barat|PT. INTERLINK TECHNOLOGY|
-|6|192.241.158.51|1081|United States|North Bergen|DigitalOcean, LLC|
-|7|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|8|41.164.68.42|8080|South Africa|Cape Town|Liquid Telecommunications Operations Limited|
-|9|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
-|10|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|11|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|12|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|13|143.208.57.58|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|14|1.14.194.51|6006|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|15|213.251.238.26|8080|Russia|Moscow|NLine-Kiev|
-|16|103.251.225.16|6666|India|Bharuch|GTPL SK network Pvt. Ltd.|
-|17|190.152.5.126|53040|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|18|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
-|19|27.105.130.93|8080|Taiwan|Taipei|SONET|
-|20|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|157.245.199.35|1081|Singapore|Singapore|DigitalOcean, LLC|
+|4|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|5|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|6|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|7|95.0.168.44|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|8|185.56.209.114|52342|Poland|Domaslaw|GreenLan|
+|9|88.255.102.116|8080|Turkey|Izmir|TurkTelekom|
+|10|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|11|202.152.135.162|8080|Indonesia|Sleman|PT Jembatan Citra Nusantara|
+|12|103.130.107.209|83|India|Kolkata|Opticom Networks Private Limited|
+|13|103.81.194.68|8080|Indonesia|Bogor|PT Rtiga Global Media|
+|14|43.249.140.230|8080|Indonesia|Jamika|SKYLINE|
+|15|103.11.106.38|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|16|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|17|122.2.77.105|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|18|181.40.115.102|999|Paraguay|Asunción|Telecel S.A.|
+|19|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|20|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 

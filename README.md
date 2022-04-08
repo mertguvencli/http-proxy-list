@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2854** proxies at the latest update. Usable proxies are below.
+> Scraper found **2789** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|218.238.214.45|8080|South Korea|Yongsan-dong|SK Broadband Co Ltd|
-|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|3|162.241.55.222|1081|United States|Provo|Unified Layer|
-|4|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|5|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|6|177.55.207.38|8080|Brazil|Carmo|Sumicity Telecomunicacoes S.A.|
-|7|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|8|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|9|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
-|10|14.139.185.73|80|India|Trivandrum|National Knowledge Network|
-|11|183.5.87.191|9797|China|Guangzhou|Chinanet|
-|12|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|13|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|14|223.112.99.150|80|China|Huangpu|China Mobile communications corporation|
-|15|43.128.165.181|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|16|103.133.24.97|8181|Indonesia|Karanganyar Wetankali|PT PHATRIA INTI PERSADA|
-|17|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|18|82.76.37.115|8080|Romania|Târgu Mureş|RCS & RDS|
-|19|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
-|20|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|1|20.47.108.204|8888|United States|Ashburn|Microsoft Corporation|
+|2|149.28.120.8|59394|United States|Elk Grove Village|The Constant Company|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|66.135.6.203|59394|United States|Piscataway|The Constant Company|
+|6|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|8|47.241.21.88|23511|Singapore|Singapore|Alibaba.com LLC|
+|9|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|45.42.177.37|3128|United States|Ashburn|PeaceWeb|
+|11|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|12|121.199.60.178|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|13|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|14|97.74.80.13|1081|Singapore|Singapore|GoDaddy.com, LLC|
+|15|85.25.95.231|5566|France|Strasbourg|INTERGENIA|
+|16|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
+|17|43.128.171.170|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|18|190.2.6.161|8080|Argentina|Buenos Aires|NSS S.A.|
+|19|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|20|89.19.116.102|41890|Ukraine|Kyiv|Grygoriy Chereda|
 
 
 

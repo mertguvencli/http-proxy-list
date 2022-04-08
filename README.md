@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2640** proxies at the latest update. Usable proxies are below.
+> Scraper found **2739** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|53|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|53|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|53|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Zoetermeer|ColoCenter b.v.|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|222.79.63.199|9999|China|Beijing|Chinanet|
-|4|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
-|5|103.161.164.111|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|6|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|7|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|8|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|192.119.203.124|48678|United States|Ridgecrest|Mediacom Communications|
-|11|188.133.153.143|8080|Russia|Moscow|Enforta-MSK|
-|12|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|13|103.206.128.1|7532|India|Greater Noida|Elyzium Securitech Pvt. Ltd.|
-|14|181.198.194.23|3127|Ecuador|Guayaquil|Telconet S.A|
-|15|168.8.209.253|80|United States|Alpharetta|Board of Regents of the University System of Georgia|
-|16|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|17|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|18|69.163.252.140|1081|United States|Brea|New Dream Network, LLC|
-|19|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|20|197.248.184.157|53281|Kenya|Nairobi|Safaricom Limited|
+|1|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|2|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|5|124.83.74.218|8080|Philippines|Laya|Philippine Long Distance Telephone Co.|
+|6|222.79.63.199|9999|China|Beijing|Chinanet|
+|7|186.202.176.153|8888|Brazil|Itacoatiara|Locaweb ServiÔos de Internet S/A|
+|8|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|9|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|10|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|110.78.114.161|8080|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|12|181.198.194.23|3127|Ecuador|Guayaquil|Telconet S.A|
+|13|177.93.41.158|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|14|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|15|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|16|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|17|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
+|18|182.53.50.2|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|19|173.165.102.210|8080|United States|Chicago|Comcast Cable Communications|
+|20|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
 
 
 

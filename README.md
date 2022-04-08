@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2699** proxies at the latest update. Usable proxies are below.
+> Scraper found **2739** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|89|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|89|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|89|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -43,24 +43,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
 |2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|3|193.106.138.52|3128|Ukraine|Kyiv|PJSC "Industrial Media Network"|
-|4|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|5|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|6|185.158.175.6|8080|Iran|Kahrīzak|Ertebatat Sabet Parsian Co. PJS|
-|7|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|8|178.254.136.49|6666|Serbia|Belgrade|Orion Telekom ISP IP network|
-|9|222.79.63.199|9999|China|Beijing|Chinanet|
-|10|45.184.155.12|999|Argentina|Laferrere|Ruiz Sebastian Alejandro|
-|11|103.209.36.57|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|12|186.232.42.82|8080|Brazil|Rio de Janeiro|Connect Network|
-|13|158.69.53.98|9300|Canada|Montreal|OVH SAS|
-|14|176.62.178.247|47556|Russia|Moscow|OOO Istranet|
-|15|188.168.56.82|55443|Russia|Rostov-on-Don|TTK-Retail|
-|16|181.198.194.23|3127|Ecuador|Guayaquil|Telconet S.A|
-|17|31.204.180.44|53281|Russia|Veliky Novgorod|Ltd "Maxima"|
-|18|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
-|19|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|20|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|51.77.141.29|1081|France|Strasbourg|OVH SAS|
+|4|204.199.129.38|999|Chile|Santiago|Level 3 Communications, Inc.|
+|5|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
+|6|194.44.15.222|8081|Ukraine|Bryukhovychi|UARNET-LL|
+|7|45.173.230.5|6969|Ecuador|Quito|Eliana Vanessa Morocho Oña|
+|8|50.192.250.60|8080|United States|Swedesboro|Comcast Cable Communications, LLC|
+|9|200.24.155.19|999|Ecuador|Montecristi|Nedetel S.A.|
+|10|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|11|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|123.16.236.113|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|13|94.28.35.7|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
+|14|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|15|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|16|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|17|168.8.209.253|8080|United States|Roswell|Board of Regents of the University System of Georgia|
+|18|94.75.76.3|8080|Poland|Warsaw|ASTER Sp. z o.o|
+|19|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
+|20|64.210.67.19|999|Argentina|Buenos Aires|Level 3 Communications, Inc.|
 
 
 

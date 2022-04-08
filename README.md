@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2739** proxies at the latest update. Usable proxies are below.
+> Scraper found **2818** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|58|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|58|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|58|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|3|51.77.141.29|1081|France|Strasbourg|OVH SAS|
-|4|204.199.129.38|999|Chile|Santiago|Level 3 Communications, Inc.|
-|5|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
-|6|194.44.15.222|8081|Ukraine|Bryukhovychi|UARNET-LL|
-|7|45.173.230.5|6969|Ecuador|Quito|Eliana Vanessa Morocho Oña|
-|8|50.192.250.60|8080|United States|Swedesboro|Comcast Cable Communications, LLC|
-|9|200.24.155.19|999|Ecuador|Montecristi|Nedetel S.A.|
-|10|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
-|11|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|123.16.236.113|19132|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|13|94.28.35.7|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
-|14|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|15|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|16|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
-|17|168.8.209.253|8080|United States|Roswell|Board of Regents of the University System of Georgia|
-|18|94.75.76.3|8080|Poland|Warsaw|ASTER Sp. z o.o|
-|19|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
-|20|64.210.67.19|999|Argentina|Buenos Aires|Level 3 Communications, Inc.|
+|1|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|3|94.62.90.70|80|Portugal|Lisbon|Vodafone Portugal|
+|4|182.34.196.189|25624|China|Zibo|Chinanet|
+|5|202.43.72.203|8080|Indonesia|Kuningan Barat|PT. INTERLINK TECHNOLOGY|
+|6|192.241.158.51|1081|United States|North Bergen|DigitalOcean, LLC|
+|7|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
+|8|41.164.68.42|8080|South Africa|Cape Town|Liquid Telecommunications Operations Limited|
+|9|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
+|10|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|11|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|12|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|13|143.208.57.58|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|14|1.14.194.51|6006|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|15|213.251.238.26|8080|Russia|Moscow|NLine-Kiev|
+|16|103.251.225.16|6666|India|Bharuch|GTPL SK network Pvt. Ltd.|
+|17|190.152.5.126|53040|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
+|19|27.105.130.93|8080|Taiwan|Taipei|SONET|
+|20|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 

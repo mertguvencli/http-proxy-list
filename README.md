@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2835** proxies at the latest update. Usable proxies are below.
+> Scraper found **2854** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|78|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|78|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|78|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|125|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|125|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|125|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.42.177.37|3128|United States|Ashburn|PeaceWeb|
-|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|159.224.232.222|3128|Ukraine|Dnipro|Triolan|
-|4|134.209.42.113|8894|United States|Clifton|DigitalOcean, LLC|
-|5|138.0.89.154|999|Colombia|Popayán|Dobleclick Software E Ingeneria|
-|6|121.199.60.178|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|7|95.167.29.50|8080|Russia|St Petersburg|PJSC Rostelecom|
-|8|83.151.4.172|57812|Russia|Kazan’|MTS PJSC|
-|9|43.224.10.35|6666|India|Surat|gtpl hariom world vision|
-|10|24.51.32.59|8080|United States|Kearney|Great Plains Communications LLC|
-|11|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|12|115.233.221.139|3128|China|Hangzhou|China Telecom Next Generation Carrier Network|
-|13|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
-|14|113.176.88.14|8080|Vietnam|Nga Bay|VNPT|
-|15|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|16|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|17|190.109.16.145|999|Colombia|Medellín|Lazus Medellin|
-|18|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|19|1.117.173.114|8889|China|Shenzhen|China Internet Network Information Center|
-|20|27.105.130.93|8080|Taiwan|Taipei|SONET|
+|1|218.238.214.45|8080|South Korea|Yongsan-dong|SK Broadband Co Ltd|
+|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|3|162.241.55.222|1081|United States|Provo|Unified Layer|
+|4|14.139.184.130|3128|India|Salem|National Knowledge Network|
+|5|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|6|177.55.207.38|8080|Brazil|Carmo|Sumicity Telecomunicacoes S.A.|
+|7|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|8|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|9|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|10|14.139.185.73|80|India|Trivandrum|National Knowledge Network|
+|11|183.5.87.191|9797|China|Guangzhou|Chinanet|
+|12|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|13|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|14|223.112.99.150|80|China|Huangpu|China Mobile communications corporation|
+|15|43.128.165.181|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|16|103.133.24.97|8181|Indonesia|Karanganyar Wetankali|PT PHATRIA INTI PERSADA|
+|17|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|18|82.76.37.115|8080|Romania|Târgu Mureş|RCS & RDS|
+|19|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
+|20|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

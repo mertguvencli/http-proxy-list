@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3006** proxies at the latest update. Usable proxies are below.
+> Scraper found **2876** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|93|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|93|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|93|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 |2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|5|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|6|201.140.208.146|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
-|7|103.250.166.4|6666|India|Gandhidham|GTPL Ahmedabad Cable N/W pvt. Ltd.|
-|8|187.216.90.46|53281|Mexico|Cabo San Lucas|Uninet S.A. de C.V.|
-|9|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
-|10|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|11|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
-|12|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|13|94.16.15.100|3128|Austria|Klagenfurt|ANEXIA Internetdienstleistungs GmbH|
-|14|35.245.254.223|3128|United States|Washington|Google LLC|
-|15|103.197.206.17|8080|Bangladesh|Dhaka|Cosmopolitan Communications Limited|
-|16|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|17|129.153.182.100|3128|United States|Ashburn|Oracle Corporation|
-|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|19|175.101.14.121|84|India|Hyderabad|ExcellMedia Pvt Ltd|
-|20|181.143.37.90|8181|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|3|129.153.182.100|3128|United States|Ashburn|Oracle Corporation|
+|4|202.146.228.254|8088|Indonesia|Bekasi|PT Centrin Utama|
+|5|202.169.41.227|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|6|129.153.182.100|3128|United States|Ashburn|Oracle Corporation|
+|7|194.233.73.106|443|Singapore|Singapore|Contabo Asia Private Limited|
+|8|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|9|160.16.142.244|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|10|195.211.219.147|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|11|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|12|85.198.185.26|8080|Ukraine|Dnipro|Science Production Company "Trifle" Ltd.|
+|13|95.216.12.141|22204|Finland|Helsinki|Hetzner Online GmbH|
+|14|58.55.250.103|7082|China|Wulipu|Chinanet|
+|15|131.72.69.42|45005|Brazil|Moita Bonita|TOP NET SERVI?OS LTDA|
+|16|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|17|182.53.50.2|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|18|94.28.35.7|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
+|19|217.21.214.138|8080|Russia|Moscow|OOO TRANSTELECOM|
+|20|83.166.241.233|3130|Russia|Moscow|LLC Management Company "Svyaz"|
 
 
 

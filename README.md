@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3046** proxies at the latest update. Usable proxies are below.
+> Scraper found **2788** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|146|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|146|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|146|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|2|192.99.38.64|1081|Canada|Beauharnois|OVH SAS|
-|3|95.216.17.79|3888|Finland|Helsinki|Hetzner Online GmbH|
-|4|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
-|5|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|7|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|8|43.128.163.203|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|9|103.123.64.20|8888|Indonesia|Jakarta|CEPATNET|
-|10|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|11|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
-|12|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
-|13|189.161.70.6|10101|Mexico|Puebla City|Uninet S.A. de C.V|
-|14|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
-|15|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|16|185.72.27.98|8080|Iran|Isfahan|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
-|17|183.88.105.79|18080|Thailand|Phuket|Triple T Broadband Public Company Limited|
-|18|152.231.25.198|60080|Colombia|Guacari|Colombiatel Telecomunicaciones|
-|19|181.209.99.219|999|Argentina|Cachi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|20|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
+|1|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|2|186.251.71.193|8085|Brazil|Trindade|PW INFORMATICA E TECNOLOGIA LTDA|
+|3|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|4|45.189.254.33|999|Mexico|Alvarado|Tracered SA De CV|
+|5|85.198.142.186|8081|Ukraine|Dnipro|Apex NCC|
+|6|191.241.185.238|40033|Brazil|Carira|NetGloria Telecom|
+|7|88.255.101.230|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|8|103.76.12.42|80|Indonesia|Bogor|MORATELINDO|
+|9|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|10|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|11|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|12|183.89.12.116|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|13|173.249.57.9|443|Germany|Nuremberg|Contabo GmbH|
+|14|117.102.75.13|9999|Indonesia|Kediri|Biznet Networks|
+|15|181.188.156.171|8080|Bolivia|La Paz|Telefónica Celular de Bolivia S.A.|
+|16|36.255.86.114|83|India|Bengaluru|Gatik Business Solutions|
+|17|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|18|187.73.68.14|53281|Brazil|Congonhas|Vero Internet|
+|19|176.62.178.247|47556|Russia|Moscow|OOO Istranet|
+|20|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
 
 
 

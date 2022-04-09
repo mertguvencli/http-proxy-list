@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2835** proxies at the latest update. Usable proxies are below.
+> Scraper found **2858** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|200.32.80.54|999|United States|El Centro|Level 3 Colombia S.A|
-|4|177.93.41.158|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|5|95.216.12.141|22209|Finland|Helsinki|Hetzner Online GmbH|
-|6|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|7|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|8|109.195.23.223|34031|Russia|Saratov|JSC "ER-Telecom Holding"|
-|9|103.159.47.9|83|India|Ahmedabad|King Netsol Private Limited|
-|10|186.251.71.193|8085|Brazil|Trindade|PW INFORMATICA E TECNOLOGIA LTDA|
-|11|43.128.165.181|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|12|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
-|13|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|15|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
-|16|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|17|160.119.128.102|21213|Guinea|Dubréka|Skyvision Guinee SA|
-|18|200.114.65.15|999|Chile|Los Vilos|Chile TV Cable S.A.|
-|19|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|20|136.232.116.2|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|51.77.141.29|1081|France|Strasbourg|OVH SAS|
+|5|200.123.228.2|999|Peru|Lima|Cable Selva Central S.A.C.|
+|6|83.151.4.172|57812|Russia|Kazan’|MTS PJSC|
+|7|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|8|218.238.214.45|8080|South Korea|Gwanak-gu|SK Broadband Co Ltd|
+|9|46.18.202.204|8080|Russia|Krasnodar|KUBAN-TELECOM Ltd.|
+|10|36.95.81.251|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|190.63.169.34|53281|Ecuador|Babahoyo|CONECEL|
+|12|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|13|14.139.185.73|80|India|Kozhikode|National Knowledge Network|
+|14|168.119.118.250|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|15|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|16|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|17|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|18|189.203.10.116|999|Mexico|San Juan Teita|Total Play Telecomunicaciones SA De CV|
+|19|5.180.130.91|443|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
+|20|178.150.148.38|8282|Ukraine|Kharkiv|Triolan|
 
 
 

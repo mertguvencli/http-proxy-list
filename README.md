@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2971** proxies at the latest update. Usable proxies are below.
+> Scraper found **2828** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|114|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|114|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|114|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.90.102.37|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
-|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|4|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|187.87.189.252|55443|Brazil|Treze Tilias|CS-NET InformÔtica e Tecnologia Ltda.|
-|6|201.148.85.50|999|Mexico|Guadalajara|Operbes, S.A. de C.V.|
-|7|222.79.63.199|9999|China|Beijing|Chinanet|
-|8|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
-|9|80.66.81.35|53281|Ukraine|Odessa|Shulzhenko Bohdana Valentynivna|
-|10|95.216.12.141|22207|Finland|Helsinki|Hetzner Online GmbH|
-|11|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
-|12|186.3.9.218|999|Ecuador|Loja|Telconet S.A|
-|13|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
-|14|45.7.177.243|34234|Brazil|Japaratinga|Litoral Telecom|
-|15|103.152.232.14|8080|Indonesia|Belendung|PT Kingpolah Network Solutions|
-|16|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|17|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
-|18|176.214.35.132|8080|Russia|Zvenigorod|JSC "ER-Telecom Holding"|
-|19|202.4.116.242|8080|Bangladesh|Dhaka|dhakaCom Limited|
-|20|183.88.7.114|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|3|190.106.49.250|8080|Nicaragua|San Marcos|IBW Communications|
+|4|179.48.94.5|8080|Brazil|Rio de Janeiro|Navegai Servicos De Telecomunicacoes E Informatica|
+|5|217.180.218.36|8080|United States|Lansing|Metronet|
+|6|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|7|203.128.83.115|8080|Indonesia|Jakarta|Neuviz|
+|8|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|9|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
+|10|61.7.141.30|8080|Thailand|Ko Samui|CAT-BB|
+|11|222.79.63.199|9999|China|Beijing|Chinanet|
+|12|43.128.165.181|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|13|45.229.34.98|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|14|121.228.28.250|888|China|Suzhou|Chinanet|
+|15|183.88.105.79|18080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|16|185.204.187.184|5147|Netherlands|Amsterdam|GokturkHost|
+|17|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|18|178.167.79.124|53281|Russia|Pavlovskiy Posad|for Flex Ltd|
+|19|185.56.209.114|52342|Poland|Domaslaw|GreenLan|
+|20|181.196.205.250|38178|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
 
 
 

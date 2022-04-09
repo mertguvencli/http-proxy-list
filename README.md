@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3118** proxies at the latest update. Usable proxies are below.
+> Scraper found **3123** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|191|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|191|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|191|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|162.241.55.222|1081|United States|Provo|Unified Layer|
-|3|162.243.159.46|3128|United States|San Francisco|DigitalOcean, LLC|
+|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|3|85.25.155.103|5566|France|Strasbourg|Host Europe GmbH|
 |4|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|5|181.224.207.19|999|Dominican Republic|Villa Bisono|BW TELECOM|
-|6|45.85.249.66|3128|Turkey|Istanbul|Emrecan Oksum|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|9|183.91.0.125|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|10|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|11|95.216.12.141|22207|Finland|Helsinki|Hetzner Online GmbH|
-|12|164.163.190.27|8080|Mexico|Aguililla|Internet Telefonia Y TV De Michoacan SA De CV|
-|13|85.25.139.22|5566|France|Strasbourg|Host Europe GmbH|
-|14|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|15|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|16|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|17|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
-|18|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|19|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
-|20|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
+|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|6|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
+|7|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|8|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|9|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|10|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|11|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
+|12|222.79.63.199|9999|China|Beijing|Chinanet|
+|13|103.47.67.154|8080|India|Delhi|Zapbytes Technologies Pvt. Ltd|
+|14|103.161.164.117|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|15|177.6.235.74|8080|Brazil|Envira|Brasil Telecom S/A - Filial Distrito Federal|
+|16|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|17|218.1.142.95|57114|China|Shanghai|China Telecom|
+|18|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|19|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|20|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

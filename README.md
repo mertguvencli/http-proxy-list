@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2788** proxies at the latest update. Usable proxies are below.
+> Scraper found **2835** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|66|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|66|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|66|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|2|186.251.71.193|8085|Brazil|Trindade|PW INFORMATICA E TECNOLOGIA LTDA|
-|3|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|4|45.189.254.33|999|Mexico|Alvarado|Tracered SA De CV|
-|5|85.198.142.186|8081|Ukraine|Dnipro|Apex NCC|
-|6|191.241.185.238|40033|Brazil|Carira|NetGloria Telecom|
-|7|88.255.101.230|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|8|103.76.12.42|80|Indonesia|Bogor|MORATELINDO|
-|9|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|10|202.21.117.78|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|11|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|12|183.89.12.116|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|13|173.249.57.9|443|Germany|Nuremberg|Contabo GmbH|
-|14|117.102.75.13|9999|Indonesia|Kediri|Biznet Networks|
-|15|181.188.156.171|8080|Bolivia|La Paz|Telefónica Celular de Bolivia S.A.|
-|16|36.255.86.114|83|India|Bengaluru|Gatik Business Solutions|
-|17|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|18|187.73.68.14|53281|Brazil|Congonhas|Vero Internet|
-|19|176.62.178.247|47556|Russia|Moscow|OOO Istranet|
-|20|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|200.32.80.54|999|United States|El Centro|Level 3 Colombia S.A|
+|4|177.93.41.158|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|5|95.216.12.141|22209|Finland|Helsinki|Hetzner Online GmbH|
+|6|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|7|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|8|109.195.23.223|34031|Russia|Saratov|JSC "ER-Telecom Holding"|
+|9|103.159.47.9|83|India|Ahmedabad|King Netsol Private Limited|
+|10|186.251.71.193|8085|Brazil|Trindade|PW INFORMATICA E TECNOLOGIA LTDA|
+|11|43.128.165.181|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|12|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|13|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|14|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|15|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
+|16|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|17|160.119.128.102|21213|Guinea|Dubréka|Skyvision Guinee SA|
+|18|200.114.65.15|999|Chile|Los Vilos|Chile TV Cable S.A.|
+|19|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
+|20|136.232.116.2|48976|India|Ahmedabad|Reliance Jio Infocomm Limited|
 
 
 

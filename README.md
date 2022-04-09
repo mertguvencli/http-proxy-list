@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3316** proxies at the latest update. Usable proxies are below.
+> Scraper found **3112** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|297|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|297|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|297|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|2|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|3|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
-|4|93.113.233.6|3128|Iran|Tehran|Afranet Co|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|8.242.207.164|999|Chile|Santiago|CTL Chile|
-|7|113.100.209.56|3128|China|Huizhou|Chinanet|
-|8|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
-|9|14.17.106.202|3128|China|Shenzhen|Chinanet|
-|10|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
-|11|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
-|12|43.128.163.203|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
-|13|180.241.237.210|8080|Indonesia|Siak Sri Indrapura|PT. TELKOM INDONESIA|
-|14|103.145.31.250|8080|Indonesia|Bekasi|PT. Indonesia Comnets Plus|
-|15|222.216.37.138|808|China|Xiaobailou|Chinanet|
-|16|24.43.140.138|8080|United States|Palm Springs|Charter Communications|
-|17|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|18|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
-|19|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|20|89.250.221.106|53281|Russia|Berezniki|Ltd PermInterCom PIC-BF-Network|
+|1|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|14.17.106.202|3128|China|Shenzhen|Chinanet|
+|5|103.154.120.107|8080|Indonesia|Jakarta|MORATELINDONAP|
+|6|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|7|85.221.247.238|8080|Poland|Poznan|Inea S.A|
+|8|14.139.184.130|3128|India|Salem|National Knowledge Network|
+|9|177.53.155.22|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|10|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|11|103.68.207.34|83|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
+|12|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|13|123.235.149.68|9999|China|Qingdao|CNC Group CHINA169 Shandong Province Network|
+|14|43.154.141.51|8080|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|15|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
+|16|110.78.81.107|8080|Thailand|Ban Kho|CAT Telecom Public Company Limited|
+|17|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
+|18|189.50.6.162|3128|Brazil|Vila Velha|VIPRede TelecomunicaÔÔes Ltda|
+|19|180.243.46.226|8080|Indonesia|Serdang|PT. TELKOM INDONESIA|
+|20|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
 
 
 

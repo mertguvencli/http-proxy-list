@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2806** proxies at the latest update. Usable proxies are below.
+> Scraper found **2781** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
-|2|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|3|181.78.16.236|8080|Colombia|Cúcuta|IFX Networks Argentina S.R.L|
-|4|190.143.115.18|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|5|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|6|43.224.10.42|6666|India|Surat|gtpl hariom world vision|
-|7|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|1.1.189.58|8080|Thailand|Wichit|TOT Public Company Limited|
-|9|102.66.108.1|9999|South Africa|Hoedspruit|HERO TELECOMS (PTY) LTD|
-|10|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|11|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
-|12|103.164.114.186|8080|Indonesia|Jakarta|SOLUSINET|
-|13|202.150.150.211|8080|Indonesia|Banyusari|PT Comtronics Systems|
-|14|186.97.156.130|999|Colombia|Medellín|Colombia Móvil|
-|15|79.111.13.155|50625|Russia|Moscow|Net By Net Holding LLC|
-|16|188.169.38.111|8080|Georgia|Batumi|UTG MPLS DSL|
-|17|103.159.220.65|8080|Indonesia|South Tangerang|Universitas Muhammadiyah Jakarta|
-|18|45.149.245.63|8080|Russia|Simferopol|CRELCOM broadband|
-|19|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|20|49.156.34.190|41890|Cambodia|Phnom Penh|WiCAM Corporation Ltd.|
+|1|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|200.71.110.230|999|Mexico|Alamo|Digy Networks S.A De C.V.|
+|5|45.175.153.242|999|Argentina|Costa Sacate|Albornoz Guido Ruben|
+|6|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
+|7|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|8|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
+|9|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
+|10|43.128.165.181|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|11|103.221.220.167|3128|Vietnam|Ho Chi Minh City|AZDIGI Corporation|
+|12|96.9.77.71|8080|Cambodia|Phnom Penh|SIGROUPS|
+|13|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|14|103.164.180.90|8080|Indonesia|Bangkalan|Dinas Komunikasi dan Informatika Kabupaten Bangkalan|
+|15|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|95.142.223.24|56379|Italy|Caldiero|Nebula Fiber s.r.l.|
+|17|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
+|18|187.216.90.46|53281|Mexico|Cabo San Lucas|Uninet S.A. de C.V.|
+|19|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|20|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
 
 
 

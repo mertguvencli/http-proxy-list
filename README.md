@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2858** proxies at the latest update. Usable proxies are below.
+> Scraper found **2777** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|4|51.77.141.29|1081|France|Strasbourg|OVH SAS|
-|5|200.123.228.2|999|Peru|Lima|Cable Selva Central S.A.C.|
-|6|83.151.4.172|57812|Russia|Kazan’|MTS PJSC|
-|7|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|218.238.214.45|8080|South Korea|Gwanak-gu|SK Broadband Co Ltd|
-|9|46.18.202.204|8080|Russia|Krasnodar|KUBAN-TELECOM Ltd.|
-|10|36.95.81.251|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|190.63.169.34|53281|Ecuador|Babahoyo|CONECEL|
-|12|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|13|14.139.185.73|80|India|Kozhikode|National Knowledge Network|
-|14|168.119.118.250|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|15|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|16|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|17|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|18|189.203.10.116|999|Mexico|San Juan Teita|Total Play Telecomunicaciones SA De CV|
-|19|5.180.130.91|443|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
-|20|178.150.148.38|8282|Ukraine|Kharkiv|Triolan|
+|2|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|3|43.128.163.203|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|4|186.250.29.82|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
+|5|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
+|6|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|8|161.22.34.115|8080|Venezuela|Caracas|MDS TELECOM C.A.|
+|9|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|10|86.57.134.64|41890|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
+|11|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|12|222.79.63.199|9999|China|Beijing|Chinanet|
+|13|24.43.140.138|8080|United States|Palm Springs|Charter Communications|
+|14|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|41.111.213.190|8080|Algeria|Belcourt|Algerie Telecom|
+|16|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|17|79.111.13.155|50625|Russia|Moscow|Net By Net Holding LLC|
+|18|202.75.97.82|47009|Indonesia|Jakarta|Yudhawira Khatulistiwa|
+|19|185.82.96.21|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|20|45.189.118.74|999|Peru|Lima|Fiber Digital S.R.L|
 
 
 

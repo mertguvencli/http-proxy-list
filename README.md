@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2935** proxies at the latest update. Usable proxies are below.
+> Scraper found **3080** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|72|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|72|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|72|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|2|62.138.3.125|5566|France|Strasbourg|Host Europe GmbH|
-|3|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|4|188.133.136.69|8080|Russia|Moscow|Enforta-MSK|
-|5|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|6|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
-|7|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|8|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|9|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
-|10|150.107.137.25|8080|Indonesia|Medan|Media Antar Nusa PT.|
-|11|179.43.101.150|999|Argentina|Belen de Escobar|Advantun SRL|
-|12|151.80.136.138|3128|France|Roubaix|OVH SAS|
-|13|103.11.106.209|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|14|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|15|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|16|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|17|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|19|36.91.216.243|8080|Indonesia|Jakarta|PT Telekomunikasi Indonesia|
-|20|170.79.88.38|999|Colombia|Génova|Integra Multisolutions S.A.S.|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|129.153.182.100|3128|United States|Ashburn|Oracle Corporation|
+|3|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|4|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|7|24.152.53.60|999|Guatemala|Jalapa|TV CABLE UNIVERSAL S.A|
+|8|77.236.243.69|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|9|14.17.106.202|3128|China|Shenzhen|Chinanet|
+|10|27.116.51.119|6666|India|Vadodara|Gujarat Telelik Pvt Ltd|
+|11|121.199.60.178|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|12|191.53.62.149|3128|Brazil|Divinópolis|Rede Brasileira de Comunicacao Ltda|
+|13|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|14|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|15|188.72.0.117|8080|Iraq|Sulaymaniyah|SAWAD LAND for Information Technology Ltd|
+|16|222.79.63.199|9999|China|Beijing|Chinanet|
+|17|103.155.196.23|8080|Indonesia|Sukabumi|JEMBATANDATA|
+|18|43.128.165.181|59394|India|Mumbai|Shenzhen Tencent Computer Systems Company Limited|
+|19|14.207.74.27|8080|Thailand|Phuket|Triple T Broadband Public Company Limited|
+|20|176.98.22.224|8181|Ukraine|Kyiv|Crystal Telecom Ltd|
 
 
 

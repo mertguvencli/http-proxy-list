@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2919** proxies at the latest update. Usable proxies are below.
+> Scraper found **2814** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|162.241.55.222|1081|United States|Provo|Unified Layer|
-|2|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|3|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|4|218.1.142.95|57114|China|Shanghai|China Telecom|
-|5|14.17.106.202|3128|China|Shenzhen|Chinanet|
-|6|43.243.172.2|83|India|Pune|Shah Solutions|
-|7|103.156.75.45|8181|Indonesia|Gianyar|PT Trika Global Media|
-|8|111.118.138.151|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|9|94.73.212.196|80|Russia|Divnogorsk|ORIONNET|
-|10|103.151.43.126|41890|Pakistan|Lahore|MIAN SIDDIQUE NETWORKS (PRIVATE) LIMITED|
-|11|77.236.236.38|10000|Russia|Moscow|Enforta-MSK|
-|12|189.203.10.116|999|Mexico|San Juan Teita|Total Play Telecomunicaciones SA De CV|
-|13|188.95.89.81|8080|Iran|Isfahan|Padideh Sazan Poshtvar Co. Ltd|
-|14|194.114.128.149|61213|Russia|Sochi|OOO "Matritsa"|
-|15|131.72.69.98|45005|Brazil|Moita Bonita|TOP NET SERVI?OS LTDA|
-|16|51.77.141.29|1081|France|Strasbourg|OVH SAS|
-|17|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|18|138.117.110.87|999|Colombia|Cartago|Media Commerce Partners S.A|
-|19|111.90.179.74|8080|Australia|Perth|Angkor Data Communication|
-|20|106.0.39.81|82|India|Ramachandrapuram|Sree SAI Services|
+|1|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|2|72.47.152.224|55443|United States|Ben Wheeler|Suddenlink Communications|
+|3|201.220.139.106|999|Honduras|Tegucigalpa|Cablecolor S.A.|
+|4|159.224.232.222|3128|Ukraine|Dnipro|Triolan|
+|5|125.26.165.245|443|Thailand|Bangkok|TOT Public Company Limited|
+|6|222.79.63.199|9999|China|Beijing|Chinanet|
+|7|192.140.42.83|31511|Brazil|Boa Vista do Jauato|Allfiber Telecom ServiÔos de TelecomunicaÔÔes|
+|8|189.203.10.116|999|Mexico|San Juan Teita|Total Play Telecomunicaciones SA De CV|
+|9|94.16.15.100|3128|Austria|Klagenfurt|ANEXIA Internetdienstleistungs GmbH|
+|10|14.239.65.212|19132|Vietnam|Hanoi|VNPT|
+|11|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|12|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|13|185.255.47.59|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|14|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|15|200.8.190.45|999|Venezuela|Barquisimeto|Corporación Telemic C.A.|
+|16|95.214.123.200|8080|Hungary|Kerekegyhaza|Deltakon Kft.|
+|17|68.208.51.61|8080|United States|Decatur|AT&T Corp|
+|18|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|19|207.244.242.103|9090|United States|St Louis|Contabo Inc.|
+|20|94.74.132.129|808|Iran|Shiraz|Farahoosh Dena PLC|
 
 
 

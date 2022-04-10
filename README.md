@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3280** proxies at the latest update. Usable proxies are below.
+> Scraper found **3381** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|197|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|197|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|197|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|2|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|3|161.97.158.118|1081|Germany|Düsseldorf|Contabo GmbH|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|183.91.0.124|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|6|95.216.12.141|22214|Finland|Helsinki|Hetzner Online GmbH|
-|7|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|8|181.114.192.1|3128|Argentina|Santa Rosa|Aguas Del Colorado Sapem|
-|9|95.216.12.141|22214|Finland|Helsinki|Hetzner Online GmbH|
-|10|188.133.157.61|10000|Russia|Moscow|Enforta-MSK|
-|11|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
-|12|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|13|45.189.57.62|9090|Ecuador|Machala|Cbvision S.A.|
-|14|103.147.77.66|5009|Indonesia|Madiun|TRIDATA|
-|15|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
-|16|162.14.78.176|1080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|17|103.80.83.48|3127|Indonesia|Rembangan|Jaringanku Sarana Nusantara|
-|18|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
-|19|45.172.110.78|999|Argentina|Caucete|GPS SANJUAN SRL.|
-|20|178.205.254.106|8080|Russia|Kazan’|TATTELECOM|
+|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|83.166.241.233|3130|Russia|Moscow|LLC Management Company "Svyaz"|
+|5|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|8|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|9|200.71.110.228|999|Mexico|Alamo|Digy Networks S.A De C.V.|
+|10|14.17.106.202|3128|China|Shenzhen|Chinanet|
+|11|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|12|181.224.207.21|999|Dominican Republic|Villa Bisono|BW TELECOM|
+|13|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|14|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|15|200.37.199.190|999|Peru|Piura|Telefonica del Peru S.A.A.|
+|16|179.1.129.94|999|Colombia|Neiva|Internexa S.a. E.S.P|
+|17|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|18|79.104.197.58|8080|Russia|Krasnoyarsk|PJSC "Vimpelcom"|
+|19|103.66.219.219|8888|Hong Kong|San Po Kong|Cloudie Limited|
+|20|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
 
 
 

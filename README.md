@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2911** proxies at the latest update. Usable proxies are below.
+> Scraper found **2931** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|147|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|147|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|147|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|177.128.44.131|6006|Brazil|Sapiranga|FLY & LVT|
-|2|216.169.73.65|34679|United States|Panguitch|South Central Communications, Inc.|
-|3|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|4|177.6.235.74|8080|Brazil|Envira|Brasil Telecom S/A - Filial Distrito Federal|
-|5|103.197.206.17|8080|Bangladesh|Dhaka|Cosmopolitan Communications Limited|
-|6|167.99.140.7|1081|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|7|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|8|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|9|201.220.112.98|999|Chile|Valdivia|Telefonica del Sur S.A.|
-|10|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
-|11|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
-|12|14.139.185.73|80|India|Kozhikode|National Knowledge Network|
-|13|190.110.99.107|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|14|143.47.226.72|3128|United Kingdom|London|Oracle Corporation|
-|15|85.105.139.53|8090|Turkey|Cankaya|TurkTelecom|
-|16|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|17|149.28.95.93|8080|United States|Los Angeles|The Constant Company|
-|18|183.88.232.207|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|19|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|181.129.70.82|46752|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
+|3|222.79.63.199|9999|China|Beijing|Chinanet|
+|4|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|5|103.124.136.212|3127|Indonesia|Jekulo|Global Media Data Prima|
+|6|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|7|50.250.56.129|46456|United States|Lawrence|Comcast Cable Communications, LLC|
+|8|181.49.23.78|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|9|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|10|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|11|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
+|12|37.232.183.74|53281|Russia|Cheboksary|Net By Net Holding LLC|
+|13|190.121.153.93|999|Colombia|Villanueva|Media Commerce Partners S.A|
+|14|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|15|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|16|78.29.36.210|9080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
+|17|134.249.240.5|8080|Ukraine|Kyiv|Kyivstar UA|
+|18|110.232.78.55|55667|Indonesia|Medan|Media Antar Nusa PT.|
+|19|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
+|20|212.46.255.78|8080|Russia|Stavropol|PJSC "Vimpelcom"|
 
 
 

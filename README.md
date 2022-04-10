@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2931** proxies at the latest update. Usable proxies are below.
+> Scraper found **3064** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|3|222.79.63.199|9999|China|Beijing|Chinanet|
-|4|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|5|103.124.136.212|3127|Indonesia|Jekulo|Global Media Data Prima|
-|6|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|7|50.250.56.129|46456|United States|Lawrence|Comcast Cable Communications, LLC|
-|8|181.49.23.78|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|9|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|10|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|11|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
-|12|37.232.183.74|53281|Russia|Cheboksary|Net By Net Holding LLC|
-|13|190.121.153.93|999|Colombia|Villanueva|Media Commerce Partners S.A|
-|14|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|15|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|16|78.29.36.210|9080|Russia|Chelyabinsk|Intersvyaz-2 JSC|
-|17|134.249.240.5|8080|Ukraine|Kyiv|Kyivstar UA|
-|18|110.232.78.55|55667|Indonesia|Medan|Media Antar Nusa PT.|
-|19|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
-|20|212.46.255.78|8080|Russia|Stavropol|PJSC "Vimpelcom"|
+|1|162.241.55.222|1081|United States|Provo|Unified Layer|
+|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|3|158.255.212.55|3256|Austria|Vienna|EDIS GmbH|
+|4|85.25.155.103|5566|France|Strasbourg|Host Europe GmbH|
+|5|45.59.231.74|8080|United States|Santa Clarita|Spectrum|
+|6|218.1.142.95|57114|China|Shanghai|China Telecom|
+|7|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
+|8|191.102.74.113|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|9|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
+|10|103.159.90.42|83|India|Navi Mumbai|Pegasuswave Private Limited|
+|11|178.217.172.206|55443|Kyrgyzstan|Bishkek|KRENA Project|
+|12|14.17.106.202|3128|China|Shenzhen|Chinanet|
+|13|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
+|14|110.232.78.55|55667|Indonesia|Medan|Media Antar Nusa PT.|
+|15|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|16|103.147.77.66|5003|Indonesia|Madiun|TRIDATA|
+|17|103.159.220.65|8080|Indonesia|South Tangerang|Universitas Muhammadiyah Jakarta|
+|18|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
+|19|162.241.55.222|1081|United States|Provo|Unified Layer|
+|20|89.175.27.181|8080|Russia|Moscow|Mobile TeleSystems PJSC|
 
 
 

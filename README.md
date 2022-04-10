@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3338** proxies at the latest update. Usable proxies are below.
+> Scraper found **3073** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|162.241.55.222|1081|United States|Provo|Unified Layer|
-|2|31.10.76.43|41890|Russia|Ramenskoye|CJSC "AVIEL"|
-|3|206.62.163.196|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|4|181.129.98.146|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|5|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|6|129.153.182.100|3128|United States|Ashburn|Oracle Corporation|
-|7|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|8|223.27.194.66|80|Thailand|Bangkok|United Information Highway Co., Ltd.|
-|9|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|10|95.214.123.200|8080|Hungary|Kerekegyhaza|Deltakon Kft.|
-|11|204.195.136.34|80|United States|Miami Beach|Atlantic Broadband Finance, LLC|
-|12|110.171.84.180|8080|Thailand|Thon Buri|True Internet Corporation CO. Ltd.|
-|13|116.90.229.186|35561|Nepal|Kathmandu|Websurfer Nepal Communication System Pvt. Ltd|
-|14|103.111.53.102|63238|Indonesia|Gandul|PT Indonesia Comnets Plus|
-|15|190.8.39.182|8080|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|16|103.9.188.229|36984|Cambodia|Phnom Penh|EZECOM limited|
-|17|138.68.26.14|1081|United States|Santa Clara|DigitalOcean, LLC|
-|18|200.48.3.227|10101|Peru|Lima|Telefonica del Peru S.A.A.|
-|19|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
-|20|202.147.198.115|8080|Indonesia|Jakarta|PT. MNC Kabel Mediacom|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|4|31.43.52.176|41890|Ukraine|Kyiv|Ukrainian Telecommunication Group LLC|
+|5|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|6|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|7|103.40.122.23|8087|Indonesia|Broyo Barat|PT DINAMIKA MEDIAKOM|
+|8|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|9|165.16.27.4|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
+|10|190.152.182.150|55443|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|11|183.172.242.74|7890|China|Ürümqi|CERNET|
+|12|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|13|188.133.139.219|1256|Russia|Moscow|Enforta-MSK|
+|14|181.74.81.195|999|Chile|Limache|Telmex Servicios Empresariales S.A.|
+|15|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
+|16|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|17|182.253.159.58|8080|Indonesia|Bandung|BIZNET|
+|18|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|19|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|20|190.61.41.106|999|Colombia|Valledupar|Ufinet Panama S.A.|
 
 
 

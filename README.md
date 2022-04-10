@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3099** proxies at the latest update. Usable proxies are below.
+> Scraper found **2911** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|2|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|3|1.162.40.85|8080|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|4|186.67.159.91|999|Chile|Las Condes|Entel Chile S.A.|
-|5|206.62.163.197|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|6|181.209.86.186|8080|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|7|103.110.91.242|3128|Indonesia|Jakarta|ICONPLN|
-|8|64.210.67.19|999|Argentina|Buenos Aires|Level 3 Communications, Inc.|
-|9|176.236.141.30|10001|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|10|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|11|83.34.195.0|8080|Spain|Madrid|Telefonica de Espana SAU|
-|12|45.5.68.25|999|Peru|Lima|Wi-net Telecom S.A.C.|
-|13|103.73.75.69|8080|Indonesia|Karangligar|PT. Wahana Internet Nusantara|
-|14|160.3.168.70|8080|United States|Ocean Springs|Sparklight|
-|15|124.226.138.97|9797|China|Lilancun|Chinanet|
-|16|202.169.229.139|53281|Indonesia|Yogyakarta|IP JMN Soho|
-|17|186.67.194.155|999|Chile|Las Condes|Entel Chile S.A.|
-|18|146.120.213.228|8080|Kyrgyzstan|Bishkek|Inform Communications Ltd.|
-|19|197.248.157.159|8080|Kenya|Nairobi|Safaricom Limited|
-|20|89.216.52.195|8080|Serbia|Belgrade|Serbia Broadband|
+|1|177.128.44.131|6006|Brazil|Sapiranga|FLY & LVT|
+|2|216.169.73.65|34679|United States|Panguitch|South Central Communications, Inc.|
+|3|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|4|177.6.235.74|8080|Brazil|Envira|Brasil Telecom S/A - Filial Distrito Federal|
+|5|103.197.206.17|8080|Bangladesh|Dhaka|Cosmopolitan Communications Limited|
+|6|167.99.140.7|1081|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|8|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|9|201.220.112.98|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|10|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|11|110.168.213.89|8080|Thailand|Bangkok|TRUENET|
+|12|14.139.185.73|80|India|Kozhikode|National Knowledge Network|
+|13|190.110.99.107|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|14|143.47.226.72|3128|United Kingdom|London|Oracle Corporation|
+|15|85.105.139.53|8090|Turkey|Cankaya|TurkTelecom|
+|16|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|17|149.28.95.93|8080|United States|Los Angeles|The Constant Company|
+|18|183.88.232.207|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|19|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|181.129.70.82|46752|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3228** proxies at the latest update. Usable proxies are below.
+> Scraper found **3325** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|223|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|223|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|223|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|2|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|3|188.133.136.69|8080|Russia|Moscow|Enforta-MSK|
-|4|201.140.208.146|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
-|5|121.199.60.178|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|6|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|7|129.153.182.100|3128|United States|Ashburn|Oracle Corporation|
-|8|123.56.124.235|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
-|9|103.141.158.34|8081|Pakistan|Rawalpindi|Aero Communications Broadband Pvt. LTD|
-|10|200.122.255.42|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P|
-|11|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|12|203.189.227.249|8080|Bangladesh|Dhaka|ZIPNET Limited|
-|13|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|14|5.189.152.82|3128|Germany|Nuremberg|Contabo GmbH|
-|15|88.255.101.235|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
-|16|47.115.156.64|3128|China|Shenzhen|Addresses CNNIC|
-|17|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
-|18|190.110.99.106|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|19|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|20|190.143.115.18|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|14.17.106.202|3128|China|Shenzhen|Chinanet|
+|4|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|5|159.224.232.222|3128|Ukraine|Dnipro|Triolan|
+|6|103.4.94.12|3128|Pakistan|Lahore|HEC|
+|7|188.234.216.66|49585|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|8|37.204.157.91|41890|Russia|Moscow|NCNET|
+|9|114.5.199.221|80|Indonesia|Bandung|PT. INDOSAT Tbk|
+|10|162.14.78.176|1080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|11|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|12|193.242.178.90|44551|Russia|Moscow|Avelacom Business Ltd.|
+|13|122.2.77.105|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|14|191.241.186.224|40033|Brazil|Nossa Senhora da Gloria|NetGloria Telecom|
+|15|177.6.235.74|8080|Brazil|Envira|Brasil Telecom S/A - Filial Distrito Federal|
+|16|66.94.97.238|443|United States|New York|Contabo Inc.|
+|17|103.159.46.18|82|India|Ahmedabad|King Netsol Private Limited|
+|18|103.147.77.66|5009|Indonesia|Madiun|TRIDATA|
+|19|62.205.169.74|53281|Russia|Moscow|CORBINA|
+|20|177.128.44.131|6006|Brazil|Sapiranga|FLY & LVT|
 
 
 

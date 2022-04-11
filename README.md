@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2791** proxies at the latest update. Usable proxies are below.
+> Scraper found **2845** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|105|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|105|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|105|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|6|158.181.21.247|8081|Kyrgyzstan|Bishkek|Megaline LLC|
-|7|140.227.211.47|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
-|8|202.169.41.227|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
-|9|103.17.246.150|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|10|181.143.191.138|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|11|103.147.77.66|5009|Indonesia|Madiun|TRIDATA|
-|12|103.122.32.10|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|13|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
-|14|46.4.35.210|9099|Germany|Falkenstein|Hetzner Online GmbH|
-|15|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|16|202.138.249.241|8000|Indonesia|Bandung|PT Melvar Lintasnusa|
-|17|41.76.149.62|8080|Mozambique|Maputo|VM  S.A|
-|18|45.11.5.81|53281|Russia|Moscow|Sudak-Net LLC|
-|19|182.253.189.244|8080|Indonesia|Jakarta|BIZNET|
-|20|190.53.46.11|38525|Nicaragua|Jinotepe|Amnet Datos Nicaragua|
+|1|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|2|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|14.17.106.202|3128|China|Shenzhen|Chinanet|
+|4|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
+|5|118.127.99.93|53281|Australia|Melbourne|Spirit Telecom (Australia) Pty Ltd|
+|6|121.139.218.165|31409|South Korea|Ansan-si|Korea Telecom|
+|7|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
+|8|170.239.255.2|55443|Brazil|Betim|Utopianet Informatica E Telecomunicacoes Ltda|
+|9|125.25.184.51|8080|Thailand|Si Racha|TOT Public Company Limited|
+|10|162.14.78.176|1080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|11|103.138.41.132|8080|Indonesia|Jakarta|PT. Bali Towerindo Sentra|
+|12|103.152.100.183|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|13|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|14|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|15|110.235.249.226|8080|Cambodia|Phnom Penh|COGETEL Co|
+|16|103.79.74.129|53879|India|Tirupur|Tiruppur Broadwave Private Limited|
+|17|217.150.77.31|53281|Russia|Vladivostok|Malarenergi Stadsnat AB|
+|18|195.170.38.230|8080|Russia|Mytishchi|East Telecom Internet provider|
+|19|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
+|20|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
 
 
 

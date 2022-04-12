@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3224** proxies at the latest update. Usable proxies are below.
+> Scraper found **3363** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|109.194.101.128|3128|Russia|Surok|CJSC "ER-Telecom Holding" Yoshkar-Ola branch|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|5|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|6|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|7|45.173.6.98|999|Colombia|Zipaquirá|Columbus Networks Colombia|
-|8|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|9|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|10|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
-|11|14.17.106.202|3128|China|Shenzhen|Chinanet|
-|12|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
-|13|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|14|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|15|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
-|16|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
-|17|45.230.172.11|8080|Mexico|Culiacán|Opsicome SA De CV|
-|18|104.248.203.198|8080|Netherlands|Amsterdam|DigitalOcean, LLC|
-|19|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|20|14.17.106.202|3128|China|Shenzhen|Chinanet|
+|1|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|2|137.184.136.135|3128|United States|North Bergen|DigitalOcean, LLC|
+|3|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|14.17.106.202|3128|China|Shenzhen|Chinanet|
+|5|186.96.56.9|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|6|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|7|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|8|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|9|76.81.164.246|8080|United States|Garden Grove|Spectrum|
+|10|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
+|11|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
+|12|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
+|13|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|14|31.42.184.91|1081|Ukraine|Kyiv|Virtual Systems LLC|
+|15|116.80.41.12|80|Japan|Chiyoda|NTT PC Communications, Inc.|
+|16|182.34.196.189|25624|China|Zibo|Chinanet|
+|17|194.44.104.242|31280|Ukraine|Kyiv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
+|18|27.116.51.119|8080|India|Vadodara|Gujarat Telelik Pvt Ltd|
+|19|45.230.169.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|20|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

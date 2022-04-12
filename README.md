@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3151** proxies at the latest update. Usable proxies are below.
+> Scraper found **3223** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|103|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|103|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|103|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|1|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
 |2|165.225.32.106|10223|United States|Dallas|ZSCALER, INC.|
-|3|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|4|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|5|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|6|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|9|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|10|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
-|11|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|12|162.14.78.176|1080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|13|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|14|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|15|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
-|16|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
-|17|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|19|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|20|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|3|165.225.32.118|10223|United States|Dallas|ZSCALER, INC.|
+|4|165.225.32.109|10223|United States|Dallas|ZSCALER, INC.|
+|5|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|8|51.68.208.134|8080|United Kingdom|London|OVH SAS|
+|9|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
+|10|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|185.82.96.138|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|12|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|13|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
+|14|84.204.40.154|8080|Russia|St Petersburg|PJSC MegaFon|
+|15|92.207.253.226|38157|United Kingdom|Newbury|Gamma Telecom Ltd|
+|16|89.250.187.46|8118|Netherlands|Deurne|DSD|
+|17|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|18|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|19|98.115.7.156|8080|United States|Doylestown|Verizon Business|
+|20|151.80.136.138|3128|France|Roubaix|OVH SAS|
 
 
 

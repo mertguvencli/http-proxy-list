@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2868** proxies at the latest update. Usable proxies are below.
+> Scraper found **3181** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|235|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|235|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|235|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|3|159.223.136.87|3128|United States|North Bergen|DigitalOcean, LLC|
-|4|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|5|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|6|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|7|187.73.68.14|53281|Brazil|Congonhas|Vero Internet|
-|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|9|131.100.51.250|999|Colombia|Florencia|Fibernet TV SAS|
-|10|167.250.75.17|3128|Brazil|Belém|sÔo miguel telecomunicaÔÔes e informatica ltda - m|
-|11|178.79.131.251|3128|United Kingdom|London|Linode, LLC|
-|12|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|13|192.241.205.151|3129|United States|San Francisco|DigitalOcean, LLC|
-|14|71.172.1.53|8080|United States|East Hanover|Verizon Communications|
-|15|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|16|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|17|103.147.77.66|5021|Indonesia|Madiun|TRIDATA|
-|18|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|19|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|20|45.5.68.33|999|Peru|Lima|Wi-net Telecom S.A.C.|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|54.39.183.255|80|Canada|Beauharnois|OVH SAS|
+|3|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|6|185.224.215.140|3128|Russia|Moscow|Zomro B.V.|
+|7|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
+|8|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|9|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|10|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|11|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
+|12|93.145.17.218|8080|Italy|Rome|Vodafone Italia S.p.A.|
+|13|201.186.131.56|999|Chile|Temuco|Telefonica del Sur S.A.|
+|14|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|15|95.0.66.86|8080|Turkey|Antakya|Turk Telekomunikasyon Anonim Sirketi|
+|16|143.208.57.58|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|17|70.34.217.81|3128|Sweden|Spanga|The Constant Company|
+|18|222.79.63.199|9999|China|Beijing|Chinanet|
+|19|14.17.106.202|3128|China|Shenzhen|Chinanet|
+|20|103.127.4.152|8080|Bangladesh|Dhaka|Md Abu Rasel|
 
 
 

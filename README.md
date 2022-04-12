@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3235** proxies at the latest update. Usable proxies are below.
+> Scraper found **3325** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|178.205.169.210|3128|Russia|Kazan’|TATTELECOM|
-|2|51.254.32.220|1081|France|Strasbourg|OVH SAS|
-|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|218.238.214.45|8080|South Korea|Gwanak-gu|SK Broadband Co Ltd|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|7|121.199.60.178|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|8|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|10|186.216.80.166|3128|Brazil|São Paulo|Rede Brasileira de Comunicacao S/A|
-|11|186.24.57.197|999|Venezuela|Cabudare|TELEFONICA VENEZOLANA, C.A.|
-|12|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|202.51.176.74|8080|Bangladesh|Dhaka|ADN Telecom Ltd.|
-|14|190.113.40.19|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|15|175.101.120.146|8080|India|Kadapa|ExcellMedia Pvt Ltd|
-|16|80.252.136.155|3128|Russia|Pavlovskiy Posad|Flex ISP|
-|17|173.197.167.242|8080|United States|Ontario|Spectrum|
-|18|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|19|51.222.200.50|1081|Canada|Beauharnois|OVH SAS|
-|20|124.158.167.26|8080|Indonesia|Tangerang|ICON+|
+|1|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|2|192.241.205.151|3129|United States|San Francisco|DigitalOcean, LLC|
+|3|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|95.216.12.141|22204|Finland|Helsinki|Hetzner Online GmbH|
+|5|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|6|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|8|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|9|117.157.197.18|3128|China|Nanjie|China Mobile communications corporation|
+|10|188.72.6.98|37083|Iraq|Sulaymaniyah|AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.|
+|11|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
+|12|80.69.77.115|8007|Netherlands|Amsterdam|TransIP B.V. Amsterdam network|
+|13|188.133.158.51|1256|Russia|Moscow|Enforta-MSK|
+|14|180.180.123.191|8080|Thailand|Bangkok|TOT Public Company Limited|
+|15|146.120.213.228|8080|Kyrgyzstan|Bishkek|Inform Communications Ltd.|
+|16|79.137.81.229|1081|France|Strasbourg|OVH SAS|
+|17|51.77.141.29|1081|France|Strasbourg|OVH SAS|
+|18|43.249.224.172|83|India|Hyderabad|Equinox Consulting PVT LTD|
+|19|185.202.165.1|53281|Spain|Coin|AVATEL TELECOM, SA|
+|20|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3363** proxies at the latest update. Usable proxies are below.
+> Scraper found **3216** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|199|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|199|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|199|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|120|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|120|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|120|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|2|137.184.136.135|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|14.17.106.202|3128|China|Shenzhen|Chinanet|
-|5|186.96.56.9|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|6|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|5|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
 |7|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|8|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|9|76.81.164.246|8080|United States|Garden Grove|Spectrum|
-|10|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
-|11|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
-|12|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
-|13|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|14|31.42.184.91|1081|Ukraine|Kyiv|Virtual Systems LLC|
-|15|116.80.41.12|80|Japan|Chiyoda|NTT PC Communications, Inc.|
-|16|182.34.196.189|25624|China|Zibo|Chinanet|
-|17|194.44.104.242|31280|Ukraine|Kyiv|State Enterprise Scientific and Telecommunication Centre "Ukrainian Academic an|
-|18|27.116.51.119|8080|India|Vadodara|Gujarat Telelik Pvt Ltd|
-|19|45.230.169.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|20|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
+|8|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|9|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|10|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
+|11|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|201.219.194.183|30003|Colombia|Bogotá|ITELKOM|
+|13|112.250.107.37|53281|China|Bizidian|China Unicom CHINA169 Shandong Province Network|
+|14|45.230.169.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|15|190.152.182.150|55443|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|16|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
+|17|49.231.200.212|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|18|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|19|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|20|36.92.70.209|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3271** proxies at the latest update. Usable proxies are below.
+> Scraper found **3235** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|183|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|183|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|183|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|2|200.24.207.194|8080|Ecuador|Velasco Ibarra|Otecel S.A|
-|3|118.70.144.77|3120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|4|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|5|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
-|6|181.224.162.199|999|Colombia|Buenaventura|Level 3 Communications, Inc.|
-|7|43.224.10.30|6666|India|Surat|gtpl hariom world vision|
-|8|14.17.106.202|3128|China|Shenzhen|Chinanet|
-|9|190.109.0.228|999|Colombia|San Juan de Betulia|Lazus Medellin|
-|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|11|185.103.168.78|8080|Kazakhstan|Nur-Sultan|JSC Alma Telecommunications|
-|12|45.229.32.190|999|Dominican Republic|Yaguate|Gold Data C.A.|
-|13|180.94.69.66|8080|Afghanistan|Herat|Government Communications Network|
-|14|37.204.157.91|41890|Russia|Moscow|NCNET|
-|15|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|16|61.153.251.150|22222|China|Beijing|Chinanet|
-|17|176.236.141.30|10001|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
-|18|189.62.14.194|8080|Brazil|São Paulo|Claro S.A.|
-|19|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|20|103.152.93.218|8181|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
+|1|178.205.169.210|3128|Russia|Kazan’|TATTELECOM|
+|2|51.254.32.220|1081|France|Strasbourg|OVH SAS|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|218.238.214.45|8080|South Korea|Gwanak-gu|SK Broadband Co Ltd|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|7|121.199.60.178|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|8|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|9|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|10|186.216.80.166|3128|Brazil|São Paulo|Rede Brasileira de Comunicacao S/A|
+|11|186.24.57.197|999|Venezuela|Cabudare|TELEFONICA VENEZOLANA, C.A.|
+|12|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|13|202.51.176.74|8080|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|14|190.113.40.19|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
+|15|175.101.120.146|8080|India|Kadapa|ExcellMedia Pvt Ltd|
+|16|80.252.136.155|3128|Russia|Pavlovskiy Posad|Flex ISP|
+|17|173.197.167.242|8080|United States|Ontario|Spectrum|
+|18|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|19|51.222.200.50|1081|Canada|Beauharnois|OVH SAS|
+|20|124.158.167.26|8080|Indonesia|Tangerang|ICON+|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3159** proxies at the latest update. Usable proxies are below.
+> Scraper found **3235** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|3|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|4|95.216.12.141|22204|Finland|Helsinki|Hetzner Online GmbH|
-|5|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|7|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|8|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|10|34.125.45.11|80|United States|Las Vegas|Google LLC|
-|11|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|12|197.210.141.218|8080|Nigeria|Lagos|MTN NIGERIA Communication limited|
-|13|162.14.78.176|1080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|14|103.216.82.22|6666|India|Udaipur|Gtpl Dcpl Private Limited|
-|15|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|16|195.46.111.187|8080|Russia|Irkutsk|Rostelecom networks|
-|17|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
-|18|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|19|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
-|20|189.203.180.233|999|Mexico|Oaxaca City|Total Play Telecomunicaciones SA De CV|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|3|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
+|7|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|8|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|9|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
+|10|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
+|11|24.113.42.177|48678|United States|Port Orchard|Wave Broadband|
+|12|177.54.226.51|60080|Brazil|Araguaína|Aranet Comunicacao Ltda|
+|13|188.133.158.80|1256|Russia|Moscow|Enforta-MSK|
+|14|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
+|15|162.14.78.176|1080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|16|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
+|17|43.245.95.210|53805|Nepal|Kathmandu|BroadLink Networks and Communications|
+|18|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
+|19|34.125.45.11|80|United States|Las Vegas|Google LLC|
+|20|82.76.37.115|8080|Romania|Târgu Mureş|RCS & RDS|
 
 
 

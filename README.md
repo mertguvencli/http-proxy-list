@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3028** proxies at the latest update. Usable proxies are below.
+> Scraper found **2981** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|3|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
-|7|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|8|189.193.224.222|999|Mexico|Zacatelco|Mega Cable, S.A. de C.V.|
-|9|83.166.241.233|3130|Russia|Moscow|LLC Management Company "Svyaz"|
-|10|103.145.163.110|8080|Indonesia|Gandul|PT. Indonesia Comnets Plus|
-|11|103.145.35.30|8181|Indonesia|Gadingrejo|LINTASDATA|
-|12|200.37.199.190|999|Peru|Piura|Telefonica del Peru S.A.A.|
-|13|192.99.38.64|1081|Canada|Beauharnois|OVH SAS|
-|14|50.236.203.15|8080|United States|Oak Park|Comcast Cable Communications, LLC|
-|15|130.185.73.139|8888|Iran|Tehran|Pars Parva System Ltd|
-|16|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|17|182.253.107.212|8080|Indonesia|Tegal|BIZNET|
-|18|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|19|109.201.9.100|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
-|20|162.14.78.176|1080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
+|5|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|6|118.70.144.77|3128|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|9|154.113.119.50|8080|Nigeria|Lagos|Mainone Cable Company|
+|10|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
+|11|192.241.205.151|3129|United States|San Francisco|DigitalOcean, LLC|
+|12|200.111.182.6|443|Chile|Las Condes|Entel Chile S.A.|
+|13|103.1.104.14|8080|Malaysia|Kuala Lumpur|Tmnet, Telekom Malaysia Bhd.|
+|14|212.156.55.34|8080|Turkey|Altindag|Turk Telekomunikasyon A.S|
+|15|176.235.131.234|9090|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|16|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
+|17|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|18|103.103.212.222|53281|India|Indore|Five Net Service Provider Pvt. Ltd.|
+|19|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|20|178.217.172.206|55443|Kyrgyzstan|Bishkek|KRENA Project|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3478** proxies at the latest update. Usable proxies are below.
+> Scraper found **3271** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|279|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|279|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|279|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|159.224.232.222|3128|Ukraine|Dnipro|Triolan|
-|4|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|5|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|6|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|7|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
-|8|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|162.14.78.176|1080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|11|176.214.97.13|8081|Russia|Kurgan|JSC "ER-Telecom Holding"|
-|12|168.90.15.177|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|13|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|14|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|15|88.46.137.82|8080|Italy|Milan|Telecom Italia S.p.A.|
-|16|191.102.113.59|8080|Colombia|Mariquita|TV AZTECA SUCURSAL COLOMBIA|
-|17|161.97.158.118|1081|Germany|Düsseldorf|Contabo GmbH|
-|18|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|19|188.133.153.143|8080|Russia|Moscow|Enforta-MSK|
-|20|103.159.47.9|82|India|Ahmedabad|King Netsol Private Limited|
+|1|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|2|200.24.207.194|8080|Ecuador|Velasco Ibarra|Otecel S.A|
+|3|118.70.144.77|3120|Vietnam|Ho Chi Minh City|FPT Telecom Company|
+|4|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|5|91.217.42.3|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
+|6|181.224.162.199|999|Colombia|Buenaventura|Level 3 Communications, Inc.|
+|7|43.224.10.30|6666|India|Surat|gtpl hariom world vision|
+|8|14.17.106.202|3128|China|Shenzhen|Chinanet|
+|9|190.109.0.228|999|Colombia|San Juan de Betulia|Lazus Medellin|
+|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|11|185.103.168.78|8080|Kazakhstan|Nur-Sultan|JSC Alma Telecommunications|
+|12|45.229.32.190|999|Dominican Republic|Yaguate|Gold Data C.A.|
+|13|180.94.69.66|8080|Afghanistan|Herat|Government Communications Network|
+|14|37.204.157.91|41890|Russia|Moscow|NCNET|
+|15|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|16|61.153.251.150|22222|China|Beijing|Chinanet|
+|17|176.236.141.30|10001|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|18|189.62.14.194|8080|Brazil|São Paulo|Claro S.A.|
+|19|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|20|103.152.93.218|8181|Indonesia|Demak|PT. JAYA LINTAS INDONESIA|
 
 
 

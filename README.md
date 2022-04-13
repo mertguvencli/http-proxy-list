@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3356** proxies at the latest update. Usable proxies are below.
+> Scraper found **3303** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|181|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|181|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|181|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|2|95.216.12.141|22207|Finland|Helsinki|Hetzner Online GmbH|
+|1|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
 |3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|206.161.97.47|31337|United States|Ashburn|PCCW Global, Inc.|
-|5|177.39.136.163|8080|Brazil|Araucária|Dipelnet Corbelia|
-|6|181.143.224.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|7|124.41.213.201|39272|Nepal|Kathmandu|WorldLink Communications|
-|8|83.218.168.103|80|Austria|Abfaltersbach|myNet GmbH|
-|9|187.190.252.248|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|10|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|11|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|12|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|13|103.209.36.57|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|14|179.43.101.150|999|Argentina|Belen de Escobar|Advantun SRL|
-|15|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|16|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|17|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
-|18|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
-|19|95.216.12.141|22207|Finland|Helsinki|Hetzner Online GmbH|
-|20|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|5|104.211.201.68|3128|India|Chennai|Microsoft Corporation|
+|6|79.101.67.154|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
+|7|183.88.48.104|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|8|181.143.224.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|9|182.253.186.140|8080|Indonesia|Jakarta|BIZNET|
+|10|24.51.32.59|8080|United States|Kearney|Great Plains Communications LLC|
+|11|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
+|12|183.89.67.61|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
+|13|36.94.54.93|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
+|15|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|16|51.77.141.29|1081|France|Strasbourg|OVH SAS|
+|17|181.115.74.251|8080|Honduras|Tegucigalpa|Telgua|
+|18|185.94.218.57|43403|Ukraine|Lviv|LITECH-ISP|
+|19|45.176.95.100|999|Dominican Republic|Santo Domingo Este|Exito Vision Cable S.A.S|
+|20|103.250.166.12|6666|India|Gandhidham|GTPL Ahmedabad Cable N/W pvt. Ltd.|
 
 
 

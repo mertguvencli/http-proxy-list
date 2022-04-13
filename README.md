@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3239** proxies at the latest update. Usable proxies are below.
+> Scraper found **3667** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|157|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|157|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|157|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|46.101.156.28|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|179.70.107.119|8080|Brazil|Salvador|Telemar Norte Leste S.A.|
-|5|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
-|8|105.112.95.133|8080|Nigeria|Ilorin|Airtel Networks Limited|
-|9|186.96.21.154|999|Mexico|Mérida|Total Play Telecomunicaciones SA De CV|
-|10|185.103.168.78|8080|Kazakhstan|Nur-Sultan|JSC Alma Telecommunications|
-|11|200.91.223.124|8080|Colombia|Barranquilla|IFX Corporation|
-|12|200.91.223.125|8080|Colombia|Barranquilla|IFX Corporation|
-|13|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
-|14|94.28.8.61|8080|Russia|Krasnodar|Enforta-EKB|
-|15|207.244.242.103|9090|United States|St Louis|Contabo Inc.|
-|16|182.34.196.189|25624|China|Zibo|Chinanet|
-|17|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|18|103.209.36.57|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|19|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|20|80.93.213.214|3137|Turkey|Ankara|Fibersunucu|
+|1|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|2|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
+|3|176.214.97.13|8081|Russia|Kurgan|JSC "ER-Telecom Holding"|
+|4|185.255.47.59|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|5|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|6|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|7|183.88.219.206|41564|Thailand|Chom Thong|Triple T Broadband Public Company Limited|
+|8|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
+|9|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|10|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|11|103.111.12.18|8080|Bangladesh|Feni|MD ALAUDDIN|
+|12|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
+|13|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|14|85.234.38.247|3128|Russia|Penza|MTS Penza|
+|15|223.112.99.150|80|China|Huangpu|China Mobile communications corporation|
+|16|36.95.54.114|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|17|201.184.107.26|999|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
+|18|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|19|189.63.232.244|3128|Brazil|Ribeirão Preto|Claro S.A.|
+|20|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3001** proxies at the latest update. Usable proxies are below.
+> Scraper found **3012** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|95.216.12.141|22207|Finland|Helsinki|Hetzner Online GmbH|
-|2|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|3|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|95.0.219.245|8080|Turkey|Kayseri|TurkTelecom|
-|6|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|7|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|8|14.17.106.202|3128|China|Foshan|Chinanet|
-|9|80.244.230.86|8080|Russia|Moscow|ArtCommunications Ltd.|
-|10|178.252.141.194|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|11|181.204.163.36|999|Colombia|Villa Rica|EPM Telecomunicaciones S.A. E.S.P.|
-|12|103.78.25.99|3128|Indonesia|Bekasi|PT Mora Telematika Indonesia|
-|13|119.18.158.137|8080|Indonesia|Jakarta|PT. Jala Lintas Media|
-|14|36.255.86.114|83|India|Bengaluru|Gatik Business Solutions|
-|15|182.53.50.2|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|16|80.244.226.92|8080|Russia|Moscow|Enforta-MSK|
-|17|181.129.98.146|8080|Colombia|La Ceja|EPM Telecomunicaciones S.A. E.S.P.|
-|18|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|19|85.25.139.22|5566|France|Strasbourg|Host Europe GmbH|
-|20|197.210.129.134|41890|Nigeria|Lagos|MTN NIGERIA Communication limited|
+|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|192.241.205.151|3129|United States|San Francisco|DigitalOcean, LLC|
+|3|139.99.88.19|8080|Singapore|Singapore|OVH SAS|
+|4|89.189.181.161|55855|Russia|Novosibirsk|Siberian Networks ltd|
+|5|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
+|6|43.224.10.42|6666|India|Surat|gtpl hariom world vision|
+|7|102.68.134.94|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|8|222.162.121.224|11223|China|Jilin City|CNC Group CHINA169 Jilin Province Network|
+|9|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|10|41.79.9.246|8080|Kenya|Nairobi|Frontier Optical Networks Ltd|
+|11|190.7.57.58|999|Argentina|Rosario|Gigared S.A|
+|12|103.140.188.61|8085|Indonesia|Bandar Lampung|PT INDONESIA TRANS NETWORK|
+|13|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
+|14|167.71.190.253|80|United States|Clifton|DigitalOcean, LLC|
+|15|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|16|45.228.52.108|999|Ecuador|La Providencia|ORBINET|
+|17|94.228.204.229|9812|Russia|Moscow|Uniontel Ltd|
+|18|82.114.106.7|1256|Russia|Moscow|Enforta-MSK|
+|19|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

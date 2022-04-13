@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3472** proxies at the latest update. Usable proxies are below.
+> Scraper found **3632** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|15.235.41.55|8990|Canada|Beauharnois|OVH SAS|
-|2|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
-|3|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|153.126.179.216|8080|Japan|Osaka|SAKURA Internet Inc.|
-|5|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|6|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
-|7|185.213.25.110|1081|Germany|Düsseldorf|Contabo GmbH|
-|8|181.143.235.94|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|9|190.181.16.206|999|Bolivia|La Paz|AXS Bolivia S. A.|
-|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|11|221.226.75.86|55443|China|Nanjing|CHINANET jiangsu province network|
-|12|151.22.181.213|8080|Italy|Strongoli|INFOSTRADA|
-|13|77.236.236.44|8080|Russia|Moscow|Enforta-MSK|
-|14|192.241.205.151|3129|United States|San Francisco|DigitalOcean, LLC|
-|15|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|17|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
-|18|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
-|19|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
-|20|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|3|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|4|180.180.123.191|8080|Thailand|Bangkok|TOT Public Company Limited|
+|5|80.244.226.92|8080|Russia|Moscow|Enforta-MSK|
+|6|176.37.14.221|41890|Ukraine|Kyiv|Lanet Network|
+|7|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|8|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|9|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|10|139.255.101.90|8080|Indonesia|Jakarta|PT. LINKNET|
+|11|206.125.41.142|80|United States|Santa Clarita|Multacom Corporation|
+|12|146.196.106.34|8080|Indonesia|Teluknaga|PT Maxindo Mitra Solusi|
+|13|41.94.107.2|8080|Mozambique|Maputo|Instituto Nacional de Saude|
+|14|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|15|85.234.126.107|55555|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
+|16|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
+|17|195.191.182.77|8080|Russia|Gryazi|MediaNet Ltd.|
+|18|157.245.50.4|1081|Singapore|Singapore|DigitalOcean, LLC|
+|19|190.171.168.90|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|20|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 
 
 

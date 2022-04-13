@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3303** proxies at the latest update. Usable proxies are below.
+> Scraper found **3192** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|181|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|181|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|181|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|5|104.211.201.68|3128|India|Chennai|Microsoft Corporation|
-|6|79.101.67.154|8080|Serbia|Belgrade|TELEKOM SRBIJA a.d.|
-|7|183.88.48.104|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|8|181.143.224.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|9|182.253.186.140|8080|Indonesia|Jakarta|BIZNET|
-|10|24.51.32.59|8080|United States|Kearney|Great Plains Communications LLC|
-|11|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
-|12|183.89.67.61|8080|Thailand|Pak Kret|Triple T Broadband Public Company Limited|
-|13|36.94.54.93|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
-|15|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|16|51.77.141.29|1081|France|Strasbourg|OVH SAS|
-|17|181.115.74.251|8080|Honduras|Tegucigalpa|Telgua|
-|18|185.94.218.57|43403|Ukraine|Lviv|LITECH-ISP|
-|19|45.176.95.100|999|Dominican Republic|Santo Domingo Este|Exito Vision Cable S.A.S|
-|20|103.250.166.12|6666|India|Gandhidham|GTPL Ahmedabad Cable N/W pvt. Ltd.|
+|1|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|2|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|6|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|7|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|8|178.93.151.100|8080|Ukraine|Kyiv|UKRTELECOM|
+|9|67.73.188.138|999|Colombia|Bogotá|CTL LATAM|
+|10|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|11|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
+|12|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|13|186.96.56.9|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|14|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|15|86.110.27.165|3128|Russia|Moscow|Digit One LLC|
+|16|189.193.224.222|999|Mexico|Zacatelco|Mega Cable, S.A. de C.V.|
+|17|41.94.107.2|8080|Mozambique|Maputo|Instituto Nacional de Saude|
+|18|103.239.200.186|1337|Philippines|San Juan|Sky Cable Corporation|
+|19|103.76.12.42|8181|Indonesia|Bogor|MORATELINDO|
+|20|167.71.190.253|80|United States|Clifton|DigitalOcean, LLC|
 
 
 

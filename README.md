@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3007** proxies at the latest update. Usable proxies are below.
+> Scraper found **3089** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|5|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|159.224.232.222|3128|Ukraine|Dnipro|Triolan|
-|7|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|8|14.17.106.202|3128|China|Shenzhen|Chinanet|
-|9|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|10|43.250.127.98|9001|Mongolia|Ulan Bator|Wicom Networks|
-|11|14.139.184.130|3128|India|Salem|National Knowledge Network|
-|12|103.164.191.90|8181|Indonesia|Malang|PT iForte Global Internet|
-|13|146.196.110.246|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|14|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
-|15|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|16|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
-|17|5.180.130.90|8080|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
-|18|121.22.90.90|443|China|Qinhuangdao|CNC Group CHINA169 Hebei Province Network|
-|19|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|20|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|3|187.6.13.230|3128|Brazil|Brasília|Brasil Telecom S/A - Filial Distrito Federal|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|201.148.85.50|999|Mexico|Guadalajara|Operbes, S.A. de C.V.|
+|6|206.125.41.142|80|United States|Santa Clarita|Multacom Corporation|
+|7|181.37.179.49|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|8|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|9|187.188.171.73|6969|Mexico|Coatzacoalcos|Total Play Telecomunicaciones SA De CV|
+|10|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
+|11|161.97.158.118|1081|Germany|Düsseldorf|Contabo GmbH|
+|12|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
+|13|188.133.158.51|1256|Russia|Moscow|Enforta-MSK|
+|14|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|15|177.73.112.211|9090|Brazil|Bento Fernandes|MGNET INFORMATICA E SERVIÇOS LTDA|
+|16|197.211.45.4|10000|United Kingdom|London|Globacom Limited|
+|17|181.196.205.250|38178|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|202.63.243.226|8080|Nepal|Kathmandu|Subisu Cablenet|
+|19|157.245.50.4|1081|Singapore|Singapore|DigitalOcean, LLC|
+|20|176.214.35.132|8080|Russia|Zvenigorod|JSC "ER-Telecom Holding"|
 
 
 

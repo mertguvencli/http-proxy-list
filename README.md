@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3216** proxies at the latest update. Usable proxies are below.
+> Scraper found **3428** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|5|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|7|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|8|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|9|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|10|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
-|11|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|12|201.219.194.183|30003|Colombia|Bogotá|ITELKOM|
-|13|112.250.107.37|53281|China|Bizidian|China Unicom CHINA169 Shandong Province Network|
-|14|45.230.169.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|15|190.152.182.150|55443|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|16|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
-|17|49.231.200.212|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|18|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|19|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|20|36.92.70.209|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|222.79.63.199|9999|China|Beijing|Chinanet|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|8|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|9|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|10|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|11|94.141.117.1|8080|Russia|Moscow|MediaCom LLC|
+|12|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|13|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|14|153.126.179.216|8080|Japan|Osaka|SAKURA Internet Inc.|
+|15|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|16|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|17|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|18|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|19|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|20|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
 
 
 

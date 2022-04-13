@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3632** proxies at the latest update. Usable proxies are below.
+> Scraper found **3633** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|244|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|244|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|244|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|3|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|4|180.180.123.191|8080|Thailand|Bangkok|TOT Public Company Limited|
-|5|80.244.226.92|8080|Russia|Moscow|Enforta-MSK|
-|6|176.37.14.221|41890|Ukraine|Kyiv|Lanet Network|
-|7|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|8|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|9|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|10|139.255.101.90|8080|Indonesia|Jakarta|PT. LINKNET|
-|11|206.125.41.142|80|United States|Santa Clarita|Multacom Corporation|
-|12|146.196.106.34|8080|Indonesia|Teluknaga|PT Maxindo Mitra Solusi|
-|13|41.94.107.2|8080|Mozambique|Maputo|Instituto Nacional de Saude|
-|14|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
-|15|85.234.126.107|55555|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
-|16|62.75.229.167|5566|France|Strasbourg|Host Europe GmbH|
-|17|195.191.182.77|8080|Russia|Gryazi|MediaNet Ltd.|
-|18|157.245.50.4|1081|Singapore|Singapore|DigitalOcean, LLC|
-|19|190.171.168.90|999|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
-|20|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|1|124.70.5.25|7777|China|Beijing|Huawei Cloud Service data center|
+|2|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|134.209.42.113|8890|United States|Clifton|DigitalOcean, LLC|
+|6|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|95.217.84.60|8118|Finland|Helsinki|Hetzner Online GmbH|
+|8|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
+|9|51.254.32.220|1081|France|Strasbourg|OVH SAS|
+|10|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|11|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
+|12|37.59.50.50|8118|France|Roubaix|OVH SAS|
+|13|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|14|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|15|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
+|16|49.156.34.190|41890|Cambodia|Phnom Penh|WiCAM Corporation Ltd.|
+|17|94.141.117.1|8080|Russia|Moscow|MediaCom LLC|
+|18|70.34.217.81|3128|Sweden|Spanga|The Constant Company|
+|19|187.94.211.60|8080|Brazil|Alto Caparao|Acesse ComunicaÔÔo Ltda|
+|20|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

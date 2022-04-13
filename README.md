@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2942** proxies at the latest update. Usable proxies are below.
+> Scraper found **3001** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|143|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|143|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|143|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.113.42.73|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|18.167.139.73|3128|Hong Kong|Hong Kong|Amazon Technologies Inc.|
-|4|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|5|190.85.34.141|999|Colombia|Medellín|Telmex Colombia S.A.|
-|6|118.99.73.229|8080|Indonesia|Jakarta|BIZNET|
-|7|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|8|103.139.47.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|9|155.93.96.210|8080|Nigeria|Lagos|Vodacom Business Nigeria|
-|10|183.81.156.130|8080|Indonesia|Kayu Manis|Internet Service Provider|
-|11|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|12|51.222.200.50|1081|Canada|Beauharnois|OVH SAS|
-|13|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
-|14|167.71.190.253|80|United States|Clifton|DigitalOcean, LLC|
-|15|181.78.19.196|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
-|16|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
-|17|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|18|206.62.163.196|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|19|185.127.224.60|41890|Russia|Moscow|Rusphone OOO|
-|20|182.16.163.202|3128|Indonesia|Jakarta|SOLUSINET|
+|1|95.216.12.141|22207|Finland|Helsinki|Hetzner Online GmbH|
+|2|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|95.0.219.245|8080|Turkey|Kayseri|TurkTelecom|
+|6|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|7|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|8|14.17.106.202|3128|China|Foshan|Chinanet|
+|9|80.244.230.86|8080|Russia|Moscow|ArtCommunications Ltd.|
+|10|178.252.141.194|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|11|181.204.163.36|999|Colombia|Villa Rica|EPM Telecomunicaciones S.A. E.S.P.|
+|12|103.78.25.99|3128|Indonesia|Bekasi|PT Mora Telematika Indonesia|
+|13|119.18.158.137|8080|Indonesia|Jakarta|PT. Jala Lintas Media|
+|14|36.255.86.114|83|India|Bengaluru|Gatik Business Solutions|
+|15|182.53.50.2|3128|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|16|80.244.226.92|8080|Russia|Moscow|Enforta-MSK|
+|17|181.129.98.146|8080|Colombia|La Ceja|EPM Telecomunicaciones S.A. E.S.P.|
+|18|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|19|85.25.139.22|5566|France|Strasbourg|Host Europe GmbH|
+|20|197.210.129.134|41890|Nigeria|Lagos|MTN NIGERIA Communication limited|
 
 
 

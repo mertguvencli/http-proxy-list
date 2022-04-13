@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3089** proxies at the latest update. Usable proxies are below.
+> Scraper found **2813** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|79|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|79|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|79|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|3|187.6.13.230|3128|Brazil|Brasília|Brasil Telecom S/A - Filial Distrito Federal|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|201.148.85.50|999|Mexico|Guadalajara|Operbes, S.A. de C.V.|
-|6|206.125.41.142|80|United States|Santa Clarita|Multacom Corporation|
-|7|181.37.179.49|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|8|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|9|187.188.171.73|6969|Mexico|Coatzacoalcos|Total Play Telecomunicaciones SA De CV|
-|10|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
-|11|161.97.158.118|1081|Germany|Düsseldorf|Contabo GmbH|
-|12|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
-|13|188.133.158.51|1256|Russia|Moscow|Enforta-MSK|
-|14|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|15|177.73.112.211|9090|Brazil|Bento Fernandes|MGNET INFORMATICA E SERVIÇOS LTDA|
-|16|197.211.45.4|10000|United Kingdom|London|Globacom Limited|
-|17|181.196.205.250|38178|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|18|202.63.243.226|8080|Nepal|Kathmandu|Subisu Cablenet|
-|19|157.245.50.4|1081|Singapore|Singapore|DigitalOcean, LLC|
-|20|176.214.35.132|8080|Russia|Zvenigorod|JSC "ER-Telecom Holding"|
+|1|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|2|118.163.120.181|58837|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|3|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
+|4|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|5|95.167.29.50|8080|Russia|St Petersburg|PJSC Rostelecom|
+|6|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|7|45.161.115.141|999|Chile|Salamanca|Servicios E Inversiones Villasolis Ltda.|
+|8|185.56.209.114|52342|Poland|Domaslaw|GreenLan|
+|9|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|10|160.154.48.46|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|11|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|12|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|13|36.92.70.209|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|14|103.17.246.150|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
+|15|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
+|16|41.60.232.125|34098|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|17|62.75.219.49|5566|France|Strasbourg|BSB-SERVICE|
+|18|182.253.159.58|8080|Indonesia|Bandung|BIZNET|
+|19|103.151.43.126|41890|Pakistan|Lahore|MIAN SIDDIQUE NETWORKS (PRIVATE) LIMITED|
+|20|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
 
 
 

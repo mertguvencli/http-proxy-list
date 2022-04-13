@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3272** proxies at the latest update. Usable proxies are below.
+> Scraper found **3356** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|165.225.194.184|10034|Denmark|Ballerup Municipality|Zscaler Switzerland GmbH|
-|3|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|4|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|5|188.95.89.81|8080|Iran|Isfahan|Padideh Sazan Poshtvar Co. Ltd|
-|6|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|7|139.255.136.171|8080|Indonesia|Jakarta|PT. First Media, Tbk|
-|8|202.180.21.107|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|9|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|10|121.22.90.82|443|China|Qinhuangdao|CNC Group CHINA169 Hebei Province Network|
-|11|161.132.122.61|999|Peru|Lima|Optical Technologies S.A.C.|
-|12|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
-|13|206.62.64.34|8080|Brazil|Maringá|AGIS|
-|14|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|15|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|16|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|17|182.237.16.7|83|India|Jaipur|Uclix|
-|18|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|19|167.71.190.253|80|United States|Clifton|DigitalOcean, LLC|
-|20|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|1|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|2|95.216.12.141|22207|Finland|Helsinki|Hetzner Online GmbH|
+|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|206.161.97.47|31337|United States|Ashburn|PCCW Global, Inc.|
+|5|177.39.136.163|8080|Brazil|Araucária|Dipelnet Corbelia|
+|6|181.143.224.46|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|7|124.41.213.201|39272|Nepal|Kathmandu|WorldLink Communications|
+|8|83.218.168.103|80|Austria|Abfaltersbach|myNet GmbH|
+|9|187.190.252.248|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|10|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|11|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|12|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|13|103.209.36.57|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|14|179.43.101.150|999|Argentina|Belen de Escobar|Advantun SRL|
+|15|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|16|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|17|69.75.172.54|8080|United States|Los Angeles|Charter Communications Inc|
+|18|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
+|19|95.216.12.141|22207|Finland|Helsinki|Hetzner Online GmbH|
+|20|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 
 
 

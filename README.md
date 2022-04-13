@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3633** proxies at the latest update. Usable proxies are below.
+> Scraper found **3613** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|166|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|166|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|166|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|275|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|275|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|275|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|124.70.5.25|7777|China|Beijing|Huawei Cloud Service data center|
-|2|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|1|69.163.252.140|1081|United States|Brea|New Dream Network, LLC|
+|2|139.224.45.244|80|China|Shanghai|China Internet Network Information Center|
+|3|158.69.71.245|9300|Canada|Montreal|OVH SAS|
 |4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|134.209.42.113|8890|United States|Clifton|DigitalOcean, LLC|
-|6|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|95.217.84.60|8118|Finland|Helsinki|Hetzner Online GmbH|
-|8|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|9|51.254.32.220|1081|France|Strasbourg|OVH SAS|
-|10|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|11|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
-|12|37.59.50.50|8118|France|Roubaix|OVH SAS|
-|13|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|14|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|51.68.208.134|8080|United Kingdom|London|OVH SAS|
+|6|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|7|221.226.75.86|55443|China|Nanjing|CHINANET jiangsu province network|
+|8|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|9|190.187.201.26|8080|Peru|San Borja|Americatel Peru S.A.|
+|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
+|13|119.42.67.89|8080|Thailand|Pattaya|CAT-BB|
+|14|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
 |15|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
-|16|49.156.34.190|41890|Cambodia|Phnom Penh|WiCAM Corporation Ltd.|
-|17|94.141.117.1|8080|Russia|Moscow|MediaCom LLC|
-|18|70.34.217.81|3128|Sweden|Spanga|The Constant Company|
-|19|187.94.211.60|8080|Brazil|Alto Caparao|Acesse ComunicaÔÔo Ltda|
-|20|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|16|103.156.17.63|8181|Indonesia|Indramayu|RSTNET|
+|17|176.88.63.126|8080|Turkey|Kilis|Tellcom Main Network Statement|
+|18|192.241.205.151|3129|United States|San Francisco|DigitalOcean, LLC|
+|19|181.198.62.154|999|Ecuador|Portoviejo|Telconet S.A|
+|20|5.180.130.90|8080|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
 
 
 

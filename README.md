@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3613** proxies at the latest update. Usable proxies are below.
+> Scraper found **3239** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|275|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|275|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|275|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|69.163.252.140|1081|United States|Brea|New Dream Network, LLC|
-|2|139.224.45.244|80|China|Shanghai|China Internet Network Information Center|
-|3|158.69.71.245|9300|Canada|Montreal|OVH SAS|
-|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|51.68.208.134|8080|United Kingdom|London|OVH SAS|
-|6|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|7|221.226.75.86|55443|China|Nanjing|CHINANET jiangsu province network|
-|8|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|9|190.187.201.26|8080|Peru|San Borja|Americatel Peru S.A.|
-|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
-|13|119.42.67.89|8080|Thailand|Pattaya|CAT-BB|
-|14|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
-|15|61.29.96.146|8000|Australia|Melbourne|AAPT Limited|
-|16|103.156.17.63|8181|Indonesia|Indramayu|RSTNET|
-|17|176.88.63.126|8080|Turkey|Kilis|Tellcom Main Network Statement|
-|18|192.241.205.151|3129|United States|San Francisco|DigitalOcean, LLC|
-|19|181.198.62.154|999|Ecuador|Portoviejo|Telconet S.A|
-|20|5.180.130.90|8080|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|46.101.156.28|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|179.70.107.119|8080|Brazil|Salvador|Telemar Norte Leste S.A.|
+|5|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|111.23.16.250|3128|China|Yueyang|China Mobile communications corporation|
+|8|105.112.95.133|8080|Nigeria|Ilorin|Airtel Networks Limited|
+|9|186.96.21.154|999|Mexico|Mérida|Total Play Telecomunicaciones SA De CV|
+|10|185.103.168.78|8080|Kazakhstan|Nur-Sultan|JSC Alma Telecommunications|
+|11|200.91.223.124|8080|Colombia|Barranquilla|IFX Corporation|
+|12|200.91.223.125|8080|Colombia|Barranquilla|IFX Corporation|
+|13|182.253.112.194|8080|Indonesia|Weleri|BIZNET|
+|14|94.28.8.61|8080|Russia|Krasnodar|Enforta-EKB|
+|15|207.244.242.103|9090|United States|St Louis|Contabo Inc.|
+|16|182.34.196.189|25624|China|Zibo|Chinanet|
+|17|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|18|103.209.36.57|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|19|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|20|80.93.213.214|3137|Turkey|Ankara|Fibersunucu|
 
 
 

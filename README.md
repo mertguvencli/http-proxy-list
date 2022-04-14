@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3522** proxies at the latest update. Usable proxies are below.
+> Scraper found **3384** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|299|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|299|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|299|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
 |2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|3|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
-|4|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|7|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|8|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|9|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|10|47.93.4.230|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
-|11|181.129.138.114|30838|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|12|181.198.62.154|999|Ecuador|Portoviejo|Telconet S.A|
-|13|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|14|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|15|41.57.37.12|8080|South Africa|Boksburg|SCR LakeView|
-|16|94.73.212.196|80|Russia|Divnogorsk|ORIONNET|
-|17|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos HYP|
-|18|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
-|19|39.100.117.89|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|20|77.236.236.38|10000|Russia|Moscow|Enforta-MSK|
+|3|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|4|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|8|185.171.202.131|3128|France|Troyes|Dyjix Association|
+|9|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
+|10|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|11|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|12|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|13|222.79.63.199|9999|China|Beijing|Chinanet|
+|14|77.236.238.179|8080|Russia|Moscow|ArtCommunications Ltd.|
+|15|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
+|16|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|17|200.24.159.191|999|Ecuador|Cuenca|Nedetel S.A.|
+|18|178.252.175.26|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|19|185.93.71.159|33128|Turkey|Ümraniye|ibrahim tufek|
+|20|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

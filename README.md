@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3257** proxies at the latest update. Usable proxies are below.
+> Scraper found **3323** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|5|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|6|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|7|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
-|8|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|9|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|10|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|11|180.211.193.130|3127|Bangladesh|Barishal|Bangladesh Telecommunications Company Ltd.|
-|12|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|13|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
-|14|49.156.42.188|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|15|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
+|4|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|5|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|6|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|7|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|8|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|9|111.23.16.250|3128|China|Jianning|China Mobile communications corporation|
+|10|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|11|164.52.207.80|80|India|Noida|E2E Networks Limited|
+|12|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
+|13|45.202.16.126|8080|Philippines|Manila|Infinivan Incorporated|
+|14|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|15|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
 |16|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
-|17|223.112.99.150|80|China|Huangpu|China Mobile communications corporation|
-|18|187.216.93.20|55443|Mexico|Mexico City|Uninet S.A. de C.V.|
-|19|91.107.15.221|53281|Russia|Lyubertsy|AVK-computer ltd|
-|20|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
+|17|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|18|186.167.48.138|8080|Venezuela|Chivacoa|Corporacion Digitel C.A|
+|19|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|20|181.224.207.20|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
 
 
 

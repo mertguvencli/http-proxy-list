@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3319** proxies at the latest update. Usable proxies are below.
+> Scraper found **3056** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|3|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|5|182.42.130.86|8888|China|Xintai|Cloud Computing Corporation|
-|6|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|7|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|9|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
-|10|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
-|11|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|12|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|13|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|14|200.114.84.76|8080|Argentina|La Plata|Citarella S.A.|
-|15|66.94.97.238|443|United States|New York|Contabo Inc.|
-|16|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|17|187.94.211.60|8080|Brazil|Alto Caparao|Acesse ComunicaÔÔo Ltda|
-|18|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|19|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|20|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|1|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|190.113.40.110|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
+|4|14.139.189.214|3128|India|Thrissur|National Knowledge Network|
+|5|59.66.131.21|7890|China|Beijing|TUZJC2P|
+|6|77.120.187.185|8080|Ukraine|Kharkiv|Volia Kharkov|
+|7|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|8|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|9|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|10|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|11|138.0.89.154|999|Colombia|La Union|Dobleclick Software E Ingeneria|
+|12|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
+|13|165.16.46.215|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|14|172.104.50.85|8080|Singapore|Singapore|Linode, LLC|
+|15|154.113.32.17|8080|Nigeria|Lagos|Mainone Cable Company|
+|16|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|17|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
+|18|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|19|180.178.111.221|8080|Indonesia|Pamanukan|PT Hipernet Indodata|
+|20|47.254.248.149|8080|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3098** proxies at the latest update. Usable proxies are below.
+> Scraper found **3611** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|344|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|344|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|344|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|3|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|4|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|5|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|95.216.12.141|22207|Finland|Helsinki|Hetzner Online GmbH|
-|8|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|9|37.224.60.172|8080|Saudi Arabia|Riyadh|Saudi Telecom Company JSC|
-|10|173.82.201.21|8080|United States|Santa Clarita|Multacom Corporation|
-|11|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|12|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|13|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|14|196.15.213.235|3128|South Africa|Christiana|Telkom SA Ltd.|
-|15|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|16|89.171.41.90|6969|Poland|Warsaw|Netia SA|
-|17|185.103.168.78|8080|Kazakhstan|Shymkent|JSC Alma Telecommunications|
-|18|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|19|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICA??O MULTIM?DIA LT|
-|20|110.76.151.14|8085|Indonesia|Pugeran Maguwoharjo|PT Pika Media Komunika|
+|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|3|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|4|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
+|5|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|6|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|7|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|8|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|9|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|10|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|11|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
+|12|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|13|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|14|14.139.185.73|80|India|Trivandrum|National Knowledge Network|
+|15|14.139.189.214|3128|India|Thrissur|National Knowledge Network|
+|16|103.73.75.69|8080|Indonesia|Karangligar|PT. Wahana Internet Nusantara|
+|17|94.62.90.70|80|Portugal|Lisbon|Vodafone Portugal|
+|18|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|19|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
+|20|203.82.42.38|1337|Philippines|Quezon City|WifiCity, Inc|
 
 
 

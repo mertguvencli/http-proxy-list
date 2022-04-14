@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3384** proxies at the latest update. Usable proxies are below.
+> Scraper found **3342** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|299|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|299|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|299|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|260|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|260|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|260|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|3|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|4|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|8|185.171.202.131|3128|France|Troyes|Dyjix Association|
-|9|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|10|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|11|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
-|12|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|13|222.79.63.199|9999|China|Beijing|Chinanet|
-|14|77.236.238.179|8080|Russia|Moscow|ArtCommunications Ltd.|
-|15|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
-|16|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|17|200.24.159.191|999|Ecuador|Cuenca|Nedetel S.A.|
-|18|178.252.175.26|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|19|185.93.71.159|33128|Turkey|Ümraniye|ibrahim tufek|
-|20|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|1|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|4|79.127.56.148|8080|Iran|Mashhad|Asiatech Data Transmission company|
+|5|190.90.83.225|999|Colombia|Abrego|Internexa S.a. E.S.P|
+|6|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|7|91.93.42.118|10001|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|8|200.24.159.163|999|Ecuador|Cuenca|Nedetel S.A.|
+|9|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
+|10|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|11|139.255.101.90|8080|Indonesia|Jakarta|PT. LINKNET|
+|12|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
+|13|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|14|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
+|15|202.52.13.2|8089|Indonesia|Arjuna|PT SKYLINE SEMESTA|
+|16|77.236.238.179|8080|Russia|Moscow|ArtCommunications Ltd.|
+|17|183.89.70.158|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|18|45.125.222.90|8080|Bangladesh|Dhaka|SSD-TECH|
+|19|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|20|95.66.142.11|8080|Russia|Vladimir|Limited Liability Company "Infocentre"|
 
 
 

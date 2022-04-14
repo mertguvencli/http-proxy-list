@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3126** proxies at the latest update. Usable proxies are below.
+> Scraper found **3434** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|230|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|230|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|230|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|124|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|124|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|124|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
-|3|190.146.237.169|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|4|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|5|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|6|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|7|45.226.185.2|8080|Argentina|General Lagos|Coop De Provision De Telecomunicaciones Y Servicios De Gral Lagos Ltda|
-|8|122.2.77.105|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|9|14.241.39.165|19132|Vietnam|Hanoi|VNPT|
-|10|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|69.163.252.140|1081|United States|Brea|New Dream Network, LLC|
-|12|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|13|181.209.99.219|999|Argentina|Cachi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|14|24.51.32.59|8080|United States|Kearney|Great Plains Communications LLC|
-|15|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|16|51.250.17.27|8080|Russia|Moscow|Yandex.Cloud LLC|
-|17|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|18|66.181.164.125|8080|Mongolia|Ulan Bator|Univision LLC|
-|19|167.71.190.253|80|United States|Clifton|DigitalOcean, LLC|
-|20|203.124.60.109|8080|Pakistan|Sialkot|COMSATS|
+|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|3|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|195.97.124.164|8080|Greece|Athens|Vodafone-panafon Hellenic Telecommunications Company SA|
+|6|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|7|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
+|8|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|9|14.17.106.202|3128|China|Foshan|Chinanet|
+|10|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
+|11|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|12|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|13|179.49.161.212|999|Colombia|Bogotá|Integra Multisolutions|
+|14|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
+|15|116.212.155.229|41890|Cambodia|Phnom Penh|MekongNet|
+|16|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|17|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|18|181.143.235.99|12345|Colombia|Popayán|EPM Telecomunicaciones S.A. E.S.P.|
+|19|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|20|181.224.207.18|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
 
 
 

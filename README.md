@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3056** proxies at the latest update. Usable proxies are below.
+> Scraper found **3257** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|137|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|137|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|137|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|190.113.40.110|999|Dominican Republic|Santo Domingo|MR Networking, SRL|
-|4|14.139.189.214|3128|India|Thrissur|National Knowledge Network|
-|5|59.66.131.21|7890|China|Beijing|TUZJC2P|
-|6|77.120.187.185|8080|Ukraine|Kharkiv|Volia Kharkov|
-|7|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|8|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|9|18.228.40.250|7082|Brazil|São Paulo|Amazon Technologies Inc.|
-|10|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|11|138.0.89.154|999|Colombia|La Union|Dobleclick Software E Ingeneria|
-|12|14.161.31.192|53281|Vietnam|Ho Chi Minh City|VNPT|
-|13|165.16.46.215|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|172.104.50.85|8080|Singapore|Singapore|Linode, LLC|
-|15|154.113.32.17|8080|Nigeria|Lagos|Mainone Cable Company|
-|16|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|17|182.176.164.41|8080|Pakistan|Lahore|Pakistan Telecommuication company limited|
-|18|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|19|180.178.111.221|8080|Indonesia|Pamanukan|PT Hipernet Indodata|
-|20|47.254.248.149|8080|Malaysia|Kuala Lumpur|Alibaba (US) Technology Co., Ltd.|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|5|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|6|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|7|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
+|8|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|9|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|10|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|11|180.211.193.130|3127|Bangladesh|Barishal|Bangladesh Telecommunications Company Ltd.|
+|12|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|13|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
+|14|49.156.42.188|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|15|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
+|16|18.228.40.250|9080|Brazil|São Paulo|Amazon Technologies Inc.|
+|17|223.112.99.150|80|China|Huangpu|China Mobile communications corporation|
+|18|187.216.93.20|55443|Mexico|Mexico City|Uninet S.A. de C.V.|
+|19|91.107.15.221|53281|Russia|Lyubertsy|AVK-computer ltd|
+|20|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3328** proxies at the latest update. Usable proxies are below.
+> Scraper found **3439** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|255|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|255|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|255|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|2|14.17.106.202|3128|China|Foshan|Chinanet|
-|3|221.226.75.86|55443|China|Nanjing|CHINANET jiangsu province network|
-|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|5|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|124.70.5.25|7777|China|Beijing|Huawei Cloud Service data center|
+|3|14.17.106.202|3128|China|Foshan|Chinanet|
+|4|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|46.4.168.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
 |7|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
-|8|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
-|9|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|10|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|11|94.181.48.171|1256|Russia|Moscow|Enforta-MSK|
-|12|14.17.106.202|3128|China|Foshan|Chinanet|
-|13|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|15|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|16|201.219.194.188|33427|Colombia|Bogotá|ITELKOM|
-|17|45.189.113.15|999|Ecuador|Milagro|Anibal Humberto Enriquez Moncayo(Comunicate)|
-|18|36.66.19.10|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|95.216.12.141|22209|Finland|Helsinki|Hetzner Online GmbH|
-|20|117.157.197.18|3128|China|Nanjie|China Mobile communications corporation|
+|8|77.236.238.179|8080|Russia|Moscow|ArtCommunications Ltd.|
+|9|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|10|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
+|11|103.209.36.57|81|India|Mumbai|Syscon Infoway Pvt. Ltd.|
+|12|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
+|13|79.143.188.45|1081|Germany|Munich|Contabo GmbH|
+|14|158.69.52.218|9300|Canada|Montreal|OVH SAS|
+|15|45.230.172.11|8080|Mexico|Culiacán|Opsicome SA De CV|
+|16|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|17|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|18|117.157.197.18|3128|China|Nanjie|China Mobile communications corporation|
+|19|203.123.57.154|63123|Indonesia|Sidoarjo|PT Maxindo Mitra Solusi|
+|20|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

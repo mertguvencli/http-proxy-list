@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3097** proxies at the latest update. Usable proxies are below.
+> Scraper found **3309** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|236|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|236|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|236|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|208|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|208|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|208|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|93.158.214.154|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|2|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
+|1|190.145.39.206|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 |3|93.158.214.153|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|4|93.158.214.155|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|5|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|6|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|7|188.156.240.240|8118|Hungary|Tiszasziget|Magyar Telekom plc.|
-|8|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|9|46.191.239.183|8080|Russia|Sterlitamak|JSC "Ufanet"|
-|10|45.156.29.131|9090|Turkey|Gürpınar|Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd|
-|11|206.62.64.34|8080|Brazil|Maringá|AGIS|
-|12|190.110.111.156|999|Chile|San Vicente|Silica Networks Argentina S.A.|
-|13|190.61.82.170|999|Panama|Panama City|Ufinet Panama S.A|
-|14|195.175.89.198|8080|Turkey|Antalya|TTnetTurkTelekom|
-|15|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|16|180.250.170.210|59778|Indonesia|Jakarta|PT. TELKOM INDONESIA|
-|17|187.188.171.73|6969|Mexico|Coatzacoalcos|Total Play Telecomunicaciones SA De CV|
-|18|89.19.116.102|41890|Ukraine|Kyiv|Grygoriy Chereda|
-|19|149.56.96.252|5566|Canada|Montreal|OVH SAS|
-|20|202.137.121.109|8080|Philippines|Davao City|Dctech Micro Services|
+|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|93.158.214.154|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|6|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|7|181.49.23.78|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|8|80.240.202.218|8080|Kenya|Nairobi|Liquid Telecommunications Ltd|
+|9|91.237.84.152|8080|Poland|Chrzanów|Firma VICTOR Mateusz Odrzywolek|
+|10|202.152.39.146|80|Indonesia|Medan|PT Aplikanusa Lintasarta|
+|11|168.181.196.76|8080|Brazil|Alfredo Chaves|Windx TelecomunicaÔÔes|
+|12|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|13|192.241.158.51|1081|United States|North Bergen|DigitalOcean, LLC|
+|14|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|15|80.244.234.23|1256|Russia|Moscow|ArtCommunications Ltd.|
+|16|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|17|62.210.119.138|3128|France|Valenton|Online S.A.S.|
+|18|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|19|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|20|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3458** proxies at the latest update. Usable proxies are below.
+> Scraper found **3545** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|191|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|191|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|191|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|14.17.106.202|3128|China|Foshan|Chinanet|
-|3|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|4|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
-|5|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|6|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|7|222.79.63.199|9999|China|Beijing|Chinanet|
-|8|79.143.30.163|8080|Russia|Moscow|OOO "Network of data-centers "Selectel"|
-|9|77.120.187.185|8080|Ukraine|Kharkiv|Volia Kharkov|
-|10|58.27.255.98|80|Pakistan|Karachi|Wateen Telecom Limited|
-|11|45.125.222.90|8080|Bangladesh|Dhaka|SSD-TECH|
-|12|36.95.54.114|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
-|13|183.88.192.105|8080|Thailand|Si Maha Phot|Triple T Broadband Public Company Limited|
-|14|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|15|167.172.172.234|35383|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|36.37.81.135|8080|Indonesia|Jakarta|LINTASARTA|
-|17|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|18|77.236.237.241|1256|Russia|Moscow|Enforta-MSK|
-|19|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|20|190.115.12.20|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
+|1|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|2|93.158.214.154|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|181.224.207.19|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|7|14.17.106.202|3128|China|Foshan|Chinanet|
+|8|103.239.201.166|1337|Philippines|Quezon City|Sky Cable Corporation|
+|9|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|10|91.234.127.222|53281|Poland|Bojszow|KRUCZNET - naprawa sprzetu RTV i elektronicznego Jozef Kruczek|
+|11|82.114.119.81|8080|Russia|St Petersburg|ArtCommunications Ltd|
+|12|51.222.200.50|1081|Canada|Beauharnois|OVH SAS|
+|13|93.158.214.155|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|14|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
+|15|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|16|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
+|17|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|19|62.84.122.150|3128|Russia|Dubna|Yandex.Cloud LLC|
+|20|50.192.250.60|8080|United States|Swedesboro|Comcast Cable Communications, LLC|
 
 
 

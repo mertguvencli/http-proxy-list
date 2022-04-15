@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3483** proxies at the latest update. Usable proxies are below.
+> Scraper found **3643** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|278|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|278|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|278|
 
 ## Sources
 
@@ -43,24 +43,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
 |2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|3|94.16.15.100|3128|Austria|Klagenfurt|ANEXIA Internetdienstleistungs GmbH|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|179.49.161.213|999|Colombia|Bogotá|Integra Multisolutions|
-|6|51.77.141.29|1081|France|Strasbourg|OVH SAS|
-|7|190.214.27.46|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|8|47.241.21.88|23511|Singapore|Singapore|Alibaba.com LLC|
-|9|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
-|10|220.247.171.242|8080|Indonesia|Gandul|PT Indonesia Comnets Plus|
-|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|12|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
-|13|45.153.165.118|999|United States|Morris Heights|Telery Networks|
-|14|185.39.146.168|8080|Sweden|Falkenberg|GleSYS Internet Services AB|
-|15|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|16|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
-|17|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
+|5|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|46.4.168.62|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|8|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
+|9|222.79.63.199|9999|China|Beijing|Chinanet|
+|10|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|11|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|12|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
+|13|130.185.73.139|8888|Iran|Tehran|Pars Parva System Ltd|
+|14|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|15|89.19.116.102|41890|Ukraine|Kyiv|Grygoriy Chereda|
+|16|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|17|36.92.70.209|8080|Indonesia|Petukangan Selatan|Telekomunikasi Indonesia|
 |18|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|19|58.27.255.98|80|Pakistan|Karachi|Wateen Telecom Limited|
-|20|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|19|182.53.50.184|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3564** proxies at the latest update. Usable proxies are below.
+> Scraper found **3483** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|306|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|306|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|306|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|3|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|82.114.106.7|1256|Russia|Moscow|Enforta-MSK|
-|7|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|8|117.186.112.42|9999|China|Shanghai|China Mobile communications corporation|
-|9|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
-|10|103.73.75.69|8080|Indonesia|Karangligar|PT. Wahana Internet Nusantara|
-|11|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|12|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|13|178.212.196.177|9999|Ukraine|Odessa|Southern Telecommunication Company Ltd.|
-|14|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|15|212.164.52.198|80|Russia|Novosibirsk|Rostelecom networks|
-|16|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
-|17|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|18|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|19|101.255.150.50|8080|Indonesia|Bekasi|PT Remala Abadi|
-|20|77.236.238.179|8080|Russia|Moscow|ArtCommunications Ltd.|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|3|94.16.15.100|3128|Austria|Klagenfurt|ANEXIA Internetdienstleistungs GmbH|
+|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|179.49.161.213|999|Colombia|Bogotá|Integra Multisolutions|
+|6|51.77.141.29|1081|France|Strasbourg|OVH SAS|
+|7|190.214.27.46|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|8|47.241.21.88|23511|Singapore|Singapore|Alibaba.com LLC|
+|9|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|10|220.247.171.242|8080|Indonesia|Gandul|PT Indonesia Comnets Plus|
+|11|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|12|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
+|13|45.153.165.118|999|United States|Morris Heights|Telery Networks|
+|14|185.39.146.168|8080|Sweden|Falkenberg|GleSYS Internet Services AB|
+|15|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|16|200.112.215.21|999|Colombia|Bucaramanga|Consulnetwork Ltda|
+|17|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
+|18|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|19|58.27.255.98|80|Pakistan|Karachi|Wateen Telecom Limited|
+|20|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
 
 
 

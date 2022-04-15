@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3545** proxies at the latest update. Usable proxies are below.
+> Scraper found **3398** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|153|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|153|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|153|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|251|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|251|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|251|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|2|93.158.214.154|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
 |3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
 |4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|181.224.207.19|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|7|14.17.106.202|3128|China|Foshan|Chinanet|
-|8|103.239.201.166|1337|Philippines|Quezon City|Sky Cable Corporation|
-|9|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|10|91.234.127.222|53281|Poland|Bojszow|KRUCZNET - naprawa sprzetu RTV i elektronicznego Jozef Kruczek|
-|11|82.114.119.81|8080|Russia|St Petersburg|ArtCommunications Ltd|
-|12|51.222.200.50|1081|Canada|Beauharnois|OVH SAS|
-|13|93.158.214.155|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|14|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|15|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|16|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
-|17|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
-|18|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|19|62.84.122.150|3128|Russia|Dubna|Yandex.Cloud LLC|
-|20|50.192.250.60|8080|United States|Swedesboro|Comcast Cable Communications, LLC|
+|5|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|6|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|8|222.79.63.199|9999|China|Beijing|Chinanet|
+|9|142.93.200.202|4003|United States|North Bergen|DigitalOcean, LLC|
+|10|14.17.106.202|3128|China|Foshan|Chinanet|
+|11|45.202.16.126|8080|Philippines|Manila|Infinivan Incorporated|
+|12|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|13|202.152.39.146|80|Indonesia|Medan|PT Aplikanusa Lintasarta|
+|14|192.241.158.51|1081|United States|North Bergen|DigitalOcean, LLC|
+|15|93.158.214.154|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|16|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
+|17|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|18|5.189.185.139|3128|Germany|Nuremberg|Contabo GmbH|
+|19|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|20|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3309** proxies at the latest update. Usable proxies are below.
+> Scraper found **3585** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.145.39.206|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
 |2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|93.158.214.153|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|93.158.214.154|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|6|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|7|181.49.23.78|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|8|80.240.202.218|8080|Kenya|Nairobi|Liquid Telecommunications Ltd|
-|9|91.237.84.152|8080|Poland|Chrzanów|Firma VICTOR Mateusz Odrzywolek|
-|10|202.152.39.146|80|Indonesia|Medan|PT Aplikanusa Lintasarta|
-|11|168.181.196.76|8080|Brazil|Alfredo Chaves|Windx TelecomunicaÔÔes|
-|12|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|13|192.241.158.51|1081|United States|North Bergen|DigitalOcean, LLC|
-|14|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
-|15|80.244.234.23|1256|Russia|Moscow|ArtCommunications Ltd.|
-|16|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|17|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|18|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|19|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|20|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
+|3|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|4|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|6|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|7|138.68.26.14|1081|United States|Santa Clara|DigitalOcean, LLC|
+|8|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|9|194.233.73.106|443|Singapore|Singapore|Contabo Asia Private Limited|
+|10|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
+|11|185.82.98.23|9093|Lebanon|Tripoli|Protected|
+|12|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|13|46.219.80.142|57401|Ukraine|Kyiv|o3 core|
+|14|49.231.174.182|80|Thailand|Bang Bon|Advanced Wireless Network Company Limited|
+|15|112.6.230.69|9999|China|Weihai|China Mobile|
+|16|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|17|93.158.214.155|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|18|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|19|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|20|8.213.128.30|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 

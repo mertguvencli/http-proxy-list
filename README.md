@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3126** proxies at the latest update. Usable proxies are below.
+> Scraper found **3495** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|2|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|3|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|4|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|5|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|6|187.228.150.68|8080|Mexico|Ixmiquilpan|Uninet S.A. de C.V.|
-|7|118.99.104.135|8080|Indonesia|Bojongsalaman|Biznet Networks|
-|8|173.230.145.224|3128|United States|Fremont|Linode, LLC|
-|9|31.131.67.14|8080|Ukraine|Yevpatoriya|PE Zinstein Hariton Vladimirovich|
-|10|24.172.34.114|49920|United States|Darlington|Charter Communications Inc|
-|11|222.252.156.61|62694|Vietnam|Thai Nguyen|VietNam Post and Telecom Corporation|
-|12|82.114.97.157|1256|Russia|Moscow|Enforta-MSK|
-|13|103.80.77.1|8080|Indonesia|Jakarta|Dewan Ketahanan Nasional|
-|14|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|15|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|16|185.42.14.120|1081|Russia|Mozhaysky District|Limited liability company "MultiHOST MSK"|
-|17|103.194.175.135|8080|Indonesia|Banyuwangi|MYNET|
-|18|103.206.128.1|7532|India|Faridabad|Elyzium Securitech Pvt. Ltd.|
-|19|183.88.192.105|8080|Thailand|Si Maha Phot|Triple T Broadband Public Company Limited|
-|20|36.92.93.61|8080|Indonesia|Balikpapan|Telekomunikasi Indonesia|
+|1|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|3|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|167.99.83.205|8118|United Kingdom|London|DigitalOcean, LLC|
+|7|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|8|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|9|206.62.165.13|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|10|103.40.122.23|8087|Indonesia|Broyo Barat|PT DINAMIKA MEDIAKOM|
+|11|194.44.15.222|8081|Ukraine|Bryukhovychi|UARNET-LL|
+|12|79.140.17.172|8016|Russia|Orenburg|JSC "Ufanet"|
+|13|188.133.158.27|8080|Russia|Moscow|Enforta-MSK|
+|14|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|15|176.37.14.221|41890|Ukraine|Kyiv|Lanet Network|
+|16|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|17|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
+|18|185.200.37.141|9090|Turkey|Antakya|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|
+|19|175.103.43.241|63123|Indonesia|Teluknaga|Maxindo Mintra Solusi|
+|20|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
 
 
 

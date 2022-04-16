@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3873** proxies at the latest update. Usable proxies are below.
+> Scraper found **3435** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|253|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|253|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|253|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|313|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|313|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|313|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|93.158.214.154|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|111.23.16.250|3128|China|Jianning|China Mobile communications corporation|
-|6|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
-|7|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|8|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|9|93.158.214.162|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|10|186.250.29.225|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
-|11|222.79.63.199|9999|China|Beijing|Chinanet|
-|12|129.226.162.177|443|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|13|222.252.156.61|62694|Vietnam|Thai Nguyen|VietNam Post and Telecom Corporation|
-|14|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|15|121.199.60.178|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|16|195.191.182.77|8080|Russia|Gryazi|MediaNet Ltd.|
-|17|49.156.34.190|41890|Cambodia|Phnom Penh|WiCAM Corporation Ltd.|
-|18|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|19|203.76.114.197|8080|Bangladesh|Dhaka|Link3 Technologies Limited|
-|20|188.133.152.103|9080|Russia|Moscow|Enforta-MSK|
+|1|93.158.214.162|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|2|93.158.214.155|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|3|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|4|93.158.214.153|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|102.68.135.229|8080|Libya|Tripoli|Rawafed|
+|7|121.151.223.96|1337|South Korea|Yeongju|Korea Telecom|
+|8|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
+|9|202.137.121.109|8080|Philippines|Davao City|Dctech Micro Services|
+|10|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|11|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|12|31.204.180.44|53281|Russia|Veliky Novgorod|Ltd "Maxima"|
+|13|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
+|14|103.139.47.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
+|15|93.158.214.154|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|16|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|17|200.125.171.202|9991|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|18|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
+|19|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|20|185.82.99.150|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
 
 
 

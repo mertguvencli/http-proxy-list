@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3262** proxies at the latest update. Usable proxies are below.
+> Scraper found **3324** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|87|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|87|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|87|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
-|4|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
-|5|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|7|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|8|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|9|206.62.165.13|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
-|10|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|11|103.23.206.170|8080|Bangladesh|Rangpur City|Mizanur Rahman t/a Maya Cyber World|
-|12|31.43.52.176|41890|Ukraine|Kyiv|Ukrainian Telecommunication Group LLC|
-|13|37.48.82.75|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|14|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|203.12.200.32|3128|Hong Kong|Hong Kong|CTHKI|
-|16|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
-|17|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|19|171.5.160.199|8080|Thailand|Chalong|Triple T Broadband Public Company Limited|
-|20|181.188.206.40|999|Ecuador|San Felipe de Ona|Otecel S.A.|
+|1|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|2|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|3|110.78.138.125|8080|Thailand|Samphanthawong|CAT-BB|
+|4|123.115.113.212|9000|China|Beijing|China Unicom Beijing Province Network|
+|5|190.152.182.150|55443|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|6|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|196.6.235.3|8080|South Africa|Paarl|BeOnline|
+|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|9|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|10|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|103.177.146.1|30003|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|12|14.17.106.202|3128|China|Foshan|Chinanet|
+|13|203.34.48.10|9999|China|Qingzhou|Cloud Computing Corporation|
+|14|45.43.63.230|10001|Singapore|Singapore|Zenlayer Inc|
+|15|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|16|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|17|185.44.232.30|53281|Spain|Marbella|Avatel Telecom|
+|18|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|19|187.44.1.172|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao S/A|
+|20|8.213.129.23|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 

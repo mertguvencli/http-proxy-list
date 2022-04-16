@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3514** proxies at the latest update. Usable proxies are below.
+> Scraper found **3384** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|126|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|126|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|126|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|1|147.182.135.27|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
 |3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|175.101.120.146|8080|India|Kadapa|ExcellMedia Pvt Ltd|
-|6|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|36.93.2.50|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|8|186.232.42.82|8080|Brazil|Sao Goncalo|Connect Network|
-|9|14.17.106.202|3128|China|Foshan|Chinanet|
-|10|76.81.164.246|8080|United States|Garden Grove|Spectrum|
-|11|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|12|107.152.44.198|3128|United States|Glenview|tzulo, inc.|
-|13|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|14|5.9.201.68|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|15|38.10.246.141|9991|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
-|16|8.213.128.123|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|18|200.32.51.179|8080|Argentina|San Fernando del Valle de Catamarca|Telefonica de Argentina|
-|19|8.213.128.114|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|4|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|5.9.201.68|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|103.209.248.86|8080|Indonesia|Panjangjiwo|Indonesia Network Information Center|
+|7|110.74.222.71|44970|Cambodia|Phnom Penh|EZECOM limited|
+|8|45.230.169.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|9|31.40.150.17|8080|Russia|Temryuk|pool-21vek|
+|10|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|8.213.129.23|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|12|8.213.128.114|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|222.79.63.199|9999|China|Beijing|Chinanet|
+|14|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|16|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|17|8.213.128.123|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|18|187.6.13.230|3128|Brazil|Brasília|Brasil Telecom S/A - Filial Distrito Federal|
+|19|111.90.179.74|8080|Australia|Perth|Angkor Data Communication|
+|20|8.213.128.171|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 

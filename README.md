@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3057** proxies at the latest update. Usable proxies are below.
+> Scraper found **3453** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|3|14.17.106.202|3128|China|Foshan|Chinanet|
-|4|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|7|94.181.48.95|1256|Russia|Moscow|Enforta-MSK|
-|8|186.250.160.234|8080|Brazil|Natal|g j pereira|
-|9|103.137.39.106|8080|Indonesia|Jakarta|PT Jaya Komunikasi Indonesia|
-|10|200.229.229.197|8080|Brazil|Guarulhos|Wireless Comm Services LTDA|
-|11|186.251.71.193|8085|Brazil|Trindade|PW INFORMATICA E TECNOLOGIA LTDA|
-|12|36.93.6.170|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|13|139.255.58.212|8080|Indonesia|Jakarta|PT. LINKNET|
-|14|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|15|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|16|203.170.209.7|8081|Thailand|Huai Khwang|Advanced Wireless Network Company Limited|
-|17|185.189.186.19|8080|Ukraine|Chernivtsi|buknet|
-|18|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|19|80.106.247.145|53410|Greece|Piraeus|Ote SA (Hellenic Telecommunications Organisation)|
-|20|113.177.48.183|19132|Vietnam|Hanoi|VNPT|
+|1|147.182.135.27|8080|United States|North Bergen|DigitalOcean, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|178.93.151.100|8080|Ukraine|Kyiv|UKRTELECOM|
+|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|5|181.78.13.230|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
+|6|200.233.148.140|3128|Brazil|Uberlândia|ALGAR TELECOM S/A|
+|7|103.160.201.76|8080|Indonesia|Bekasi|PT Viriya Surya Abadi|
+|8|103.156.17.61|8181|Indonesia|Indramayu|RSTNET|
+|9|181.224.255.39|8080|Peru|Cusco|Econocable Media SAC|
+|10|181.78.27.225|999|Paraguay|Asunción|Ufinet Paraguay S.A|
+|11|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|12|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|188.169.38.111|8080|Georgia|Batumi|UTG MPLS DSL|
+|14|94.244.28.246|31280|Ukraine|Kyiv|Ukrdatakom LTD|
+|15|186.47.97.122|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|16|24.116.218.195|8080|United States|Pascagoula|CABLE ONE, INC.|
+|17|202.40.177.69|80|Bangladesh|Dhaka|Ranks ITT|
+|18|201.184.176.107|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|91.193.253.188|23500|Ukraine|Makiivka|Online Technologies LTD|
+|20|186.46.168.45|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
 
 
 

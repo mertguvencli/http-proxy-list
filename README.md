@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3435** proxies at the latest update. Usable proxies are below.
+> Scraper found **3665** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|313|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|313|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|313|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|264|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|264|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|264|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|93.158.214.162|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|2|93.158.214.155|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|3|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|4|93.158.214.153|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|6|102.68.135.229|8080|Libya|Tripoli|Rawafed|
-|7|121.151.223.96|1337|South Korea|Yeongju|Korea Telecom|
-|8|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|9|202.137.121.109|8080|Philippines|Davao City|Dctech Micro Services|
-|10|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|11|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|12|31.204.180.44|53281|Russia|Veliky Novgorod|Ltd "Maxima"|
-|13|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
-|14|103.139.47.250|8080|Indonesia|Jakarta|PT iForte Global Internet|
-|15|93.158.214.154|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|16|36.94.47.59|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|17|200.125.171.202|9991|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|18|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
-|19|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|20|185.82.99.150|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|3|93.158.214.155|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|5|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|7|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|91.234.127.222|53281|Poland|Bojszow|KRUCZNET - naprawa sprzetu RTV i elektronicznego Jozef Kruczek|
+|11|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|12|206.125.41.142|80|United States|Santa Clarita|Multacom Corporation|
+|13|189.63.232.244|3128|Brazil|Ribeirão Preto|Claro S.A.|
+|14|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|15|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|16|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|17|177.37.167.78|3128|Brazil|Jaguaribe|Brisanet Servicos De Telecomunicacoes Ltda|
+|18|93.158.214.153|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
+|19|202.152.39.146|80|Indonesia|Medan|PT Aplikanusa Lintasarta|
+|20|121.199.60.178|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
 
 
 

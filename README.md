@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3119** proxies at the latest update. Usable proxies are below.
+> Scraper found **3243** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|2|152.228.128.48|8118|France|Strasbourg|OVH SAS|
-|3|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|4|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|183.91.0.124|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
-|8|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|9|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
-|10|157.245.50.4|1081|Singapore|Singapore|DigitalOcean, LLC|
-|11|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|12|181.224.207.21|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|13|77.236.243.69|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|14|8.213.129.34|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|15|83.151.2.50|3128|Russia|Kazan’|MTS PJSC|
-|16|88.255.132.178|8080|Turkey|Kayseri|TurkTelekom|
-|17|45.43.63.230|10001|Singapore|Singapore|Zenlayer Inc|
-|18|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|19|176.215.184.157|1256|Russia|Moscow Oblast|JSC "ER-Telecom Holding"|
-|20|8.213.128.19|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|37.48.82.75|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|3|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|41.186.44.106|3128|Rwanda|Kigali|MTN Rwandacell|
+|5|93.78.190.146|41890|Ukraine|Poltava|Volia Poltava|
+|6|5.9.201.68|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|8|91.193.253.188|23500|Ukraine|Makiivka|Online Technologies LTD|
+|9|8.213.128.202|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|10|14.160.29.90|8080|Vietnam|Hanoi|VNPT-VNNIC|
+|11|180.211.248.222|8080|Bangladesh|Dhaka|Bangladesh Telegraph & Telephone Board|
+|12|8.213.128.214|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|181.129.74.58|40667|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|14|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
+|15|5.189.169.141|3128|Germany|Nuremberg|Contabo GmbH|
+|16|138.0.89.154|999|Colombia|La Union|Dobleclick Software E Ingeneria|
+|17|139.162.111.141|3128|Japan|Tokyo|Linode, LLC|
+|18|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
+|19|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 
 
 

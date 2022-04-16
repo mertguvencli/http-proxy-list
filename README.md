@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3156** proxies at the latest update. Usable proxies are below.
+> Scraper found **3191** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|289|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|289|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|289|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.9.201.68|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|2|139.162.111.141|3128|Japan|Tokyo|Linode, LLC|
-|3|5.189.169.141|3128|Germany|Nuremberg|Contabo GmbH|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|14.17.106.202|3128|China|Foshan|Chinanet|
-|6|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|9|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|10|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
-|11|203.12.200.32|3128|Hong Kong|Hong Kong|CTHKI|
-|12|8.213.129.36|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|15|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|16|186.125.218.161|999|Argentina|Cafayate|Telecom Argentina S.A.|
-|17|194.67.145.94|55555|Russia|Naro-Fominsk|JSC "CREDO-TELECOM"|
-|18|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|19|8.213.128.202|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|8.213.128.172|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|3|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|4|203.12.200.32|3128|Hong Kong|Hong Kong|CTHKI|
+|5|37.48.82.75|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|6|5.189.169.141|3128|Germany|Nuremberg|Contabo GmbH|
+|7|121.151.223.96|1337|South Korea|Yeongju|Korea Telecom|
+|8|139.162.111.141|3128|Japan|Tokyo|Linode, LLC|
+|9|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|11|51.77.73.70|1081|Spain|Madrid|OVH SAS|
+|12|206.125.41.142|80|United States|Santa Clarita|Multacom Corporation|
+|13|173.82.201.21|8080|United States|Santa Clarita|Multacom Corporation|
+|14|50.201.51.216|8080|United States|Ashburn|Comcast Cable Communications, LLC|
+|15|109.200.156.102|8080|Ukraine|Simferopol|CRELCOM|
+|16|45.189.57.62|9090|Ecuador|Machala|Cbvision S.A.|
+|17|103.145.142.54|80|Indonesia|Tamiajeng|PT. Indonesia Comnets Plus|
+|18|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|19|111.222.50.135|7890|China|Zhuhai|ShenZhen Topway Video Communication Co. Ltd.|
+|20|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
 
 
 

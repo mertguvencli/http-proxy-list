@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3520** proxies at the latest update. Usable proxies are below.
+> Scraper found **3821** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|400|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|400|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|400|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|428|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|428|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|428|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|93.158.214.162|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|2|93.158.214.153|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|3|93.158.214.155|3128|Netherlands|Amsterdam|Serverius Holding B.V.|
-|4|103.177.146.1|30001|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|7|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|8|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
-|9|222.79.63.199|9999|China|Beijing|Chinanet|
-|10|65.20.191.201|80|Iraq|Baghdad|EarthLink Ltd. Communications&Internet Services|
-|11|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|12|91.209.114.245|6789|Hungary|Siófok|Invitech ICT Services Kft.|
-|13|36.94.54.93|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|72.47.152.224|55443|United States|Ben Wheeler|Suddenlink Communications|
-|15|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
-|16|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
-|17|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|18|201.120.27.15|53281|Mexico|Hermosillo|Uninet S.A. de C.V|
-|19|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
-|20|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|1|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|3|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|83.166.241.233|3130|Russia|Moscow|LLC Management Company "Svyaz"|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|8|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
+|9|85.214.71.122|8118|Germany|Berlin|Strato AG|
+|10|222.79.63.199|9999|China|Beijing|Chinanet|
+|11|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
+|12|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|13|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|14|77.236.243.125|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|15|51.77.73.64|1081|Spain|Madrid|OVH SAS|
+|16|177.93.41.158|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|17|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|18|202.164.152.229|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|19|190.2.213.34|6969|Colombia|Bucaramanga|TV AZTECA SUCURSAL COLOMBIA|
+|20|207.244.242.103|9090|United States|St Louis|Contabo Inc.|
 
 
 

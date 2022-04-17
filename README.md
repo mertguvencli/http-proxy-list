@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2955** proxies at the latest update. Usable proxies are below.
+> Scraper found **3287** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|195|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|195|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|195|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|248|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|248|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|248|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|3|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|4|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|5|103.147.77.66|5009|Indonesia|Madiun|TRIDATA|
-|6|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|7|139.255.101.90|8080|Indonesia|Jakarta|PT. LINKNET|
-|8|8.213.128.214|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|8.213.128.149|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|10|8.213.128.106|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|12|8.213.128.19|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|121.22.90.82|443|China|Qinhuangdao|CNC Group CHINA169 Hebei Province Network|
-|14|182.237.16.7|83|India|Jaipur|Uclix|
-|15|103.177.146.1|30003|Vietnam|Ho Chi Minh City|Technology Solution Data Online Company Limited|
-|16|193.242.151.44|8080|Russia|Krasnodar|SvyazResurs-Kuban|
-|17|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|18|177.93.41.158|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|19|8.213.128.123|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|102.164.193.132|8080|South Africa|Middelburg|Jenny Internet cc|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|37.48.82.75|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|3|118.218.126.61|9401|South Korea|Gyeongju|SK Broadband Co Ltd|
+|4|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|8|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|9|27.105.130.93|8080|Taiwan|Taipei|SONET|
+|10|117.157.197.18|3128|China|Nanjie|China Mobile communications corporation|
+|11|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|12|160.154.48.46|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|13|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
+|14|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|24.116.218.195|8080|United States|Pascagoula|CABLE ONE, INC.|
+|16|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|17|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|18|91.234.127.222|53281|Poland|Bojszow|KRUCZNET - naprawa sprzetu RTV i elektronicznego Jozef Kruczek|
+|19|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|20|195.208.149.5|8080|Russia|Novosibirsk|Megacom-it LLC|
 
 
 

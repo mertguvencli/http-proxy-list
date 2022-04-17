@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3345** proxies at the latest update. Usable proxies are below.
+> Scraper found **3167** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|182|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|182|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|182|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|200|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|200|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|200|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|2|45.174.84.226|999|Mexico|Zacatlan|Computadoras y Servicios Especiales SA de CV|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|6|14.17.106.202|3128|China|Foshan|Chinanet|
-|7|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|8|103.68.207.34|83|India|Bahadurgarh|Umbrella Digital Networks Pvt. Ltd|
-|9|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|10|8.213.128.202|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|124.158.175.19|8080|Indonesia|Gandul|ICON+|
-|12|8.213.128.78|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|41.164.68.42|80|South Africa|Cape Town|Liquid Telecommunications Operations Limited|
-|14|27.131.179.206|10443|Thailand|Wang Thonglang|KIRZ Company Limited|
-|15|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|16|8.213.128.123|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|18|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
-|19|8.213.128.131|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|1|192.241.158.51|1081|United States|North Bergen|DigitalOcean, LLC|
+|2|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|4|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|5|103.218.26.238|8080|Bangladesh|Dhaka|Carnival Internet|
+|6|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|7|103.54.43.131|8080|Bangladesh|Dhaka|THE NET HEADS|
+|8|14.17.106.202|3128|China|Foshan|Chinanet|
+|9|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|10|94.181.48.171|1256|Russia|Moscow|Enforta-MSK|
+|11|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
+|12|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|13|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
+|14|14.241.39.165|19132|Vietnam|Hanoi|VNPT|
+|15|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|45.71.203.103|999|Ecuador|Loja|Nedetel S.A|
+|17|77.238.79.111|8080|Bulgaria|Sofia|FIBER1|
+|18|213.136.101.36|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|19|91.142.172.7|41890|Ukraine|Kyiv|Sitel Ltd|
+|20|201.174.104.222|999|Mexico|Chihuahua City|Transtelco Inc|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3202** proxies at the latest update. Usable proxies are below.
+> Scraper found **2867** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|150.109.144.175|82|Hong Kong|Hong Kong|Tencent Cloud Computing (Beijing) Co|
-|2|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|3|41.59.200.20|9999|Tanzania|Arusha|Tanzania Telecommunications CO. LTD|
-|4|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|5|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|62.210.119.138|3128|France|Valenton|Online S.A.S.|
-|7|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|8|190.210.8.70|8080|Argentina|Buenos Aires|NSS S.A.|
-|9|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
-|10|119.91.200.209|8888|China|Chaowai|China Internet Network Information Center|
-|11|43.250.127.98|9001|Mongolia|Ulan Bator|Wicom Networks|
-|12|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|13|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|14|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|15|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
-|16|8.213.128.214|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|118.67.221.82|8080|Bangladesh|Dhaka|InterCloud Limited|
-|18|189.63.232.244|3128|Brazil|Ribeirão Preto|Claro S.A.|
-|19|125.162.21.130|8080|Indonesia|Medan|PT. TELKOM INDONESIA|
-|20|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
+|1|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|2|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|3|14.17.106.202|3128|China|Foshan|Chinanet|
+|4|103.129.3.246|83|India|Balianta|S S Cablenet|
+|5|45.233.245.85|8083|Brazil|Custodia|Provedor NET Mais Ltda - ME|
+|6|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|7|36.92.92.226|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|8|189.51.4.254|45367|Brazil|São Paulo|Transit do Brasil S/A|
+|9|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|10|213.136.101.36|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|11|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|12|36.92.43.107|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|103.145.45.69|55443|Bangladesh|Nāgarpur|Brother's ICT Connectivity|
+|14|165.16.27.17|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|15|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|16|8.213.128.202|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|17|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
+|18|180.250.252.221|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
+|20|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 
 
 

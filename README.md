@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2863** proxies at the latest update. Usable proxies are below.
+> Scraper found **2756** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|171|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|171|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|171|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|148|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|148|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|148|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|2|139.162.111.141|3128|Japan|Tokyo|Linode, LLC|
-|3|37.48.82.75|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|6|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|9|103.194.175.135|8080|Indonesia|Banyuwangi|MYNET|
-|10|212.58.219.210|8080|Russia|Moscow|PJSC Rostelecom|
-|11|103.23.206.170|8080|Bangladesh|Rangpur City|Mizanur Rahman t/a Maya Cyber World|
-|12|14.228.186.244|19132|Vietnam|Hanoi|VNPT|
-|13|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|14|165.16.54.233|80|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|15|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|16|103.10.22.236|8080|Mongolia|Ulan Bator|Kewiko LLC|
-|17|161.97.123.237|3128|Germany|Nuremberg|Contabo GmbH|
-|18|112.109.20.238|80|Indonesia|South Tangerang|DATAUTAMANET|
-|19|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
-|20|113.212.87.242|82|India|Ahmedabad|INPLs|
+|1|54.38.141.157|3128|Poland|Warsaw|OVH SAS|
+|2|54.38.51.132|3128|Poland|Warsaw|OVH SAS|
+|3|51.83.230.120|3128|Poland|Warsaw|OVH SAS|
+|4|54.38.63.141|3128|Poland|Warsaw|OVH SAS|
+|5|51.83.231.86|3128|Poland|Warsaw|OVH SAS|
+|6|51.83.233.111|3128|Poland|Warsaw|OVH SAS|
+|7|51.75.35.223|3128|Poland|Warsaw|OVH SAS|
+|8|51.83.230.121|3128|Poland|Warsaw|OVH SAS|
+|9|51.83.233.109|3128|Poland|Warsaw|OVH SAS|
+|10|51.38.155.119|3128|Poland|Warsaw|OVH SAS|
+|11|51.83.230.92|3128|Poland|Warsaw|OVH SAS|
+|12|54.38.51.134|3128|Poland|Warsaw|OVH SAS|
+|13|51.77.61.155|3128|Poland|Warsaw|OVH SAS|
+|14|51.77.35.133|3128|Poland|Warsaw|OVH SAS|
+|15|54.38.63.143|3128|Poland|Warsaw|OVH SAS|
+|16|51.83.231.21|3128|Poland|Warsaw|OVH SAS|
+|17|51.83.231.87|3128|Poland|Warsaw|OVH SAS|
+|18|54.38.51.128|3128|Poland|Warsaw|OVH SAS|
+|19|51.83.230.123|3128|Poland|Warsaw|OVH SAS|
+|20|51.77.61.153|3128|Poland|Warsaw|OVH SAS|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3287** proxies at the latest update. Usable proxies are below.
+> Scraper found **3311** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|274|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|274|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|274|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|37.48.82.75|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|1|37.48.82.75|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
 |3|118.218.126.61|9401|South Korea|Gyeongju|SK Broadband Co Ltd|
-|4|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|8|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|27.105.130.93|8080|Taiwan|Taipei|SONET|
-|10|117.157.197.18|3128|China|Nanjie|China Mobile communications corporation|
-|11|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|12|160.154.48.46|8080|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|13|201.149.100.32|8085|Brazil|Cruzeiro do Oeste|Crznet Telecom Ltda|
-|14|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|15|24.116.218.195|8080|United States|Pascagoula|CABLE ONE, INC.|
-|16|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|17|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|18|91.234.127.222|53281|Poland|Bojszow|KRUCZNET - naprawa sprzetu RTV i elektronicznego Jozef Kruczek|
-|19|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|20|195.208.149.5|8080|Russia|Novosibirsk|Megacom-it LLC|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|6|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|7|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|8|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|51.83.232.92|3128|Poland|Warsaw|OVH SAS|
+|10|51.83.231.20|3128|Poland|Warsaw|OVH SAS|
+|11|51.83.231.85|3128|Poland|Warsaw|OVH SAS|
+|12|51.83.230.93|3128|Poland|Warsaw|OVH SAS|
+|13|51.77.61.155|3128|Poland|Warsaw|OVH SAS|
+|14|54.38.141.157|3128|Poland|Warsaw|OVH SAS|
+|15|51.83.241.109|3128|Poland|Warsaw|OVH SAS|
+|16|54.38.51.128|3128|Poland|Warsaw|OVH SAS|
+|17|51.83.231.87|3128|Poland|Warsaw|OVH SAS|
+|18|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
+|19|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|20|183.88.135.199|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
 
 
 

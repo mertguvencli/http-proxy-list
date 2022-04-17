@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3349** proxies at the latest update. Usable proxies are below.
+> Scraper found **2967** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|292|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|292|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|292|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|37.48.82.75|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|3|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
-|4|139.162.111.141|3128|Japan|Tokyo|Linode, LLC|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|139.162.111.141|3128|Japan|Tokyo|Linode, LLC|
+|3|5.9.201.68|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
 |5|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|6|134.209.42.113|8892|United States|Clifton|DigitalOcean, LLC|
-|7|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|8|5.189.169.141|3128|Germany|Nuremberg|Contabo GmbH|
-|9|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|10|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|11|110.78.138.125|8080|Thailand|Samphanthawong|CAT-BB|
-|12|14.17.106.202|3128|China|Foshan|Chinanet|
-|13|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|14|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|152.231.29.47|8080|Colombia|Santiago de Cali|Colombiatel Telecomunicaciones|
-|16|47.93.4.230|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
-|17|218.106.60.94|21080|China|Jinrongjie|China Unicom CncNet|
-|18|66.94.97.238|443|United States|New York|Contabo Inc.|
-|19|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|103.142.21.197|8080|Indonesia|Surabaya|CV. NATANETWORK SOLUTION|
+|6|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|14.17.106.202|3128|China|Foshan|Chinanet|
+|8|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|5.189.169.141|3128|Germany|Nuremberg|Contabo GmbH|
+|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|11|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|12|37.48.82.75|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|13|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|14|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|15|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|49.156.47.162|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|17|191.241.189.247|40033|Brazil|Nossa Senhora da Gloria|NetGloria Telecom|
+|18|103.164.116.170|8080|Indonesia|Malang|SOLUSINET|
+|19|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|20|8.213.129.36|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 

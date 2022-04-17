@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2867** proxies at the latest update. Usable proxies are below.
+> Scraper found **2863** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|171|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|171|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|171|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|2|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|3|14.17.106.202|3128|China|Foshan|Chinanet|
-|4|103.129.3.246|83|India|Balianta|S S Cablenet|
-|5|45.233.245.85|8083|Brazil|Custodia|Provedor NET Mais Ltda - ME|
-|6|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|7|36.92.92.226|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|8|189.51.4.254|45367|Brazil|São Paulo|Transit do Brasil S/A|
-|9|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
-|10|213.136.101.36|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|11|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|12|36.92.43.107|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|103.145.45.69|55443|Bangladesh|Nāgarpur|Brother's ICT Connectivity|
-|14|165.16.27.17|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|15|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|16|8.213.128.202|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|103.137.91.250|8080|Laos|Vientiane|SLT Network Co., LTD|
-|18|180.250.252.221|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|19|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
-|20|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|1|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|2|139.162.111.141|3128|Japan|Tokyo|Linode, LLC|
+|3|37.48.82.75|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|6|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|9|103.194.175.135|8080|Indonesia|Banyuwangi|MYNET|
+|10|212.58.219.210|8080|Russia|Moscow|PJSC Rostelecom|
+|11|103.23.206.170|8080|Bangladesh|Rangpur City|Mizanur Rahman t/a Maya Cyber World|
+|12|14.228.186.244|19132|Vietnam|Hanoi|VNPT|
+|13|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|14|165.16.54.233|80|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|15|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|16|103.10.22.236|8080|Mongolia|Ulan Bator|Kewiko LLC|
+|17|161.97.123.237|3128|Germany|Nuremberg|Contabo GmbH|
+|18|112.109.20.238|80|Indonesia|South Tangerang|DATAUTAMANET|
+|19|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
+|20|113.212.87.242|82|India|Ahmedabad|INPLs|
 
 
 

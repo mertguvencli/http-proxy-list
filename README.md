@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3362** proxies at the latest update. Usable proxies are below.
+> Scraper found **3278** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|163|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|163|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|163|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|2|45.80.149.37|23456|Netherlands|Amsterdam|Hostgw SRL|
 |3|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|4|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|7|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|8|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|204.195.136.34|80|United States|Miami Beach|Atlantic Broadband Finance, LLC|
-|10|185.255.47.59|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
-|11|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|12|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
-|13|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|14|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|15|31.42.57.1|8080|Ukraine|Kyiv|Limited Liability Company AVATOR ISP|
-|16|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|17|191.102.113.101|999|Colombia|Mariquita|TV AZTECA SUCURSAL COLOMBIA|
-|18|202.180.17.86|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|19|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
-|20|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|4|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|5|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|6|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|9|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|11|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|13|14.17.106.202|3128|China|Foshan|Chinanet|
+|14|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|16|190.8.38.83|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
+|17|201.140.208.146|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
+|18|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|19|109.170.97.146|8085|Russia|Sochi|Net By Net Holding LLC|
+|20|190.121.21.211|1081|Chile|Valdivia|Telefonica del Sur S.A.|
 
 
 

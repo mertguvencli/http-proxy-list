@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2932** proxies at the latest update. Usable proxies are below.
+> Scraper found **2812** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|3|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|4|181.78.18.25|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
-|5|177.234.230.236|8588|Ecuador|Pasaje|Nedetel S.A.|
-|6|191.102.113.101|999|Colombia|Mariquita|TV AZTECA SUCURSAL COLOMBIA|
-|7|123.31.30.100|2008|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
-|8|181.48.15.227|9991|Colombia|Santiago de Cali|Telmex Colombia S.A.|
-|9|103.28.225.169|8080|Indonesia|South Tangerang|PT Palapa Media Indonesia|
-|10|27.72.105.233|19132|Vietnam|Hanoi|Newass2011xDSLHN|
-|11|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|12|101.51.139.179|8080|Thailand|Lopburi|TOT Public Company Limited|
-|13|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|14|41.59.200.20|9999|Tanzania|Arusha|Tanzania Telecommunications CO. LTD|
-|15|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
-|16|179.106.86.3|8080|Brazil|Conceicao da Aparecida|Rede Nets Ltda.|
-|17|54.80.246.241|80|United States|Ashburn|Amazon Technologies Inc.|
-|18|203.123.57.154|63123|Indonesia|Sidoarjo|PT Maxindo Mitra Solusi|
-|19|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|103.236.193.225|83|India|Hyderabad|Go WiFi Networking Solutions Pvt Ltd|
+|1|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|4|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|5|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|6|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|8|200.54.22.74|8080|Chile|Santiago|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|9|182.191.84.39|80|Pakistan|Rawalpindi|Pakistan Telecommuication company limited|
+|10|188.133.152.103|9080|Russia|Moscow|Enforta-MSK|
+|11|202.159.101.43|8088|Indonesia|Jakarta|PT IndoInternet|
+|12|46.100.166.38|8080|Iran|Qom|Iran Telecommunication Company PJS|
+|13|8.213.128.131|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|14|82.140.221.219|55443|Russia|Tver|Rostelecom networks|
+|15|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
+|16|94.130.244.179|5566|Germany|Schriesheim|Hetzner Online GmbH|
+|17|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|179.1.129.94|999|Colombia|Aipe|Internexa S.a. E.S.P|
+|19|111.90.179.74|8080|Australia|Perth|Angkor Data Communication|
+|20|94.253.39.81|53281|Russia|Trud|for Flex Ltd|
 
 
 

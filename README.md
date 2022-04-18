@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2997** proxies at the latest update. Usable proxies are below.
+> Scraper found **3041** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|150|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|150|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|150|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|195|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|195|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|195|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|79.160.83.167|8118|Norway|Stavanger|Altibox|
-|2|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|1|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 |3|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|5|47.241.21.88|23511|Singapore|Singapore|Alibaba.com LLC|
-|6|200.8.190.45|999|Venezuela|Barquisimeto|Corporación Telemic C.A.|
-|7|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
-|8|186.211.177.161|8082|Brazil|Abreu e Lima|BR Digital|
-|9|200.125.171.62|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|10|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|11|31.128.71.241|8081|Ukraine|Kharkiv|PRIVATE JOINT STOCK COMPANY "DATAGROUP"|
-|12|188.133.173.21|8080|Russia|Moscow|JSC "ER-Telecom Holding"|
-|13|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|14|118.97.164.19|8080|Indonesia|Jambi City|PT. TELKOM INDONESIA|
-|15|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|16|112.78.162.186|8080|Indonesia|Jakarta|Biznet Networks|
-|17|188.166.218.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|19|178.252.141.194|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
-|20|91.121.42.14|1081|France|Roubaix|OVH SAS|
+|4|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|6|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|7|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|8|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|9|47.93.4.230|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
+|10|190.109.16.145|999|Colombia|Medellín|Lazus Medellin|
+|11|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|12|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|190.60.71.124|80|Colombia|Bogotá|IFX Corporation|
+|14|62.138.8.42|5566|France|Strasbourg|Host Europe GmbH|
+|15|202.152.135.26|3128|Indonesia|Sleman|PT Jembatan Citra Nusantara|
+|16|45.153.165.118|999|United States|Morris Heights|Telery Networks|
+|17|213.251.238.26|8080|Russia|Moscow|NLine-Kiev|
+|18|185.103.168.76|8080|Kazakhstan|Shymkent|JSC Alma Telecommunications|
+|19|103.81.194.68|8080|Indonesia|Bogor|PT Rtiga Global Media|
+|20|67.206.202.145|999|Puerto Rico|San Juan|Skynet Wireless|
 
 
 

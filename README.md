@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3194** proxies at the latest update. Usable proxies are below.
+> Scraper found **3124** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|221|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|221|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|221|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|90|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|90|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|90|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|4|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|8|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|9|188.133.137.9|8081|Russia|Moscow|Enforta-SPB|
-|10|188.133.152.125|8080|Russia|Moscow|Enforta-MSK|
-|11|115.124.92.42|8080|Indonesia|Bekasi|PT Remala Abadi|
-|12|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|13|206.62.64.34|8080|Brazil|Maringá|AGIS|
-|14|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|15|138.68.26.14|1081|United States|Santa Clara|DigitalOcean, LLC|
-|16|46.191.239.183|8080|Russia|Sterlitamak|JSC "Ufanet"|
-|17|115.127.162.234|8080|Bangladesh|Dhaka|BRACNet Limited|
-|18|202.77.120.38|57965|Indonesia|Bandung|LINKNET|
-|19|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|20|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|212.100.84.10|8080|Nigeria|Lagos|Autonomous System number for Cyber Space|
+|3|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|92.60.238.12|80|Serbia|Niš|Moja Supernova Doo Beograd|
+|6|170.80.202.246|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
+|7|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|8|8.213.128.127|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|10|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|11|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|12|165.16.80.121|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|13|38.123.68.152|999|Mexico|Paseos del Valle [Fraccionamiento]|Cogent Communications|
+|14|176.213.143.38|3128|Russia|Rostov-on-Don|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
+|15|8.213.128.106|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|16|8.213.129.57|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|17|95.181.135.34|8080|Russia|Nizhnevartovsk|Avantel Ltd Nizhnevartovsk Branch|
+|18|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
+|20|213.171.63.210|41890|Russia|Molokovo|OJSC Comcor|
 
 
 

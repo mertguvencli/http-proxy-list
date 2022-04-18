@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3114** proxies at the latest update. Usable proxies are below.
+> Scraper found **3194** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|3|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|190.61.82.170|999|Panama|Panama City|Ufinet Panama S.A|
-|6|200.55.3.125|999|Argentina|Mendoza|Level 3 Argentina S.A|
-|7|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
-|8|188.133.137.9|8081|Russia|Moscow|Enforta-SPB|
-|9|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
-|10|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
-|11|180.183.15.198|8080|Thailand|Bangkok|Triple T Internet Company Limited|
-|12|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|13|196.203.83.249|9090|Tunisia|Tunis|SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)|
-|14|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|15|8.213.128.114|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|16|8.213.129.57|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|8.213.128.127|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|18|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|19|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
-|20|186.96.56.9|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|1|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|4|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|8|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|9|188.133.137.9|8081|Russia|Moscow|Enforta-SPB|
+|10|188.133.152.125|8080|Russia|Moscow|Enforta-MSK|
+|11|115.124.92.42|8080|Indonesia|Bekasi|PT Remala Abadi|
+|12|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|13|206.62.64.34|8080|Brazil|Maringá|AGIS|
+|14|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|15|138.68.26.14|1081|United States|Santa Clara|DigitalOcean, LLC|
+|16|46.191.239.183|8080|Russia|Sterlitamak|JSC "Ufanet"|
+|17|115.127.162.234|8080|Bangladesh|Dhaka|BRACNet Limited|
+|18|202.77.120.38|57965|Indonesia|Bandung|LINKNET|
+|19|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|20|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
 
 
 

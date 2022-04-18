@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3648** proxies at the latest update. Usable proxies are below.
+> Scraper found **3254** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|321|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|321|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|321|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|3|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|4|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
-|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|8|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|10|176.196.250.86|3128|Russia|Kemerovo|Goodline.info|
-|11|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|12|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|13|218.106.60.29|21080|China|Jinrongjie|China Unicom CncNet|
-|14|195.9.112.58|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|15|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|16|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|17|201.140.208.146|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
-|18|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|19|200.106.184.12|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|20|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|1|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|2|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|3|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|4|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
+|5|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|6|14.17.106.202|3128|China|Foshan|Chinanet|
+|7|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|8|66.211.155.34|8080|United States|Milford|FirstLight Fiber|
+|9|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|95.0.219.245|8080|Turkey|Kayseri|TurkTelecom|
+|11|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|12|77.39.38.31|8080|Russia|Stepnoye|Stavropol branch of OJSC Rostelecom|
+|13|181.48.243.242|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|14|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
+|15|178.46.181.154|3128|Russia|Khanty-Mansiysk|OJSC uralsvyazinform|
+|16|213.222.34.200|53281|Bulgaria|Sofia|A1 Bulgaria EAD|
+|17|101.255.164.58|8080|Indonesia|Jakarta|PT Remala Abadi|
+|18|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|19|45.189.117.237|999|Peru|Lima|Fiber Digital S.R.L|
+|20|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
 
 
 

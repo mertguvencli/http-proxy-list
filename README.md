@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3278** proxies at the latest update. Usable proxies are below.
+> Scraper found **3114** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|196|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|196|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|196|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|127|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|127|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|127|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|45.80.149.37|23456|Netherlands|Amsterdam|Hostgw SRL|
-|3|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|4|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
-|6|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|9|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|11|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|13|14.17.106.202|3128|China|Foshan|Chinanet|
-|14|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|15|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|16|190.8.38.83|999|Dominican Republic|Santo Domingo Este|Trilogy Dominicana, S.A.|
-|17|201.140.208.146|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
-|18|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|19|109.170.97.146|8085|Russia|Sochi|Net By Net Holding LLC|
-|20|190.121.21.211|1081|Chile|Valdivia|Telefonica del Sur S.A.|
+|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|3|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|5|190.61.82.170|999|Panama|Panama City|Ufinet Panama S.A|
+|6|200.55.3.125|999|Argentina|Mendoza|Level 3 Argentina S.A|
+|7|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|8|188.133.137.9|8081|Russia|Moscow|Enforta-SPB|
+|9|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
+|10|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
+|11|180.183.15.198|8080|Thailand|Bangkok|Triple T Internet Company Limited|
+|12|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|13|196.203.83.249|9090|Tunisia|Tunis|SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)|
+|14|37.48.82.87|3128|Netherlands|Amsterdam|LeaseWeb Netherlands B.V.|
+|15|8.213.128.114|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|16|8.213.129.57|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|17|8.213.128.127|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|18|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|19|82.114.101.86|1256|Russia|Moscow|Enforta-MSK|
+|20|186.96.56.9|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
 
 
 

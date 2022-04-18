@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3124** proxies at the latest update. Usable proxies are below.
+> Scraper found **2903** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|88|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|88|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|88|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|212.100.84.10|8080|Nigeria|Lagos|Autonomous System number for Cyber Space|
-|3|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|92.60.238.12|80|Serbia|Niš|Moja Supernova Doo Beograd|
-|6|170.80.202.246|999|Dominican Republic|Santiago de los Caballeros|RUDDY GONZALEZ DIGITAL MEDIA DOMINICANA, RGDIMAX, S.R.L|
-|7|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|8|8.213.128.127|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|10|62.171.167.146|3128|Germany|Nuremberg|Contabo GmbH|
-|11|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|12|165.16.80.121|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|13|38.123.68.152|999|Mexico|Paseos del Valle [Fraccionamiento]|Cogent Communications|
-|14|176.213.143.38|3128|Russia|Rostov-on-Don|CJSC "ER-Telecom Holding" Rostov-na-Donu branch|
-|15|8.213.128.106|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|16|8.213.129.57|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|95.181.135.34|8080|Russia|Nizhnevartovsk|Avantel Ltd Nizhnevartovsk Branch|
-|18|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
-|20|213.171.63.210|41890|Russia|Molokovo|OJSC Comcor|
+|1|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|2|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|198.167.197.43|8118|Sweden|Stockholm|ab stract|
+|5|61.216.185.88|60808|Taiwan|Chiayi|Chunghwa Telecom Co., Ltd.|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|181.224.207.18|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|8|206.62.64.34|8080|Brazil|Maringá|AGIS|
+|9|190.61.32.53|8080|Mexico|Mexico City|Ufinet Mexico S. De R.l. De C.V.|
+|10|103.145.130.150|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
+|11|182.18.179.129|83|India|Hyderabad|CtrlS Datacenters Ltd.|
+|12|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|13|186.0.176.147|8080|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
+|14|138.0.89.154|999|Colombia|La Union|Dobleclick Software E Ingeneria|
+|15|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|16|14.228.186.244|19132|Vietnam|Hanoi|VNPT|
+|17|14.139.185.73|80|India|Trivandrum|National Knowledge Network|
+|18|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|19|95.181.135.34|8080|Russia|Nizhnevartovsk|Avantel Ltd Nizhnevartovsk Branch|
+|20|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
 
 
 

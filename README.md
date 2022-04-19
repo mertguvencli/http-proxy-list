@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3040** proxies at the latest update. Usable proxies are below.
+> Scraper found **2878** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|48|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|48|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|48|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|2|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|82.114.118.142|1256|Russia|St Petersburg|ArtCommunications Ltd.|
-|5|12.88.29.66|9080|United States|Pauls Valley|AT&T Services, Inc.|
-|6|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|7|203.82.42.38|1337|Philippines|Quezon City|WifiCity, Inc|
-|8|80.244.228.162|1256|Russia|Moscow|Enforta-MSK|
-|9|177.93.50.162|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|10|45.70.14.58|999|Ecuador|Baba|Nedetel S.A.|
-|11|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|12|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|13|81.162.65.249|8080|Ukraine|Bakhchisaray|Private Company Center Development Information Technology "Gigabyte"|
-|14|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
-|15|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|16|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
-|17|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|95.181.135.34|8080|Russia|Nizhnevartovsk|Avantel Ltd Nizhnevartovsk Branch|
-|19|95.181.135.34|8080|Russia|Nizhnevartovsk|Avantel Ltd Nizhnevartovsk Branch|
-|20|222.214.191.167|9999|China|Maerkang|Chinanet|
+|1|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|142.93.44.47|3128|United Kingdom|London|DigitalOcean, LLC|
+|4|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
+|5|191.102.74.138|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|36.91.148.37|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|7|138.0.89.154|999|Colombia|La Union|Dobleclick Software E Ingeneria|
+|8|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|9|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|10|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|11|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|12|176.236.157.155|8080|Turkey|Kilis|Superonline Iletisim Hizmetleri A.S.|
+|13|143.255.142.80|8080|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
+|14|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|15|200.39.136.130|999|Chile|Valparaíso|Iconex SPA|
+|16|103.9.188.229|36984|Cambodia|Phnom Penh|EZECOM limited|
+|17|92.118.92.107|8181|Russia|Krasnodar|TSK LLC|
+|18|92.255.205.129|8080|Russia|Kazan’|CJSC "ER-Telecom Holding" Kazan' branch|
+|19|147.135.134.57|5566|France|Gravelines|OVH SAS|
+|20|81.91.144.190|55443|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
 
 
 

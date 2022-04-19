@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2878** proxies at the latest update. Usable proxies are below.
+> Scraper found **3052** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|142.93.44.47|3128|United Kingdom|London|DigitalOcean, LLC|
-|4|103.125.56.15|3127|Indonesia|Bekasi|PT. Eka Mas Republik|
-|5|191.102.74.138|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|6|36.91.148.37|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|7|138.0.89.154|999|Colombia|La Union|Dobleclick Software E Ingeneria|
-|8|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|9|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|10|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|11|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|12|176.236.157.155|8080|Turkey|Kilis|Superonline Iletisim Hizmetleri A.S.|
-|13|143.255.142.80|8080|Paraguay|Ciudad del Este|GIG@NET SOCIEDAD ANONIMA|
-|14|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|15|200.39.136.130|999|Chile|Valparaíso|Iconex SPA|
-|16|103.9.188.229|36984|Cambodia|Phnom Penh|EZECOM limited|
-|17|92.118.92.107|8181|Russia|Krasnodar|TSK LLC|
-|18|92.255.205.129|8080|Russia|Kazan’|CJSC "ER-Telecom Holding" Kazan' branch|
-|19|147.135.134.57|5566|France|Gravelines|OVH SAS|
-|20|81.91.144.190|55443|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|142.93.44.47|3128|United Kingdom|London|DigitalOcean, LLC|
+|3|62.78.84.159|3128|Russia|Kalachinsk|LLC Milecom|
+|4|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|5|116.254.116.234|8080|Indonesia|Semarang|PT Media Sarana Data|
+|6|45.80.149.40|23456|Netherlands|Amsterdam|Hostgw SRL|
+|7|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|9|45.174.84.226|999|Mexico|Zacatlan|Computadoras y Servicios Especiales SA de CV|
+|10|158.140.190.242|55443|Indonesia|Jakarta|PT. Eka Mas Republik|
+|11|14.102.47.206|8080|India|Faridabad|WORLDPHONE|
+|12|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|13|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|14|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
+|15|197.248.157.159|8080|Kenya|Nairobi|Safaricom Limited|
+|16|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|17|213.33.152.178|41890|Russia|Moscow|EDN Sovintel|
+|18|221.217.50.129|9000|China|Xicheng District|China Unicom Beijing Province Network|
+|19|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|201.148.85.50|999|Mexico|Magdalena Contreras|Operbes, S.A. de C.V.|
 
 
 

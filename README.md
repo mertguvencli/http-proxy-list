@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2999** proxies at the latest update. Usable proxies are below.
+> Scraper found **3050** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|92|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|92|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|92|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|3|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|4|103.78.25.99|3128|Indonesia|Bekasi|PT Mora Telematika Indonesia|
-|5|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|6|212.164.52.198|443|Russia|Novosibirsk|Rostelecom networks|
-|7|182.253.217.135|8080|Indonesia|Madiun|BIZNET|
-|8|186.232.42.82|8080|Brazil|Sao Goncalo|Connect Network|
-|9|93.184.8.74|8085|Palestinian Territory|Ramallah|BCI Telecommunication & Advanced Technology Company|
-|10|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|11|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|12|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|13|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|14|46.191.239.183|8080|Russia|Sterlitamak|JSC "Ufanet"|
-|15|103.156.216.194|80|Indonesia|Bekasi|PT. Meiwa Mold Indonesia|
-|16|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|17|41.86.42.41|8080|Seychelles|Cascade|CWS DIB BUNDLE|
-|18|77.236.243.125|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|19|62.78.84.159|3128|Russia|Kalachinsk|LLC Milecom|
-|20|185.103.168.78|8080|Kazakhstan|Shymkent|JSC Alma Telecommunications|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|5|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
+|6|91.93.42.122|10001|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|7|103.84.234.194|8089|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|8|185.82.96.21|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|9|183.88.192.105|8080|Thailand|Si Maha Phot|Triple T Broadband Public Company Limited|
+|10|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|146.196.110.246|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
+|12|43.224.10.46|6666|India|Surat|gtpl hariom world vision|
+|13|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
+|14|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|15|103.246.225.37|80|India|Mumbai|F/X Wireless Technology Solutions Pvt. Ltd.|
+|16|45.225.184.177|999|Chile|Melipilla|MJL NETWORK EIRL|
+|17|181.129.183.19|53281|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
+|18|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
+|19|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
+|20|101.51.55.153|8080|Thailand|Din Daeng|TOT Public Company Limited|
 
 
 

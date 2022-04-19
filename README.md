@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3211** proxies at the latest update. Usable proxies are below.
+> Scraper found **3046** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|58|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|58|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|58|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|4|190.12.57.46|80|Ecuador|Machala|Puntonet S.A.|
-|5|201.150.116.129|999|Mexico|Actopan|Hulux Telecomunicaciones|
-|6|45.230.169.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|7|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|8|36.89.49.55|8181|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|9|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
-|10|187.154.18.12|999|Mexico|Oaxaca City|Uninet S.A. de C.V.|
-|11|200.69.84.243|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|12|139.5.150.146|3888|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
-|13|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|14|196.203.83.249|9090|Tunisia|Tunis|SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)|
-|15|67.73.184.178|8081|Colombia|Bogotá|CTL LATAM|
-|16|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
-|17|170.83.60.19|55443|Brazil|Uberlândia|H-micro Assistencia Especializade EM Inform Ldta|
-|18|217.150.77.31|53281|Russia|Vladivostok|Malarenergi Stadsnat AB|
-|19|175.101.120.146|8080|India|Kadapa|ExcellMedia Pvt Ltd|
-|20|203.217.169.100|6969|Cambodia|Phnom Penh|S.I Group|
+|1|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|2|103.84.234.194|8089|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|3|189.161.21.4|10101|Mexico|Cuautlancingo|Uninet S.A. de C.V|
+|4|14.17.106.202|3128|China|Foshan|Chinanet|
+|5|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|6|103.220.28.173|8080|India|Mathura|eSQUARE BROADBAND SOLUTIONS|
+|7|134.209.148.107|8081|India|Bengaluru|DigitalOcean, LLC|
+|8|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
+|9|102.68.128.214|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|10|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|11|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|12|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|13|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|14|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
+|15|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|16|81.162.65.249|8080|Ukraine|Bakhchisaray|Private Company Center Development Information Technology "Gigabyte"|
+|17|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
+|18|116.197.133.247|80|Indonesia|Cempaka Baru|FIBERNET|
+|19|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
+|20|181.129.98.146|8080|Colombia|La Ceja|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 

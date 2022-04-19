@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3056** proxies at the latest update. Usable proxies are below.
+> Scraper found **3617** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|273|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|273|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|273|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|51.81.32.81|8888|United States|Reston|OVH SAS|
-|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|3|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|4|201.148.85.50|999|Mexico|Magdalena Contreras|Operbes, S.A. de C.V.|
-|5|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
-|6|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|7|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
-|8|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|9|203.170.209.7|8081|Thailand|Huai Khwang|Advanced Wireless Network Company Limited|
-|10|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|11|103.28.113.83|3128|Indonesia|Purbalingga|PT Lintas Data Prima|
-|12|45.43.63.230|10001|Singapore|Singapore|Zenlayer Inc|
-|13|77.120.187.185|8080|Ukraine|Kharkiv|Volia Kharkov|
-|14|36.90.161.251|3128|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|15|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
-|16|41.59.200.20|9999|Tanzania|Arusha|Tanzania Telecommunications CO. LTD|
-|17|151.80.136.138|3128|France|Roubaix|OVH SAS|
-|18|103.59.176.154|8080|Bangladesh|Dhaka|Nation Communication|
-|19|200.39.153.1|999|Peru|Chachapoyas|Airwiz Peru E.I.R.L|
-|20|185.204.187.184|5147|Netherlands|Amsterdam|GokturkHost|
+|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|3|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|5|45.43.63.230|10001|Singapore|Singapore|Zenlayer Inc|
+|6|188.166.218.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|7|206.62.64.34|8080|Brazil|Maringá|AGIS|
+|8|203.34.48.10|9999|China|Qingzhou|Cloud Computing Corporation|
+|9|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|10|185.255.46.121|8080|Iraq|Sulaymaniyah|Valin Company for General Trading and Communication LTD|
+|11|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|12|14.207.149.139|9080|Thailand|Sam Phran|Triple T Broadband Public Company Limited|
+|13|187.228.150.68|8080|Mexico|Ixmiquilpan|Uninet S.A. de C.V.|
+|14|77.236.236.38|10000|Russia|Moscow|Enforta-MSK|
+|15|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|16|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|17|181.224.207.21|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|18|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|19|14.139.185.73|80|India|Trivandrum|National Knowledge Network|
+|20|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

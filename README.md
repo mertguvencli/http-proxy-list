@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3052** proxies at the latest update. Usable proxies are below.
+> Scraper found **2774** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|117|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|117|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|117|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|73|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|73|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|73|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|142.93.44.47|3128|United Kingdom|London|DigitalOcean, LLC|
-|3|62.78.84.159|3128|Russia|Kalachinsk|LLC Milecom|
-|4|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|5|116.254.116.234|8080|Indonesia|Semarang|PT Media Sarana Data|
-|6|45.80.149.40|23456|Netherlands|Amsterdam|Hostgw SRL|
-|7|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|9|45.174.84.226|999|Mexico|Zacatlan|Computadoras y Servicios Especiales SA de CV|
-|10|158.140.190.242|55443|Indonesia|Jakarta|PT. Eka Mas Republik|
-|11|14.102.47.206|8080|India|Faridabad|WORLDPHONE|
-|12|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|13|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|14|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
-|15|197.248.157.159|8080|Kenya|Nairobi|Safaricom Limited|
-|16|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|213.33.152.178|41890|Russia|Moscow|EDN Sovintel|
-|18|221.217.50.129|9000|China|Xicheng District|China Unicom Beijing Province Network|
-|19|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|20|201.148.85.50|999|Mexico|Magdalena Contreras|Operbes, S.A. de C.V.|
+|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|181.78.15.105|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
+|4|80.244.228.162|1256|Russia|Moscow|Enforta-MSK|
+|5|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|6|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|222.214.191.167|9999|China|Maerkang|Chinanet|
+|9|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
+|10|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
+|11|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|12|170.81.35.26|36681|Costa Rica|San José|Navegalo S.A.|
+|13|208.72.154.111|8888|United States|Philadelphia|The Constant Company|
+|14|116.197.133.247|80|Indonesia|Cempaka Baru|FIBERNET|
+|15|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
+|16|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
+|17|41.138.168.2|8080|Nigeria|Lagos|Autonomous System number for Cyber Space|
+|18|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|19|103.4.94.12|3128|Pakistan|Lahore|HEC|
+|20|185.204.197.169|8080|Italy|Rome|Pars Parva System LLC|
 
 
 

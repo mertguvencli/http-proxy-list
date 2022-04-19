@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3236** proxies at the latest update. Usable proxies are below.
+> Scraper found **3201** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.32.81|8888|United States|Reston|OVH SAS|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|46.36.132.23|8080|Kazakhstan|Almaty|JSC Alma Telecommunications|
-|4|176.215.184.157|1256|Russia|Moscow Oblast|JSC "ER-Telecom Holding"|
+|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
+|4|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
 |5|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
-|6|186.225.157.22|8080|Brazil|Santa Albertina|Sinal Br Telecom Ltda|
-|7|88.46.137.82|8080|Italy|Milan|Telecom Italia S.p.A.|
-|8|82.114.118.142|1256|Russia|St Petersburg|ArtCommunications Ltd.|
-|9|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
-|10|51.81.32.81|8888|United States|Reston|OVH SAS|
-|11|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
-|12|36.89.212.254|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|66.94.97.238|443|United States|New York|Contabo Inc.|
-|14|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
-|15|103.129.222.161|3000|Indonesia|Cicurug|PT. Awan Kilat Semesta|
-|16|138.219.245.17|8080|Brazil|Simoes Filho|Softdados Conectividade|
-|17|186.0.176.147|80|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
-|18|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
-|19|103.153.190.78|8081|Indonesia|Jember|WANET|
-|20|191.102.64.147|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|49.156.34.190|41890|Cambodia|Phnom Penh|WiCAM Corporation Ltd.|
+|7|192.254.104.201|999|Puerto Rico|Humacao|OSNET Wireless|
+|8|62.78.84.159|3128|Russia|Kalachinsk|LLC Milecom|
+|9|182.53.50.184|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|10|92.242.254.42|53545|Croatia|Cerje Nebojse|Magic Net d.o.o|
+|11|190.214.27.46|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|12|188.133.158.27|8080|Russia|Moscow|Enforta-MSK|
+|13|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|14|161.10.246.218|80|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
+|15|222.129.37.180|57114|China|Beijing|China Unicom Beijing Province Network|
+|16|41.59.200.20|9999|Tanzania|Arusha|Tanzania Telecommunications CO. LTD|
+|17|91.121.42.14|1081|France|Roubaix|OVH SAS|
+|18|146.120.213.228|8080|Kyrgyzstan|Bishkek|Inform Communications Ltd.|
+|19|23.225.64.59|1089|Hong Kong|Tseung Kwan O|Cnservers LLC|
+|20|185.82.99.11|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2973** proxies at the latest update. Usable proxies are below.
+> Scraper found **3236** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|99|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|99|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|99|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|178.210.51.118|8080|Russia|Voronezh|JSC KVANT-TELEKOM|
-|4|201.174.10.170|999|Mexico|Nogales|Transtelco Inc|
-|5|84.204.40.156|8080|Russia|St Petersburg|PJSC MegaFon|
-|6|200.80.22.40|60014|Argentina|Buenos Aires|Telconet S A|
-|7|190.110.99.107|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|8|186.67.26.179|999|Chile|Santiago|Entel Chile S.A.|
-|9|222.79.63.199|9999|China|Beijing|Chinanet|
-|10|86.125.122.27|80|Romania|Brasov|RCS & RDS|
-|11|91.121.42.14|1081|France|Roubaix|OVH SAS|
-|12|58.27.255.98|8080|Pakistan|Karachi|Wateen Telecom Limited|
-|13|45.175.160.77|999|Argentina|Tunuyan|OSORIO SERGIO ANGELINO(NETVDU).|
-|14|213.251.238.26|8080|Russia|Moscow|NLine-Kiev|
-|15|190.145.39.206|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|202.138.236.69|8080|Indonesia|Bandung|PT Melvar Lintasnusa|
-|17|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|18|103.138.41.132|8080|Indonesia|Jakarta|PT. Bali Towerindo Sentra|
-|19|185.104.252.10|9090|Lebanon|Bdebba|B SMART|
-|20|103.121.199.142|8080|Indonesia|Lumajang|PT Parsaoran Global Datatrans|
+|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|46.36.132.23|8080|Kazakhstan|Almaty|JSC Alma Telecommunications|
+|4|176.215.184.157|1256|Russia|Moscow Oblast|JSC "ER-Telecom Holding"|
+|5|186.96.50.39|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|6|186.225.157.22|8080|Brazil|Santa Albertina|Sinal Br Telecom Ltda|
+|7|88.46.137.82|8080|Italy|Milan|Telecom Italia S.p.A.|
+|8|82.114.118.142|1256|Russia|St Petersburg|ArtCommunications Ltd.|
+|9|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|10|51.81.32.81|8888|United States|Reston|OVH SAS|
+|11|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
+|12|36.89.212.254|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|13|66.94.97.238|443|United States|New York|Contabo Inc.|
+|14|134.0.63.134|8000|Albania|Tirana|Agjencia Kombetare Shoqerise se Informacionit|
+|15|103.129.222.161|3000|Indonesia|Cicurug|PT. Awan Kilat Semesta|
+|16|138.219.245.17|8080|Brazil|Simoes Filho|Softdados Conectividade|
+|17|186.0.176.147|80|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
+|18|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
+|19|103.153.190.78|8081|Indonesia|Jember|WANET|
+|20|191.102.64.147|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3121** proxies at the latest update. Usable proxies are below.
+> Scraper found **3119** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
 |2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|3|13.127.177.4|80|India|Mumbai|Amazon Technologies Inc.|
-|4|177.93.50.11|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|5|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|6|102.68.135.129|8080|Libya|Tripoli|Rawafed|
-|7|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
-|8|177.129.253.133|3128|Brazil|Penapolis|Maxcomm Ltda EPP|
-|9|165.16.27.7|1981|Libya|Darnah|Aljeel Aljadeed For Technology|
-|10|101.255.103.201|53281|Indonesia|Bekasi|PT Remala Abadi|
-|11|122.102.43.50|8080|Indonesia|Jakarta|PT Hipernet Indodata|
-|12|177.43.72.251|3128|Brazil|Brasília|Vivo|
-|13|190.115.12.20|999|Guatemala|Guatemala City|Ufinet Panama S.A.|
-|14|193.41.88.58|53281|Ukraine|Kyiv|Kyiv National Taras Shevchenko University|
-|15|49.156.42.210|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|16|185.25.148.129|8118|Poland|Warsaw|Cyber_Folks S.A.|
-|17|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|18|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
-|19|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
-|20|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|5|185.82.96.138|9091|Lebanon|Tripoli|NET 360 S.A.R.L|
+|6|117.54.11.85|3128|Indonesia|Jakarta|PT IndoInternet|
+|7|186.232.42.82|8080|Brazil|Sao Goncalo|Connect Network|
+|8|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|9|182.253.217.135|8080|Indonesia|Madiun|BIZNET|
+|10|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|11|170.239.255.2|55443|Brazil|Betim|Utopianet Informatica E Telecomunicacoes Ltda|
+|12|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|13|46.209.196.146|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|14|178.151.205.154|45099|Ukraine|Zaporizhzhya|Triolan|
+|15|36.95.34.106|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|16|102.134.127.15|8080|South Africa|Johannesburg|Fixed Mobile Telecommunications (Pty) LTD|
+|17|77.120.187.185|8080|Ukraine|Kharkiv|Volia Kharkov|
+|18|191.97.9.189|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|19|182.253.26.196|8080|Indonesia|Jakarta|BIZNET|
+|20|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
 
 
 

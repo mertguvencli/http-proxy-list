@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2722** proxies at the latest update. Usable proxies are below.
+> Scraper found **3294** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|145|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|145|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|145|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|134.122.26.11|80|United States|North Bergen|DigitalOcean, LLC|
-|6|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|7|47.119.133.82|8118|China|Shenzhen|Addresses CNNIC|
-|8|66.94.97.238|443|United States|New York|Contabo Inc.|
-|9|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
-|10|222.79.63.199|9999|China|Beijing|Chinanet|
-|11|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
-|12|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|13|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|14|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
-|15|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
-|16|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|17|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|18|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|19|197.159.133.254|3129|Ghana|Accra|Comsys (GH) Limited|
-|20|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
+|1|51.81.32.81|8888|United States|Reston|OVH SAS|
+|2|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|3|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|4|189.63.232.244|3128|Brazil|Ribeirão Preto|Claro S.A.|
+|5|189.161.21.4|10101|Mexico|Cuautlancingo|Uninet S.A. de C.V|
+|6|51.81.32.81|8888|United States|Reston|OVH SAS|
+|7|179.40.95.9|999|Argentina|San Vicente|Telefonica de Argentina|
+|8|110.76.151.14|8085|Indonesia|Pugeran Maguwoharjo|PT Pika Media Komunika|
+|9|178.210.51.118|8080|Russia|Voronezh|JSC KVANT-TELEKOM|
+|10|170.83.162.130|3128|Brazil|Brasília|Camon Provedor|
+|11|186.232.42.82|8080|Brazil|Sao Goncalo|Connect Network|
+|12|47.93.4.230|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
+|13|14.17.106.202|3128|China|Foshan|Chinanet|
+|14|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|15|179.106.86.3|8080|Brazil|Conceicao da Aparecida|Rede Nets Ltda.|
+|16|103.129.3.246|83|India|Balianta|S S Cablenet|
+|17|14.115.104.190|45770|China|Guangzhou|Chinanet|
+|18|103.168.164.26|82|India|Pune|Nutech Broadband|
+|19|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|20|40.136.41.6|8080|United States|Columbus|Windstream Communications LLC|
 
 
 

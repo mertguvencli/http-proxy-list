@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2761** proxies at the latest update. Usable proxies are below.
+> Scraper found **2785** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|121|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|121|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|121|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|155|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|155|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|155|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.64.75.225|9090|South Korea|Seoul|Google Asia Pacific Pte. Ltd|
-|2|106.55.59.47|8089|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|3|181.224.207.20|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|7|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|8|5.189.169.141|3128|Germany|Nuremberg|Contabo GmbH|
-|9|103.145.151.130|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
-|10|8.213.129.243|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|95.0.168.44|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|12|178.170.195.245|9999|Russia|Moscow|Cloud technology Limited (Ltd.)|
-|13|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|14|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
-|15|102.68.134.94|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|16|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
-|17|212.100.84.10|80|Nigeria|Lagos|Autonomous System number for Cyber Space|
-|18|95.0.206.22|8080|Turkey|Kayseri|Turk Telekomunikasyon Anonim Sirketi|
-|19|110.171.84.180|8080|Thailand|Thon Buri|True Internet Corporation CO. Ltd.|
-|20|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
+|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|3|189.73.50.58|8080|Brazil|Cascavel|Brasil Telecom Comunicacao Multimidia S.A|
+|4|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|5|201.217.246.178|8080|Argentina|Villa Angela|Ecom Chaco S.A.|
+|6|118.99.73.138|8080|Indonesia|Jakarta|BIZNET|
+|7|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|8|191.102.104.225|999|Colombia|Gama|TV AZTECA SUCURSAL COLOMBIA|
+|9|103.168.164.26|83|India|Pune|Nutech Broadband|
+|10|131.255.134.144|8080|Brazil|Araquari|O T Tecnologia Em InformÔtica Ltda|
+|11|201.150.51.30|45005|Brazil|Maceió|E. D. SERVIÔOS DE COMUNICAÔÔES LTDA|
+|12|113.177.48.183|19132|Vietnam|Hanoi|VNPT|
+|13|190.2.211.134|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|14|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|15|95.216.12.141|22209|Finland|Helsinki|Hetzner Online GmbH|
+|16|103.145.130.150|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
+|17|103.206.168.202|8083|Indonesia|Duri Pulo|INFOTEK|
+|18|201.89.89.34|8080|Brazil|Colombo|Brasil Telecom Comunicacao Multimidia S.A|
+|19|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|156.155.162.246|4415|South Africa|Boksburg|AxxessNetworks|
 
 
 

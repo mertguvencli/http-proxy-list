@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2730** proxies at the latest update. Usable proxies are below.
+> Scraper found **2570** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|85|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|85|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|85|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|3|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|4|8.213.129.34|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|8.213.128.149|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|8|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|8.213.128.152|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|10|8.213.128.106|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|12|8.213.129.57|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
-|14|177.54.229.1|9292|Brazil|Parauapebas|Aranet Comunicacao Ltda|
-|15|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
-|16|8.213.128.171|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|164.70.122.6|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
-|18|81.17.90.219|41890|Azerbaijan|Baku|Bakinternet ISP|
-|19|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|20|186.167.48.138|8080|Venezuela|Chivacoa|Corporacion Digitel C.A|
+|1|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|3|8.213.129.196|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|4|8.213.129.23|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|8.213.128.131|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
+|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|10|8.213.129.34|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|12|182.93.82.191|8080|Nepal|Kathmandu|Subisu Cablenet|
+|13|103.147.77.66|5003|Indonesia|Madiun|TRIDATA|
+|14|103.164.113.211|8080|Indonesia|Jakarta|SOLUSINET|
+|15|189.63.232.244|3128|Brazil|Ribeirão Preto|Claro S.A.|
+|16|195.46.111.187|8080|Russia|Irkutsk|Rostelecom networks|
+|17|134.209.148.107|8081|India|Bengaluru|DigitalOcean, LLC|
+|18|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|19|164.70.122.6|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
+|20|186.65.105.253|666|Brazil|Salvador|Bahiadados Telecom Ltda.|
 
 
 

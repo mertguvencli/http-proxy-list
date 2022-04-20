@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3427** proxies at the latest update. Usable proxies are below.
+> Scraper found **3113** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.81.32.81|8888|United States|Reston|OVH SAS|
-|2|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|3|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|4|142.93.44.47|3128|United Kingdom|London|DigitalOcean, LLC|
-|5|45.173.6.98|999|Colombia|Zipaquirá|Columbus Networks Colombia|
-|6|84.244.31.19|8080|Russia|Irkutsk|JSC "ER-Telecom Holding"|
-|7|181.129.98.146|8080|Colombia|La Ceja|EPM Telecomunicaciones S.A. E.S.P.|
-|8|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|9|1.179.232.220|8080|Thailand|Chiang Yuen|TOT Public Company Limited|
-|10|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|11|188.133.158.27|8080|Russia|Moscow|Enforta-MSK|
-|12|31.43.52.176|41890|Ukraine|Kyiv|Ukrainian Telecommunication Group LLC|
-|13|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|14|80.106.247.145|53410|Greece|Piraeus|Ote SA (Hellenic Telecommunications Organisation)|
-|15|200.116.198.177|35184|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
-|16|85.25.235.82|5566|France|Strasbourg|Host Europe GmbH|
-|17|45.125.222.90|8080|Bangladesh|Dhaka|SSD-TECH|
-|18|77.236.238.33|1256|Russia|Moscow|ArtCommunications Ltd.|
-|19|14.115.104.190|45770|China|Guangzhou|Chinanet|
-|20|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|2|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|3|181.224.207.21|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|4|222.79.63.199|9999|China|Beijing|Chinanet|
+|5|91.230.199.174|61440|Ukraine|Kryvyi Rih|Elektron-Service LLC|
+|6|202.169.41.227|8080|Indonesia|Jakarta|Biznet - PSN-NAP|
+|7|103.233.156.45|8080|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|8|194.219.129.195|8080|Greece|Athens|Forthnet|
+|9|85.105.139.53|8090|Turkey|Cankaya|TurkTelecom|
+|10|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|11|202.146.228.250|8088|Indonesia|Bekasi|PT Centrin Utama|
+|12|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
+|13|190.90.102.37|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|14|200.111.239.66|8080|Chile|Santiago|Entel Chile S.A.|
+|15|202.152.24.50|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|16|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|17|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|18|77.236.252.187|1256|Russia|Moscow|JSC "ER-Telecom Holding"|
+|19|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|20|201.120.27.15|53281|Mexico|Hermosillo|Uninet S.A. de C.V|
 
 
 

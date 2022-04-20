@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2570** proxies at the latest update. Usable proxies are below.
+> Scraper found **2489** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|85|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|85|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|85|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|47|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|47|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|47|
 
 ## Sources
 
@@ -43,24 +43,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
 |2|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|3|8.213.129.196|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|8.213.129.23|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|8.213.128.131|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|8.213.128.171|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|8.213.130.102|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 |6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|7|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|8|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|9|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|10|8.213.129.34|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|12|182.93.82.191|8080|Nepal|Kathmandu|Subisu Cablenet|
-|13|103.147.77.66|5003|Indonesia|Madiun|TRIDATA|
-|14|103.164.113.211|8080|Indonesia|Jakarta|SOLUSINET|
-|15|189.63.232.244|3128|Brazil|Ribeirão Preto|Claro S.A.|
-|16|195.46.111.187|8080|Russia|Irkutsk|Rostelecom networks|
-|17|134.209.148.107|8081|India|Bengaluru|DigitalOcean, LLC|
-|18|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
-|19|164.70.122.6|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
-|20|186.65.105.253|666|Brazil|Salvador|Bahiadados Telecom Ltda.|
+|7|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|8|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
+|9|8.213.128.149|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|10|45.70.14.58|999|Ecuador|Baba|Nedetel S.A.|
+|11|85.25.246.206|5566|France|Strasbourg|BSB-SERVICE|
+|12|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
+|13|8.213.128.172|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|14|190.205.101.54|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
+|15|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
+|16|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|17|8.213.128.94|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|18|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|19|218.1.200.180|57114|China|Shanghai|China Telecom|
+|20|24.116.218.195|8080|United States|Pascagoula|CABLE ONE, INC.|
 
 
 

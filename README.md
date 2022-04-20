@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2944** proxies at the latest update. Usable proxies are below.
+> Scraper found **2730** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|68|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|68|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|68|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|2|8.213.129.23|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|5|8.213.128.78|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|6|203.34.48.10|9999|China|Qingzhou|Cloud Computing Corporation|
-|7|8.213.128.30|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|8|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|9|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|10|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|8.213.129.57|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|12|8.213.128.131|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|88.132.95.93|53281|Hungary|Palhaza|PRTELECOM|
-|14|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|15|8.213.128.19|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|16|75.119.197.10|1081|United States|Brea|New Dream Network, LLC|
-|17|181.209.124.10|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|18|89.28.53.42|8080|Moldova|Chisinau|SC STARNET SRL|
-|19|8.213.128.114|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|8.213.128.214|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|3|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|4|8.213.129.34|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|8.213.128.149|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|8|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|8.213.128.152|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|10|8.213.128.106|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|12|8.213.129.57|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
+|14|177.54.229.1|9292|Brazil|Parauapebas|Aranet Comunicacao Ltda|
+|15|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
+|16|8.213.128.171|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|17|164.70.122.6|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
+|18|81.17.90.219|41890|Azerbaijan|Baku|Bakinternet ISP|
+|19|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
+|20|186.167.48.138|8080|Venezuela|Chivacoa|Corporacion Digitel C.A|
 
 
 

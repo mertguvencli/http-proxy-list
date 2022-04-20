@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2796** proxies at the latest update. Usable proxies are below.
+> Scraper found **3104** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|212|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|212|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|212|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|218.1.142.159|57114|China|Shanghai|China Telecom|
-|2|202.152.143.64|3128|Indonesia|Sleman|PT Jembatan Citra Nusantara|
-|3|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|5|65.121.180.14|21988|United States|Salt Lake City|CenturyLink Communications|
-|6|5.189.169.141|3128|Germany|Nuremberg|Contabo GmbH|
-|7|103.122.60.5|8080|India|Visakhapatnam|Vizag Broadband Communications Pvt Ltd|
-|8|201.16.228.9|3128|Brazil|Jundiaí|ALGAR TELECOM S/A|
-|9|197.211.62.242|8080|Nigeria|Lagos|Globacom Limited|
-|10|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|11|103.159.46.10|83|India|Ahmedabad|King Netsol Private Limited|
-|12|51.68.199.120|3128|United Kingdom|Hayes|OVH SAS|
-|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|14|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|15|43.250.127.98|9001|Mongolia|Ulan Bator|Wicom Networks|
-|16|94.232.11.178|46449|Russia|Moscow|Net By Net Holding LLC|
-|17|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|18|85.25.119.241|5566|France|Strasbourg|BSB-SERVICE|
-|19|177.128.44.131|6006|Brazil|Sao Francisco de Paula|FLY & LVT|
-|20|8.213.128.253|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|1|106.55.59.47|8089|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|5|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
+|6|101.255.150.50|8080|Indonesia|Bekasi|PT Remala Abadi|
+|7|45.70.201.179|999|Ecuador|Hacienda Ibarra|Nedetel S.A.|
+|8|94.141.117.1|8080|Russia|Moscow|MediaCom LLC|
+|9|190.110.99.100|999|Chile|Rancagua|Silica Networks Argentina S.A.|
+|10|60.211.218.78|53281|China|Shanghai|CNC Group CHINA169 Shandong Province Network|
+|11|103.78.25.99|3128|Indonesia|Bekasi|PT Mora Telematika Indonesia|
+|12|95.216.194.46|1081|Finland|Helsinki|Hetzner Online GmbH|
+|13|182.253.186.140|8080|Indonesia|Jakarta|BIZNET|
+|14|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|15|167.179.45.50|55443|Cambodia|Phnom Penh|NeocomISP Limited|
+|16|103.167.170.131|8080|Indonesia|Tangerang|PT Rajeg Media Telekomunikasi|
+|17|188.133.158.80|1256|Russia|Moscow|Enforta-MSK|
+|18|45.6.98.207|8888|Brazil|Aracoiaba da Serra|Spin TelecomunicaÔÔes|
+|19|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
+|20|149.56.96.252|5566|Canada|Montreal|OVH SAS|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2677** proxies at the latest update. Usable proxies are below.
+> Scraper found **2815** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|3|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|4|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|5|222.129.38.74|57114|China|Beijing|China Unicom Beijing Province Network|
-|6|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|7|180.180.123.191|8080|Thailand|Pathum Thani|TOT Public Company Limited|
-|8|222.79.63.199|9999|China|Beijing|Chinanet|
-|9|124.70.5.25|7777|China|Beijing|Huawei Cloud Service data center|
-|10|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|11|223.112.99.150|80|China|Huangpu|China Mobile communications corporation|
-|12|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|13|8.213.130.102|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|14|69.49.71.198|3128|United States|Muscatine|Muscatine Power and Water|
-|15|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|16|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
-|17|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|18|8.213.129.23|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|19|58.27.255.98|80|Pakistan|Karachi|Wateen Telecom Limited|
-|20|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|2|194.206.246.50|8080|France|Suresnes|RAIN|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|106.55.59.47|8089|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|8|31.14.124.3|8080|Iran|Tehran|Afranet|
+|9|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|10|8.213.128.30|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|103.145.142.54|80|Indonesia|Tamiajeng|PT. Indonesia Comnets Plus|
+|12|14.139.184.130|3128|India|Thrissur|National Knowledge Network|
+|13|116.254.116.234|8080|Indonesia|Semarang|PT Media Sarana Data|
+|14|45.174.70.18|53281|Mexico|Huatabampo|Index Datacom S.a. De C.V.|
+|15|8.213.129.34|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|16|80.244.41.249|8080|Russia|Krasnodar|Freedom Krasnodar|
+|17|178.134.157.215|8080|Georgia|Ts'khinvali|JSC "Silknet"|
+|18|8.213.128.149|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|19|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
+|20|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

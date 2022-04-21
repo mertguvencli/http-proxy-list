@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2491** proxies at the latest update. Usable proxies are below.
+> Scraper found **2641** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|61|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|61|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|61|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|63.161.104.189|3128|United States|Itasca|Sprint|
-|5|194.206.246.50|8080|France|Suresnes|RAIN|
-|6|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|7|8.213.128.253|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|8|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|8.213.128.202|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|10|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
-|11|8.213.129.196|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|12|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|13|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
-|14|8.213.128.94|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|15|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|16|41.59.200.20|9999|Tanzania|Arusha|Tanzania Telecommunications CO. LTD|
-|17|8.213.130.102|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|18|1.186.85.38|1111|India|Bengaluru|D-VoiS Broadband Private Limited|
-|19|85.25.95.231|5566|France|Strasbourg|INTERGENIA|
-|20|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|1|63.161.104.189|3128|United States|Itasca|Sprint|
+|2|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|4|37.204.157.91|41890|Russia|Moscow|NCNET|
+|5|190.121.21.211|1081|Chile|Valdivia|Telefonica del Sur S.A.|
+|6|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|7|197.255.55.122|41890|Nigeria|Lagos|Cobranet Limited|
+|8|8.213.128.172|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|103.180.198.2|8181|Indonesia|Sukabumi|PT Bentang Johar Awal|
+|10|14.139.184.130|3128|India|Thrissur|National Knowledge Network|
+|11|103.214.202.105|80|Bangladesh|Chittagong|Orange Communication|
+|12|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|13|80.244.41.249|8080|Russia|Krasnodar|Freedom Krasnodar|
+|14|8.213.128.171|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|217.29.26.194|8080|Kyrgyzstan|Bishkek|Saimanet Telecomunications|
+|16|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|17|102.164.193.132|8080|South Africa|Middelburg|Jenny Internet cc|
+|18|103.4.94.12|3128|Pakistan|Lahore|HEC|
+|19|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
+|20|8.213.128.131|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 

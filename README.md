@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2870** proxies at the latest update. Usable proxies are below.
+> Scraper found **2763** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|87|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|87|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|87|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|14.17.106.202|3128|China|Foshan|Chinanet|
+|1|186.216.80.166|3128|Brazil|São Paulo|Rede Brasileira de Comunicacao Ltda|
 |2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
-|5|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
-|6|177.93.50.146|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|7|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|8|161.18.235.183|8080|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|9|177.242.148.14|999|Mexico|Atlacomulco de Fabela|Mega Cable, S.A. de C.V.|
-|10|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|11|159.69.208.8|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|12|120.143.18.201|8080|Japan|Toshima|INTERLINK|
-|13|190.221.33.10|999|Argentina|San Telmo|AMX Argentina S.A.|
-|14|66.94.97.238|443|United States|New York|Contabo Inc.|
-|15|164.70.122.6|3128|Japan|Chiyoda|NTT PC Communications, Inc.|
-|16|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|17|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|18|138.219.245.17|8080|Brazil|Simoes Filho|Softdados Conectividade|
-|19|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|20|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
+|3|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|4|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|5|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|6|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
+|7|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
+|8|8.213.128.172|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|9|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|10|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
+|12|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|13|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|14|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|15|103.152.100.183|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|16|190.14.249.119|999|Colombia|San Alberto|Media Commerce Partners S.A|
+|17|18.229.141.31|8888|Brazil|São Paulo|Amazon Technologies Inc.|
+|18|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|19|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|20|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
 
 
 

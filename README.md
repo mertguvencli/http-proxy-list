@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3013** proxies at the latest update. Usable proxies are below.
+> Scraper found **3033** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|140|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|140|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|140|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|3|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|4|45.70.14.58|999|Ecuador|Baba|Nedetel S.A.|
-|5|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|6|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|7|103.75.209.138|3128|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|8|46.161.194.137|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
-|9|188.94.225.5|8080|Russia|Moscow|Mifril+ LLC|
-|10|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|11|190.217.14.110|999|Venezuela|Caracas|Lan-online C.A.|
-|12|165.16.25.66|9999|Libya|Idri|Aljeel Aljadeed For Technology|
-|13|8.213.129.36|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|14|213.232.127.206|8085|Iran|Tehran|Toesegaran Shabakeh Arseh Novin Ltd|
-|15|190.120.250.218|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|16|203.217.169.100|6969|Cambodia|Phnom Penh|S.I Group|
-|17|8.213.128.172|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|18|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
-|19|8.213.130.102|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|95.167.29.50|8080|Russia|St Petersburg|PJSC Rostelecom|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|4|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|5|12.31.246.5|8080|United States|Vallejo|AT&T Services, Inc.|
+|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|80.244.41.249|8080|Russia|Krasnodar|Freedom Krasnodar|
+|8|103.143.195.2|1080|Indonesia|Lubuk Pakam|TRINITY|
+|9|103.164.99.58|8181|Indonesia|Jakarta|SOLUSINET|
+|10|203.34.48.10|9999|China|Qingzhou|Cloud Computing Corporation|
+|11|8.213.128.114|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|12|8.213.128.149|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|178.252.175.5|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|14|8.213.128.253|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|8.213.130.102|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|16|190.97.236.141|999|Venezuela|San Cristóbal|NetLink América C.A.|
+|17|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|18|66.94.97.238|443|United States|New York|Contabo Inc.|
+|19|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|20|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
 
 
 

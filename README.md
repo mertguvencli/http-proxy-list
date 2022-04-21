@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2985** proxies at the latest update. Usable proxies are below.
+> Scraper found **3090** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|197|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|197|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|197|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|234|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|234|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|234|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|190.2.210.250|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|2|135.181.161.249|3128|Finland|Helsinki|Hetzner Online GmbH|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|159.69.208.8|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|5|181.209.99.219|999|Argentina|Cachi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|6|185.220.181.53|8080|Azerbaijan|Baku|NetPoint LLC|
-|7|181.169.147.8|3128|Argentina|Villa Martelli|Telecom Argentina S.A|
-|8|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|9|20.74.169.104|8118|United Arab Emirates|Dubai|Microsoft Corporation|
-|10|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|74.114.232.162|8080|United States|Lake Station|Midwest Telecom of America, Inc|
-|12|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|13|61.153.251.150|22222|China|Beijing|Chinanet|
-|14|209.146.19.61|55443|Philippines|Capihan|Cogent Communications|
-|15|190.106.49.250|8080|Nicaragua|San Marcos|IBW Communications|
-|16|80.252.136.155|3128|Russia|Pavlovskiy Posad|Flex ISP|
-|17|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|18|81.17.90.219|41890|Azerbaijan|Baku|Bakinternet ISP|
-|19|103.164.180.90|8080|Indonesia|Bangkalan|Dinas Komunikasi dan Informatika Kabupaten Bangkalan|
-|20|45.195.76.114|999|Dominican Republic|Santo Domingo Este|Orbitek SRL|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|3|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|4|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|164.52.207.80|80|India|Noida|E2E Networks Limited|
+|6|14.17.106.202|3128|China|Foshan|Chinanet|
+|7|37.232.183.74|53281|Russia|Cheboksary|Net By Net Holding LLC|
+|8|178.252.175.16|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|9|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|10|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|11|187.44.1.41|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao Ltda|
+|12|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|13|212.115.232.79|31280|Ukraine|Dnipro|ISP "Fregat"|
+|14|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
+|16|201.140.208.146|3128|Brazil|Janauba|Norte Line Telecomunicacoes Ltda.|
+|17|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|18|78.157.254.58|51008|Russia|Petropavlovsk-Kamchatsky|"SKTV+" LLC|
+|19|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|20|79.120.177.106|8080|Hungary|Budapest|Invitech ICT Services Kft.|
 
 
 

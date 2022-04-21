@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2815** proxies at the latest update. Usable proxies are below.
+> Scraper found **3013** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|151|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|151|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|151|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|140|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|140|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|140|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|194.206.246.50|8080|France|Suresnes|RAIN|
-|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|106.55.59.47|8089|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|8|31.14.124.3|8080|Iran|Tehran|Afranet|
-|9|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|10|8.213.128.30|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|11|103.145.142.54|80|Indonesia|Tamiajeng|PT. Indonesia Comnets Plus|
-|12|14.139.184.130|3128|India|Thrissur|National Knowledge Network|
-|13|116.254.116.234|8080|Indonesia|Semarang|PT Media Sarana Data|
-|14|45.174.70.18|53281|Mexico|Huatabampo|Index Datacom S.a. De C.V.|
-|15|8.213.129.34|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|16|80.244.41.249|8080|Russia|Krasnodar|Freedom Krasnodar|
-|17|178.134.157.215|8080|Georgia|Ts'khinvali|JSC "Silknet"|
-|18|8.213.128.149|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|19|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|20|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|3|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|4|45.70.14.58|999|Ecuador|Baba|Nedetel S.A.|
+|5|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|6|113.161.59.136|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
+|7|103.75.209.138|3128|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
+|8|46.161.194.137|8085|Iraq|Duhok|Valin Company for General Trading and Communication LTD|
+|9|188.94.225.5|8080|Russia|Moscow|Mifril+ LLC|
+|10|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|11|190.217.14.110|999|Venezuela|Caracas|Lan-online C.A.|
+|12|165.16.25.66|9999|Libya|Idri|Aljeel Aljadeed For Technology|
+|13|8.213.129.36|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|14|213.232.127.206|8085|Iran|Tehran|Toesegaran Shabakeh Arseh Novin Ltd|
+|15|190.120.250.218|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|16|203.217.169.100|6969|Cambodia|Phnom Penh|S.I Group|
+|17|8.213.128.172|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|18|103.7.27.186|8080|Cambodia|Phnom Penh|NTT (Thailand) Limited|
+|19|8.213.130.102|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|20|95.167.29.50|8080|Russia|St Petersburg|PJSC Rostelecom|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2798** proxies at the latest update. Usable proxies are below.
+> Scraper found **2841** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|90|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|90|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|90|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|5|66.211.155.34|8080|United States|Milford|FirstLight Fiber|
-|6|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|7|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|8|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
-|9|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|10|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|11|200.106.184.13|999|Argentina|Carlos Spegazzini|Fullnet Solutions S.A.S.|
-|12|80.244.41.249|8080|Russia|Krasnodar|Freedom Krasnodar|
-|13|8.213.128.171|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|14|85.25.99.106|5566|France|Strasbourg|PLUSSERVER|
-|15|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
-|16|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|17|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|18|8.213.130.102|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|19|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|190.109.16.145|999|Colombia|Medellín|Columbus Networks Colombia|
+|2|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|3|119.28.155.202|9999|South Korea|Seoul|ComsenzNet|
+|4|187.6.13.230|3128|Brazil|Brasília|Brasil Telecom Comunicacao Multimidia S.A|
+|5|47.115.6.196|3389|China|Shenzhen|Addresses CNNIC|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|218.1.200.179|57114|China|Shanghai|China Telecom|
+|8|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|9|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
+|10|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|115.74.246.138|8080|Vietnam|Ho Chi Minh City|VIETELxdsl|
+|12|184.95.0.218|8181|United States|Ashburn|PREPA Networks|
+|13|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|14|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
+|15|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|16|186.3.9.219|999|Ecuador|Loja|Telconet S.A|
+|17|190.85.253.142|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|18|47.93.4.230|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
+|19|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|20|187.251.108.24|999|Mexico|Chihuahua City|Total Play Telecomunicaciones SA De CV|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2623** proxies at the latest update. Usable proxies are below.
+> Scraper found **2938** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|95|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|95|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|95|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|34.224.3.158|3128|United States|Ashburn|Amazon.com, Inc.|
-|2|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
-|5|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|6|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|9|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
-|10|142.93.44.47|3128|United Kingdom|London|DigitalOcean, LLC|
-|11|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|12|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|104.168.77.133|3128|United States|Los Angeles|ColoCrossing|
-|14|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
-|15|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|16|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|17|190.121.21.211|1081|Chile|Valdivia|Telefonica del Sur S.A.|
-|18|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
-|19|177.93.41.158|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|20|8.213.129.243|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|2|14.17.106.202|3128|China|Foshan|Chinanet|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|5|187.44.167.78|60786|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
+|6|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|7|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|8|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|9|175.139.179.65|42580|Malaysia|Kuala Lumpur|Telekom Malaysia Berhad|
+|10|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|11|120.89.90.230|80|Indonesia|Cideng|PT. Java Digital Nusantara|
+|12|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|101.53.154.137|2002|India|Noida|E2E Networks Limited|
+|14|109.235.189.217|8080|Russia|Sochi|Dmitriy V. Kozmenko|
+|15|202.21.126.118|8080|Mongolia|Ulan Bator|Mobinet LLC|
+|16|43.249.224.170|83|India|Hyderabad|Equinox Consulting PVT LTD|
+|17|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|18|185.141.10.227|34082|Iraq|Al Hāshimīyah|Hulum Almustakbal Company Communication Engineering and Services Ltd|
+|19|213.136.101.36|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|20|188.133.152.247|1256|Russia|Moscow|Enforta-MSK|
 
 
 

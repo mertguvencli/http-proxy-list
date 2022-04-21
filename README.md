@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3177** proxies at the latest update. Usable proxies are below.
+> Scraper found **2899** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|113|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|113|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|113|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|177.93.50.234|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|45.189.254.49|999|Mexico|Alvarado|Tracered SA De CV|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|6|103.78.36.163|46977|Indonesia|Jakarta|MORATELINDO|
-|7|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
-|8|110.78.147.16|8080|Thailand|Ko Samui|CAT-BB|
-|9|175.100.72.95|57938|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|10|165.16.54.233|9999|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|11|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|12|76.100.209.140|8118|United States|Frederick|Comcast Cable Communications, LLC|
-|13|216.176.187.99|8886|United States|Bonney Lake|Wowrack.com|
-|14|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
-|15|180.211.191.58|8080|Bangladesh|Kalia|Bangladesh Telecommunications Company Ltd.|
-|16|5.35.67.90|32132|Russia|Mytishchi|INFOLINE|
-|17|183.88.213.85|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|18|139.5.177.5|1081|Malaysia|Kampung Baru Subang|Gigabit Hosting Sdn Bhd|
-|19|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|20|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|3|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|4|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|6|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|7|14.17.106.202|3128|China|Foshan|Chinanet|
+|8|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|9|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
+|10|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|63.161.104.189|3128|United States|Itasca|Sprint|
+|12|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|13|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
+|14|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|5.134.221.58|41890|Russia|Moscow|Wiland Network Russia|
+|16|8.213.128.106|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|17|8.213.129.196|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|18|8.213.128.253|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|19|8.213.129.23|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|20|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

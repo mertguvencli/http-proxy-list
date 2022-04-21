@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3140** proxies at the latest update. Usable proxies are below.
+> Scraper found **3219** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|305|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|305|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|305|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|63.161.104.189|3128|United States|Itasca|Sprint|
-|3|159.69.208.8|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|152.231.25.126|8080|Colombia|Santiago de Cali|Colombiatel Telecomunicaciones|
-|6|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
-|7|95.216.12.141|22214|Finland|Helsinki|Hetzner Online GmbH|
-|8|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|9|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|11|177.22.88.224|3128|Brazil|Passo Fundo|Coprel Telecom Ltda|
-|12|182.52.236.134|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|13|103.18.77.238|8080|Indonesia|Bogor|PT Usaha Adi Sanggoro|
-|14|118.99.104.135|8080|Indonesia|Bojongsalaman|Biznet Networks|
-|15|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|16|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|17|124.158.167.173|8080|Indonesia|Tangerang|ICON+|
-|18|81.91.144.190|55443|Iran|Tehran|Farabord Dadeh Haye Iranian Co.|
-|19|190.205.101.54|999|Venezuela|San Carlos del Zulia|CANTV Servicios, Venezuela|
-|20|45.189.116.21|999|Peru|Lima|Fiber Digital S.R.L|
+|2|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
+|3|5.16.0.97|1256|Russia|St Petersburg|Enforta-MSK|
+|4|181.114.192.1|3128|Argentina|Santa Rosa|Aguas Del Colorado Sapem|
+|5|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|6|50.193.36.173|8080|United States|Lathrop|Comcast Cable Communications|
+|7|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|8|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
+|9|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|11|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
+|12|77.70.35.87|37475|Bulgaria|Sofia|A1 Bulgaria EAD|
+|13|186.0.176.147|80|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
+|14|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|15|88.255.102.120|8080|Turkey|İskenderun|TurkTelekom|
+|16|103.120.175.119|9191|Indonesia|Tangerang|PT. Eka Mas Republik|
+|17|188.166.218.243|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|183.88.228.208|8080|Thailand|Samut Prakan|Triple T Broadband Public Company Limited|
+|19|91.107.15.221|53281|Russia|Lyubertsy|AVK-computer ltd|
+|20|114.249.116.203|9000|China|Beijing|China Unicom Beijing Province Network|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2946** proxies at the latest update. Usable proxies are below.
+> Scraper found **3143** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|120|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|120|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|120|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -43,24 +43,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
 |2|63.161.104.189|3128|United States|Itasca|Sprint|
-|3|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|4|20.116.130.70|3128|Canada|Toronto|Microsoft Corporation|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|7|218.1.200.179|57114|China|Shanghai|China Telecom|
-|8|201.148.85.50|999|Mexico|Magdalena Contreras|Operbes, S.A. de C.V.|
-|9|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|10|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
-|11|201.182.85.242|999|Ecuador|Nueva Loja|Expertservi S.A.|
-|12|45.178.133.28|999|Chile|Curicó|Mundonet S.p.A|
-|13|38.123.68.152|999|Mexico|Paseos del Valle [Fraccionamiento]|Cogent Communications|
-|14|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
-|15|85.25.117.171|5566|France|Strasbourg|BSB-SERVICE|
-|16|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|17|62.138.8.42|5566|France|Strasbourg|Host Europe GmbH|
-|18|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
-|19|159.65.69.186|9300|United States|Santa Clara|DigitalOcean, LLC|
-|20|20.116.130.70|3128|Canada|Toronto|Microsoft Corporation|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|139.99.88.19|8080|Singapore|Singapore|OVH SAS|
+|6|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|8|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
+|9|144.168.180.48|3128|Canada|Montreal|B2 Net Solutions Inc.|
+|10|91.214.31.234|8080|Ukraine|Zaporizhzhia|TOV "Telza"|
+|11|190.61.98.244|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|12|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
+|13|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|14|139.9.188.234|7890|China|Guangzhou|Huawei Cloud Service data center|
+|15|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
+|16|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|18|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|19|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|20|139.99.88.19|8080|Singapore|Singapore|OVH SAS|
 
 
 

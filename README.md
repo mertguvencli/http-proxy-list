@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3219** proxies at the latest update. Usable proxies are below.
+> Scraper found **3307** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|305|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|305|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|305|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|284|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|284|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|284|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|1|63.161.104.189|3128|United States|Itasca|Sprint|
 |2|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
-|3|5.16.0.97|1256|Russia|St Petersburg|Enforta-MSK|
-|4|181.114.192.1|3128|Argentina|Santa Rosa|Aguas Del Colorado Sapem|
-|5|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
-|6|50.193.36.173|8080|United States|Lathrop|Comcast Cable Communications|
-|7|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|8|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
-|9|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|10|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|11|186.154.211.106|999|Colombia|Bogotá|ETB - Colombia|
-|12|77.70.35.87|37475|Bulgaria|Sofia|A1 Bulgaria EAD|
-|13|186.0.176.147|80|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
-|14|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|15|88.255.102.120|8080|Turkey|İskenderun|TurkTelekom|
-|16|103.120.175.119|9191|Indonesia|Tangerang|PT. Eka Mas Republik|
-|17|188.166.218.243|8080|Singapore|Singapore|DigitalOcean, LLC|
-|18|183.88.228.208|8080|Thailand|Samut Prakan|Triple T Broadband Public Company Limited|
-|19|91.107.15.221|53281|Russia|Lyubertsy|AVK-computer ltd|
-|20|114.249.116.203|9000|China|Beijing|China Unicom Beijing Province Network|
+|3|80.244.229.55|1256|Russia|Moscow|ArtCommunications Ltd.|
+|4|194.206.246.50|8080|France|Suresnes|RAIN|
+|5|52.82.95.78|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|6|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|8|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|9|37.232.183.74|53281|Russia|Cheboksary|Net By Net Holding LLC|
+|10|160.251.14.122|3129|Japan|Chiyoda|GMO Internet, Inc|
+|11|8.242.207.164|999|Chile|Santiago|CTL Chile|
+|12|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
+|13|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|14|94.73.212.196|80|Russia|Divnogorsk|ORIONNET|
+|15|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|16|80.244.41.249|8080|Russia|Krasnodar|Freedom Krasnodar|
+|17|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
+|18|36.94.47.62|4480|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|186.250.29.82|8080|Brazil|Santa Helena|KDM INTERNET TELECOMUNICACOES LTDA|
+|20|188.133.136.69|8080|Russia|Moscow|Enforta-MSK|
 
 
 

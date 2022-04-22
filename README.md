@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2993** proxies at the latest update. Usable proxies are below.
+> Scraper found **2985** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|91|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|91|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|91|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|2|201.148.85.50|999|Mexico|Magdalena Contreras|Operbes, S.A. de C.V.|
-|3|117.157.197.18|3128|China|Nanjie|China Mobile communications corporation|
-|4|118.127.99.93|53281|Australia|Melbourne|Spirit Telecom (Australia) Pty Ltd|
-|5|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
-|6|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
-|7|125.163.160.41|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
-|8|36.66.124.193|3128|Indonesia|Lubang Buaya|PT. Telekomunikasi Indonesia|
-|9|85.25.91.161|5566|Germany|Cologne|PlusServer GmbH|
-|10|218.1.142.95|57114|China|Shanghai|China Telecom|
-|11|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|12|190.110.99.98|999|Chile|Rancagua|Silica Networks Argentina S.A.|
-|13|63.161.104.189|3128|United States|Itasca|Sprint|
-|14|102.68.134.94|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|15|8.213.128.19|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|16|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|17|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|18|106.55.59.47|8089|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|19|91.221.240.253|1515|Iran|Tehran|Eligasht Air Travel & Tourist Services Company Limited|
-|20|186.232.42.82|8080|Brazil|Sao Goncalo|Connect Network|
+|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|2|140.227.25.56|5678|Japan|Chiyoda|NTT PC Communications, Inc.|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
+|5|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|6|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|7|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|8|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
+|9|63.161.104.189|3128|United States|Itasca|Sprint|
+|10|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|11|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
+|12|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|13|52.82.95.78|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
+|14|180.211.191.58|8080|Bangladesh|Kalia|Bangladesh Telecommunications Company Ltd.|
+|15|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|16|14.17.106.202|3128|China|Foshan|Chinanet|
+|17|188.72.0.117|8080|Iraq|Sulaymaniyah|SAWAD LAND for Information Technology Ltd|
+|18|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
+|19|49.231.200.212|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|20|179.1.129.94|999|Colombia|Aipe|Internexa S.a. E.S.P|
 
 
 

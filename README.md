@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3402** proxies at the latest update. Usable proxies are below.
+> Scraper found **3119** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|231|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|231|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|231|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
 |2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|167.172.173.210|44831|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|95.0.168.58|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
-|8|201.220.102.146|8080|Chile|Talca|Telefonica del Sur S.A.|
-|9|102.38.17.121|8080|Libya|Tripoli|GHA|
-|10|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
-|11|103.145.130.150|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
-|12|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|13|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|14|168.90.15.177|999|Colombia|Chiquinquira|Media Commerce Partners S.A|
-|15|41.138.168.2|8080|Nigeria|Lagos|Autonomous System number for Cyber Space|
-|16|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
-|17|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|18|158.69.52.218|9300|Canada|Montreal|OVH SAS|
-|19|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|8.213.128.30|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|4|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|5|181.224.207.18|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|6|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|63.161.104.189|3128|United States|Itasca|Sprint|
+|8|170.82.241.228|8080|Brazil|Blumenau|Unifique TelecomunicaÔÔes SA|
+|9|8.213.129.243|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|11|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|12|102.39.215.83|8080|South Africa|Cape Town|Vox Telecom|
+|13|8.213.128.30|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|14|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|15|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
+|16|168.90.15.177|999|Colombia|Chiquinquira|Media Commerce Partners S.A|
+|17|157.90.205.166|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|18|117.204.254.204|8080|India|Nashik|Bharat Sanchar Nigam Ltd|
+|19|8.213.129.23|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|20|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

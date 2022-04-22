@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3119** proxies at the latest update. Usable proxies are below.
+> Scraper found **3090** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|165|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|165|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|165|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|3|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
 |4|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|181.224.207.18|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|6|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|7|63.161.104.189|3128|United States|Itasca|Sprint|
-|8|170.82.241.228|8080|Brazil|Blumenau|Unifique TelecomunicaÔÔes SA|
-|9|8.213.129.243|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|11|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|12|102.39.215.83|8080|South Africa|Cape Town|Vox Telecom|
-|13|8.213.128.30|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|14|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
-|15|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
-|16|168.90.15.177|999|Colombia|Chiquinquira|Media Commerce Partners S.A|
-|17|157.90.205.166|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|117.204.254.204|8080|India|Nashik|Bharat Sanchar Nigam Ltd|
-|19|8.213.129.23|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|20|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|5|221.217.50.129|9000|China|Xicheng District|China Unicom Beijing Province Network|
+|6|85.158.75.102|53281|Latvia|Ventspils|Skatvis|
+|7|149.56.96.252|5566|Canada|Montreal|OVH SAS|
+|8|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
+|9|115.87.196.88|8080|Thailand|Bangkok|TRUEBB|
+|10|63.161.104.189|3128|United States|Itasca|Sprint|
+|11|8.213.128.19|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|12|8.213.128.158|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|13|195.189.123.213|3128|Russia|Moscow|Iptp LTD|
+|14|8.213.128.149|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|15|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|16|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|17|14.17.106.202|3128|China|Foshan|Chinanet|
+|18|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|19|203.176.135.30|8080|Cambodia|Phnom Penh|MekongNet|
+|20|45.182.22.54|999|Honduras|San Pedro Sula|Multicable De Honduras|
 
 
 

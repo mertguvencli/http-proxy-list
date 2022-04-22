@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3201** proxies at the latest update. Usable proxies are below.
+> Scraper found **3512** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|309|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|309|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|309|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|206.62.153.9|8080|Palestine|Gaza|AGIS|
-|5|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|6|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|7|80.122.183.158|8080|Austria|Bad Voeslau|A1 Telekom Austria AG|
-|8|83.170.219.86|8081|Ukraine|Kyiv|Golden Telecom Network|
-|9|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
-|10|103.168.164.26|83|India|Pune|Nutech Broadband|
-|11|181.209.99.218|999|Argentina|Cachi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
-|12|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
-|13|172.96.169.33|9955|Puerto Rico|Guaynabo|Fuse Telecom LLC|
-|14|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
-|15|144.91.73.122|5566|Germany|Nuremberg|Contabo GmbH|
-|16|41.86.42.41|8080|Seychelles|Cascade|CWS DIB BUNDLE|
-|17|94.181.48.95|1256|Russia|Moscow|Enforta-MSK|
-|18|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|19|122.2.28.114|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
-|20|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
+|2|14.17.106.202|3128|China|Foshan|Chinanet|
+|3|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|4|221.217.50.129|9000|China|Xicheng District|China Unicom Beijing Province Network|
+|5|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|6|203.153.125.242|8080|Indonesia|Tangerang|GMNUSANTARA|
+|7|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|8|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|9|117.157.197.18|3128|China|Nanjie|China Mobile communications corporation|
+|10|51.79.50.31|9300|Canada|Beauharnois|OVH SAS|
+|11|197.248.157.159|8080|Kenya|Nairobi|Safaricom Limited|
+|12|189.193.224.222|999|Mexico|Cuapiaxtla|Mega Cable, S.A. de C.V.|
+|13|190.152.5.17|39888|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|14|195.211.219.147|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|15|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|16|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|17|12.31.246.5|8080|United States|Vallejo|AT&T Services, Inc.|
+|18|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
+|19|5.16.0.180|8080|Russia|St Petersburg|Enforta-MSK|
+|20|77.242.16.30|8080|Albania|Tirana|Abissnet ISP|
 
 
 

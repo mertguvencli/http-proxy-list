@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3251** proxies at the latest update. Usable proxies are below.
+> Scraper found **3402** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|231|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|231|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|231|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|2|111.23.16.250|3128|China|Jianning|China Mobile communications corporation|
-|3|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|4|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|167.172.173.210|44831|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
 |5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|6|187.228.150.68|8080|Mexico|Ixmiquilpan|Uninet S.A. de C.V.|
-|7|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|8|134.209.148.107|8081|India|Bengaluru|DigitalOcean, LLC|
-|9|63.161.104.189|3128|United States|Itasca|Sprint|
-|10|62.75.229.165|5566|France|Strasbourg|Host Europe GmbH|
-|11|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|12|8.213.128.202|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|13|111.23.16.250|3128|China|Jianning|China Mobile communications corporation|
-|14|160.16.242.164|3128|Japan|Tokyo|SAKURA Internet Inc.|
-|15|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
-|16|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|17|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|18|213.136.101.36|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|19|201.222.40.122|8080|Colombia|Santa Marta|Megaport (Bulgaria) EAD|
-|20|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
+|6|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|7|95.0.168.58|1981|Turkey|Dalyan|Turk Telekomunikasyon Anonim Sirketi|
+|8|201.220.102.146|8080|Chile|Talca|Telefonica del Sur S.A.|
+|9|102.38.17.121|8080|Libya|Tripoli|GHA|
+|10|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
+|11|103.145.130.150|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
+|12|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|13|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|14|168.90.15.177|999|Colombia|Chiquinquira|Media Commerce Partners S.A|
+|15|41.138.168.2|8080|Nigeria|Lagos|Autonomous System number for Cyber Space|
+|16|62.75.229.155|5566|France|Strasbourg|Host Europe GmbH|
+|17|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|18|158.69.52.218|9300|Canada|Montreal|OVH SAS|
+|19|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|8.213.128.30|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
 
 
 

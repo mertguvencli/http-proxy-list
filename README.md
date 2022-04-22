@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2985** proxies at the latest update. Usable proxies are below.
+> Scraper found **3096** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|91|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|91|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|91|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|2|140.227.25.56|5678|Japan|Chiyoda|NTT PC Communications, Inc.|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|88.135.210.179|8080|Ukraine|Ivano-Frankivsk|Uteam LTD|
-|5|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|6|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|7|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
-|8|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|9|63.161.104.189|3128|United States|Itasca|Sprint|
-|10|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|11|85.25.118.155|5566|France|Strasbourg|BSB-SERVICE|
-|12|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|13|52.82.95.78|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|14|180.211.191.58|8080|Bangladesh|Kalia|Bangladesh Telecommunications Company Ltd.|
-|15|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
-|16|14.17.106.202|3128|China|Foshan|Chinanet|
-|17|188.72.0.117|8080|Iraq|Sulaymaniyah|SAWAD LAND for Information Technology Ltd|
-|18|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
-|19|49.231.200.212|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
-|20|179.1.129.94|999|Colombia|Aipe|Internexa S.a. E.S.P|
+|1|161.35.214.127|46795|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|2|63.161.104.189|3128|United States|Itasca|Sprint|
+|3|106.55.59.47|8089|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
+|4|39.99.54.91|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
+|6|3.120.173.144|8080|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|7|218.106.61.5|21080|China|Jinrongjie|China Unicom CncNet|
+|8|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|9|187.6.13.230|3128|Brazil|Brasília|Brasil Telecom Comunicacao Multimidia S.A|
+|10|94.181.48.95|1256|Russia|Moscow|Enforta-MSK|
+|11|46.191.239.183|8080|Russia|Sterlitamak|JSC "Ufanet"|
+|12|14.17.106.202|3128|China|Foshan|Chinanet|
+|13|101.53.154.137|2002|India|Noida|E2E Networks Limited|
+|14|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
+|15|38.10.246.141|9991|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
+|16|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|17|180.178.189.102|3127|Pakistan|Lahore|KK Networks (Pvt.) Limited|
+|18|187.228.150.68|8080|Mexico|Ixmiquilpan|Uninet S.A. de C.V.|
+|19|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|20|194.44.15.222|8081|Ukraine|Bryukhovychi|UARNET-LL|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3094** proxies at the latest update. Usable proxies are below.
+> Scraper found **3255** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|232|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|232|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|232|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|254|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|254|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|254|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|173.212.250.114|3128|Germany|Nuremberg|Contabo GmbH|
-|3|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|4|8.213.130.102|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|5|111.23.16.250|3128|China|Jianning|China Mobile communications corporation|
-|6|52.82.95.78|3128|China|Yinchuan|Ningxia West Cloud Data Technology Co.Ltd.|
-|7|8.214.41.50|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|196.15.213.235|3128|South Africa|Christiana|Telkom SA Ltd.|
-|9|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|10|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|11|110.78.147.16|8080|Thailand|Ko Samui|CAT-BB|
-|12|80.87.213.111|8080|Slovakia|Námestovo|DSI DATA, a. s.|
-|13|124.226.138.97|9797|China|Lilancun|Chinanet|
-|14|8.213.128.41|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
-|15|186.232.42.82|8080|Brazil|Sao Goncalo|Connect Network|
-|16|152.200.138.119|999|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|17|103.156.17.61|8181|Indonesia|Indramayu|RSTNET|
-|18|85.173.165.36|46330|Russia|Cherkessk|Karachaevo-Cherkesskelektrosvyaz|
-|19|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|20|187.216.90.46|53281|Mexico|Mexico City|Uninet S.A. de C.V.|
+|1|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|12.31.246.5|8080|United States|Vallejo|AT&T Services, Inc.|
+|4|168.181.196.76|8080|Brazil|Alfredo Chaves|Windx TelecomunicaÔÔes|
+|5|158.69.52.218|9300|Canada|Montreal|OVH SAS|
+|6|61.7.195.194|8080|Thailand|Samphanthawong|CAT-ISP|
+|7|103.19.130.50|8080|Bangladesh|Dhaka|InfoLink|
+|8|5.131.243.11|8080|Russia|Moscow|Novotelecom Ltd|
+|9|188.133.153.161|1256|Russia|Moscow|Enforta-MSK|
+|10|8.213.129.51|80|South Korea|Seoul|Alibaba (US) Technology Co., Ltd.|
+|11|192.162.192.148|55443|Russia|Uglich|Sigma-Net Ltd.|
+|12|180.180.123.191|8080|Thailand|Pathum Thani|TOT Public Company Limited|
+|13|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|14|82.200.80.118|8080|Russia|Mezhdurechensk|ZSTTK|
+|15|201.148.85.50|999|Mexico|Magdalena Contreras|Operbes, S.A. de C.V.|
+|16|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|17|80.244.41.249|8080|Russia|Krasnodar|Freedom Krasnodar|
+|18|115.87.196.88|8080|Thailand|Bangkok|TRUEBB|
+|19|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
+|20|68.64.250.38|8080|United States|Irving|SimpleFiber Communications LLC|
 
 
 

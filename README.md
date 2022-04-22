@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3143** proxies at the latest update. Usable proxies are below.
+> Scraper found **3201** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|63.161.104.189|3128|United States|Itasca|Sprint|
-|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|5|139.99.88.19|8080|Singapore|Singapore|OVH SAS|
-|6|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|7|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|8|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
-|9|144.168.180.48|3128|Canada|Montreal|B2 Net Solutions Inc.|
-|10|91.214.31.234|8080|Ukraine|Zaporizhzhia|TOV "Telza"|
-|11|190.61.98.244|999|Guatemala|Guatemala City|UFINET Guatemala S. A|
-|12|85.25.198.20|5566|France|Strasbourg|Host Europe GmbH|
-|13|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
-|14|139.9.188.234|7890|China|Guangzhou|Huawei Cloud Service data center|
-|15|85.25.196.76|5566|France|Strasbourg|Host Europe GmbH|
-|16|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|17|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|18|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|19|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|139.99.88.19|8080|Singapore|Singapore|OVH SAS|
+|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|206.62.153.9|8080|Palestine|Gaza|AGIS|
+|5|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|6|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|7|80.122.183.158|8080|Austria|Bad Voeslau|A1 Telekom Austria AG|
+|8|83.170.219.86|8081|Ukraine|Kyiv|Golden Telecom Network|
+|9|85.25.195.177|5566|France|Strasbourg|Host Europe GmbH|
+|10|103.168.164.26|83|India|Pune|Nutech Broadband|
+|11|181.209.99.218|999|Argentina|Cachi|ARSAT - Empresa Argentina de Soluciones Satelitales S.A.|
+|12|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
+|13|172.96.169.33|9955|Puerto Rico|Guaynabo|Fuse Telecom LLC|
+|14|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|15|144.91.73.122|5566|Germany|Nuremberg|Contabo GmbH|
+|16|41.86.42.41|8080|Seychelles|Cascade|CWS DIB BUNDLE|
+|17|94.181.48.95|1256|Russia|Moscow|Enforta-MSK|
+|18|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|19|122.2.28.114|8080|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|20|188.138.106.133|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

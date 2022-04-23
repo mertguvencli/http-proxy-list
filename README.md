@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2704** proxies at the latest update. Usable proxies are below.
+> Scraper found **3136** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|167|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|167|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|167|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|161.35.214.127|35537|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|3|51.159.3.223|443|France|Paris|SCALEWAY|
-|4|106.55.59.47|8089|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|5|62.75.229.77|5566|France|Strasbourg|Host Europe GmbH|
-|6|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
-|7|177.93.41.158|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|8|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
-|9|181.78.17.93|999|Colombia|Andalucia|IFX Networks Argentina S.R.L|
-|10|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
-|11|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
-|12|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|13|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|14|157.90.205.166|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|15|186.146.79.217|8085|Colombia|Pasto|Telmex Colombia S.A.|
-|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|17|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
-|18|177.93.48.74|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|19|118.172.187.127|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|20|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
+|2|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|4|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÇOS DE COMUNICAÇÃO EM INFORMATICA LTD|
+|5|154.212.7.26|999|Mexico|Pedro Escobedo|Ientc S De RL De CV|
+|6|189.193.254.10|999|Mexico|Jiquipilco|Mega Cable, S.A. de C.V.|
+|7|177.53.221.89|39310|Brazil|Propria|Sergipeweb Provedores De Internet Ltda|
+|8|85.25.139.22|5566|France|Strasbourg|Host Europe GmbH|
+|9|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|10|176.74.9.62|8080|Russia|Moscow|Wiland Ltd|
+|11|103.114.52.2|8080|Indonesia|Purbayan|Proxy-registered|
+|12|114.4.209.114|8080|Indonesia|Bogor|PT. INDOSAT Tbk|
+|13|104.238.145.25|59394|United States|Dallas|The Constant Company|
+|14|36.89.252.155|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|16|103.133.177.141|443|China|Beijing|Ningbo Silicon Cloud Information Technology Co|
+|17|177.242.148.14|999|Mexico|Atlacomulco de Fabela|Mega Cable, S.A. de C.V.|
+|18|180.250.102.194|8080|Indonesia|Jakarta|PT. TELKOM INDONESIA|
+|19|103.11.106.201|8085|Indonesia|Magetan|PT. Pascal Indonesia|
+|20|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3376** proxies at the latest update. Usable proxies are below.
+> Scraper found **3185** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.196.205.170|8080|United States|Santa Ana|Charter Communications Inc|
+|1|52.90.182.59|16133|United States|Ashburn|Amazon.com, Inc.|
 |2|81.4.102.233|8081|Netherlands|Amsterdam|WeservIT|
-|3|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|4|14.17.106.202|3128|China|Foshan|Chinanet|
-|5|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|6|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|7|106.55.59.47|8089|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|8|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|9|52.90.182.59|16133|United States|Ashburn|Amazon.com, Inc.|
-|10|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|11|75.119.130.35|3128|Germany|Düsseldorf|Contabo GmbH|
-|12|188.133.152.103|9080|Russia|Moscow|Enforta-MSK|
-|13|88.255.132.178|8080|Turkey|Kayseri|TurkTelekom|
-|14|177.53.221.89|39310|Brazil|Propria|Sergipeweb Provedores De Internet Ltda|
-|15|206.62.153.9|8080|Palestine|Gaza|AGIS|
-|16|188.133.157.61|10000|Russia|Moscow|Enforta-MSK|
-|17|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|18|177.93.41.158|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|19|91.244.114.193|48080|Russia|Biysk|Wirenet LLC|
-|20|41.84.143.226|8081|Kenya|Thika|SOHO-REGIONAL|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|160.16.242.164|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|5|81.4.102.233|8081|Netherlands|Amsterdam|WeservIT|
+|6|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|7|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|8|185.177.222.171|8089|Russia|Murom|Modus LLC|
+|9|88.255.132.178|8080|Turkey|Kayseri|TurkTelekom|
+|10|38.123.78.110|999|Mexico|Tlaquepaque|Cogent Communications|
+|11|45.230.172.11|8080|Mexico|Culiacán|Opsicome SA De CV|
+|12|123.56.124.235|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
+|13|190.221.33.11|999|Argentina|San Telmo|AMX Argentina S.A.|
+|14|63.161.104.189|3128|United States|Itasca|Sprint|
+|15|188.133.153.187|8081|Russia|Moscow|Enforta-MSK|
+|16|177.93.41.158|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
+|17|187.110.225.100|8080|Brazil|Eusebio|MOB SERVICOS DE TELECOMUNICACOES S.A|
+|18|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|19|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|20|212.92.204.54|80|Croatia|Zagreb|A1 Hrvatska d.o.o|
 
 
 

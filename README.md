@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2853** proxies at the latest update. Usable proxies are below.
+> Scraper found **2803** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|144|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|144|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|144|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|81.4.102.233|8081|Netherlands|Amsterdam|WeservIT|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|5|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|7|217.160.193.210|8118|Germany|Frankfurt am Main|IONOS SE|
-|8|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|9|14.17.106.202|3128|China|Foshan|Chinanet|
-|10|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|11|101.53.154.137|2009|India|Noida|E2E Networks Limited|
-|12|20.116.130.70|3128|Canada|Toronto|Microsoft Corporation|
-|13|103.149.144.176|59394|United States|Chicago|GTHost|
-|14|177.93.48.74|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|15|103.213.105.190|8080|Afghanistan|Kabul|Ankabut 002|
-|16|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|17|37.252.73.192|8080|Armenia|Noyemberyan|Ucom Cjsc|
-|18|200.6.168.50|999|Colombia|Bucaramanga|EPM Telecomunicaciones S.A. E.S.P.|
-|19|187.44.1.172|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao Ltda|
-|20|85.25.91.156|5566|Germany|Cologne|PlusServer GmbH|
+|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|2|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|3|63.161.104.189|3128|United States|Itasca|Sprint|
+|4|103.156.216.194|8443|Indonesia|Bekasi|PT. Meiwa Mold Indonesia|
+|5|79.120.177.106|8080|Hungary|Budapest|Invitech ICT Services Kft.|
+|6|41.164.68.194|8080|South Africa|Cape Town|Liquid Telecommunications Operations Limited|
+|7|218.1.142.159|57114|China|Shanghai|China Telecom|
+|8|14.17.106.202|3128|China|Foshan|Chinanet|
+|9|45.230.169.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|10|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|11|104.238.145.25|59394|United States|Dallas|The Constant Company|
+|12|165.225.24.55|9401|Germany|Frankfurt am Main|Zscaler Switzerland GmbH|
+|13|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|14|181.209.124.10|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|15|181.78.17.93|999|Colombia|Andalucia|IFX Networks Argentina S.R.L|
+|16|190.113.42.73|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|17|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|18|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|19|95.0.219.234|8080|Turkey|Kayseri|TurkTelecom|
+|20|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
 
 
 

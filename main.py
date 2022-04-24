@@ -101,7 +101,6 @@ class Scraper:
                             'ip': x.split(':')[0].strip(),
                             'port': int(x.split(':')[1].strip())
                         })
-            
             self.is_succeed = True
         except:
             self.is_succeed = False
@@ -151,7 +150,6 @@ def what_is_my_ip():
 
 def main():
     global MAX_WORKERS
-    
     source_states = []
 
     for config in SOURCES:

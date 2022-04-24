@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **2974** proxies at the latest update. Usable proxies are below.
+> Scraper found **3148** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|142|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|142|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|142|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|187.216.93.20|55443|Mexico|Hermosillo|Uninet S.A. de C.V.|
-|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|5|117.186.112.42|9999|China|Shanghai|China Mobile communications corporation|
-|6|157.100.53.247|999|Ecuador|Sucua|Nedetel S.A.|
-|7|115.127.162.234|8080|Bangladesh|Dhaka|BRACNet Limited|
-|8|103.146.196.35|3127|Indonesia|Banyuwangi|RIYADNETWORK|
-|9|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
-|10|200.125.171.57|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|11|218.1.142.176|57114|China|Shanghai|China Telecom|
-|12|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
-|13|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|14|38.123.68.152|999|Mexico|Paseos del Valle [Fraccionamiento]|Cogent Communications|
-|15|5.180.130.91|443|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
-|16|103.153.190.78|8081|Indonesia|Jember|WANET|
-|17|14.139.184.130|3128|India|Thrissur|National Knowledge Network|
-|18|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
-|19|200.26.190.202|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
-|20|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
+|2|23.132.48.1|999|Puerto Rico|Gurabo|Urban Wifi Networks LLC|
+|3|39.106.48.114|8086|China|Beijing|Hangzhou Alibaba Advertising Co|
+|4|88.255.64.94|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|5|122.3.41.154|8090|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
+|6|203.217.169.100|6969|Cambodia|Phnom Penh|S.I Group|
+|7|95.171.5.144|1256|Russia|Moscow|Universum bit Ltd.|
+|8|186.3.9.219|999|Ecuador|Loja|Telconet S.A|
+|9|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
+|10|177.53.221.89|39310|Brazil|Propria|Sergipeweb Provedores De Internet Ltda|
+|11|103.152.100.187|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|12|181.198.86.74|999|Ecuador|General Villamil|Telconet S.A|
+|13|85.234.126.107|55555|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
+|14|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|15|181.114.224.177|8080|Argentina|Mar del Plata|CyberWave S.A.|
+|16|181.65.154.171|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|17|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
+|18|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|19|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
+|20|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
 
 
 

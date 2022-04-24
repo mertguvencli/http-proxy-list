@@ -1,9 +1,9 @@
 import json
 import logging
 import concurrent.futures
+import random
 import requests
 import pandas as pd
-from fake_useragent import UserAgent
 import itertools
 from sources import SOURCES
 from readme import update_readme
@@ -12,8 +12,10 @@ logging.basicConfig(
     format='%(asctime)s %(name)s - %(levelname)s - %(message)s',
     level=logging.DEBUG
 )
-user_agent = UserAgent()
-HEADERS = {'User-Agent': user_agent.random}
+
+HEADERS = {
+    'User-Agent': f'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.{random.randint(0, 9999)} Safari/537.{random.randint(0, 99)}'  # noqa
+}
 MAX_WORKERS = 300
 AVAILABLE_PROXIES = []
 USABLE_PROXIES = []

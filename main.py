@@ -101,6 +101,8 @@ class Scraper:
                             'ip': x.split(':')[0].strip(),
                             'port': int(x.split(':')[1].strip())
                         })
+            
+            self.is_succeed = True
         except:
             self.is_succeed = False
             logging.error(f'Source: {self.config.get("id")}', exc_info=True)
@@ -114,7 +116,7 @@ class Scraper:
         if len(proxies) > 0:
             AVAILABLE_PROXIES = itertools.chain(AVAILABLE_PROXIES, proxies)
 
-        return self.is_succeed
+        return self.is_succeed, len(proxies)
 
 
 def geolocation_info(batch_ips):
@@ -149,10 +151,18 @@ def what_is_my_ip():
 
 def main():
     global MAX_WORKERS
+    
+    source_states = []
 
     for config in SOURCES:
         scraper = Scraper(config)
-        scraper.run()
+        succeed, count = scraper.run()
+        source_states.append({
+            "id": config['id'],
+            "url": config['url'],
+            "succeed": succeed,
+            "count": count
+        })
 
     list_of_proxies = list(AVAILABLE_PROXIES)
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
@@ -182,7 +192,8 @@ def main():
             "found": len(list_of_proxies),
             "usable": len(USABLE_PROXIES),
             "geolocation": len(geolocations),
-        }
+        },
+        "sources": source_states
     })
 
 

@@ -26,6 +26,8 @@ Click the file format that you want and copy the URL.
 
 ## Sources
 
+|Source|Found Proxies|Succeed|
+|------|-------------|-------|
 {SOURCES}
 
 ## Sample Proxies With Geolocation Info
@@ -50,8 +52,17 @@ def update_readme(metrics: dict):
     global GITHUB_RAW_URL
 
     SOURCES_MD = ''
-    for config in SOURCES:
-        SOURCES_MD += f'* [{config.get("id")}]({config.get("url")})\n'
+    template = '|{}|{}|{}|\n'
+    for x in metrics['sources']:
+        source = f'[{x.get("id")}]({x.get("url")})'
+        found_proxies = x['count']
+        succeed = x['succeed']
+        if succeed:
+            succeed = '✅'
+        else:
+            succeed = '🚫'
+        SOURCES_MD += template.format(source, found_proxies, succeed)
+
 
     PROXY_LIST_MD = ''
     template = '|{row_num}|{ip}|{port}|{country}|{city}|{isp}|\n'

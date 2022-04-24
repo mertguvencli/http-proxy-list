@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3172** proxies at the latest update. Usable proxies are below.
+> Scraper found **3010** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|139|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|139|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|139|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -42,25 +42,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|63.161.104.189|3128|United States|Itasca|Sprint|
-|2|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|85.25.208.212|5566|France|Strasbourg|Host Europe GmbH|
-|5|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
-|6|140.246.87.238|3128|China|Jinan|Cloud Computing Corporation|
-|7|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
-|8|149.34.7.65|8080|Spain|Bellvis|Adamo Telecom Iberia S.A.|
-|9|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|10|134.209.148.107|8081|India|Bengaluru|DigitalOcean, LLC|
-|11|139.9.188.234|7890|China|Guangzhou|Huawei Cloud Service data center|
-|12|36.89.49.55|8181|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
-|14|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|15|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
-|16|102.68.135.157|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|17|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
-|18|203.82.42.38|1337|Philippines|Quezon City|WifiCity, Inc|
-|19|85.25.72.91|5566|France|Strasbourg|Host Europe GmbH|
-|20|201.49.84.17|92|Brazil|Sao Jose do Rio Preto|Ensite Brasil Telecomunicações Ltda - ME|
+|2|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|4|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
+|5|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|6|47.96.226.137|3128|China|Hangzhou|Hangzhou Alibaba Advertising Co|
+|7|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|8|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|9|178.252.175.4|8080|Iran|Tehran|GOSTARESH-E-ERTEBATAT-E MABNA COMPANY (Private Joint Stock)|
+|10|188.138.11.48|5566|France|Strasbourg|Host Europe GmbH|
+|11|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
+|12|85.25.201.22|5566|France|Strasbourg|Host Europe GmbH|
+|13|223.112.99.150|80|China|Huangpu|China Mobile communications corporation|
+|14|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
+|15|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|16|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|17|186.3.85.131|999|Ecuador|Hacienda El Triunfo|Telconet S.A|
+|18|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|19|201.71.2.112|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|20|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
 
 
 

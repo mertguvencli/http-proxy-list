@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3180** proxies at the latest update. Usable proxies are below.
+> Scraper found **2974** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -41,26 +41,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|2|63.161.104.189|3128|United States|Itasca|Sprint|
-|3|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
-|4|218.1.200.180|57114|China|Shanghai|China Telecom|
-|5|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
-|6|187.44.1.172|8080|Brazil|Montes Claros|Rede Brasileira de Comunicacao Ltda|
-|7|222.79.63.199|9999|China|Beijing|Chinanet|
-|8|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|9|45.230.172.11|8080|Mexico|Culiacán|Opsicome SA De CV|
-|10|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|11|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
-|12|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
-|13|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|14|103.164.99.58|8181|Indonesia|Jakarta|SOLUSINET|
-|15|103.123.234.106|8080|India|Narsingpur|Manish Kumar|
-|16|45.70.14.58|999|Ecuador|Baba|Nedetel S.A.|
-|17|62.138.7.104|5566|France|Strasbourg|Host Europe Group|
-|18|122.3.41.154|8090|Philippines|Cabuyao|Philippine Long Distance Telephone Co.|
-|19|182.23.104.237|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|1|63.161.104.189|3128|United States|Itasca|Sprint|
+|2|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|3|187.216.93.20|55443|Mexico|Hermosillo|Uninet S.A. de C.V.|
+|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|5|117.186.112.42|9999|China|Shanghai|China Mobile communications corporation|
+|6|157.100.53.247|999|Ecuador|Sucua|Nedetel S.A.|
+|7|115.127.162.234|8080|Bangladesh|Dhaka|BRACNet Limited|
+|8|103.146.196.35|3127|Indonesia|Banyuwangi|RIYADNETWORK|
+|9|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|10|200.125.171.57|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|11|218.1.142.176|57114|China|Shanghai|China Telecom|
+|12|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
+|13|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|14|38.123.68.152|999|Mexico|Paseos del Valle [Fraccionamiento]|Cogent Communications|
+|15|5.180.130.91|443|Ukraine|Zaporizhzhia|Gigabit-Online LLC|
+|16|103.153.190.78|8081|Indonesia|Jember|WANET|
+|17|14.139.184.130|3128|India|Thrissur|National Knowledge Network|
+|18|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|19|200.26.190.202|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|20|157.90.167.209|1081|Germany|Nuremberg|Hetzner Online GmbH|
 
 
 

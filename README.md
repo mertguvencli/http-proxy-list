@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3413** proxies at the latest update. Usable proxies are below.
+> Scraper found **3906** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|98|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|98|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|98|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|199|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|199|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|199|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|279|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|295|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|404|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|141|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|214|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1910|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|2|59.103.236.86|80|Pakistan|Islamabad|Pakistan Telecommunication Company Limited|
-|3|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|4|51.83.231.86|3128|Poland|Warsaw|OVH SAS|
-|5|182.253.158.243|8080|Indonesia|Bandung|BIZNET|
-|6|51.83.231.22|3128|Poland|Warsaw|OVH SAS|
-|7|170.178.199.77|59394|United States|Santa Clarita|Multacom Corporation|
-|8|51.83.234.15|3128|Poland|Warsaw|OVH SAS|
-|9|170.178.199.77|59394|United States|Santa Clarita|Multacom Corporation|
-|10|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|11|104.238.145.25|59394|United States|Dallas|The Constant Company|
-|12|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
-|13|167.86.81.208|3128|Germany|Nuremberg|Contabo GmbH|
-|14|186.5.117.82|999|Ecuador|Ventanas|Telconet S.A|
-|15|5.189.169.141|3128|Germany|Nuremberg|Contabo GmbH|
-|16|189.4.184.34|8080|Brazil|Santos|Claro S.A.|
-|17|218.106.63.108|21080|China|Jinrongjie|China Unicom CncNet|
-|18|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
-|19|51.77.61.152|3128|Poland|Warsaw|OVH SAS|
-|20|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|1|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|2|200.8.188.25|999|Venezuela|Barquisimeto|Corporación Telemic C.A.|
+|3|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
+|4|79.135.219.223|8080|Ukraine|Odessa|ICN Ltd.|
+|5|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
+|6|198.229.231.13|8080|United States|Spring Valley|MTCO Communications|
+|7|45.115.253.40|8080|India|Faridabad|Elxire Services|
+|8|36.92.92.226|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|9|182.253.158.243|8080|Indonesia|Bandung|BIZNET|
+|10|59.103.236.86|80|Pakistan|Islamabad|Pakistan Telecommunication Company Limited|
+|11|86.57.134.64|41890|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|12|222.79.63.199|9999|China|Beijing|Chinanet|
+|13|95.216.12.141|22214|Finland|Helsinki|Hetzner Online GmbH|
+|14|218.106.63.108|21080|China|Jinrongjie|China Unicom CncNet|
+|15|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
+|16|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
+|17|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|18|218.106.63.108|21080|China|Jinrongjie|China Unicom CncNet|
+|19|170.178.199.77|59394|United States|Santa Clarita|Multacom Corporation|
+|20|213.171.63.210|41890|Russia|Molokovo|OJSC Comcor|
 
 
 

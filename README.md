@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3483** proxies at the latest update. Usable proxies are below.
+> Scraper found **3399** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|298|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|257|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|168|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|125|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1934|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|2|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|3|194.233.86.75|1234|Singapore|Singapore|Contabo Asia Private Limited|
-|4|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|5|85.25.199.122|5566|France|Strasbourg|Host Europe GmbH|
-|6|176.119.134.38|23500|Spain|Puerto Serrano|Electro Puerto SUR SL|
-|7|36.92.140.113|80|Indonesia|Bekasi|PT. Telekomunikasi Indonesia|
-|8|134.209.148.107|8081|India|Bengaluru|DigitalOcean, LLC|
-|9|69.163.252.140|1081|United States|Brea|New Dream Network, LLC|
-|10|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|11|5.167.141.239|3128|Russia|Tula|CJSC "ER-Telecom Holding" Tula branch|
-|12|194.233.88.38|3128|Singapore|Singapore|Contabo Asia Private Limited|
-|13|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
-|14|37.204.157.91|41890|Russia|Moscow|NCNET|
-|15|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
-|16|103.153.148.111|80|Indonesia|Malang|JARINGANKU|
-|17|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
-|18|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
-|19|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|20|31.42.57.1|8080|Ukraine|Kyiv|Limited Liability Company AVATOR ISP|
+|1|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|2|202.154.180.122|8080|Indonesia|Jakarta|PT Indonesia Comnets Plus|
+|3|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|4|2.50.153.41|53281|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|5|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
+|6|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|7|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICA??O MULTIM?DIA LT|
+|8|116.90.181.18|5555|Indonesia|Medan|PT. PANCA DUTA UTAMA|
+|9|192.241.158.51|1081|United States|North Bergen|DigitalOcean, LLC|
+|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|11|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|12|200.229.229.197|8080|Brazil|Guarulhos|Wireless Comm Services LTDA|
+|13|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|14|130.185.122.92|3535|Netherlands|Dronten|Softqloud GmbH|
+|15|201.222.45.64|999|Chile|Santiago|GRUPO ULLOA SpA|
+|16|65.51.178.93|3128|United States|Weehawken|Cablevision Systems Corp.|
+|17|190.128.231.146|8080|Paraguay|Asunción|Telecel S.A.|
+|18|185.199.8.23|8080|Russia|Krasnodar|Freedom LLC|
+|19|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
+|20|162.14.78.176|1080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4090** proxies at the latest update. Usable proxies are below.
+> Scraper found **4029** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|252|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|252|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|252|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|399|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|482|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|348|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1960|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|231|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1933|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|46.182.87.226|8080|Ukraine|Kyiv|Gigatrans' peering network|
-|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
-|4|203.150.113.100|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|5|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
-|6|186.83.28.190|999|Colombia|Bogotá|Telmex Colombia S.A.|
-|7|190.110.111.138|999|Chile|San Vicente|Silica Networks Argentina S.A.|
-|8|152.231.29.46|8080|Colombia|Santiago de Cali|Colombiatel Telecomunicaciones|
-|9|183.88.193.111|8080|Thailand|Si Maha Phot|Triple T Broadband Public Company Limited|
-|10|113.53.61.48|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|11|186.96.158.213|999|Mexico|Hermosillo|Total Play Telecomunicaciones SA De CV|
-|12|189.84.216.34|3128|Brazil|Vitória|Dinamica Telecomunicacoes Ltda|
-|13|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|14|37.53.83.237|8080|Ukraine|Kyiv|UKRTELECOM|
-|15|103.107.71.192|1080|Indonesia|Surakarta|PT. Media Jaringan Indonesia|
-|16|216.176.187.99|8886|United States|Bonney Lake|Wowrack.com|
-|17|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
-|18|187.194.216.98|10101|Mexico|Tepeaca|Uninet S.A. de C.V.|
-|19|190.110.111.130|999|Chile|San Vicente|Silica Networks Argentina S.A.|
-|20|196.3.99.162|8080|Mozambique|Maputo|Eduardo Mondlane University|
+|1|46.182.87.226|8080|Ukraine|Kyiv|Gigatrans' peering network|
+|2|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|3|187.144.242.38|3128|Mexico|Colima|Uninet S.A. de C.V.|
+|4|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
+|5|103.163.134.5|8181|Indonesia|Songgon|PT Jawa Provider Telematika|
+|6|134.209.148.107|8081|India|Bengaluru|DigitalOcean, LLC|
+|7|190.60.104.218|3128|Colombia|Bogotá|IFX Corporation|
+|8|132.145.195.93|3128|United States|Ashburn|Oracle Corporation|
+|9|103.146.30.125|8080|Indonesia|Kuningan Barat|PT MITRA VISIONER PRATAMA|
+|10|2.50.153.41|53281|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|11|103.215.177.212|80|Indonesia|Jakarta|PT Telematika Mitrakreasi|
+|12|36.95.53.227|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|13|190.26.201.194|8080|Colombia|Castilla La Nueva|ETB - Colombia|
+|14|190.110.111.153|999|Chile|San Vicente|Silica Networks Argentina S.A.|
+|15|143.208.57.58|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|16|103.132.53.176|3127|Indonesia|Grujugan Kidul Satu|PT Adeaksa Indo Jayatama|
+|17|75.119.197.10|1081|United States|Brea|New Dream Network, LLC|
+|18|182.253.28.124|8080|Indonesia|Jakarta|Biznet Networks|
+|19|91.217.42.2|8080|Russia|Chelyabinsk|Uralskie Kabelnye Seti Ltd. Verkhny Ufaley|
+|20|85.25.139.22|5566|France|Strasbourg|Host Europe GmbH|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4245** proxies at the latest update. Usable proxies are below.
+> Scraper found **4379** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|410|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|581|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|330|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|293|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2122|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|144.217.75.65|8800|Canada|Beauharnois|OVH SAS|
-|3|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|5|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
-|6|85.25.4.28|5566|France|Strasbourg|Host Europe GmbH|
-|7|182.253.40.98|8080|Indonesia|Surabaya|BIZNET|
-|8|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
-|9|183.89.112.218|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|10|188.138.89.29|5566|France|Strasbourg|Host Europe GmbH|
-|11|45.225.68.242|999|Argentina|Empalme Villa Constitucion|FABIANI MATIAS NICOLAS (AIRWEB - BANDA ANCHA)|
-|12|177.107.53.217|9812|Brazil|Hidrolandia|G8 NETWORKS LTDA|
-|13|143.248.55.62|8118|South Korea|Daejeon|Korea Advanced Institute of Science and Technology|
-|14|113.53.60.197|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|15|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
-|16|85.25.226.133|5566|France|Strasbourg|Host Europe GmbH|
-|17|195.181.72.145|8080|Iran|Urmia|TCI (Az. GHarbi)|
-|18|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
-|19|187.87.167.187|53281|Brazil|Buritizeiro|Interpira Internet Service Provider Ltda|
-|20|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
+|2|160.16.242.164|3128|Japan|Tokyo|SAKURA Internet Inc.|
+|3|216.176.187.99|8886|United States|Los Angeles|Wowrack.com|
+|4|128.199.214.87|3128|Singapore|Singapore|DigitalOcean, LLC|
+|5|85.25.132.9|5566|France|Strasbourg|Host Europe GmbH|
+|6|178.88.185.2|3128|Kazakhstan|Almaty|JSC Kazakhtelecom|
+|7|62.140.233.192|41258|Russia|Fryazino|Fryazino.net|
+|8|188.138.90.226|5566|France|Strasbourg|Host Europe GmbH|
+|9|121.101.134.202|1080|Indonesia|Trucuk|TERABIT|
+|10|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|11|65.51.178.93|3128|United States|Weehawken|Cablevision Systems Corp.|
+|12|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|13|202.180.29.59|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
+|14|121.101.131.142|9090|Indonesia|Yogyakarta|TERABIT|
+|15|12.31.246.5|8080|United States|Vallejo|AT&T Services, Inc.|
+|16|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
+|17|103.194.175.135|8080|Indonesia|Banyuwangi|MYNET|
+|18|180.183.4.78|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|19|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
+|20|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3878** proxies at the latest update. Usable proxies are below.
+> Scraper found **4491** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|198|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|198|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|198|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|306|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|306|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|306|
 
 ## Sources
 
@@ -31,12 +31,12 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|485|✅|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|729|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|358|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2052|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|290|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2089|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|65.51.178.92|3128|United States|Weehawken|Cablevision Systems Corp.|
-|3|186.146.79.217|8085|Colombia|Pasto|Telmex Colombia S.A.|
-|4|186.96.30.153|999|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
-|5|185.132.196.218|8080|Russia|St Petersburg|JSC Avantel|
-|6|45.70.14.58|999|Ecuador|Baba|Nedetel S.A.|
-|7|1.186.85.114|1111|India|Bengaluru|D-VoiS Broadband Private Limited|
-|8|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
-|9|103.124.226.61|3127|Bangladesh|Dhaka|Level3|
-|10|181.115.235.29|8080|Bolivia|La Paz|Entel S.A. - EntelNet|
-|11|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|12|85.25.117.68|5566|France|Strasbourg|BSB-SERVICE|
-|13|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|43.247.37.250|63123|Indonesia|Teluknaga|Maxindo|
-|15|81.17.90.219|41890|Azerbaijan|Baku|Bakinternet ISP|
-|16|89.239.169.81|8080|Russia|Ulyanovsk|PJSC Rostelecom|
-|17|110.235.249.124|9812|Cambodia|Phnom Penh|COGETEL Co|
-|18|124.158.168.22|8080|Indonesia|Bogor|ICON+|
-|19|158.69.27.94|9300|Canada|Montreal|OVH SAS|
-|20|200.88.112.252|999|Dominican Republic|Santo Domingo Este|Compañía Dominicana de Teléfonos S. A.|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|54.38.78.108|1337|United Kingdom|Purfleet|OVH SAS|
+|4|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|5|190.92.49.150|999|Honduras|Ciudad Choluteca|Cablecolor S.A.|
+|6|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|7|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
+|8|85.25.4.27|5566|France|Strasbourg|Host Europe GmbH|
+|9|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|10|85.25.93.136|5566|France|Strasbourg|Host Europe GmbH|
+|11|80.90.132.127|8888|Czechia|Boretice|Nordic Telecom Regional s.r.o.|
+|12|179.40.95.9|999|Argentina|San Vicente|Telefonica de Argentina|
+|13|186.125.235.101|999|Argentina|Buenos Aires|Telecom Argentina S.A.|
+|14|85.25.133.28|5566|France|Strasbourg|Host Europe GmbH|
+|15|182.253.246.214|8080|Indonesia|Jakarta|BIZNET|
+|16|181.37.140.144|3128|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|17|182.253.6.236|8080|Indonesia|Jakarta|Biznet Networks|
+|18|41.220.229.18|8080|Kenya|Machakos|Liquid Telecommunications Ltd|
+|19|202.62.39.115|41890|Cambodia|Phnom Penh|COGETEL Co., Ltd|
+|20|116.58.232.173|8080|Thailand|Pattaya|CAT-BB|
 
 
 

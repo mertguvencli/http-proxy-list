@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3638** proxies at the latest update. Usable proxies are below.
+> Scraper found **3752** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|107|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|107|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|107|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|95|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|95|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|95|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|96|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|283|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|277|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|120|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|144|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1952|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|103.209.36.56|8080|India|Mumbai|Syscon Infoway Pvt. Ltd.|
-|2|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|3|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
-|4|103.156.75.131|8080|Indonesia|Gianyar|PT Trika Global Media|
-|5|81.198.66.166|8080|Latvia|Riga|Lattelekom|
-|6|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|7|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|8|203.150.113.60|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|9|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|10|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
-|11|185.199.8.23|8080|Russia|Krasnodar|Freedom LLC|
-|12|191.102.113.59|8080|Colombia|Mariquita|TV AZTECA SUCURSAL COLOMBIA|
-|13|109.108.68.144|41890|Ukraine|Kyiv|ISP KievNet|
-|14|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|15|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|16|14.17.106.202|3128|China|Foshan|Chinanet|
-|17|109.70.189.70|56408|Russia|Makhachkala|LTD "Elektrosvyaz"|
-|18|118.122.92.139|8000|China|Dayuan|Chinanet|
-|19|85.25.108.234|5566|France|Strasbourg|Host Europe GmbH|
-|20|103.154.120.107|8080|Indonesia|Jakarta|MORATELINDONAP|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|34.82.235.224|3128|United States|The Dalles|Google LLC|
+|4|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|5|86.57.157.233|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
+|6|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|7|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
+|8|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|9|45.80.149.38|23456|Netherlands|Amsterdam|Hostgw SRL|
+|10|66.94.97.238|443|United States|New York|Contabo Inc.|
+|11|85.25.119.113|5566|France|Strasbourg|BSB-SERVICE|
+|12|189.63.232.244|3128|Brazil|Ribeirão Preto|Claro S.A.|
+|13|5.167.141.239|3128|Russia|Tula|CJSC "ER-Telecom Holding" Tula branch|
+|14|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|15|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|16|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|17|85.25.100.47|5566|France|Strasbourg|Host Europe GmbH|
+|18|89.189.181.161|55855|Russia|Novosibirsk|Siberian Networks ltd|
+|19|188.138.89.50|5566|France|Strasbourg|Host Europe GmbH|
+|20|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
 
 
 

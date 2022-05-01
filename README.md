@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3498** proxies at the latest update. Usable proxies are below.
+> Scraper found **3781** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|141|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|141|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|141|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|149|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|149|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|149|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|366|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|281|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|124|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|192|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1925|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
-|2|45.190.79.192|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
-|3|46.0.114.185|55443|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
-|4|189.183.225.110|999|Mexico|San Luis Potosí City|Uninet S.A. de C.V|
-|5|103.59.176.154|8080|Bangladesh|Dhaka|Nation Communication|
-|6|92.207.253.226|38157|United Kingdom|Newbury|Gamma Telecom Ltd|
-|7|188.138.106.143|5566|France|Strasbourg|Host Europe GmbH|
+|1|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|2|85.25.119.221|5566|France|Strasbourg|BSB-SERVICE|
+|3|188.138.106.93|5566|France|Strasbourg|Host Europe GmbH|
+|4|85.25.119.98|5566|France|Strasbourg|BSB-SERVICE|
+|5|189.252.76.87|999|Mexico|Los Mochis|Uninet S.A. de C.V.|
+|6|189.183.225.110|999|Mexico|San Luis Potosí City|Uninet S.A. de C.V|
+|7|181.37.140.144|3128|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
 |8|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|9|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|10|51.83.230.122|3128|Poland|Warsaw|OVH SAS|
-|11|54.38.51.135|3128|Poland|Warsaw|OVH SAS|
-|12|187.95.28.152|8080|Brazil|Jacareí|Netjacarei Telecon Ltda|
-|13|51.83.231.20|3128|Poland|Warsaw|OVH SAS|
-|14|190.116.90.45|999|Peru|La Victoria|America Movil Peru S.A.C.|
-|15|154.31.50.229|59394|United States|San Jose|HONG KONG Megalayer Technology Co., Limited|
-|16|171.100.219.180|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|17|182.93.82.191|8080|Nepal|Kathmandu|Subisu Cablenet|
-|18|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
-|19|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|20|176.9.167.166|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|10|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|11|34.82.235.224|3128|United States|The Dalles|Google LLC|
+|12|103.153.40.38|8080|Indonesia|Bekasi|Persada Nayaka Infotama|
+|13|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
+|14|85.25.150.32|5566|France|Strasbourg|Host Europe GmbH|
+|15|119.76.142.228|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|16|85.25.208.198|5566|France|Strasbourg|Host Europe GmbH|
+|17|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|18|151.22.181.212|8080|Italy|Strongoli|INFOSTRADA|
+|19|189.4.184.34|8080|Brazil|Santos|Claro S.A.|
+|20|36.89.49.55|8181|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4106** proxies at the latest update. Usable proxies are below.
+> Scraper found **3991** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|508|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|344|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|310|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|259|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2005|✅|
 
 
@@ -43,25 +43,25 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.51.178.93|3128|United States|Weehawken|Cablevision Systems Corp.|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|4|191.96.231.71|8080|Venezuela|Maracay|360net C.A.|
-|5|61.7.170.221|8080|Thailand|Samphanthawong|CAT-BB|
-|6|190.6.204.82|999|Honduras|San Pedro Sula|Cablecolor S.A.|
-|7|188.138.101.167|5566|France|Strasbourg|Host Europe GmbH|
-|8|109.111.156.162|53281|Russia|Kaliningrad|TIS-DIALOG|
-|9|168.232.84.139|8080|Brazil|Fortaleza|TEX NET SERVIÇOS DE COMUNICAÇÃO EM INFORMATICA LTD|
-|10|85.25.117.134|5566|France|Strasbourg|BSB-SERVICE|
-|11|181.224.207.20|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|12|181.31.225.234|3128|Argentina|Cipolletti|Telecom Argentina S.A|
-|13|85.25.95.231|5566|France|Strasbourg|INTERGENIA|
-|14|110.78.81.107|8080|Thailand|Ban Kho|CAT Telecom Public Company Limited|
-|15|139.255.109.27|8080|Indonesia|Jakarta|PT. LINKNET|
-|16|177.93.41.158|999|Colombia|Ibague|TV AZTECA SUCURSAL COLOMBIA|
-|17|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|18|143.208.57.58|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|19|190.61.101.39|8080|Guatemala|Guatemala City|UFINET Guatemala S. A|
+|1|85.25.132.27|5566|France|Strasbourg|Host Europe GmbH|
+|2|85.15.152.39|3128|Russia|Tyumen|Rostelecom networks|
+|3|170.155.5.235|8080|Argentina|Castelar|Gobernacion de la Provincia de Buenos Aires|
+|4|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
+|5|186.148.170.59|8080|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|6|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|7|5.167.141.239|3128|Russia|Tula|CJSC "ER-Telecom Holding" Tula branch|
+|8|85.25.242.142|5566|France|Strasbourg|Host Europe GmbH|
+|9|103.164.191.90|8181|Indonesia|Malang|PT iForte Global Internet|
+|10|177.136.84.15|999|Argentina|Puerto Eldorado|Access AIR Sociedad Simple|
+|11|200.46.65.44|8080|Panama|Panama City|Cable Onda|
+|12|85.25.226.242|5566|France|Strasbourg|Host Europe GmbH|
+|13|41.216.177.34|8080|Indonesia|Jakarta|FASTHOSTING|
+|14|188.138.106.158|5566|France|Strasbourg|Host Europe GmbH|
+|15|85.25.91.155|5566|Germany|Cologne|PlusServer GmbH|
+|16|103.65.212.150|8085|Indonesia|Yogyakarta|PT. Broadband Indonesia Pratama|
+|17|110.74.208.154|21776|Cambodia|Phnom Penh|EZECOM limited|
+|18|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|19|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
 |20|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
 
 

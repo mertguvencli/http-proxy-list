@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3661** proxies at the latest update. Usable proxies are below.
+> Scraper found **3698** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|156|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|156|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|156|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|227|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|336|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1973|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|137|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1842|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.51.178.92|3128|United States|Weehawken|Cablevision Systems Corp.|
-|2|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
-|3|34.82.235.224|3128|United States|The Dalles|Google LLC|
-|4|139.162.47.91|8080|Singapore|Singapore|Linode, LLC|
-|5|164.52.207.80|80|India|Noida|E2E Networks Limited|
-|6|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
-|7|194.182.64.18|8081|Czechia|Prague|INTERNET CZ, a.s.|
-|8|157.90.143.147|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|9|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|10|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|11|103.11.106.201|8085|Indonesia|Magetan|PT. Pascal Indonesia|
-|12|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|13|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|14|181.224.207.18|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|15|45.238.142.10|3128|Honduras|Tegucigalpa|INET Communication|
-|16|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
-|17|14.17.106.202|3128|China|Foshan|Chinanet|
-|18|66.94.97.238|443|United States|New York|Contabo Inc.|
-|19|95.216.12.141|22214|Finland|Helsinki|Hetzner Online GmbH|
-|20|14.248.80.77|8080|Vietnam|Nam Định|VNPT|
+|1|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
+|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|3|65.51.178.92|3128|United States|Weehawken|Cablevision Systems Corp.|
+|4|103.241.109.130|3128|Kazakhstan|Nur-Sultan|Kar-Tel LLC|
+|5|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|6|185.42.14.120|1081|Russia|Mozhaysky District|Limited liability company "MultiHOST MSK"|
+|7|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|8|119.76.142.249|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|9|190.85.253.142|8080|Colombia|Bogotá|Telmex Colombia S.A.|
+|10|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|11|194.182.64.18|8081|Czechia|Prague|INTERNET CZ, a.s.|
+|12|177.55.57.69|3128|Brazil|Piraju|Webby Tecnologia Ltda|
+|13|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
+|14|176.88.168.155|8080|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|15|34.82.235.224|3128|United States|The Dalles|Google LLC|
+|16|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|17|193.200.151.69|48241|Ukraine|Bakalove|LIMANET Ltd.|
+|18|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|19|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
+|20|194.233.69.126|443|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

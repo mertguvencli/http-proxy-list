@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3917** proxies at the latest update. Usable proxies are below.
+> Scraper found **3956** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|201|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|201|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|201|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|185|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|185|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|185|
 
 ## Sources
 
@@ -32,11 +32,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|218|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|387|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|253|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|396|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|262|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1967|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|259|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1965|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
-|2|49.49.74.152|8080|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
-|3|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
-|4|88.225.242.117|8080|Turkey|İskenderun|TurkTelecom|
+|2|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICA??O MULTIM?DIA LT|
+|3|103.156.57.86|8080|Indonesia|Batam|PT Filltech Antar Nusa|
+|4|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
 |5|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|6|45.189.19.7|8333|Brazil|São Luís|Jose Ribamar Pereira Junior - ME|
-|7|103.151.140.165|8080|Indonesia|Jakarta|PT Indotechno Digital Komputasi|
-|8|185.104.252.10|9090|Lebanon|Bdebba|B SMART|
-|9|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|10|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|11|103.154.92.74|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|12|139.255.74.125|8080|Indonesia|Cibuntu|PT. LINKNET|
-|13|181.37.140.144|3128|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|14|47.102.110.19|7890|China|Shanghai|Addresses CNNIC|
-|15|182.253.40.98|8080|Indonesia|Surabaya|BIZNET|
-|16|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|17|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|18|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|19|38.130.249.137|999|United States|Dallas|Cogent Communications|
-|20|31.28.3.97|8080|Russia|St Petersburg|Filanco LLC|
+|6|88.225.242.117|8080|Turkey|İskenderun|TurkTelecom|
+|7|91.121.42.14|1081|France|Roubaix|OVH SAS|
+|8|102.68.128.211|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|201.77.109.129|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
+|10|66.94.97.238|443|United States|New York|Contabo Inc.|
+|11|92.60.190.22|50335|Ukraine|Kyiv|Komtel|
+|12|103.40.122.23|8087|Indonesia|Broyo Barat|PT DINAMIKA MEDIAKOM|
+|13|49.49.74.152|8080|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
+|14|176.241.95.162|41890|Iraq|Baghdad|Hayat ISP|
+|15|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|16|65.51.178.93|3128|United States|Weehawken|Cablevision Systems Corp.|
+|17|45.238.142.10|3128|Honduras|Tegucigalpa|INET Communication|
+|18|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|19|24.51.32.59|8080|United States|Indianapolis|Great Plains Communications LLC|
+|20|14.17.106.202|3128|China|Foshan|Chinanet|
 
 
 

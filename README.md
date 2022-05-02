@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3956** proxies at the latest update. Usable proxies are below.
+> Scraper found **4044** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|185|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|185|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|185|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|253|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|396|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|465|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|259|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|231|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1965|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
-|2|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICA??O MULTIM?DIA LT|
-|3|103.156.57.86|8080|Indonesia|Batam|PT Filltech Antar Nusa|
-|4|102.130.79.254|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
-|5|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|6|88.225.242.117|8080|Turkey|İskenderun|TurkTelecom|
-|7|91.121.42.14|1081|France|Roubaix|OVH SAS|
-|8|102.68.128.211|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|9|201.77.109.129|999|Mexico|Chihuahua City|Nidix Networks S.a. De C.V.|
-|10|66.94.97.238|443|United States|New York|Contabo Inc.|
-|11|92.60.190.22|50335|Ukraine|Kyiv|Komtel|
-|12|103.40.122.23|8087|Indonesia|Broyo Barat|PT DINAMIKA MEDIAKOM|
-|13|49.49.74.152|8080|Thailand|Sakon Nakhon|Triple T Broadband Public Company Limited|
-|14|176.241.95.162|41890|Iraq|Baghdad|Hayat ISP|
-|15|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|16|65.51.178.93|3128|United States|Weehawken|Cablevision Systems Corp.|
-|17|45.238.142.10|3128|Honduras|Tegucigalpa|INET Communication|
-|18|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|19|24.51.32.59|8080|United States|Indianapolis|Great Plains Communications LLC|
-|20|14.17.106.202|3128|China|Foshan|Chinanet|
+|1|65.51.178.92|3128|United States|Weehawken|Cablevision Systems Corp.|
+|2|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
+|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
+|4|180.183.2.120|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
+|5|197.232.135.174|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|6|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|7|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICA??O MULTIM?DIA LT|
+|8|170.245.132.4|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
+|9|202.162.37.68|8080|Indonesia|Kebumen Satu|PT Global Prima Utama|
+|10|94.228.204.225|41890|Russia|Moscow|Uniontel Ltd|
+|11|177.55.57.69|3128|Brazil|Piraju|Webby Tecnologia Ltda|
+|12|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|13|201.120.27.15|53281|Mexico|Hermosillo|Uninet S.A. de C.V|
+|14|41.76.216.47|8088|South Africa|Pretoria|Green Flash Trading|
+|15|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|16|38.130.249.137|999|United States|Dallas|Cogent Communications|
+|17|31.131.67.14|8080|Ukraine|Yevpatoriya|PE Zinstein Hariton Vladimirovich|
+|18|186.67.192.246|8080|Chile|Las Condes|Entel Chile S.A.|
+|19|144.168.180.48|3128|Canada|Montreal|B2 Net Solutions Inc.|
+|20|45.166.144.2|999|Chile|Santiago|Fullsolution S.P.A.|
 
 
 

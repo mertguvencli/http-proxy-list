@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3114** proxies at the latest update. Usable proxies are below.
+> Scraper found **3387** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|129|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|129|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|129|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|159|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|159|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|159|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|117|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|124|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|275|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|180|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|171|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1734|✅|
 
 
@@ -45,24 +45,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
 |2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|4|201.91.82.155|3128|Brazil|São Paulo|Vivo|
-|5|85.25.196.218|5566|France|Strasbourg|Host Europe GmbH|
-|6|67.206.206.2|999|Puerto Rico|Humacao|OSNET Wireless|
-|7|45.190.248.25|8080|Brazil|Passo Fundo|RK Telecom Provedor Internet LTDA|
-|8|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|9|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|10|66.94.97.238|443|United States|New York|Contabo Inc.|
-|11|66.94.97.238|443|United States|New York|Contabo Inc.|
-|12|103.148.192.74|8080|Indonesia|Bandung|PT. Akashia Thuba Jaya|
-|13|85.25.95.117|5566|France|Strasbourg|INTERGENIA|
-|14|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
-|15|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|16|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|17|181.129.14.163|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|18|202.180.29.59|8080|Indonesia|Jakarta|PT. HIPERNET INDODATA|
-|19|188.235.130.50|8080|Russia|Saratov|JSC "ER-Telecom Holding"|
-|20|168.119.118.250|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|3|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|4|142.132.178.65|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|5|176.56.107.197|61071|Spain|Elche|Aire Networks|
+|6|201.159.113.163|999|El Salvador|San Salvador|Ufinet Panama S.A.|
+|7|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|8|89.239.169.81|8080|Russia|Ulyanovsk|PJSC Rostelecom|
+|9|200.125.171.57|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|10|103.6.11.138|9812|Cambodia|Kampong Thom|Telecom Cambodia (T.C.)|
+|11|103.53.79.113|8080|Indonesia|Jakarta|INTI|
+|12|156.155.162.246|4415|South Africa|Boksburg|AxxessNetworks|
+|13|152.231.29.41|999|Colombia|Santiago de Cali|Colombiatel Telecomunicaciones|
+|14|200.229.229.197|8080|Brazil|Guarulhos|Wireless Comm Services LTDA|
+|15|200.60.12.43|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|16|103.241.204.241|3129|Indonesia|Cirebon|Universitas Jember|
+|17|182.52.83.199|8080|Thailand|Bangkok|TOT Public Company Limited|
+|18|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|19|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|20|185.204.197.169|8080|Italy|Rome|Pars Parva System LLC|
 
 
 

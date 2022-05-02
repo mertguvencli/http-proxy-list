@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4044** proxies at the latest update. Usable proxies are below.
+> Scraper found **3723** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|97|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|97|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|97|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|465|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|281|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|231|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1965|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|186|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1973|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|65.51.178.92|3128|United States|Weehawken|Cablevision Systems Corp.|
-|2|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
-|3|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|4|180.183.2.120|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|5|197.232.135.174|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
-|6|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|7|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICA??O MULTIM?DIA LT|
-|8|170.245.132.4|999|Paraguay|Asunción|MACHADO BAEZ, NERY JAVIER|
-|9|202.162.37.68|8080|Indonesia|Kebumen Satu|PT Global Prima Utama|
-|10|94.228.204.225|41890|Russia|Moscow|Uniontel Ltd|
-|11|177.55.57.69|3128|Brazil|Piraju|Webby Tecnologia Ltda|
-|12|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|13|201.120.27.15|53281|Mexico|Hermosillo|Uninet S.A. de C.V|
-|14|41.76.216.47|8088|South Africa|Pretoria|Green Flash Trading|
-|15|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|16|38.130.249.137|999|United States|Dallas|Cogent Communications|
-|17|31.131.67.14|8080|Ukraine|Yevpatoriya|PE Zinstein Hariton Vladimirovich|
-|18|186.67.192.246|8080|Chile|Las Condes|Entel Chile S.A.|
-|19|144.168.180.48|3128|Canada|Montreal|B2 Net Solutions Inc.|
-|20|45.166.144.2|999|Chile|Santiago|Fullsolution S.P.A.|
+|1|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
+|2|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICA??O MULTIM?DIA LT|
+|3|186.96.30.153|999|Mexico|Puerto Vallarta|Total Play Telecomunicaciones SA De CV|
+|4|91.224.183.153|8080|Russia|Moscow|NTK Obj|
+|5|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|6|103.152.100.187|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|7|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|8|65.51.178.93|3128|United States|Weehawken|Cablevision Systems Corp.|
+|9|200.125.171.60|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|10|91.214.31.234|8080|Ukraine|Zaporizhzhia|TOV "Telza"|
+|11|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|12|182.253.158.243|8080|Indonesia|Bandung|BIZNET|
+|13|194.233.69.126|443|Singapore|Singapore|Contabo Asia Private Limited|
+|14|14.17.106.202|3128|China|Foshan|Chinanet|
+|15|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|16|212.58.219.210|8080|Russia|Moscow|PJSC Rostelecom|
+|17|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|18|181.224.207.20|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|19|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|20|66.94.120.161|443|United States|Seattle|Contabo Inc.|
 
 
 

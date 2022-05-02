@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3387** proxies at the latest update. Usable proxies are below.
+> Scraper found **3656** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|143|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|143|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|143|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|124|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|275|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|376|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|171|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1734|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|163|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1910|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
-|2|103.73.194.2|80|Hong Kong|Wanchai|TouchPal HK Co., Limited|
-|3|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|4|142.132.178.65|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|176.56.107.197|61071|Spain|Elche|Aire Networks|
-|6|201.159.113.163|999|El Salvador|San Salvador|Ufinet Panama S.A.|
-|7|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|89.239.169.81|8080|Russia|Ulyanovsk|PJSC Rostelecom|
-|9|200.125.171.57|999|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
-|10|103.6.11.138|9812|Cambodia|Kampong Thom|Telecom Cambodia (T.C.)|
-|11|103.53.79.113|8080|Indonesia|Jakarta|INTI|
-|12|156.155.162.246|4415|South Africa|Boksburg|AxxessNetworks|
-|13|152.231.29.41|999|Colombia|Santiago de Cali|Colombiatel Telecomunicaciones|
-|14|200.229.229.197|8080|Brazil|Guarulhos|Wireless Comm Services LTDA|
-|15|200.60.12.43|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|16|103.241.204.241|3129|Indonesia|Cirebon|Universitas Jember|
-|17|182.52.83.199|8080|Thailand|Bangkok|TOT Public Company Limited|
-|18|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|19|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|20|185.204.197.169|8080|Italy|Rome|Pars Parva System LLC|
+|1|176.119.134.66|23500|Spain|Puerto Serrano|Electro Puerto SUR SL|
+|2|181.78.19.196|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
+|3|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
+|4|190.103.28.176|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|5|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|6|118.99.124.131|8080|Indonesia|Jakarta|BIZNET|
+|7|202.168.69.227|8080|Malaysia|Ipoh|Allo Technology Sdn. Bhd.|
+|8|45.230.172.11|8080|Mexico|Culiacán|Opsicome SA De CV|
+|9|181.118.158.131|999|Colombia|Paipa|Media Commerce Partners S.A|
+|10|14.161.43.121|8080|Vietnam|Ho Chi Minh City|VNPT|
+|11|66.94.97.238|443|United States|New York|Contabo Inc.|
+|12|146.196.106.34|8080|Indonesia|Teluknaga|PT Maxindo Mitra Solusi|
+|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|14|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|15|180.242.109.239|8080|Indonesia|Semarang|PT. TELKOM INDONESIA|
+|16|130.61.95.193|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|17|195.189.123.213|3128|Russia|Moscow|Iptp LTD|
+|18|181.129.14.163|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|19|66.94.97.238|443|United States|New York|Contabo Inc.|
+|20|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
 
 
 

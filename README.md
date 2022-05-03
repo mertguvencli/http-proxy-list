@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3857** proxies at the latest update. Usable proxies are below.
+> Scraper found **3746** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|187|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|187|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|187|
 
 ## Sources
 
@@ -32,11 +32,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|417|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|445|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|178|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1879|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|225|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1993|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|65.51.178.92|3128|United States|Weehawken|Cablevision Systems Corp.|
-|3|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
-|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|5|195.189.123.213|3128|Russia|Moscow|Iptp LTD|
-|6|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|7|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|8|128.199.94.96|3128|Singapore|Singapore|DigitalOcean, LLC|
-|9|146.196.110.246|8080|Indonesia|Surabaya|PT Maxindo Mitra Solusi|
-|10|181.37.140.144|3128|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
-|11|183.88.82.149|8080|Thailand|Bang Bon|Triple T Broadband Public Company Limited|
-|12|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|13|66.94.97.238|443|United States|New York|Contabo Inc.|
-|14|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
-|15|122.102.43.50|8080|Indonesia|Jakarta|PT Hipernet Indodata|
-|16|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|17|5.131.243.11|8080|Russia|Moscow|Novotelecom Ltd|
-|18|58.82.154.3|8080|Thailand|Watthana Nakhon|CUST-COPP-JASTEL|
-|19|37.113.20.226|55443|Russia|Penza|CJSC "ER-Telecom Holding" Penza branch|
-|20|36.92.111.49|9812|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|2|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
+|3|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|4|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|5|41.164.68.194|8080|South Africa|Cape Town|Liquid Telecommunications Operations Limited|
+|6|182.253.70.88|8080|Indonesia|Surabaya|BIZNET|
+|7|164.90.252.243|8080|United States|North Bergen|DigitalOcean, LLC|
+|8|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|9|103.241.227.107|6666|India|Ahmedabad|GTPL SMC Network PVT LTD|
+|10|216.176.32.79|3128|United Kingdom|Slough|Rackdog, LLC|
+|11|179.1.88.27|999|Colombia|Anapoima|Internexa S.a. E.S.P|
+|12|12.218.209.130|53281|United States|San Carlos|AT&T Services, Inc.|
+|13|182.253.158.243|8080|Indonesia|Bandung|BIZNET|
+|14|200.60.60.60|999|Peru|Lima|Telefonica del Peru S.A.A.|
+|15|173.197.167.242|8080|United States|Ontario|Spectrum|
+|16|45.88.42.75|8080|Singapore|Singapore|M247 Ltd|
+|17|62.3.30.25|8080|Georgia|K'alak'i T'bilisi|Enbinet Ltd.|
+|18|13.127.170.8|3128|India|Mumbai|Amazon Technologies Inc.|
+|19|5.16.0.174|8080|Russia|St Petersburg|Enforta-MSK|
+|20|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
 
 
 

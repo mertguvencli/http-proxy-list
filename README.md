@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3929** proxies at the latest update. Usable proxies are below.
+> Scraper found **4056** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|232|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|232|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|232|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|350|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|482|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|260|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|255|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1936|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|24.194.204.251|3129|United States|Averill Park|Charter Communications|
-|2|51.250.26.41|3128|Russia|Moscow|Yandex.Cloud LLC|
-|3|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|4|24.194.204.251|3129|United States|Averill Park|Charter Communications|
-|5|45.76.26.132|59394|United States|Elk Grove Village|The Constant Company|
-|6|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|7|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|8|101.53.158.48|9200|India|Noida|E2E Networks Limited|
-|9|45.190.249.100|8080|Brazil|Passo Fundo|RK Telecom Provedor Internet LTDA|
-|10|154.31.50.229|59394|United States|San Jose|HONG KONG Megalayer Technology Co., Limited|
-|11|155.138.229.91|59394|United States|Atlanta|The Constant Company|
-|12|36.91.148.37|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|13|103.147.77.66|3125|Indonesia|Madiun|TRIDATA|
-|14|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|15|201.219.194.203|8080|Colombia|Bogotá|ITELKOM|
-|16|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
-|17|50.235.247.114|8085|United States|Ashburn|Comcast Cable Communications, LLC|
-|18|59.66.146.21|7890|China|Beijing|TUZJC2P|
-|19|59.66.146.21|7890|China|Beijing|TUZJC2P|
-|20|113.176.118.231|9812|Vietnam|Hanoi|VNPT|
+|1|198.144.149.82|3128|Canada|Toronto|Netminders Server Hosting|
+|2|155.138.232.110|59394|United States|Atlanta|The Constant Company|
+|3|34.82.235.224|3128|United States|The Dalles|Google LLC|
+|4|2.56.62.76|3128|Turkey|Bursa|Yesilbir Bilisim Teknolojileri Bilgisayar Yayincilik Sanayi ve Ticaret Ltd. Sti|
+|5|88.11.39.252|8080|Spain|San Cristóbal de La Laguna|Telefonica de Espana SAU|
+|6|5.202.104.202|3128|Iran|Saveh|Pishgaman Toseeh Ertebatat Company (Private Joint Stock)|
+|7|128.199.94.96|3128|Singapore|Singapore|DigitalOcean, LLC|
+|8|184.22.3.52|8080|Thailand|Ratchathewi|AIS-Fibre|
+|9|101.109.176.172|8080|Thailand|Nakhon Pathom|TOT Public Company Limited|
+|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|11|45.190.249.100|8080|Brazil|Passo Fundo|RK Telecom Provedor Internet LTDA|
+|12|31.192.234.239|8080|Singapore|Singapore|Chelyabinsk-Signal LLC|
+|13|146.196.121.45|9812|India|Srinagar|CNS Infotel Services Pvt. Ltd.|
+|14|45.76.26.132|59394|United States|Elk Grove Village|The Constant Company|
+|15|46.0.114.185|55443|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
+|16|102.68.134.94|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|17|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|18|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|19|143.198.40.108|3128|Canada|Toronto|DigitalOcean, LLC|
+|20|45.76.13.167|59394|United States|Piscataway|The Constant Company|
 
 
 

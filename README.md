@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3932** proxies at the latest update. Usable proxies are below.
+> Scraper found **3967** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|247|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|247|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|247|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|230|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|230|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|230|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxyscan.io](https://www.proxyscan.io)|87|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|364|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|381|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|264|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|295|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1921|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.144.149.82|3128|Canada|Toronto|Netminders Server Hosting|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|4|34.82.235.224|3128|United States|The Dalles|Google LLC|
-|5|155.138.229.91|59394|United States|Atlanta|The Constant Company|
-|6|45.76.13.167|59394|United States|Piscataway|The Constant Company|
+|1|45.76.13.167|59394|United States|Piscataway|The Constant Company|
+|2|155.138.229.91|59394|United States|Atlanta|The Constant Company|
+|3|155.138.229.91|59394|United States|Atlanta|The Constant Company|
+|4|202.58.199.214|8081|Indonesia|Samarinda|Internet Madju Abad Millenindo, PT|
+|5|202.182.117.88|59394|Japan|Heiwajima|The Constant Company|
+|6|116.58.239.120|8080|Thailand|Ban Mai|CAT-BB|
 |7|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|8|186.96.116.12|999|Colombia|Flandes|TV AZTECA SUCURSAL COLOMBIA|
-|9|45.190.79.160|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
-|10|103.241.109.130|3128|Kazakhstan|Nur-Sultan|Kar-Tel LLC|
-|11|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
-|12|186.96.100.61|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|155.138.232.110|59394|United States|Atlanta|The Constant Company|
-|14|187.243.255.234|9812|Mexico|Hermosillo|Mega Cable, S.A. de C.V.|
-|15|190.69.153.82|999|Colombia|Facatativá|Colombia Telecomunicaciones S.a. ESP|
-|16|45.76.26.132|59394|United States|Elk Grove Village|The Constant Company|
-|17|185.190.38.202|8080|Serbia|Belgrade|Kadri Haxhiaj trading as "B.I."|
-|18|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|19|161.35.126.221|3128|United States|North Bergen|DigitalOcean, LLC|
-|20|195.39.233.18|8080|Ukraine|Kharkiv|Active Operations LLC|
+|8|155.138.232.110|59394|United States|Atlanta|The Constant Company|
+|9|203.150.113.66|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|10|182.23.15.185|9812|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|11|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
+|12|201.222.45.65|999|Chile|Santiago|GRUPO ULLOA SpA|
+|13|2.50.152.18|53281|United Arab Emirates|Abu Dhabi|Emirates Telecommunications Corporation|
+|14|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|15|144.129.84.114|8118|United States|Melbourne|Charter Communications|
+|16|116.58.232.23|8080|Thailand|Kabin Buri|CAT-BB|
+|17|128.199.94.96|3128|Singapore|Singapore|DigitalOcean, LLC|
+|18|95.154.64.101|8080|Russia|Vladivostok|OCTOPUSNET-SUBSCRIBERS|
+|19|37.113.20.226|55443|Russia|Penza|CJSC "ER-Telecom Holding" Penza branch|
+|20|213.136.101.36|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
 
 
 

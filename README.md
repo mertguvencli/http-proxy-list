@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3469** proxies at the latest update. Usable proxies are below.
+> Scraper found **3348** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|381|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|310|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|185|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|135|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1820|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
-|2|2.187.230.104|8080|Iran|Urmia|Iran Telecommunication Company PJS|
-|3|102.68.134.94|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|4|201.220.112.98|999|Chile|Valdivia|Telefonica del Sur S.A.|
+|1|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|2|198.229.231.13|8080|United States|Spring Valley|MTCO Communications|
+|3|41.84.143.230|8081|Kenya|Thika|SOHO-REGIONAL|
+|4|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
 |5|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|6|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|7|179.1.129.94|999|Colombia|Aipe|Internexa S.a. E.S.P|
-|8|202.43.190.10|53128|Indonesia|Jakarta|CEPATNET|
-|9|81.68.243.42|80|Netherlands|Hilversum|EuroNet Internet|
-|10|13.127.170.8|3128|India|Mumbai|Amazon Technologies Inc.|
-|11|51.89.33.32|20000|United Kingdom|London|OVH SAS|
-|12|177.93.48.117|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
-|13|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|14|45.234.63.218|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|15|82.204.150.190|3129|Russia|Moscow|MTS PJSC|
-|16|80.90.141.31|8080|Czechia|Boretice|Oxid - III|
-|17|49.156.34.190|41890|Cambodia|Phnom Penh|WiCAM Corporation Ltd.|
-|18|195.151.212.21|8080|Russia|Moscow|ROSPRINT|
-|19|190.85.253.142|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|20|161.35.126.221|3128|United States|North Bergen|DigitalOcean, LLC|
+|6|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
+|7|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|8|212.174.44.41|8080|Turkey|Gaziantep|Turk Telekomunikasyon Anonim Sirketi|
+|9|137.184.136.135|3128|United States|North Bergen|DigitalOcean, LLC|
+|10|190.90.102.37|8080|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|11|36.95.156.127|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|12|186.215.68.51|3127|Brazil|Brasília|Vivo|
+|13|175.145.88.16|53281|Malaysia|Subang Jaya|Tmnet, Telekom Malaysia Bhd.|
+|14|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|16|194.182.64.18|8081|Czechia|Prague|INTERNET CZ, a.s.|
+|17|202.62.11.197|8080|Indonesia|Pamulang|PT Indonesia Comnets Plus|
+|18|217.11.79.232|8080|Kazakhstan|Almaty|Aspan telecom|
+|19|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|20|77.238.129.14|55443|Russia|Voronezh|LLC Intercon|
 
 
 

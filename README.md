@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3456** proxies at the latest update. Usable proxies are below.
+> Scraper found **3511** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|83|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|83|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|83|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|157|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|157|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|157|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|284|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|258|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|197|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|278|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1892|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|5.53.16.185|18080|Russia|Surgut|Metroset Ltd|
-|2|46.0.114.185|55443|Russia|Samara|CJSC "ER-Telecom Holding" Samara branch|
-|3|116.50.30.82|9812|Indonesia|Jakarta|DELTANET|
-|4|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|5|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|6|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
-|7|181.49.217.254|8080|Colombia|Medellín|Telmex Colombia S.A.|
-|8|190.186.159.17|999|Bolivia|Santa Cruz|Cotas Ltda.|
-|9|51.89.33.32|20000|United Kingdom|London|OVH SAS|
-|10|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|11|218.1.142.159|57114|China|Shanghai|China Telecom|
-|12|38.123.68.152|999|Mexico|Juanacatlan|Cogent Communications|
-|13|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|14|189.4.184.34|8080|Brazil|Santos|Claro S.A.|
-|15|45.234.63.218|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
-|16|41.138.168.2|8080|Nigeria|Lagos|Autonomous System number for Cyber Space|
-|17|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|18|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|19|45.70.14.58|999|Ecuador|Baba|Nedetel S.A.|
-|20|82.167.253.137|8080|Saudi Arabia|Riyadh|ORBITNET.KSA|
+|1|5.189.162.175|3128|Germany|Nuremberg|Contabo GmbH|
+|2|187.62.195.145|8080|Brazil|Montes Claros|UWBR VOX Telecomunicações S/A|
+|3|158.140.181.170|10001|Indonesia|Bogor|MYREPUBLIC|
+|4|149.129.103.159|8213|Hong Kong|Central|Alibaba.com Singapore E-Commerce Private Limited|
+|5|173.249.30.165|3128|Germany|Nuremberg|Contabo GmbH|
+|6|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|118.99.102.63|8080|Indonesia|Jakarta|Biznet Metronet|
+|8|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|9|5.53.16.185|18080|Russia|Surgut|Metroset Ltd|
+|10|181.224.207.20|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|11|181.129.14.166|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|12|188.133.158.145|8080|Russia|Moscow|Enforta-MSK|
+|13|178.62.84.48|3128|United Kingdom|London|DigitalOcean, LLC|
+|14|51.79.50.46|9300|Canada|Beauharnois|OVH SAS|
+|15|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|16|190.202.111.202|8080|Venezuela|Caracas|CANTV Servicios, Venezuela|
+|17|45.234.63.218|999|Venezuela|Caracas|SOLUCIONES INSTALRED CH&C C.A.|
+|18|181.224.207.18|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|19|178.93.151.100|8080|Ukraine|Kyiv|UKRTELECOM|
+|20|36.95.79.7|41890|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
 
 
 

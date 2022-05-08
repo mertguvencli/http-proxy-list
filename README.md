@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3938** proxies at the latest update. Usable proxies are below.
+> Scraper found **3885** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|273|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|273|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|273|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|176|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|176|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|176|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|314|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|361|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|293|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|193|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1948|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.189.253.1|999|Mexico|San Sabastian Tierra Blanca|Tracered SA De CV|
-|2|78.47.216.215|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|3|195.189.123.213|3128|Russia|Moscow|Iptp LTD|
-|4|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
-|5|167.71.207.46|8080|Singapore|Singapore|DigitalOcean, LLC|
-|6|187.102.236.209|999|Mexico|Parral|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos HYP|
-|7|177.242.151.148|8080|Mexico|San Juan Bautista Tuxtla|Mega Cable, S.A. de C.V.|
-|8|46.209.206.21|3128|Iran|Tehran|Respina|
-|9|14.161.43.121|8080|Vietnam|Ho Chi Minh City|VNPT|
-|10|103.208.205.234|8080|Indonesia|Jakarta|YETOYA|
-|11|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|12|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
-|13|68.208.51.61|8080|United States|Decatur|AT&T Corp|
-|14|93.86.63.73|8080|Serbia|Belgrade|TELEKOM-SRBIJA|
-|15|177.37.167.78|3128|Brazil|Jaguaribe|Brisanet Servicos De Telecomunicacoes Ltda|
-|16|77.236.243.39|1256|Russia|Moscow|ArtCommunications Ltd. ISP. Moscow|
-|17|70.15.116.177|8888|United States|Manheim|PenTeleData Inc.|
-|18|94.253.104.223|55443|Russia|Noginsk|for Flex Ltd|
-|19|45.190.79.176|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
-|20|103.161.164.111|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
+|1|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
+|2|195.189.123.213|3128|Russia|Moscow|Iptp LTD|
+|3|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
+|4|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|5|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|128.199.240.219|3128|Singapore|Singapore|DigitalOcean, LLC|
+|7|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|8|77.50.104.110|3128|Russia|Moscow|StarLink Telecom Network|
+|9|170.79.73.8|8080|Brazil|Chuvisca|Osirnet Info Telecom Ltda.|
+|10|200.125.171.201|9991|Dominican Republic|Santiago de los Caballeros|WIRELESS MULTI SERVICE VARGAS CABRERA, S. R. L|
+|11|110.39.42.246|3128|Pakistan|Lahore|Wateen Telecom Limited|
+|12|185.17.132.15|2536|Russia|Makhachkala|JSC Elektrosvyaz|
+|13|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|14|116.58.254.93|8080|Thailand|Samphanthawong|CAT-BB|
+|15|38.10.246.142|9991|Dominican Republic|Santiago de los Caballeros|Cogent Communications|
+|16|111.202.50.231|3128|China|Xicheng District|China Unicom Beijing Province Network|
+|17|190.214.27.46|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|18|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|19|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|20|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
 
 
 

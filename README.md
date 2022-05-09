@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3282** proxies at the latest update. Usable proxies are below.
+> Scraper found **3194** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|114|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|114|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|114|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|96|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|96|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|96|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|97|✅|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|336|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|270|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|194|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|169|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1398|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|2|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
-|3|181.224.207.21|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|4|62.78.58.149|8080|Russia|Lytkarino|Wellcom ISP|
-|5|181.224.207.19|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|6|14.248.80.77|8080|Vietnam|Nam Định|VNPT|
-|7|152.231.25.58|8080|Colombia|El Paujil|Colombiatel Telecomunicaciones|
-|8|186.118.170.44|999|Colombia|Bogotá|Colombia Telecomunicaciones S.a. ESP|
-|9|95.68.27.12|53281|Latvia|Valmiera|LATTELEKOM|
-|10|186.250.162.165|8080|Brazil|Natal|g j pereira|
-|11|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|12|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|13|103.122.253.98|9812|Bangladesh|Tejgaon|Falcon Link|
-|14|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|15|1.186.40.35|1111|India|Mangalore|D-VoiS Broadband Private Limited|
-|16|41.79.65.241|8001|Nigeria|Lekki|NGCOM|
-|17|181.40.122.102|8080|Paraguay|Villarrica|Telecel S.A.|
-|18|186.96.56.9|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
-|19|203.189.137.180|9812|Cambodia|Phnom Penh|ONLINE|
-|20|45.229.56.64|999|Panama|La Chorrera|GEEK NETWORKS, S.A|
+|1|149.154.157.17|5678|Italy|Milan|EDIS|
+|2|37.156.29.119|8118|Iran|Tehran|Mobin Net Communication Company|
+|3|200.26.190.74|999|Dominican Republic|Santiago de los Caballeros|TELERY NETWORKS, S.R.L|
+|4|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|5|103.25.210.228|8080|Indonesia|Purwokerto Wetan|TRANSDATA|
+|6|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|7|103.161.76.40|8080|Indonesia|Malang|PT Interkoneksi Dan Komunikasi Indonesia|
+|8|103.120.153.58|84|India|Kaithal|Dstech Cyberspace Pvt Ltd|
+|9|176.62.178.247|47556|Russia|Moscow|OOO Istranet|
+|10|125.212.218.75|8888|Vietnam|Hanoi|Viettel Corporation|
+|11|183.89.91.239|8080|Thailand|Bang Na|Triple T Broadband Public Company Limited|
+|12|37.54.13.78|8081|Ukraine|Kyiv|UKRTELECOM|
+|13|5.167.141.239|3128|Russia|Tula|CJSC "ER-Telecom Holding" Tula branch|
+|14|41.79.64.202|8001|Nigeria|Lagos|NGCOM|
+|15|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|183.89.8.113|8080|Thailand|Nan|Triple T Broadband Public Company Limited|
+|17|189.157.126.4|999|Mexico|Ciudad Valles|Uninet S.A. de C.V|
+|18|190.128.225.115|999|Paraguay|Asunción|Telecel S.A.|
+|19|103.21.161.105|6666|India|Bhavnagar|Narmada Cyberzone pvt. ltd|
+|20|101.53.154.137|2003|India|Noida|E2E Networks Limited|
 
 
 

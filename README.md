@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3838** proxies at the latest update. Usable proxies are below.
+> Scraper found **3731** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|43|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|366|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|346|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|223|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|179|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1923|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|162.213.39.67|3128|United States|Ashburn|CLOUDSIGMA AG|
-|2|162.213.39.67|3128|United States|Ashburn|CLOUDSIGMA AG|
-|3|115.21.249.130|3128|South Korea|Seo-gu|Korea Telecom|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|149.248.5.225|59394|United States|Los Angeles|The Constant Company|
 |4|149.248.5.225|59394|United States|Los Angeles|The Constant Company|
-|5|149.248.5.225|59394|United States|Los Angeles|The Constant Company|
-|6|95.140.31.39|41890|Russia|Moscow|Sputnik LTD|
-|7|118.99.102.63|8080|Indonesia|Jakarta|Biznet Metronet|
-|8|170.245.56.195|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
-|9|177.129.11.150|8080|Brazil|Rio de Janeiro|Citta Telecom Ltda|
-|10|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|11|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|12|88.255.94.2|8080|Turkey|Kayseri|Turk Telekomunikasyon Anonim Sirketi|
-|13|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
-|14|131.108.220.57|45005|Brazil|Nossa Senhora do Socorro|Rodrigo Mattaraggia - ME|
-|15|47.98.146.251|7778|China|Hangzhou|Hangzhou Alibaba Advertising Co|
-|16|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|17|36.238.95.229|53281|Taiwan|Kaohsiung City|Chunghwa Telecom Co., Ltd.|
-|18|62.33.136.222|8080|Russia|Voroshnevo|Joint Stock Company TransTeleCom|
-|19|103.156.15.25|8080|Indonesia|Pinrang|PT Lintas Jaringan Nusantara|
-|20|190.71.50.58|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P|
+|5|187.94.98.222|8080|Brazil|Sao Jose|Unifique Telecomunicações SA|
+|6|177.129.11.150|8080|Brazil|Rio de Janeiro|Citta Telecom Ltda|
+|7|194.219.129.195|8080|Greece|Athens|Forthnet|
+|8|119.82.240.177|6060|Indonesia|Surabaya|Indonesia Network Information Center|
+|9|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|10|93.184.8.74|8085|Palestinian Territory|Ramallah|BCI Telecommunication & Advanced Technology Company|
+|11|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|12|103.147.247.15|8080|Indonesia|Jakarta|PLBNET|
+|13|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
+|14|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|15|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
+|16|149.154.157.17|5678|Italy|Milan|EDIS|
+|17|66.94.97.238|443|United States|New York|Contabo Inc.|
+|18|176.56.107.205|33911|Spain|Elche|Aire Networks|
+|19|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|20|45.77.86.30|59394|United States|Los Angeles|The Constant Company|
 
 
 

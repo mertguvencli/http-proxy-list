@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3916** proxies at the latest update. Usable proxies are below.
+> Scraper found **3640** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|248|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|248|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|248|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -32,37 +32,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|263|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|222|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|327|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|326|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1970|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|215|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1819|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|172.105.6.190|3128|Canada|Toronto|Linode, LLC|
-|2|45.77.86.30|59394|United States|Los Angeles|The Constant Company|
-|3|167.71.207.46|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|187.149.9.12|999|Mexico|Culiacán|Uninet S.A. de C.V.|
-|5|182.253.28.124|8080|Indonesia|Jakarta|Biznet Networks|
-|6|45.77.86.30|59394|United States|Los Angeles|The Constant Company|
-|7|189.198.250.210|999|Mexico|Hermosillo|Mega Cable, S.A. de C.V.|
-|8|107.178.9.186|8080|United States|Waco|Nextlink Broadband|
-|9|69.75.140.157|8080|United States|Los Angeles|Spectrum|
-|10|154.159.243.117|8080|Kenya|Nairobi|Airtel KE Mobile Broadband|
-|11|36.94.40.123|9812|Indonesia|Sidoarjo|PT. Telekomunikasi Indonesia|
-|12|159.192.138.170|8080|Thailand|Chana|CAT-BB|
-|13|85.214.124.194|5001|Germany|Berlin|Strato AG|
-|14|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|15|181.48.101.245|3128|Colombia|Medellín|Telmex Colombia S.A.|
-|16|120.28.218.28|3128|Philippines|Koronadal|Globe Telecom|
-|17|172.105.6.190|3128|Canada|Toronto|Linode, LLC|
-|18|68.183.128.165|3128|United States|North Bergen|DigitalOcean, LLC|
-|19|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|20|103.87.25.19|9812|India|Kalayat|Falconet Internet Pvt. Ltd|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|85.214.124.194|5001|Germany|Berlin|Strato AG|
+|3|177.55.57.69|3128|Brazil|Piraju|Webby Tecnologia Ltda|
+|4|202.21.188.150|8080|Maldives|Malé|Focus Infocom|
+|5|45.77.86.30|59394|United States|Los Angeles|The Constant Company|
+|6|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
+|7|149.248.5.225|59394|United States|Los Angeles|The Constant Company|
+|8|31.170.62.220|8080|Iran|Jahrom|Farahoosh Dena PLC|
+|9|125.165.47.201|8080|Indonesia|South Tangerang|PT. Telekomunikasi Indonesia|
+|10|211.212.237.221|9812|South Korea|Anyang-si|SK Broadband Co Ltd|
+|11|164.92.190.41|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|181.209.82.154|23500|Argentina|Dean Funes|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|13|41.84.152.241|8080|Kenya|Nairobi|SOHO|
+|14|45.77.86.30|59394|United States|Los Angeles|The Constant Company|
+|15|184.82.128.211|8080|Thailand|Ratchathewi|Advanced Wireless Network Company Limited|
+|16|172.105.6.190|3128|Canada|Toronto|Linode, LLC|
+|17|5.167.141.239|3128|Russia|Tula|CJSC "ER-Telecom Holding" Tula branch|
+|18|139.59.249.244|7777|Singapore|Singapore|DigitalOcean, LLC|
+|19|190.61.57.43|8080|Colombia|Canasgordas|Ufinet Panama S.A.|
+|20|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
 
 
 

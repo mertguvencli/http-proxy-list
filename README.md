@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3619** proxies at the latest update. Usable proxies are below.
+> Scraper found **3687** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|133|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|133|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|133|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|260|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|282|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|183|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|229|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1819|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|177.37.16.104|8080|Brazil|Maceió|R3 TELECOM|
-|2|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
-|3|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
-|4|85.214.124.194|5001|Germany|Berlin|Strato AG|
-|5|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|6|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|7|182.53.50.184|8081|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|8|43.242.135.182|8080|Myanmar|Yangon|Global Technology Co|
-|9|180.183.29.58|8080|Thailand|Hat Yai|Triple T Broadband Public Company Limited|
-|10|103.156.15.25|8080|Indonesia|Pinrang|PT Lintas Jaringan Nusantara|
-|11|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
-|12|173.82.252.145|3129|United States|Santa Clarita|Multacom Corporation|
-|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|14|41.73.4.106|8080|Nigeria|Abuja|Suburban-Broadband|
-|15|82.114.106.40|1256|Russia|Moscow|Enforta-MSK|
-|16|138.0.89.154|999|Colombia|Belén|Dobleclick Software E Ingeneria|
-|17|181.49.23.78|999|Colombia|Valledupar|Telmex Colombia S.A.|
-|18|47.51.51.190|8080|United States|Glendale|Charter Communications|
-|19|182.23.107.210|3128|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|102.130.79.1|3128|South Africa|Pretoria|Adnexus Celerity Networks (Proprietary) Limited|
+|1|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|2|173.82.252.145|3129|United States|Santa Clarita|Multacom Corporation|
+|3|41.84.143.227|8081|Kenya|Thika|SOHO-REGIONAL|
+|4|173.82.252.145|3129|United States|Santa Clarita|Multacom Corporation|
+|5|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|6|157.100.53.110|999|Ecuador|Machala|Nedetel S.A.|
+|7|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
+|8|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
+|9|165.16.27.50|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|10|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|11|203.124.60.109|8080|Pakistan|Sialkot|COMSATS|
+|12|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
+|13|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|14|88.11.39.252|8080|Spain|San Cristóbal de La Laguna|Telefonica de Espana SAU|
+|15|110.77.171.56|8080|Thailand|Hat Yai|CAT-BB|
+|16|177.53.152.137|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|17|41.73.4.106|8080|Nigeria|Abuja|Suburban-Broadband|
+|18|186.225.229.191|8080|Brazil|Tijucas|Unetvale Servicos e Equipamentos LTDA|
+|19|203.153.125.246|8080|Indonesia|Tangerang|GMNUSANTARA|
+|20|129.159.148.238|3128|Israel|Jerusalem|Oracle Corporation|
 
 
 

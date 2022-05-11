@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3850** proxies at the latest update. Usable proxies are below.
+> Scraper found **3912** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|219|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|219|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|219|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|389|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|414|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|181|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|218|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1897|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|128.199.94.96|3128|Singapore|Singapore|DigitalOcean, LLC|
-|2|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|3|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
-|4|182.253.171.239|8080|Indonesia|Jakarta|Biznet Networks|
-|5|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|6|185.135.193.38|3128|Poland|Lodz|M3.NET Sp. zoo Sp. K.|
-|7|103.209.248.86|8080|Indonesia|Panjangjiwo|Indonesia Network Information Center|
-|8|45.77.86.30|59394|United States|Los Angeles|The Constant Company|
-|9|51.81.32.81|8888|United States|Reston|OVH SAS|
-|10|204.199.113.30|999|Colombia|Bogotá|CTL Colombia|
-|11|193.178.210.184|3128|United States|New York|MIRholding B.V.|
-|12|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|13|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
-|14|51.81.32.81|8888|United States|Reston|OVH SAS|
-|15|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|16|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|17|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|18|111.202.50.231|78|China|Xicheng District|China Unicom Beijing Province Network|
-|19|173.219.112.85|8080|United States|Chicago|Suddenlink Communications|
-|20|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|43.132.197.151|443|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|3|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|4|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
+|5|212.108.144.67|8080|Cyprus|Kyrenia|Lifecell Digital LTD|
+|6|27.114.136.154|3128|Maldives|Funadhoo|Dhiraagu Pvt.Ltd.|
+|7|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
+|8|51.79.152.70|80|Singapore|Singapore|OVH SAS|
+|9|95.217.207.66|3128|Finland|Helsinki|Hetzner Online GmbH|
+|10|45.77.86.30|59394|United States|Los Angeles|The Constant Company|
+|11|190.158.69.35|9812|Colombia|Pereira|Telmex Colombia S.A.|
+|12|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|14|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|15|187.190.226.23|9991|Mexico|Querétaro|Total Play Telecomunicaciones SA De CV|
+|16|176.9.227.233|54545|Germany|Falkenstein|Hetzner Online GmbH|
+|17|164.90.252.243|8080|United States|North Bergen|DigitalOcean, LLC|
+|18|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|19|164.68.117.160|3128|Germany|Nuremberg|Contabo GmbH|
+|20|103.146.26.130|8080|Indonesia|Tanjungbalai|INMEET|
 
 
 

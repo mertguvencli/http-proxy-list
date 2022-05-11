@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3806** proxies at the latest update. Usable proxies are below.
+> Scraper found **3850** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|186|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|186|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|186|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|162|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|162|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|162|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|306|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|389|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|253|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1864|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|181|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1897|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|128.199.94.96|3128|Singapore|Singapore|DigitalOcean, LLC|
-|3|45.77.86.30|59394|United States|Los Angeles|The Constant Company|
-|4|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|5|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
-|6|61.216.156.222|60808|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
-|7|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
-|8|36.93.35.153|9812|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|9|36.95.214.225|9812|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|10|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
-|11|201.174.239.18|8080|Mexico|Monterrey|Transtelco Inc|
+|1|128.199.94.96|3128|Singapore|Singapore|DigitalOcean, LLC|
+|2|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
+|3|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
+|4|182.253.171.239|8080|Indonesia|Jakarta|Biznet Networks|
+|5|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|6|185.135.193.38|3128|Poland|Lodz|M3.NET Sp. zoo Sp. K.|
+|7|103.209.248.86|8080|Indonesia|Panjangjiwo|Indonesia Network Information Center|
+|8|45.77.86.30|59394|United States|Los Angeles|The Constant Company|
+|9|51.81.32.81|8888|United States|Reston|OVH SAS|
+|10|204.199.113.30|999|Colombia|Bogotá|CTL Colombia|
+|11|193.178.210.184|3128|United States|New York|MIRholding B.V.|
 |12|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|14|18.185.58.14|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|16|115.42.3.150|53281|Australia|Sydney|Escapenet Pty Ltd|
-|17|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|18|51.81.32.81|8888|United States|Reston|OVH SAS|
-|19|148.251.66.8|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|20|52.26.90.29|3128|United States|Portland|Amazon Technologies Inc.|
+|13|95.31.5.29|54651|Russia|Moscow|CORBINA-BROADBAND|
+|14|51.81.32.81|8888|United States|Reston|OVH SAS|
+|15|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|16|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|17|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|18|111.202.50.231|78|China|Xicheng District|China Unicom Beijing Province Network|
+|19|173.219.112.85|8080|United States|Chicago|Suddenlink Communications|
+|20|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
 
 
 

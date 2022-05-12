@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4369** proxies at the latest update. Usable proxies are below.
+> Scraper found **4148** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|250|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|250|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|250|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|196|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|196|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|196|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|391|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|392|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|442|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|220|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2153|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
-|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|4|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
-|5|185.105.108.208|8080|Netherlands|Amsterdam|Serverius|
-|6|176.215.4.72|3128|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
-|7|45.228.52.108|999|Ecuador|La Providencia|ORBINET|
-|8|113.176.118.231|9812|Vietnam|Hanoi|VNPT|
-|9|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
-|10|105.28.176.41|9812|Mauritius|Quatre Bornes|SEACOM Limited Networks|
-|11|87.250.6.45|3128|Russia|Izhevsk|MARK-ITT|
-|12|61.19.145.66|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
-|13|213.76.117.169|8080|Poland|Krakow|Orange Polska Spolka Akcyjna|
-|14|46.122.7.149|8080|Slovenia|Pesnica|A1 Slovenija|
-|15|103.65.193.237|9812|India|Ballabgarh|N R DATA SERVICE PVT LTD|
-|16|193.178.210.198|3128|United States|New York|MIRholding B.V.|
-|17|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|18|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|19|186.192.251.63|8080|Brazil|Gurupi|Conectlan Internet|
-|20|51.81.32.81|8888|United States|Reston|OVH SAS|
+|1|201.30.192.147|8080|Brazil|São Francisco|Claro S.A|
+|2|176.215.4.72|3128|Russia|Yekaterinburg|CJSC "ER-Telecom Holding" Yekaterinburg branch|
+|3|46.122.7.149|8080|Slovenia|Pesnica|A1 Slovenija|
+|4|181.36.121.222|999|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|5|185.83.144.222|3128|Turkey|Merkezefendi|Netinternet Datacenter|
+|6|136.244.118.117|3128|France|Aubervilliers|The Constant Company|
+|7|190.90.24.13|999|Colombia|Santiago de Cali|Internexa S.a. E.S.P|
+|8|200.54.194.10|53281|Chile|Providencia|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|9|105.28.176.41|9812|Mauritius|Quatre Bornes|SEACOM Limited Networks|
+|10|181.224.204.22|22800|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|11|178.136.2.208|55443|Ukraine|Kyiv|VEGA Kiev|
+|12|103.146.185.107|3127|Indonesia|Ngadri|YAMNET|
+|13|103.29.185.189|8080|Indonesia|Jakarta|PT. Pascal Indonesia|
+|14|103.110.91.242|3128|Indonesia|Jakarta|ICONPLN|
+|15|150.129.171.35|30093|India|Nadiad|GTPL SK Network Pvt Ltd|
+|16|45.233.244.141|8083|Brazil|Custodia|Provedor NET Mais Ltda - ME|
+|17|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|18|5.9.201.70|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|139.255.136.171|8080|Indonesia|Jakarta|PT. First Media, Tbk|
+|20|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
 
 
 

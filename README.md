@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4043** proxies at the latest update. Usable proxies are below.
+> Scraper found **4409** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|365|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|365|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|365|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|476|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|476|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|476|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|471|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|661|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|221|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|397|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1968|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|185.105.108.208|8080|Netherlands|Amsterdam|Serverius|
-|3|128.199.94.96|3128|Singapore|Singapore|DigitalOcean, LLC|
-|4|140.82.41.66|3128|United States|Piscataway|The Constant Company|
-|5|140.82.41.66|3128|United States|Piscataway|The Constant Company|
-|6|49.128.180.178|8080|Indonesia|Semarang|GMEDIA|
-|7|118.69.176.168|8080|Vietnam|Ho Chi Minh City|FPT Telecom Company|
-|8|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
-|9|171.233.151.214|55443|Vietnam|Ho Chi Minh City|Viettel Corporation|
-|10|113.53.60.139|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|11|201.234.53.213|999|Peru|Lima|Level 3 Peru S.A|
-|12|1.2.176.179|8080|Thailand|Bangkok|TOT Public Company Limited|
-|13|176.99.2.43|1081|Russia|Moscow|"Domain names registrar REG.RU", Ltd|
-|14|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|15|183.89.42.196|8080|Thailand|Ayutthaya|Triple T Broadband Public Company Limited|
-|16|103.168.44.118|8080|Indonesia|Danaraja|PT CYB Media Group|
-|17|186.0.176.147|443|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
-|18|176.98.95.105|32018|Ukraine|Uman|TOV TV&Radio Company 'TIM'|
-|19|183.89.65.114|8080|Thailand|Prakhon Chai|Triple T Broadband Public Company Limited|
-|20|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
+|1|70.186.128.126|8080|United States|Oklahoma City|Cox Communications Inc.|
+|2|5.9.201.70|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|3|5.153.234.91|3128|Sweden|Stockholm|Inter Connects Inc|
+|4|195.189.123.213|3128|Russia|Moscow|Iptp LTD|
+|5|187.144.242.38|3128|Mexico|Colima|Uninet S.A. de C.V.|
+|6|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
+|7|185.135.193.38|3128|Poland|Lodz|M3.NET Sp. zoo Sp. K.|
+|8|212.108.144.67|8080|Cyprus|Kyrenia|Lifecell Digital LTD|
+|9|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
+|10|176.56.107.238|33831|Spain|Elche|Aire Networks|
+|11|103.164.112.124|10001|Indonesia|Jakarta|SOLUSINET|
+|12|61.19.109.236|8080|Thailand|Ratchathewi|CAT-ISP|
+|13|27.114.136.154|3128|Maldives|Funadhoo|Dhiraagu Pvt.Ltd.|
+|14|222.165.205.204|8080|Indonesia|Jakarta|PT NettoCyber Indonesia|
+|15|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|16|186.216.80.166|3128|Brazil|Rio de Janeiro|Rede Brasileira de Comunicacao Ltda|
+|17|83.49.195.90|3128|Spain|Vitoria-Gasteiz|Telefonica de Espana SAU|
+|18|190.116.90.45|999|Peru|La Victoria|America Movil Peru S.A.C.|
+|19|103.178.42.10|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|20|38.130.249.137|999|United States|Dallas|Cogent Communications|
 
 
 

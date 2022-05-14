@@ -10,7 +10,7 @@ from readme import update_readme
 
 logging.basicConfig(
     format='%(asctime)s %(name)s - %(levelname)s - %(message)s',
-    level=logging.DEBUG
+    level=logging.INFO
 )
 
 HEADERS = {
@@ -30,7 +30,7 @@ class ProxyItem:
             'https': f'http://{self.ip}:{self.port}'
         }
         self.is_valid = self.check()
-        logging.debug(f'Checking Proxy: {self.__dict__}')
+        logging.info(f'Checking Proxy: {self.__dict__}')
 
     def check(self) -> bool:
         global USABLE_PROXIES
@@ -56,7 +56,7 @@ class Scraper:
         self.parser_config: dict = list(self.parser.values())[0]
         self.request_timeout = 10
         self.is_succeed = False
-        logging.debug(f'Source: {self.config.get("id")} has started.')
+        logging.info(f'Source: {self.config.get("id")} has started.')
 
     def crawl(self) -> requests.Response:
         return requests.request(
@@ -118,30 +118,33 @@ class Scraper:
         return self.is_succeed, len(proxies)
 
 
-def geolocation_info(batch_ips):
-    def batch_request(data):
-        response = requests.post("http://ip-api.com/batch", json=data, timeout=10)
-        if response.status_code == 200:
-            return response.json()
-        return None
+def geolocation_info(batch_ips) -> list:
+    try:
+        def batch_request(data):
+            response = requests.post("http://ip-api.com/batch", json=data, timeout=120)
+            if response.status_code == 200:
+                return response.json()
+            return None
 
-    batch_limit = 100
-    ip_api_results = []
-    list_of_ip = [x["ip"] for x in batch_ips]
-    for start in range(0, len(list_of_ip), batch_limit):
-        batch = list_of_ip[start: start + batch_limit]
-        geo = batch_request(batch)
-        if geo:
-            ip_api_results = itertools.chain(ip_api_results, geo)
+        batch_limit = 100
+        ip_api_results = []
+        list_of_ip = [x["ip"] for x in batch_ips]
+        for start in range(0, len(list_of_ip), batch_limit):
+            batch = list_of_ip[start: start + batch_limit]
+            geo = batch_request(batch)
+            if geo:
+                ip_api_results = itertools.chain(ip_api_results, geo)
 
-    proxy_dict = dict([(x["ip"], x["port"]) for x in batch_ips])
-    model = []
-    for x in list(ip_api_results):
-        ip = x['query']
-        port = proxy_dict[ip]
-        model.append({"ip": ip, "port": port, "geolocation": x})
+        proxy_dict = dict([(x["ip"], x["port"]) for x in batch_ips])
+        model = []
+        for x in list(ip_api_results):
+            ip = x['query']
+            port = proxy_dict[ip]
+            model.append({"ip": ip, "port": port, "geolocation": x})
 
-    return model
+        return model
+    except:
+        return []
 
 
 def what_is_my_ip():
@@ -177,10 +180,10 @@ def main():
         for x in USABLE_PROXIES:
             f.write(f'{x.get("ip")}:{x.get("port")}\n')
 
-    geolocations = []
-    with open("proxy-list/data-with-geolocation.json", "w") as f:
-        geolocations = geolocation_info(USABLE_PROXIES)
-        json.dump(geolocations, f, indent=4)
+    geolocations = geolocation_info(USABLE_PROXIES)
+    if len(geolocations) > 0:
+        with open("proxy-list/data-with-geolocation.json", "w") as f:
+            json.dump(geolocations, f, indent=4)
 
     logging.info(f'{len(list_of_proxies)} proxies are crawled.')
     logging.info(f'{len(USABLE_PROXIES)} proxies are usable.')

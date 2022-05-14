@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4596** proxies at the latest update. Usable proxies are below.
+> Scraper found **4472** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|375|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|375|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|375|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|134|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|134|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|134|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|544|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|592|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|537|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2132|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|394|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2103|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|18.206.33.119|8888|United States|Ashburn|Amazon.com, Inc.|
-|3|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
-|4|185.105.108.208|8080|Netherlands|Amsterdam|Serverius|
-|5|144.202.116.156|59394|United States|Los Angeles|The Constant Company|
-|6|157.52.188.66|3128|United States|Los Angeles|LayerHost|
-|7|103.154.90.34|8080|Indonesia|Jakarta|MORATELINDONAP|
-|8|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|9|185.48.149.60|8080|Kazakhstan|Nur-Sultan|Jusan Mobile JSC|
-|10|37.113.20.226|55443|Russia|Penza|CJSC "ER-Telecom Holding" Penza branch|
-|11|203.114.65.40|1337|Philippines|Pasay|W Network Inc.|
-|12|103.150.152.12|83|India|Bengaluru|Prisac Aviation Technologies Private Limited|
-|13|36.37.86.27|9812|Indonesia|Jakarta|LINTASARTA|
-|14|71.25.47.187|8080|United States|Dundalk|Comcast Cable Communications, LLC|
-|15|24.172.82.94|53281|United States|Concord|Spectrum|
-|16|185.202.165.1|53281|Spain|Coin|AVATEL TELECOM, SA|
-|17|103.155.196.22|8080|Indonesia|Sukabumi|JEMBATANDATA|
-|18|103.161.164.107|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|19|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|20|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|1|148.251.66.8|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|95.217.207.66|3128|Finland|Helsinki|Hetzner Online GmbH|
+|3|18.206.33.119|8888|United States|Ashburn|Amazon.com, Inc.|
+|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|5|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|6|91.208.184.19|3128|Moldova|Chisinau|Alexhost SRL|
+|7|80.90.130.22|8888|Czechia|Mikulov|Oxid - III|
+|8|202.180.20.10|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|9|185.17.132.15|2536|Russia|Novyy Khushet|JSC Elektrosvyaz|
+|10|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
+|11|167.172.172.234|35383|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|12|177.66.100.101|10009|Brazil|Tres Ranchos|WN TELECOM LTDA - ME|
+|13|213.157.57.133|3128|Kazakhstan|Almaty|"ASTEL" JSC|
+|14|95.0.168.49|1981|Turkey|Mugla|Turk Telekomunikasyon Anonim Sirketi|
+|15|36.66.108.215|8080|Indonesia|Serang|PT. Telekomunikasi Indonesia|
+|16|187.102.236.161|999|Mexico|Santa Barbara|Servicios De Infraestructura De Radiocomunicacion Y Redes Privadas De Datos HYP|
+|17|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
+|18|23.234.213.157|6666|United States|Santa Clarita|Multacom Corporation|
+|19|89.208.35.81|3128|Russia|Moscow|DINET-HOSTING|
+|20|66.94.97.238|443|United States|New York|Contabo Inc.|
 
 
 

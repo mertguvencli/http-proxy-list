@@ -1,4 +1,3 @@
-from sources import SOURCES
 import json
 
 README = """
@@ -63,23 +62,25 @@ def update_readme(metrics: dict):
             succeed = '🚫'
         SOURCES_MD += template.format(source, found_proxies, succeed)
 
-
     PROXY_LIST_MD = ''
-    template = '|{row_num}|{ip}|{port}|{country}|{city}|{isp}|\n'
-    with open('proxy-list/data-with-geolocation.json', 'r') as f:
-        geolocations = json.load(f)
-        formatted = []
-        for i, x in enumerate(geolocations, 1):
-            tmp = dict((k, v) for k, v in dict(x["geolocation"]).items())
-            tmp["ip"] = x["ip"]
-            tmp["port"] = x["port"]
-            tmp['row_num'] = i
-            formatted.append(tmp)
-            if i == 20:
-                break
+    if metrics['counts']['geolocation'] > 0:
+        template = '|{row_num}|{ip}|{port}|{country}|{city}|{isp}|\n'
+        with open('proxy-list/data-with-geolocation.json', 'r') as f:
+            geolocations = json.load(f)
+            formatted = []
+            for i, x in enumerate(geolocations, 1):
+                tmp = dict((k, v) for k, v in dict(x["geolocation"]).items())
+                tmp["ip"] = x["ip"]
+                tmp["port"] = x["port"]
+                tmp['row_num'] = i
+                formatted.append(tmp)
+                if i == 20:
+                    break
 
-        for x in formatted:
-            PROXY_LIST_MD += template.format(**x)
+            for x in formatted:
+                PROXY_LIST_MD += template.format(**x)
+    else:
+        PROXY_LIST_MD = '**Something went wrong... Check the actions logs.**'
 
     data = {
         'SOURCES': SOURCES_MD,

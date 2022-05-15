@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4097** proxies at the latest update. Usable proxies are below.
+> Scraper found **4126** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|293|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|293|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|293|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|350|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|350|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|350|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|277|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|482|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|478|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|283|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|393|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1972|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|145.14.157.80|3128|Netherlands|Amsterdam|Hostinger International Limited|
-|2|185.105.108.208|8080|Netherlands|Amsterdam|Serverius|
-|3|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
-|4|148.251.66.8|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|167.172.239.13|3128|United States|Clifton|DigitalOcean, LLC|
-|6|212.112.113.178|3128|Kyrgyzstan|Bishkek|AkNet|
-|7|47.56.69.11|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
-|8|157.90.209.23|51395|Germany|Falkenstein|Hetzner Online GmbH|
-|9|185.83.144.222|3128|Turkey|Merkezefendi|Netinternet Datacenter|
-|10|182.52.83.118|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|152.231.25.114|8080|Colombia|El Paujil|Colombiatel Telecomunicaciones|
-|12|186.219.96.47|54570|Brazil|Ourinhos|Giga TV Ltda - EPP|
-|13|45.189.252.193|999|Mexico|Alvarado|Tracered SA De CV|
-|14|103.231.218.246|8080|India|Chennai|Limras Eronet Broadband Service Private limited|
-|15|181.224.207.20|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|16|81.163.48.59|55443|Russia|Makhachkala|SUBNET05|
-|17|177.43.72.251|3128|Brazil|Brasília|Vivo|
-|18|103.87.169.188|56642|India|Jaipur|Tejays Industries Pvt Ltd|
-|19|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|20|45.190.79.192|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
+|1|200.54.194.10|53281|Chile|Providencia|CTC. CORP S.A. (TELEFONICA EMPRESAS)|
+|2|91.208.184.19|3128|Moldova|Chisinau|Alexhost SRL|
+|3|70.45.43.154|9812|United States|Miami|Liberty Cablevision of Puerto Rico|
+|4|212.114.31.231|8080|France|Marseille|Jaguar Network SAS|
+|5|46.99.183.154|1234|Albania|Tirana|IPKO Telecommunications LLC|
+|6|103.85.119.148|9812|India|Greater Noida|S A Internet Solution Pvt Ltd|
+|7|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
+|8|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|9|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
+|10|186.47.75.174|9812|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|11|31.42.57.1|8080|Ukraine|Smila|Limited Liability Company AVATOR ISP|
+|12|194.219.129.195|8080|Greece|Athens|Forthnet|
+|13|112.218.73.138|9812|South Korea|Seoul|LG DACOM Corporation|
+|14|45.230.47.17|999|Venezuela|Valencia|Gandalf Comunicaciones C.A.|
+|15|122.50.7.186|8080|Indonesia|Jakarta|MORATELINDONAP|
+|16|206.62.163.104|999|Venezuela|Maracaibo|Airtek Solutions C.A.|
+|17|24.43.140.138|8080|United States|Palm Springs|Charter Communications|
+|18|177.43.72.251|3128|Brazil|Brasília|Vivo|
+|19|82.79.213.118|9812|Romania|Craiova|RCS & RDS|
+|20|45.226.185.2|8080|Argentina|General Lagos|Coop De Provision De Telecomunicaciones Y Servicios De Gral Lagos Ltda|
 
 
 

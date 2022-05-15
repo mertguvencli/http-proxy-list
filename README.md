@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3344** proxies at the latest update. Usable proxies are below.
+> Scraper found **3652** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|308|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|308|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|308|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|244|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|244|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|244|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|0|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|506|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|222|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|324|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1739|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
-|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|4|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|5|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
-|6|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
-|7|158.69.27.94|9300|Canada|Montreal|OVH SAS|
-|8|185.135.193.38|3128|Poland|Lodz|M3.NET Sp. zoo Sp. K.|
-|9|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|10|177.221.97.154|8080|Brazil|Cuiabá|Bi-Link Telecom|
-|11|119.76.142.205|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|12|190.116.90.45|999|Peru|La Victoria|America Movil Peru S.A.C.|
-|13|191.242.177.114|3128|Brazil|Camamu|Conect Telecom|
-|14|183.81.156.130|8080|Indonesia|Kayu Manis|Internet Service Provider|
-|15|203.223.34.2|8090|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
-|16|103.161.164.119|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|17|103.161.164.109|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|18|14.170.154.193|19132|Vietnam|Thai Nguyen|VNPT-VNNIC|
-|19|178.134.157.215|8080|Georgia|Ts'khinvali|JSC "Silknet"|
-|20|113.189.224.208|19132|Vietnam|Hanoi|VNPT|
+|2|186.225.19.57|8080|Brazil|Mogi das Cruzes|76 TELECOMUNICAÇÃO LTDA|
+|3|200.32.80.56|999|Colombia|Tuquerres|Level 3 Communications, Inc.|
+|4|178.217.140.70|443|Poland|Debica|Multinet 24 Sp. Z o.o|
+|5|191.242.177.114|3128|Brazil|Camamu|Conect Telecom|
+|6|185.135.193.38|3128|Poland|Lodz|M3.NET Sp. zoo Sp. K.|
+|7|113.176.81.31|55443|Vietnam|Ho Chi Minh City|VNPT|
+|8|113.189.224.208|19132|Vietnam|Hanoi|VNPT|
+|9|103.207.1.82|8080|India|Tirupur|Sri Vari Network Private Limited|
+|10|180.94.69.66|8080|Afghanistan|Herat|Government Communications Network|
+|11|187.216.93.20|55443|Mexico|Ciudad Obregón|Uninet S.A. de C.V.|
+|12|188.126.90.11|8888|Sweden|Stockholm|Portlane Network|
+|13|103.175.236.102|8080|Indonesia|Malang|PT Marva Global Telekomunikasi|
+|14|185.182.222.178|8080|Iran|Tehran|Mobin Net Communication Company (Private Joint Stock)|
+|15|186.96.56.9|999|Mexico|Culiacán|Total Play Telecomunicaciones SA De CV|
+|16|103.4.164.206|8080|Indonesia|Jakarta|FIBERNET|
+|17|72.14.185.111|3128|United States|Richardson|Linode, LLC|
+|18|119.76.142.205|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
+|19|103.169.186.83|8080|Indonesia|Pasuruan|PT. PRATAMA HASTA UTAMA SOLUSINDO|
+|20|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
 
 
 

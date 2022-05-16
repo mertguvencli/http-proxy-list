@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3913** proxies at the latest update. Usable proxies are below.
+> Scraper found **3904** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|162|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|162|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|162|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|170|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|170|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|170|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|324|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|341|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|255|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|229|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1951|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|104.149.3.3|8088|United States|Los Angeles|Psychz Networks|
-|2|104.149.3.3|8088|United States|Los Angeles|Psychz Networks|
-|3|45.77.177.194|8888|Japan|Heiwajima|Choopa|
-|4|190.121.21.211|1081|Chile|Valdivia|Telefonica del Sur S.A.|
-|5|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|6|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|7|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|8|113.53.60.142|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|9|104.149.3.3|8088|United States|Los Angeles|Psychz Networks|
-|10|82.116.45.223|3128|Russia|Saratov|Renet COM|
-|11|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|12|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|13|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|14|190.160.181.220|8118|Chile|Valdivia|VTR BANDA ANCHA S.A.|
-|15|221.132.18.23|3128|Vietnam|Hanoi|VNPT|
-|16|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|17|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|18|181.78.19.196|999|Colombia|Chapinero|IFX Networks Argentina S.R.L|
-|19|36.37.91.98|9812|Indonesia|Jakarta|LINTASARTA|
-|20|62.171.167.176|3128|Germany|Nuremberg|Contabo GmbH|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|129.159.193.198|3128|Germany|Frankfurt am Main|Oracle Corporation|
+|3|149.28.103.27|59394|United States|Miami|The Constant Company|
+|4|178.47.139.151|35102|Russia|Osa|PJSC Rostelecom|
+|5|5.58.33.187|55507|Ukraine|Ternopil|Columbus|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|113.53.60.142|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|8|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|9|149.28.103.27|59394|United States|Miami|The Constant Company|
+|10|165.16.60.1|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|11|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
+|12|98.154.21.253|3128|United States|Moorpark|Charter Communications Inc|
+|13|110.78.147.30|8080|Thailand|Ko Samui|CAT-BB|
+|14|45.173.231.155|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|15|92.115.102.133|55443|Moldova|Singera|JSC MOLDTELECOM SA|
+|16|95.217.207.66|3128|Finland|Helsinki|Hetzner Online GmbH|
+|17|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
+|18|148.251.66.8|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|19|148.251.66.8|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|20|101.133.231.6|80|China|Shanghai|Hangzhou Alibaba Advertising Co|
 
 
 

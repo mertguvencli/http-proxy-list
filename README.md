@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3923** proxies at the latest update. Usable proxies are below.
+> Scraper found **4123** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|406|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|406|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|406|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|341|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|469|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|312|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|384|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1987|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|157.52.188.66|3128|United States|Los Angeles|LayerHost|
-|3|181.204.83.18|9812|Colombia|Bogotá|EPM Telecomunicaciones S.A. E.S.P.|
-|4|171.97.54.242|55443|Thailand|Chiang Mai|True Internet Corporation CO. Ltd.|
-|5|103.155.85.40|6000|India|Mohali|Facts Online Pvt Ltd|
-|6|110.74.208.153|21776|Cambodia|Phnom Penh|EZECOM limited|
-|7|103.137.63.209|8080|Taiwan|Taipei City|Pittqiao Network Information Co., Ltd.|
-|8|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|9|185.156.98.70|32100|Denmark|Tønder|WNB A/S|
-|10|66.196.238.178|3128|United States|Tomball|Logix|
-|11|194.233.86.75|7777|Singapore|Singapore|Contabo Asia Private Limited|
-|12|122.50.7.186|8080|Indonesia|Jakarta|MORATELINDONAP|
-|13|178.62.83.212|3128|United Kingdom|London|DigitalOcean, LLC|
-|14|84.205.17.234|8080|Poland|Szczecinek|Gawex Media Sp.zoo|
-|15|103.14.110.187|3888|Indonesia|Jakarta|PT Asia Teknologi Solusi|
-|16|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|17|103.213.116.10|8080|Indonesia|Jakarta|Telemedia Dinamika Sarana|
-|18|202.152.51.44|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|19|152.200.138.122|999|Colombia|Quibdó|Colombia Telecomunicaciones S.a. ESP|
-|20|190.152.8.70|9812|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|66.196.238.178|3128|United States|Tomball|Logix|
+|4|89.223.8.10|3128|Russia|St Petersburg|United Networks Ltd.|
+|5|203.223.44.146|9812|Cambodia|Phnom Penh|Telecom Cambodia (T.C.)|
+|6|186.96.100.61|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|7|103.178.43.2|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|8|194.233.86.75|7777|Singapore|Singapore|Contabo Asia Private Limited|
+|9|18.218.45.35|3128|United States|Dublin|Amazon.com, Inc.|
+|10|178.93.59.48|8080|Ukraine|Kyiv|UKRTELECOM|
+|11|183.81.156.130|8080|Indonesia|Kayu Manis|Internet Service Provider|
+|12|103.66.196.218|23500|Indonesia|Bogor|PT. Mora Telematika Indonesia|
+|13|5.9.201.70|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|14|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|15|95.217.207.66|3128|Finland|Helsinki|Hetzner Online GmbH|
+|16|181.209.124.10|999|Argentina|Benavidez|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
+|17|129.159.138.196|8080|Israel|Jerusalem|Oracle Corporation|
+|18|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|19|194.5.25.34|443|Singapore|Singapore|Mod Mission Critical LLC|
+|20|187.94.211.60|8080|Brazil|Alto Caparao|Acesse Comunica??o Ltda|
 
 
 

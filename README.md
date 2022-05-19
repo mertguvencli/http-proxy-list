@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4506** proxies at the latest update. Usable proxies are below.
+> Scraper found **4303** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|403|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|403|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|403|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|355|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|355|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|355|
 
 ## Sources
 
@@ -33,10 +33,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|463|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|503|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|459|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2201|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|425|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1992|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|3.128.120.252|80|United States|Dublin|Amazon.com, Inc.|
-|2|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|3|18.206.33.119|8888|United States|Ashburn|Amazon.com, Inc.|
-|4|170.245.132.38|999|Paraguay|Caraguatay|MACHADO BAEZ, NERY JAVIER|
-|5|152.0.209.175|8080|Dominican Republic|Las Guayigas|Compañía Dominicana de Teléfonos S. A.|
-|6|165.16.54.234|7777|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|7|172.86.63.205|9812|United States|Fairbank|Eastern Iowa IP, LLC|
-|8|89.69.67.235|8080|Poland|Mińsk Mazowiecki|UPC.pl|
-|9|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|10|110.74.208.153|21776|Cambodia|Phnom Penh|EZECOM limited|
-|11|149.19.224.15|3128|United States|Sterling|SPRINT|
-|12|101.53.158.48|9200|India|Bengaluru|E2E Networks Limited|
-|13|149.19.224.15|3128|United States|Sterling|SPRINT|
-|14|181.204.9.182|9812|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|15|103.109.96.69|8080|Bangladesh|Dhaka|Digi Jadoo Broadband Ltd|
-|16|186.0.176.147|443|Argentina|El Calafate|Cooperativa Telefonica de Calafate Ltda.|
-|17|36.37.91.98|9812|Indonesia|Jakarta|LINTASARTA|
-|18|103.178.42.10|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
-|19|36.95.34.108|9812|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|20|91.214.31.234|8080|Ukraine|Zaporizhzhia|TOV "Telza"|
+|2|3.128.120.252|80|United States|Dublin|Amazon.com, Inc.|
+|3|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|4|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|5|156.17.193.1|80|Poland|Wroclaw|Wroclaw Centre of Networking and Supercomputing|
+|6|200.229.147.1|999|Honduras|Tegucigalpa|Ufinet Panama S.A.|
+|7|177.10.201.171|9812|Brazil|Campina Grande|ISPTEC Sistemas de Comunicação Eireli|
+|8|103.28.225.169|8080|Indonesia|South Tangerang|PT Palapa Media Indonesia|
+|9|14.207.120.143|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|10|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|11|176.120.206.223|55443|Russia|Makhachkala|SUBNET05|
+|12|43.250.127.98|9001|Mongolia|Ulan Bator|Wicom Networks|
+|13|103.162.205.251|8181|Indonesia|Magelang|PT Jaringan Inti Exadata|
+|14|103.90.32.206|9812|India|Mumbai|Shri Samarth Broadband|
+|15|160.226.240.213|8080|South Africa|Bloemfontein|Iclix (PTY) Ltd|
+|16|36.91.166.98|8080|Indonesia|Yogyakarta|PT Telekomunikasi Indonesia|
+|17|178.217.140.70|443|Poland|Debica|Multinet 24 Sp. Z o.o|
+|18|41.94.107.2|8080|Mozambique|Maputo|Instituto Nacional de Saude|
+|19|1.179.187.110|9812|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|20|203.124.60.109|8080|Pakistan|Sialkot|COMSATS|
 
 
 

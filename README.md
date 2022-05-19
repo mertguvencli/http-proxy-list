@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4037** proxies at the latest update. Usable proxies are below.
+> Scraper found **4018** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|221|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|221|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|221|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxyscan.io](https://www.proxyscan.io)|95|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|378|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|388|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|280|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|256|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|149.19.224.15|3128|United States|Sterling|SPRINT|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|4|168.8.209.253|8080|United States|Roswell|Board of Regents of the University System of Georgia|
-|5|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|6|149.19.224.15|3128|United States|Sterling|SPRINT|
-|7|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|8|168.8.209.253|8080|United States|Roswell|Board of Regents of the University System of Georgia|
-|9|156.17.193.1|80|Poland|Wroclaw|Wroclaw Centre of Networking and Supercomputing|
-|10|45.189.254.82|999|Mexico|Alvarado|Tracered SA De CV|
-|11|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|12|162.150.62.96|443|United States|Kincaid|Comcast Cable Communications, LLC|
-|13|213.32.75.44|9300|France|Paris|OVH SAS|
-|14|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|15|162.150.62.96|443|United States|Kincaid|Comcast Cable Communications, LLC|
-|16|171.6.72.173|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|17|45.189.254.33|999|Mexico|Alvarado|Tracered SA De CV|
-|18|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
-|19|125.25.26.147|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|162.150.62.93|443|United States|Kincaid|Comcast Cable Communications, LLC|
+|2|168.8.209.253|8080|United States|Roswell|Board of Regents of the University System of Georgia|
+|3|149.19.224.15|3128|United States|Sterling|SPRINT|
+|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|5|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|6|168.8.209.253|8080|United States|Roswell|Board of Regents of the University System of Georgia|
+|7|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|8|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|9|183.88.42.145|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
+|10|45.189.254.33|999|Mexico|Alvarado|Tracered SA De CV|
+|11|156.17.193.1|80|Poland|Wroclaw|Wroclaw Centre of Networking and Supercomputing|
+|12|185.56.209.114|52342|Poland|Magnice|GreenLan|
+|13|45.189.254.49|999|Mexico|Alvarado|Tracered SA De CV|
+|14|152.0.209.175|8080|Dominican Republic|Las Guayigas|Compañía Dominicana de Teléfonos S. A.|
+|15|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|16|12.218.209.130|53281|United States|San Carlos|AT&T Services, Inc.|
+|17|118.163.120.181|58837|Taiwan|New Taipei|Chunghwa Telecom Co., Ltd.|
+|18|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|19|102.177.83.90|8080|Tanzania|Dar es Salaam|Simply Computers Tanzania Ltd|
+|20|170.79.91.204|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
 
 
 

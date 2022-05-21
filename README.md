@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3719** proxies at the latest update. Usable proxies are below.
+> Scraper found **3562** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|124|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|124|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|124|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -30,12 +30,12 @@ Click the file format that you want and copy the URL.
 |[proxydb.net](http://proxydb.net)|15|✅|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
-|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|0|🚫|
-|[proxyscan.io](https://www.proxyscan.io)|98|✅|
+|[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|309|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|237|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|171|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|152|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1890|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|2|67.205.128.38|3128|United States|North Bergen|DigitalOcean, LLC|
-|3|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
-|4|119.76.142.216|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|5|103.161.164.103|8181|Indonesia|Ciamis|PT Galuh Multidata Solution|
-|6|181.204.9.182|9812|Colombia|Cartagena|EPM Telecomunicaciones S.A. E.S.P.|
-|7|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|8|51.81.32.81|8888|United States|Reston|OVH SAS|
-|9|18.218.45.35|3128|United States|Dublin|Amazon.com, Inc.|
-|10|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|11|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|94.73.239.124|55443|Russia|Krasnoyarsk|Orion Telecom LLC|
-|13|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|14|117.102.72.66|8080|Indonesia|Jakarta|Biznet Networks|
-|15|103.90.32.206|9812|India|Mumbai|Shri Samarth Broadband|
-|16|190.97.226.236|999|Venezuela|Barinas|NetLink América C.A.|
-|17|103.240.161.98|9812|India|Patan|GTPLJAYSANTOSHIMANETWORKPVTLTD|
-|18|203.82.42.38|1337|Philippines|Quezon City|WifiCity, Inc|
-|19|45.250.65.3|9812|India|Bhagwanpur|Abc|
-|20|170.245.132.38|999|Paraguay|Caraguatay|MACHADO BAEZ, NERY JAVIER|
+|1|176.29.189.195|8080|Jordan|Amman|Zain Jordan|
+|2|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|3|196.15.213.235|3128|South Africa|Christiana|Telkom SA Ltd.|
+|4|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|5|203.150.113.210|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
+|6|45.88.42.75|8080|Singapore|Singapore|M247 Ltd|
+|7|51.81.32.81|8888|United States|Reston|OVH SAS|
+|8|149.154.157.17|5678|Italy|Milan|EDIS|
+|9|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|10|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
+|11|181.114.192.1|3128|Argentina|Santa Rosa|Aguas Del Colorado Sapem|
+|12|190.214.27.46|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|13|41.60.235.140|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
+|14|185.177.222.171|8089|Russia|Murom|Modus LLC|
+|15|18.218.45.35|3128|United States|Dublin|Amazon.com, Inc.|
+|16|51.81.32.81|8888|United States|Reston|OVH SAS|
+|17|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|18|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|19|181.224.207.19|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|20|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
 
 
 

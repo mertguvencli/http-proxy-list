@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3636** proxies at the latest update. Usable proxies are below.
+> Scraper found **3375** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|135|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|135|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|135|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|310|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|309|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|149|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|189|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1894|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|3|51.161.51.195|9090|Colombia|Bogotá|OVH Hosting|
-|4|176.29.189.195|8080|Jordan|Amman|Zain Jordan|
-|5|188.156.240.240|8118|Hungary|Tiszasziget|Magyar Telekom plc.|
-|6|139.0.4.34|8080|Indonesia|Cipulir|PT. First Media, Tbk|
-|7|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
-|8|51.161.51.195|9090|Colombia|Bogotá|OVH Hosting|
-|9|103.122.60.5|8080|India|Visakhapatnam|Vizag Broadband Communications Pvt Ltd|
-|10|112.78.32.62|3127|Indonesia|Yogyakarta|PT Media Sarana Data|
-|11|186.97.172.178|60080|Colombia|Medellín|Colombia Móvil|
-|12|51.81.32.81|8888|United States|Reston|OVH SAS|
-|13|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|14|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|15|78.36.198.158|80|Russia|Kaliningrad|PJSC Rostelecom|
-|16|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
-|17|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|18|165.0.50.110|8080|South Africa|Cape Town|RSAWEB (PTY) LTD|
-|19|180.183.244.166|8080|Thailand|Bang Bon|Triple T Broadband Public Company Limited|
-|20|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|1|67.212.83.54|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
+|2|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|3|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
+|4|200.7.10.158|8080|Brazil|Itumbiara|Conexao Telematica LTDA|
+|5|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|6|51.81.32.81|8888|United States|Reston|OVH SAS|
+|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|9|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
+|10|95.217.207.66|3128|Finland|Helsinki|Hetzner Online GmbH|
+|11|51.79.121.94|3128|Canada|Beauharnois|OVH SAS|
+|12|129.159.148.238|8080|Israel|Jerusalem|Oracle Corporation|
+|13|91.250.83.200|3128|France|Strasbourg|Host Europe GmbH|
+|14|148.251.66.8|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|31.171.154.199|8118|Albania|Tirana|Keminet Ltd|
+|16|162.150.62.96|443|United States|Kincaid|Comcast Cable Communications, LLC|
+|17|45.189.254.26|999|Mexico|Alvarado|Tracered SA De CV|
+|18|36.66.43.65|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|19|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICA??O MULTIM?DIA LT|
+|20|36.94.183.153|8080|Indonesia|Tangerang|PT. Telekomunikasi Indonesia|
 
 
 

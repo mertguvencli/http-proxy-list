@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4113** proxies at the latest update. Usable proxies are below.
+> Scraper found **3965** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|239|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|239|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|239|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|151|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|151|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|151|
 
 ## Sources
 
@@ -32,11 +32,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|400|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|249|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|370|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|319|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2011|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|258|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2005|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|3|45.174.77.113|9812|Mexico|Chihuahua City|Raul Duarte Urita|
-|4|128.199.214.87|3128|Singapore|Singapore|Partner Communications Ltd.|
-|5|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
-|6|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|7|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|181.78.13.211|999|Colombia|Guamal|IFX Networks Argentina S.R.L|
-|9|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|10|152.0.209.175|8080|Dominican Republic|Las Guayigas|Compañía Dominicana de Teléfonos S. A.|
-|11|45.190.79.164|999|Mexico|Yahualica de Gonzalez Gallo|Meta Networks SA De CV|
-|12|50.246.120.125|8080|United States|Washington|Comcast Cable Communications, LLC|
-|13|103.157.117.41|8080|Indonesia|Jakarta|Cloud Teknologi Nusantara .CV|
-|14|139.255.109.27|8080|Indonesia|Pancoran|PT. LINKNET|
-|15|103.149.143.212|8080|Bangladesh|Dhaka|Systems Solutions & development Technologies Limited|
-|16|200.24.207.196|8080|Ecuador|Velasco Ibarra|Otecel S.A.|
-|17|177.247.7.158|8080|Mexico|Toluca|Mega Cable, S.A. de C.V.|
-|18|168.8.209.253|80|United States|Roswell|Board of Regents of the University System of Georgia|
-|19|51.81.32.81|8888|United States|Reston|OVH SAS|
-|20|41.76.149.62|8080|Mozambique|Maputo|VM  S.A|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|176.57.188.32|443|Germany|Düsseldorf|Contabo GmbH|
+|4|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|5|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|6|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
+|7|213.14.19.254|1981|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|8|180.183.127.71|3128|Thailand|Bangkok|Triple T Broadband Public Company Limited|
+|9|167.114.96.27|9300|Canada|Montreal|OVH SAS|
+|10|95.179.218.101|3128|France|Paris|The Constant Company|
+|11|45.189.254.2|999|Mexico|Alvarado|Tracered SA De CV|
+|12|148.251.66.8|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|14|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|15|182.253.93.4|53281|Indonesia|Gresik|BIZNET|
+|16|162.150.62.96|443|United States|Kincaid|Comcast Cable Communications, LLC|
+|17|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|18|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|19|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
+|20|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
 
 
 

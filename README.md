@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3619** proxies at the latest update. Usable proxies are below.
+> Scraper found **3649** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|180|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|180|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|180|
 
 ## Sources
 
@@ -31,12 +31,12 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|289|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|272|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|165|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1882|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|160|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1834|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|187.188.167.30|3128|Mexico|Veracruz|Total Play Telecomunicaciones SA De CV|
-|3|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|4|162.150.62.93|443|United States|Kincaid|Comcast Cable Communications, LLC|
-|5|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
-|6|183.89.153.198|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|7|162.150.62.95|443|United States|Kincaid|Comcast Cable Communications, LLC|
-|8|162.150.62.93|443|United States|Kincaid|Comcast Cable Communications, LLC|
-|9|103.108.75.10|9812|India|Nagpur|Modi infonet digital network Pvt Ltd|
-|10|103.255.242.99|8080|Indonesia|Yogyakarta|PT Media Sarana Data|
-|11|200.114.65.15|999|Chile|Los Vilos|Chile TV Cable S.A.|
-|12|103.140.108.50|8080|Indonesia|Jakarta|PT. Fiber Networks Indonesia|
-|13|157.100.53.102|999|Ecuador|Machala|Nedetel S.A.|
-|14|158.255.215.50|16993|France|Paris|Edis France|
-|15|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
-|16|162.150.62.95|443|United States|Kincaid|Comcast Cable Communications, LLC|
-|17|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|18|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
-|19|176.222.63.9|80|Iraq|Baghdad|Larsa Mountain for Information Technology Ltd|
-|20|45.190.249.100|8080|Brazil|Passo Fundo|RK Telecom Provedor Internet LTDA|
+|2|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|3|62.78.84.219|3128|Russia|Kalachinsk|LLC Milecom|
+|4|172.97.119.193|8181|United States|Swayzee|ALTIUS Broadband, LLC|
+|5|176.214.97.55|1256|Russia|Moscow|Enforta-MSK|
+|6|162.150.62.95|443|United States|Kincaid|Comcast Cable Communications, LLC|
+|7|158.255.215.50|16993|France|Paris|Edis France|
+|8|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|9|213.239.214.141|8118|Germany|Nuremberg|Hetzner Online GmbH|
+|10|148.251.66.8|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|11|103.76.12.42|80|Indonesia|Bogor|MORATELINDO|
+|12|186.67.192.246|8080|Chile|Las Condes|Entel Chile S.A.|
+|13|162.150.62.95|443|United States|Kincaid|Comcast Cable Communications, LLC|
+|14|186.67.230.45|3128|Chile|Santiago|Entel Chile S.A.|
+|15|186.150.207.29|9812|Dominican Republic|Santo Domingo Este|Altice Dominicana S.A.|
+|16|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|17|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|18|5.167.141.239|3128|Russia|Tula|CJSC "ER-Telecom Holding" Tula branch|
+|19|190.145.39.206|999|Colombia|Medellín|Telmex Colombia S.A.|
+|20|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
 
 
 

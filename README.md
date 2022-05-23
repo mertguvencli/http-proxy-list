@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3680** proxies at the latest update. Usable proxies are below.
+> Scraper found **3589** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|183|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|183|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|183|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|186|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|186|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|186|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|58|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|370|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|333|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|192|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|196|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1777|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|51.161.51.195|9090|Colombia|Bogotá|OVH Hosting|
-|2|178.79.135.30|3128|United Kingdom|London|Linode, LLC|
-|3|188.0.147.102|3128|Kazakhstan|Almaty|JSC "KazTransCom"|
-|4|76.80.19.107|8080|United States|San Bernardino|Charter Communications|
-|5|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|6|91.107.15.221|53281|Russia|Lyubertsy|AVK-computer ltd|
-|7|123.200.20.6|8080|Bangladesh|Azimpur|Link3 Technologies Limited|
-|8|119.42.86.111|8080|Thailand|Samphanthawong|CAT-BB|
-|9|85.221.247.237|8080|Poland|Poznan|Inea S.A|
-|10|213.6.236.218|8080|Palestine|Nablus|Palestine Telecommunications Company|
-|11|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
-|12|158.255.215.50|16993|France|Paris|Edis France|
-|13|51.79.124.80|3128|Canada|Beauharnois|OVH SAS|
-|14|79.104.197.58|8080|Russia|Krasnoyarsk|PJSC "Vimpelcom"|
-|15|51.161.51.195|9090|Colombia|Bogotá|OVH Hosting|
-|16|190.181.16.206|999|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
-|18|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|19|176.214.97.55|1256|Russia|Moscow|Enforta-MSK|
-|20|148.251.66.8|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|1|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|2|51.161.51.195|9090|Colombia|Bogotá|OVH Hosting|
+|3|81.4.102.233|8081|Netherlands|Amsterdam|WeservIT|
+|4|47.245.53.132|80|Japan|Tokyo|Alibaba.com LLC|
+|5|81.4.102.223|8081|Netherlands|Amsterdam|WeservIT|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|51.161.51.194|9090|Colombia|Bogotá|OVH Hosting|
+|8|213.14.19.254|1981|Turkey|Istanbul|Superonline Iletisim Hizmetleri A.S.|
+|9|51.161.51.196|9090|Colombia|Bogotá|OVH Hosting|
+|10|14.177.235.17|8080|Vietnam|Hanoi|VNPT|
+|11|102.130.79.1|3128|South Africa|Johannesburg|Adnexus Celerity Networks (Proprietary) Limited|
+|12|51.161.51.195|9090|Colombia|Bogotá|OVH Hosting|
+|13|103.156.17.35|8181|Indonesia|Indramayu|RSTNET|
+|14|158.255.215.50|16993|France|Paris|Edis France|
+|15|203.34.48.10|9999|China|Qingzhou|Cloud Computing Corporation|
+|16|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|5.53.16.185|18080|Russia|Surgut|Metroset Ltd|
+|18|190.63.35.30|9812|Ecuador|Guayaquil|CONECEL|
+|19|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|20|181.224.207.19|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
 
 
 

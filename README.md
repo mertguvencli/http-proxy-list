@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4213** proxies at the latest update. Usable proxies are below.
+> Scraper found **4325** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|280|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|280|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|280|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|360|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|360|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|360|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|540|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|614|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|429|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1971|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|408|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2030|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|66.196.238.178|3128|United States|Tomball|Logix|
-|2|51.161.51.194|9090|Colombia|Bogotá|OVH Hosting|
-|3|168.8.209.253|80|United States|Roswell|Board of Regents of the University System of Georgia|
-|4|47.91.25.94|80|Japan|Tokyo|Alibaba.com LLC|
-|5|51.161.51.196|9090|Colombia|Bogotá|OVH Hosting|
-|6|47.91.24.231|80|Japan|Tokyo|Alibaba.com LLC|
-|7|139.99.88.19|8080|Singapore|Singapore|OVH SAS|
-|8|176.57.188.32|443|Germany|Düsseldorf|Contabo GmbH|
-|9|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|10|157.100.52.146|999|Ecuador|Nulti|Nedetel S.A.|
-|11|24.172.82.94|53281|United States|Concord|Spectrum|
-|12|18.218.45.35|3128|United States|Dublin|Amazon.com, Inc.|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|66.196.238.178|3128|United States|Tomball|Logix|
+|3|185.92.223.62|59394|Netherlands|Amsterdam|The Constant Company|
+|4|51.161.51.196|9090|Colombia|Bogotá|OVH Hosting|
+|5|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
+|6|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|7|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|8|47.91.25.94|80|Japan|Tokyo|Alibaba.com LLC|
+|9|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
+|10|47.245.53.132|80|Japan|Tokyo|Alibaba.com LLC|
+|11|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
+|12|47.91.24.231|80|Japan|Tokyo|Alibaba.com LLC|
 |13|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
-|14|138.36.180.4|9292|Brazil|Birigui|FIT Telecom Eireli|
-|15|47.245.53.132|80|Japan|Tokyo|Alibaba.com LLC|
-|16|87.103.175.250|9812|Russia|Irkutsk|PJSC Rostelecom|
-|17|103.155.156.46|1080|Indonesia|Bogor|Mulkan|
-|18|188.169.38.111|8080|Georgia|Batumi|JSC "Silknet"|
-|19|185.141.10.227|34082|Iraq|Al Hāshimīyah|Hulum Almustakbal Company Communication Engineering and Services Ltd|
-|20|103.123.86.176|9812|India|Udaipur|Prompt Infracom|
+|14|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
+|15|103.101.81.193|9812|Cambodia|Phnom Penh|Turbotech CO.|
+|16|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
+|17|66.94.97.238|443|United States|New York|Contabo Inc.|
+|18|51.161.51.195|9090|Colombia|Bogotá|OVH Hosting|
+|19|51.161.51.194|9090|Colombia|Bogotá|OVH Hosting|
+|20|202.146.228.253|8088|Indonesia|Bandung|PT Centrin Utama|
 
 
 

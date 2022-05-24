@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3799** proxies at the latest update. Usable proxies are below.
+> Scraper found **3694** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|136|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|136|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|136|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|46|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|381|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|234|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|212|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|208|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1933|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|2|115.21.249.130|3128|South Korea|Seo-gu|Korea Telecom|
-|3|47.91.25.94|80|Japan|Tokyo|Alibaba.com LLC|
-|4|181.224.204.22|22800|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|5|47.245.59.11|80|Japan|Tokyo|Alibaba.com LLC|
-|6|47.245.54.114|80|Japan|Tokyo|Alibaba.com LLC|
-|7|119.252.171.50|8080|Indonesia|Jakarta|PT Indonesia Comnets Plus|
-|8|47.245.58.113|80|Japan|Tokyo|Alibaba.com LLC|
+|1|136.243.37.84|9090|Germany|Falkenstein|Hetzner Online GmbH|
+|2|47.91.24.231|80|Japan|Tokyo|Alibaba.com LLC|
+|3|47.245.53.132|80|Japan|Tokyo|Alibaba.com LLC|
+|4|47.245.58.113|80|Japan|Tokyo|Alibaba.com LLC|
+|5|102.130.79.1|3128|South Africa|Johannesburg|Adnexus Celerity Networks (Proprietary) Limited|
+|6|115.21.249.130|3128|South Korea|Seo-gu|Korea Telecom|
+|7|47.91.25.94|80|Japan|Tokyo|Alibaba.com LLC|
+|8|51.161.51.196|9090|Colombia|Bogotá|OVH Hosting|
 |9|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
-|10|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
-|11|47.245.53.132|80|Japan|Tokyo|Alibaba.com LLC|
-|12|51.161.51.194|9090|Colombia|Bogotá|OVH Hosting|
-|13|125.162.56.220|8080|Indonesia|Batam|PT. TELKOM INDONESIA|
-|14|51.161.51.196|9090|Colombia|Bogotá|OVH Hosting|
-|15|158.255.215.50|16993|France|Paris|Edis France|
-|16|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
-|18|47.91.24.231|80|Japan|Tokyo|Alibaba.com LLC|
-|19|119.82.240.69|6060|Indonesia|Surabaya|Indonesia Network Information Center|
-|20|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|10|47.245.54.114|80|Japan|Tokyo|Alibaba.com LLC|
+|11|51.161.51.194|9090|Colombia|Bogotá|OVH Hosting|
+|12|209.190.32.28|3128|United States|Columbus|eNET Inc|
+|13|209.190.32.28|3128|United States|Columbus|eNET Inc|
+|14|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|15|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|16|47.245.59.11|80|Japan|Tokyo|Alibaba.com LLC|
+|17|158.255.215.50|16993|France|Paris|Edis France|
+|18|188.165.59.127|3128|France|Roubaix|OVH ISP|
+|19|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|125.162.56.220|8080|Indonesia|Batam|PT. TELKOM INDONESIA|
 
 
 

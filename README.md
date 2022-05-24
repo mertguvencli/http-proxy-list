@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3805** proxies at the latest update. Usable proxies are below.
+> Scraper found **3876** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|207|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|207|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|207|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|226|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|226|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|226|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|370|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|432|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|228|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1934|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|230|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1941|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|2|136.243.37.84|9090|Germany|Falkenstein|Hetzner Online GmbH|
-|3|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
-|4|51.161.51.195|9090|Colombia|Bogotá|OVH Hosting|
-|5|206.161.97.118|31337|United States|Ashburn|PCCW Global, Inc.|
-|6|110.77.236.225|8080|Thailand|Samphanthawong|CAT Telecom Public Company Limited|
-|7|47.91.24.231|80|Japan|Tokyo|Alibaba.com LLC|
-|8|51.161.51.196|9090|Colombia|Bogotá|OVH Hosting|
-|9|47.245.56.201|80|Japan|Tokyo|Alibaba.com LLC|
-|10|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|11|5.167.141.239|3128|Russia|Tula|CJSC "ER-Telecom Holding" Tula branch|
-|12|181.78.20.69|999|Colombia|San Carlos|IFX Networks Argentina S.R.L|
-|13|115.96.208.124|8080|India|Kalyan|Hathway IP over Cable Internet Access|
-|14|201.151.62.21|999|Mexico|Comalcalco|Alestra, S. de R.L. de C.V.|
-|15|47.245.54.114|80|Japan|Tokyo|Alibaba.com LLC|
-|16|202.162.194.70|41766|Indonesia|Medan|Media Antar Nusa PT.|
-|17|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|18|190.63.35.30|9812|Ecuador|Guayaquil|CONECEL|
-|19|158.255.215.50|16993|France|Paris|Edis France|
-|20|172.86.63.205|9812|United States|Fairbank|Eastern Iowa IP, LLC|
+|1|51.161.51.196|9090|Colombia|Bogotá|OVH Hosting|
+|2|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|3|181.78.3.157|999|Colombia|Medellín|IFX Networks Argentina S.R.L|
+|4|202.43.72.203|8080|Indonesia|Kuningan Barat|PT. INTERLINK TECHNOLOGY|
+|5|47.245.59.11|80|Japan|Tokyo|Alibaba.com LLC|
+|6|136.243.37.84|9090|Germany|Falkenstein|Hetzner Online GmbH|
+|7|51.161.51.194|9090|Colombia|Bogotá|OVH Hosting|
+|8|85.234.126.107|55555|Russia|Irkutsk|LLC "Regional company Svyaztranzit"|
+|9|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
+|10|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
+|11|47.245.58.113|80|Japan|Tokyo|Alibaba.com LLC|
+|12|110.74.195.65|55443|Cambodia|Phnom Penh|EZECOM limited|
+|13|45.17.249.223|8080|United States|Rockwall|AT&T Services, Inc.|
+|14|47.245.54.114|80|Japan|Tokyo|Alibaba.com LLC|
+|15|158.255.215.50|16993|France|Paris|Edis France|
+|16|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|17|47.91.24.231|80|Japan|Tokyo|Alibaba.com LLC|
+|18|51.161.51.196|9090|Colombia|Bogotá|OVH Hosting|
+|19|190.120.250.219|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
+|20|178.79.135.30|3128|United Kingdom|London|Linode, LLC|
 
 
 

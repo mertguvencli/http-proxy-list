@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3650** proxies at the latest update. Usable proxies are below.
+> Scraper found **3578** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|190|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|190|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|190|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|89|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|326|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|247|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|214|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1837|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|143|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1826|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|168.8.209.253|80|United States|Roswell|Board of Regents of the University System of Georgia|
-|2|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|3|18.218.45.35|3128|United States|Dublin|Amazon.com, Inc.|
-|4|168.8.209.253|80|United States|Roswell|Board of Regents of the University System of Georgia|
-|5|186.233.186.60|8080|United States|Chicago|Maxihost LTDA|
-|6|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|7|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|8|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
-|9|47.91.24.231|80|Japan|Tokyo|Alibaba.com LLC|
-|10|45.190.249.100|8080|Brazil|Passo Fundo|RK Telecom Provedor Internet LTDA|
-|11|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|12|136.243.37.84|9090|Germany|Falkenstein|Hetzner Online GmbH|
-|13|190.71.64.180|8080|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P|
-|14|47.245.53.132|80|Japan|Tokyo|Alibaba.com LLC|
-|15|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|16|181.143.235.100|12345|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
-|17|47.245.54.114|80|Japan|Tokyo|Alibaba.com LLC|
-|18|177.53.152.138|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
-|19|148.0.121.171|999|Dominican Republic|La Romana|Compañía Dominicana de Teléfonos S. A.|
-|20|200.92.152.50|999|Mexico|Culiacán|Mega Cable, S.A. de C.V.|
+|1|136.243.37.84|9090|Germany|Falkenstein|Hetzner Online GmbH|
+|2|47.245.28.161|443|Japan|Tokyo|Alibaba.com LLC|
+|3|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|4|47.245.34.83|443|Japan|Tokyo|Alibaba.com LLC|
+|5|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
+|6|47.245.59.11|80|Japan|Tokyo|Alibaba.com LLC|
+|7|209.190.32.28|3128|United States|Columbus|eNET Inc|
+|8|47.91.25.94|80|Japan|Tokyo|Alibaba.com LLC|
+|9|168.8.209.253|80|United States|Roswell|Board of Regents of the University System of Georgia|
+|10|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
+|11|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|12|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|13|136.243.37.84|9090|Germany|Falkenstein|Hetzner Online GmbH|
+|14|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|15|23.236.144.90|3128|United Kingdom|London|24 SHELLS|
+|16|190.12.68.89|999|Peru|Lima|Optical Technologies S.A.C.|
+|17|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|18|186.248.89.6|5005|Brazil|Ibirite|AMERICAN TOWER DO BRASIL-COMUNICA??O MULTIM?DIA LT|
+|19|47.245.54.114|80|Japan|Tokyo|Alibaba.com LLC|
+|20|209.190.32.28|3128|United States|Columbus|eNET Inc|
 
 
 

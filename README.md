@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|155|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|155|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|155|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|214|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|214|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|214|
 
 ## Sources
 
@@ -33,10 +33,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|237|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|319|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|147|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2041|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|175|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1931|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -45,24 +45,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|136.243.37.84|9090|Germany|Falkenstein|Hetzner Online GmbH|
 |2|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
-|3|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|3|47.245.58.113|80|Japan|Tokyo|Alibaba.com LLC|
 |4|47.91.25.94|80|Japan|Tokyo|Alibaba.com LLC|
-|5|171.7.53.247|8080|Thailand|Pathum Thani|Triple T Broadband Public Company Limited|
-|6|47.245.59.11|80|Japan|Tokyo|Alibaba.com LLC|
-|7|47.245.54.114|80|Japan|Tokyo|Alibaba.com LLC|
-|8|178.79.135.30|3128|United Kingdom|London|Linode, LLC|
-|9|103.156.249.66|8080|Indonesia|Malang|Trans Media Telekomunikasi|
-|10|158.69.52.218|9300|Canada|Montreal|OVH SAS|
-|11|103.65.214.83|8080|Indonesia|Yogyakarta|PT.Broadband Indonesia Pratama|
-|12|152.0.209.175|8080|Dominican Republic|Las Guayigas|Compañía Dominicana de Teléfonos S. A.|
-|13|176.56.107.253|57628|Spain|Elche|Aire Networks|
-|14|3.128.120.252|80|United States|Dublin|Amazon.com, Inc.|
-|15|51.81.32.81|8888|United States|Reston|OVH SAS|
-|16|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
-|17|167.172.178.193|45841|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|18|136.243.37.84|9090|Germany|Falkenstein|Hetzner Online GmbH|
-|19|187.111.160.8|42579|Brazil|Sorocaba|super midia tv a cabo ltda|
-|20|195.151.212.21|8080|Russia|Moscow|ROSPRINT|
+|5|47.245.53.132|80|Japan|Tokyo|Alibaba.com LLC|
+|6|47.245.54.114|80|Japan|Tokyo|Alibaba.com LLC|
+|7|45.70.15.9|8080|Ecuador|Guayaquil|Nedetel S.A.|
+|8|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|9|47.91.25.174|80|Japan|Tokyo|Alibaba.com LLC|
+|10|47.91.24.231|80|Japan|Tokyo|Alibaba.com LLC|
+|11|47.245.56.201|80|Japan|Tokyo|Alibaba.com LLC|
+|12|41.216.178.93|8080|Indonesia|Jakarta|CV Atha Media Prima|
+|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|14|93.185.123.154|3128|Italy|Pove del Grappa|Omegacom S.R.L.S.|
+|15|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|16|59.124.224.205|3128|Taiwan|Bade District|Chunghwa Telecom Co., Ltd.|
+|17|45.229.33.27|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|18|121.254.195.12|8080|South Korea|Yongsan-dong|LG DACOM Corporation|
+|19|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|47.91.24.231|80|Japan|Tokyo|Alibaba.com LLC|
 
 
 

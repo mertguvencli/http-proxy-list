@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3807** proxies at the latest update. Usable proxies are below.
+> Scraper found **3618** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|123|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|123|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|123|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|0|🚫|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|81|✅|
+|[proxyscan.io](https://www.proxyscan.io)|97|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|290|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|273|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|174|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1989|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|138|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1837|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|113.53.60.236|8080|Thailand|Chanthaburi|TOT Public Company Limited|
-|3|149.56.96.252|5566|Canada|Montreal|OVH SAS|
-|4|195.78.101.75|81|Ukraine|Nova Vodolaha|UTT|
-|5|146.196.123.211|9812|India|Srinagar|CNS Infotel Services Pvt. Ltd.|
-|6|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
-|7|201.17.131.124|20183|Brazil|Belo Horizonte|Claro S.A.|
-|8|117.114.149.66|55443|China|Beijing|China Networks Inter-Exchange|
-|9|186.96.21.154|999|Mexico|Mérida|Total Play Telecomunicaciones SA De CV|
-|10|202.51.124.138|9812|Indonesia|Jakarta|PT iForte Global Internet|
-|11|68.183.185.62|80|Singapore|Singapore|DigitalOcean, LLC|
-|12|178.124.189.174|3128|Belarus|Borisov|Republican Unitary Telecommunication Enterprise Beltelecom|
-|13|187.87.189.252|55443|Brazil|Treze Tilias|CS-NET InformÔtica e Tecnologia Ltda.|
-|14|131.108.220.57|45005|Brazil|Nossa Senhora do Socorro|Rodrigo Mattaraggia - ME|
-|15|186.216.80.166|3128|Brazil|Rio de Janeiro|Rede Brasileira de Comunicacao Ltda|
-|16|203.123.57.154|63123|Indonesia|Sidoarjo|PT Maxindo Mitra Solusi|
-|17|103.147.77.66|5018|Indonesia|Madiun|TRIDATA|
-|18|202.180.21.107|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|19|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|20|2.188.164.194|8080|Iran|Tehran|Respina Networks & Beyond PJSC|
+|1|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
+|2|91.241.49.252|3128|Turkey|Istanbul|Teknotel Telekomunikasyon Sanayi VE Ticaret A.S.|
+|3|161.22.34.100|999|Venezuela|El Tigre|MDS TELECOM C.A.|
+|4|209.250.253.162|59394|Netherlands|Amsterdam|The Constant Company|
+|5|89.28.53.42|8080|Moldova|Chisinau|SC STARNET SRL|
+|6|180.211.158.122|58375|Bangladesh|Mymensingh|Bangladesh Telecommunications Company Ltd.|
+|7|66.94.97.238|443|United States|New York|Contabo Inc.|
+|8|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|9|138.117.84.240|999|Colombia|Pitalito|Sinergy Soluciones Integrales|
+|10|146.59.199.43|80|France|Gravelines|OVH SAS|
+|11|66.94.97.238|443|United States|New York|Contabo Inc.|
+|12|194.233.73.106|443|Singapore|Singapore|Contabo Asia Private Limited|
+|13|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|14|139.255.136.171|8080|Indonesia|Jakarta|PT. First Media, Tbk|
+|15|41.242.116.235|50000|Mayotte|Mamoudzou|STOI-block1|
+|16|190.196.176.5|60080|Chile|Santiago|Gtd Internet S.A.|
+|17|103.135.50.36|8080|Indonesia|Jakarta|PT Maxindo Mitra Solusi|
+|18|114.249.112.121|9000|China|Beijing|China Unicom Beijing Province Network|
+|19|206.62.64.34|8080|Brazil|Maringá|AGIS|
+|20|140.227.211.47|8080|Japan|Chiyoda|NTT PC Communications, Inc.|
 
 
 

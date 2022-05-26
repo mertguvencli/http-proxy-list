@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3689** proxies at the latest update. Usable proxies are below.
+> Scraper found **3379** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|125|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|125|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|125|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|66|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|66|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|66|
 
 ## Sources
 
@@ -32,37 +32,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|246|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|199|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|147|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|235|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1935|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|189|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1871|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|3.128.120.252|80|United States|Dublin|Amazon.com, Inc.|
-|2|3.128.120.252|80|United States|Dublin|Amazon.com, Inc.|
-|3|31.40.144.127|3128|Russia|Temryuk|Osipenko Alexander Nikolaevich|
-|4|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|5|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|6|182.52.83.213|8080|Thailand|Bangkok|TOT Public Company Limited|
-|7|212.92.204.54|8080|Croatia|Zagreb|A1 Hrvatska d.o.o|
-|8|190.120.250.218|999|Venezuela|Valencia|CORPORACION FIBEX TELECOM, C.A.|
-|9|190.239.205.12|999|Peru|Huaral|Telefonica del Peru|
-|10|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
-|11|36.95.156.127|6969|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|12|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|13|188.165.16.82|81|Poland|Wroclaw|OVH ISP|
-|14|88.255.106.30|8080|Turkey|Istanbul|TurkTelekom|
-|15|193.3.40.250|8080|Ukraine|Simferopol|Davydov|
-|16|168.90.15.177|999|Colombia|Bogotá|Media Commerce Partners S.A|
-|17|176.56.107.252|52210|Spain|Elche|Aire Networks|
-|18|213.6.149.2|8080|Palestine|Gaza|Palestine Telecommunications Company|
-|19|103.36.35.135|8080|Indonesia|Jakarta|PT Mora Telematika Indonesia|
-|20|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|1|176.196.250.86|3128|Russia|Kemerovo|Goodline.info|
+|2|45.164.60.138|53281|Brazil|Piracicaba|SRG TELECOM LTDA|
+|3|176.56.107.181|44887|Spain|Elche|Aire Networks|
+|4|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|5|103.11.106.148|8181|Indonesia|Magetan|PT. Pascal Indonesia|
+|6|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
+|7|103.11.106.148|8181|Indonesia|Magetan|PT. Pascal Indonesia|
+|8|213.6.149.2|8080|Palestine|Gaza|Palestine Telecommunications Company|
+|9|154.72.67.190|8080|Tanzania|Dar es Salaam|RAHA-LTZ|
+|10|101.128.67.46|8181|Indonesia|Denpasar|CBN|
+|11|94.101.140.131|9999|Iran|Tehran|Mobin Net Communication Company|
+|12|103.11.106.201|8085|Indonesia|Magetan|PT. Pascal Indonesia|
+|13|95.140.31.39|41890|Russia|Moscow|Sputnik LTD|
+|14|1.2.252.65|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
+|15|181.129.14.165|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|16|157.100.53.100|999|Ecuador|Machala|Nedetel S.A.|
+|17|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|18|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|19|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|20|147.135.134.57|9300|France|Gravelines|OVH SAS|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3499** proxies at the latest update. Usable proxies are below.
+> Scraper found **3773** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|80|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|80|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|80|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|103|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|103|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|103|
 
 ## Sources
 
@@ -32,11 +32,11 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|282|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|208|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|319|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|125|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1911|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|185|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1996|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|126.109.104.128|3128|Japan|Fukuoka|Softbank BB Corp.|
-|3|95.216.249.203|83|Finland|Helsinki|Hetzner Online GmbH|
-|4|118.99.122.124|3128|Indonesia|Bandung|BIZNET|
-|5|201.174.239.18|8080|Mexico|Ciudad Juárez|Transtelco Inc|
-|6|191.5.163.149|9812|Brazil|Bela Vista do Paraiso|1toc Informatica Ltda|
-|7|181.129.14.165|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|8|170.245.132.38|999|Paraguay|Caraguatay|MACHADO BAEZ, NERY JAVIER|
-|9|41.242.116.235|50000|Mayotte|Mamoudzou|STOI-block1|
-|10|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
-|11|103.93.237.81|8080|Indonesia|Cibubur|PT Artha Media Lintas Nusa|
-|12|193.34.21.4|55277|Ukraine|Kryvyi Rih|TRK Cable TV LLC|
-|13|8.242.212.170|999|Colombia|Bogotá|CTL Colombia|
-|14|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|15|91.242.213.247|8080|Russia|Murom|NAVIGATOR-MUROM|
-|16|181.188.206.42|999|Ecuador|Cuenca|Otecel S.A.|
-|17|63.151.67.7|8080|United States|Hayden|Visionary Communications, Inc.|
-|18|143.208.59.2|999|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|19|83.174.218.83|8080|Russia|Ufa|BASHTEL|
-|20|185.158.175.6|8080|Iran|Kahrīzak|Ertebatat Sabet Parsian Co. PJS|
+|2|5.167.141.239|3128|Russia|Tula|CJSC "ER-Telecom Holding" Tula branch|
+|3|181.143.106.162|52151|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|4|126.109.104.128|3128|Japan|Fukuoka|Softbank BB Corp.|
+|5|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
+|6|162.150.62.96|443|United States|Kincaid|Comcast Cable Communications, LLC|
+|7|80.66.81.35|53281|Ukraine|Odessa|Shulzhenko Bohdana Valentynivna|
+|8|177.242.148.14|999|Mexico|Tizayuca|Mega Cable, S.A. de C.V.|
+|9|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|10|200.25.254.193|54240|Colombia|Bogotá|Andinet ON Line|
+|11|210.76.214.159|7890|China|Beijing|Computer Network Information Center|
+|12|177.190.80.226|8080|Brazil|Pinheiral|Adsnet Telecom Ltda ME|
+|13|201.88.213.118|8080|Brazil|Várzea Grande|Brasil Telecom Comunicacao Multimidia S.A|
+|14|36.89.49.55|8181|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|15|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
+|16|113.160.37.152|53281|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
+|17|126.109.104.128|3128|Japan|Fukuoka|Softbank BB Corp.|
+|18|95.165.164.51|8080|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|19|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|20|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
 
 
 

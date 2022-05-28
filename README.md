@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3547** proxies at the latest update. Usable proxies are below.
+> Scraper found **3584** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|131|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|131|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|131|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|70|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|70|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|70|
 
 ## Sources
 
@@ -33,10 +33,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|245|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|252|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|106|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1823|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|115|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1844|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|209.80.129.2|3128|United States|Medford|HopOne Internet Corporation|
-|2|201.174.239.18|8080|Mexico|Ciudad Juárez|Transtelco Inc|
-|3|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
-|4|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|5|188.165.16.82|81|Poland|Wroclaw|OVH ISP|
-|6|202.62.10.51|8080|Indonesia|Pamulang|Client Jakarta Iconpln|
-|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
-|9|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
-|10|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|11|131.161.53.38|1994|Honduras|San Pedro Sula|INET Communication|
-|12|188.165.16.82|81|Poland|Wroclaw|OVH ISP|
-|13|157.230.42.175|80|Singapore|Singapore|DigitalOcean, LLC|
-|14|172.86.63.205|9812|United States|Fairbank|Eastern Iowa IP, LLC|
-|15|113.160.159.160|19132|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|16|93.185.3.161|9812|Czechia|Dobratice|Ing. Roman Cvicek|
-|17|111.118.128.123|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|18|181.225.68.27|999|Colombia|Villavicencio|Media Commerce Partners S.A|
-|19|182.253.159.227|9812|Indonesia|Bandung|BIZNET|
-|20|209.80.129.2|3128|United States|Medford|HopOne Internet Corporation|
+|2|209.80.129.2|3128|United States|Medford|HopOne Internet Corporation|
+|3|212.100.84.10|80|Nigeria|Calabar|Autonomous System number for Cyber Space|
+|4|181.129.14.166|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|5|45.229.33.29|999|Dominican Republic|Santo Domingo Este|Gold Data C.A.|
+|6|123.163.55.123|3128|China|Zhoukou|Chinanet|
+|7|209.80.129.2|3128|United States|Medford|HopOne Internet Corporation|
+|8|181.129.14.166|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|181.225.68.27|999|Colombia|Villavicencio|Media Commerce Partners S.A|
+|10|185.62.58.73|3128|Netherlands|Schiedam|Snel.com B.V.|
+|11|116.50.30.82|9812|Indonesia|Jakarta|DELTANET|
+|12|181.129.14.166|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|13|190.217.7.73|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|14|181.196.241.198|9100|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|15|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
+|16|103.76.12.42|8181|Indonesia|Bogor|MORATELINDO|
+|17|158.140.170.183|8085|Indonesia|Surabaya|MYREPUBLIC|
+|18|200.24.157.116|999|Ecuador|Borrero|Nedetel S.A.|
+|19|94.181.48.249|8080|Russia|Moscow|Enforta-MSK|
+|20|157.100.53.100|999|Ecuador|Machala|Nedetel S.A.|
 
 
 

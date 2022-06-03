@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3783** proxies at the latest update. Usable proxies are below.
+> Scraper found **3850** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|204|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|204|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|204|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|348|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|430|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|151|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2001|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|198|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1939|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|3.128.120.252|80|United States|Dublin|Amazon.com, Inc.|
-|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|4|122.248.45.35|80|Indonesia|Jakarta|PT PC24 Cyber Indonesia|
-|5|49.48.111.238|8080|Thailand|Ban Kho|Triple T Broadband Public Company Limited|
-|6|202.62.60.10|8080|Cambodia|Phnom Penh|COGETEL Co., Ltd|
-|7|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|45.7.132.194|999|Colombia|Ancuya|TV AZTECA SUCURSAL COLOMBIA|
-|9|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|10|187.87.189.252|55443|Brazil|Treze Tilias|CS-NET InformÔtica e Tecnologia Ltda.|
-|11|83.212.123.113|3888|Greece|Athens|National Infrastructures for Research and Technology S.A.|
-|12|194.233.73.107|443|Singapore|Singapore|Contabo Asia Private Limited|
-|13|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|14|103.146.26.80|8080|Indonesia|Tanjungbalai|INMEET|
-|15|147.135.134.57|9300|France|Gravelines|OVH SAS|
-|16|147.75.68.201|80|United States|Sunnyvale|Equinix Services|
-|17|43.241.131.105|8080|India|Thane|Excel Solutions|
-|18|194.233.69.38|443|Singapore|Singapore|Contabo Asia Private Limited|
-|19|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|20|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|1|3.128.120.252|80|United States|Dublin|Amazon.com, Inc.|
+|2|52.45.107.168|80|United States|Ashburn|Amazon.com, Inc.|
+|3|54.193.249.144|8080|United States|San Jose|Amazon.com, Inc.|
+|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|5|5.196.124.204|80|France|Bordeaux|OVH SAS|
+|6|209.80.129.2|3129|United States|Medford|HopOne Internet Corporation|
+|7|3.128.120.252|80|United States|Dublin|Amazon.com, Inc.|
+|8|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|9|129.226.182.140|8888|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
+|10|189.203.212.101|9812|Mexico|Yauhquemehcan|Total Play Telecomunicaciones SA De CV|
+|11|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|12|43.156.70.173|8001|Singapore|Singapore|Shenzhen Tencent Computer Systems Company Limited|
+|13|209.80.129.2|3129|United States|Medford|HopOne Internet Corporation|
+|14|190.61.61.70|8080|Colombia|Buriticá|Ufinet Panama S.A.|
+|15|54.193.249.144|8080|United States|San Jose|Amazon.com, Inc.|
+|16|182.52.83.116|8080|Thailand|Bangkok|TOT Public Company Limited|
+|17|115.96.208.124|8080|India|Kalyan|Hathway IP over Cable Internet Access|
+|18|49.48.111.238|8080|Thailand|Ban Kho|Triple T Broadband Public Company Limited|
+|19|103.102.14.150|3125|Indonesia|Gombong|GLOBALMEDIANET|
+|20|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
 
 
 

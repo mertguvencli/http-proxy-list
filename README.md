@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3701** proxies at the latest update. Usable proxies are below.
+> Scraper found **3719** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|194|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|194|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|194|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|168|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|168|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|168|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|374|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|381|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|137|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|148|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1907|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|107.191.48.64|59069|United States|Elk Grove Village|Choopa|
-|3|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|5|138.197.146.58|31028|Canada|Toronto|DigitalOcean, LLC|
-|6|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|7|128.199.214.87|3128|Singapore|Singapore|Partner Communications Ltd.|
-|8|103.243.114.206|8080|India|Pune|Gazon Communications India Limited|
-|9|85.15.152.39|3128|Russia|Tyumen|Rostelecom networks|
-|10|182.52.83.252|8080|Thailand|Bangkok|TOT Public Company Limited|
-|11|118.172.187.149|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|12|186.47.41.22|9812|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|13|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
-|14|62.183.81.38|8080|Russia|Kenzhe|Kabardian-Balkar Telecommunications Company|
-|15|203.153.198.4|8080|Australia|Melbourne|World Without Wires Pty Ltd|
-|16|91.106.67.22|9812|Iran|Tehran|PJSC "Badr Rayan Jonoob"|
-|17|107.191.48.64|59069|United States|Elk Grove Village|Choopa|
-|18|103.160.132.26|83|India|Bhavnagar|Winmax Telecommunication India Private Limited|
-|19|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|20|147.75.68.201|80|United States|Sunnyvale|Equinix Services|
+|1|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|2|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|3|190.97.226.236|999|Venezuela|Barinas|NetLink América C.A.|
+|4|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
+|5|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
+|6|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|7|154.49.216.33|3128|France|Vélizy-Villacoublay|Cogent Communications|
+|8|45.5.92.94|8137|Mexico|Monclova|Señal Interactiva, S.A De C.V|
+|9|45.189.254.26|999|Mexico|Alvarado|Tracered SA De CV|
+|10|171.244.170.205|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|11|182.52.83.252|8080|Thailand|Bangkok|TOT Public Company Limited|
+|12|77.238.129.14|55443|Russia|Voronezh|LLC Intercon|
+|13|103.31.133.180|8080|Indonesia|Jakarta|PT Arthatama Adhiprima Persada|
+|14|118.172.187.149|8080|Thailand|Chiang Mai|TOT Public Company Limited|
+|15|45.64.99.235|8080|Indonesia|Jakarta|ARGON|
+|16|190.94.199.14|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|17|138.117.230.140|999|Guatemala|Huehuetenango|Fibernet S.A|
+|18|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|19|103.152.100.183|8080|Pakistan|Lahore|KK Networks (Pvt) Ltd.|
+|20|46.8.247.3|50967|Russia|Khasavyurt|Saypudinov Ayatula|
 
 
 

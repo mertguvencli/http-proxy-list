@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3632** proxies at the latest update. Usable proxies are below.
+> Scraper found **3819** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|188|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|188|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|188|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|260|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|289|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|386|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|139|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|189|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1961|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|2|52.45.107.168|80|United States|Ashburn|Amazon.com, Inc.|
-|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|4|65.108.136.229|9090|Finland|Helsinki|Hetzner Online GmbH|
-|5|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|6|37.223.29.196|80|Spain|Barcelona|Vodafone Espana S.A.U.|
-|7|47.241.107.35|8555|Singapore|Singapore|Alibaba.com LLC|
-|8|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|9|192.161.164.8|6666|United States|Los Angeles|QuadraNet|
-|10|62.140.233.192|41258|Russia|Fryazino|Fryazino.net|
-|11|177.190.76.84|9812|Brazil|Presidente Epitacio|NOVA PORTONET TELECOMUNICA??ES LTDA ME|
-|12|178.157.15.48|3128|Turkey|Istanbul|Aerotek Bilisim Sanayi ve Ticaret|
-|13|182.253.170.137|8080|Indonesia|Jakarta|BIZNET|
-|14|64.138.255.146|80|United States|Myrtle Beach|Horry Telephone Cooperative, Inc.|
+|1|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|2|51.77.246.212|3128|France|Roubaix|OVH SAS|
+|3|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|4|138.197.146.58|31028|Canada|Toronto|DigitalOcean, LLC|
+|5|176.114.47.67|9812|Ukraine|Feodosiya|Telecommunication company FEONET+ LLC|
+|6|12.88.29.66|9080|United States|Middletown|AT&T Services, Inc.|
+|7|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|8|190.97.226.236|999|Venezuela|Barinas|NetLink América C.A.|
+|9|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|10|117.241.129.50|9812|India|Delhi|BSNL Internet|
+|11|192.161.164.8|6666|United States|Los Angeles|QuadraNet|
+|12|103.1.95.47|8080|Nepal|Kathmandu|Classic Tech Pvt. Ltd|
+|13|65.108.136.229|9090|Finland|Helsinki|Hetzner Online GmbH|
+|14|202.65.158.235|83|India|Hyderabad|CtrlS Datacenters Ltd.|
 |15|192.161.164.8|6666|United States|Los Angeles|QuadraNet|
-|16|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|179.255.219.182|8080|Brazil|Brasília|Brasil Telecom Comunicacao Multimidia S.A|
-|18|65.108.136.229|9090|Finland|Helsinki|Hetzner Online GmbH|
-|19|209.80.129.2|3128|United States|Medford|HopOne Internet Corporation|
-|20|3.126.242.11|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|158.255.215.50|16993|France|Paris|Edis France|
+|17|65.108.136.229|9090|Finland|Helsinki|Hetzner Online GmbH|
+|18|183.89.75.201|8080|Thailand|Khong|Triple T Broadband Public Company Limited|
+|19|190.97.226.236|999|Venezuela|Barinas|NetLink América C.A.|
+|20|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
 
 
 

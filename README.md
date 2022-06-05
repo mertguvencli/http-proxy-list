@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3733** proxies at the latest update. Usable proxies are below.
+> Scraper found **3620** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|178|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|178|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|178|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|66|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|279|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|336|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|315|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|125|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|78|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1944|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|2|88.198.93.51|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|3|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|4|47.74.24.169|80|Japan|Tokyo|Alibaba.com LLC|
-|5|35.157.249.83|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|200.114.84.190|8080|Argentina|Lomas de Zamora|Citarella S.A.|
-|7|179.1.64.42|999|Colombia|Bogotá|Internexa S.a. E.S.P|
-|8|62.69.212.197|8090|Poland|Szczecin|Netia SA|
-|9|194.233.73.106|443|Singapore|Singapore|Contabo Asia Private Limited|
-|10|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
-|11|41.174.179.147|8080|South Africa|Cape Town|Liquid Telecommunications Ltd|
-|12|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
-|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|14|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|15|213.136.101.37|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|16|54.93.165.96|30000|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
-|18|88.198.93.51|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|19|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|20|54.93.165.96|30000|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|54.93.165.96|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|147.135.225.41|3128|France|Gravelines|OVH SAS|
+|4|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|5|35.157.249.83|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|7|117.241.129.43|9812|India|Delhi|BSNL Internet|
+|8|150.136.253.135|3128|United States|Ashburn|Oracle Corporation|
+|9|47.242.75.108|59394|Hong Kong|Hong Kong|Alibaba.com LLC|
+|10|66.94.97.238|443|United States|New York|Contabo Inc.|
+|11|150.136.253.135|3128|United States|Ashburn|Oracle Corporation|
+|12|190.120.250.219|999|Venezuela|Los Guayos|CORPORACION FIBEX TELECOM, C.A.|
+|13|102.38.17.121|8080|Libya|Tripoli|GHA|
+|14|18.196.224.91|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|15|103.4.167.197|80|Indonesia|Jakarta|FIBERNET|
+|16|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|17|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|18|129.213.126.155|3128|United States|Ashburn|Oracle Corporation|
+|19|129.213.118.175|3128|United States|Ashburn|Oracle Corporation|
+|20|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

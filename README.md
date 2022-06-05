@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3847** proxies at the latest update. Usable proxies are below.
+> Scraper found **3790** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|300|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|300|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|300|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|204|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|204|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|204|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|58|✅|
+|[proxyscan.io](https://www.proxyscan.io)|66|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|427|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|329|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|167|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1912|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|126|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1986|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|107.191.48.64|59069|United States|Elk Grove Village|Choopa|
-|2|43.130.47.100|8081|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|107.191.48.64|59069|United States|Elk Grove Village|Choopa|
-|4|54.93.165.96|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|35.157.249.83|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|18.196.224.91|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|7|3.128.120.252|80|United States|Dublin|Amazon.com, Inc.|
-|8|89.238.178.55|10605|Spain|Madrid|M247 Ltd|
-|9|176.196.250.86|3128|Russia|Kemerovo|Goodline.info|
-|10|128.199.214.87|3128|Singapore|Singapore|Partner Communications Ltd.|
-|11|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|12|36.67.52.35|8080|Indonesia|Carenang|PT. Telekomunikasi Indonesia|
-|13|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
-|14|103.168.29.228|9812|Indonesia|Kampungbaru|Dinas Komunikasi Informatika Persandian dan Statistik Kabuapten Bueleleng|
-|15|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|16|212.115.232.79|31280|Ukraine|Dnipro|ISP "Fregat"|
-|17|85.15.152.39|3128|Russia|Tyumen|Rostelecom networks|
-|18|201.174.239.18|8080|Mexico|Ciudad Juárez|Transtelco Inc|
-|19|175.100.103.170|55443|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE., LTD|
-|20|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|1|54.93.165.96|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|2|35.157.249.83|30001|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|128.199.214.87|3128|Singapore|Singapore|Partner Communications Ltd.|
+|4|177.221.97.154|8080|Brazil|Cuiabá|Bi-Link Telecom|
+|5|89.238.178.55|10605|Spain|Madrid|M247 Ltd|
+|6|185.136.151.138|41890|Iraq|‘Aynkāwah|Kurdistan Net 19|
+|7|12.144.254.185|9080|United States|Lake Village|AT&T Services, Inc.|
+|8|104.37.102.209|8181|United States|Attica|ALTIUS Broadband, LLC|
+|9|181.176.155.191|9812|Peru|Lima|VIETTEL PERÚ S.A.C.|
+|10|182.253.93.4|53281|Indonesia|Gresik|BIZNET|
+|11|103.160.132.26|83|India|Bhavnagar|Winmax Telecommunication India Private Limited|
+|12|150.136.139.216|3128|United States|Ashburn|Oracle Corporation|
+|13|36.94.40.123|9812|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|14|176.100.216.154|8087|Russia|Orekhovo-Zuyevo|Telecom-Uslugi|
+|15|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|62.94.218.90|8080|Italy|Terni|Clouditalia S.p.A.|
+|17|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
+|18|135.148.15.113|3174|United States|Fremont|OVH US LLC|
+|19|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|20|113.175.8.99|9812|Vietnam|Hanoi|VietNam Post and Telecom Corporation|
 
 
 

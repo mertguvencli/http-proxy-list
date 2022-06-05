@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3245** proxies at the latest update. Usable proxies are below.
+> Scraper found **3238** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|97|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|97|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|97|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|109|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|109|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|109|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|58|✅|
+|[proxyscan.io](https://www.proxyscan.io)|54|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|255|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|237|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|71|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|86|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1878|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|2|54.93.165.96|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|4|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|5|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|6|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|7|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|9|54.93.165.96|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|10|54.93.165.96|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|54.93.165.96|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|176.98.95.105|32018|Ukraine|Uman|TOV TV&Radio Company 'TIM'|
-|13|106.52.63.77|3128|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|14|111.225.153.100|8089|China|Beijing|Chinanet|
-|15|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|16|88.198.93.51|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|17|46.99.146.232|8080|Albania|Tirana|IPKO Telecommunications LLC|
-|18|194.233.69.126|443|Singapore|Singapore|Contabo Asia Private Limited|
-|19|54.93.165.96|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|20|103.178.43.14|8181|Indonesia|Jakarta|PT Jaring Solusi Persada|
+|1|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
+|2|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|3|88.198.93.51|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|4|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|5|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|6|110.78.147.246|8080|Thailand|Samphanthawong|CAT-BB|
+|7|115.96.208.124|8080|India|Kalyan|Hathway IP over Cable Internet Access|
+|8|182.52.83.160|8080|Thailand|Bangkok|TOT Public Company Limited|
+|9|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|10|147.135.134.57|9300|France|Gravelines|OVH SAS|
+|11|103.194.169.109|8080|Netherlands|Rotterdam|HostPalace Web Solution PVT LTD|
+|12|88.198.93.51|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|13|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|14|88.198.93.51|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|15|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|16|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|17|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|18|185.62.58.65|3128|Netherlands|Schiedam|Snel.com B.V.|
+|19|68.183.191.179|46716|Singapore|Singapore|DigitalOcean, LLC|
+|20|18.196.34.179|36228|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 

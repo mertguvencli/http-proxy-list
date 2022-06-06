@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3347** proxies at the latest update. Usable proxies are below.
+> Scraper found **3678** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|189|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|189|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|189|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|110|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|110|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|110|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|68|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|284|✅|
+|[proxyscan.io](https://www.proxyscan.io)|67|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|300|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|114|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1914|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|74.208.181.246|3128|United States|Chicago|IONOS SE|
-|3|195.228.174.252|80|Hungary|Miskolc|Hungarian Telecom|
-|4|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|6|201.184.145.59|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|7|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|8|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|183.91.0.120|3128|Vietnam|Hanoi|CMC Telecom Infrastructure Company|
+|1|47.74.24.169|80|Japan|Tokyo|Alibaba.com LLC|
+|2|94.155.221.220|3128|Bulgaria|Sofia|"Cooolbox" AD|
+|3|74.208.181.246|3128|United States|Chicago|IONOS SE|
+|4|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
+|5|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|6|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
+|7|201.174.239.18|8080|Mexico|Ciudad Juárez|Transtelco Inc|
+|8|201.184.145.59|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 |10|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|12|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|13|8.242.207.202|8080|Chile|Santiago|Level 3|
-|14|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
-|15|181.225.68.27|999|Colombia|Villavicencio|Media Commerce Partners S.A|
-|16|179.1.129.94|999|Colombia|Ibague|Internexa S.a. E.S.P|
-|17|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|18|157.119.211.133|8080|India|Tirupati|Finecom Internet services Pvt Ltd|
-|19|109.168.10.2|8080|Italy|Turin|Irideos S.P.A.|
-|20|66.94.97.238|443|United States|New York|Contabo Inc.|
+|11|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|12|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|13|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|187.1.57.206|20183|Brazil|Belo Horizonte|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|15|188.0.147.102|3128|Kazakhstan|Almaty|JSC "KazTransCom"|
+|16|110.78.147.246|8080|Thailand|Samphanthawong|CAT-BB|
+|17|47.74.24.169|80|Japan|Tokyo|Alibaba.com LLC|
+|18|18.196.224.91|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|19|18.196.224.91|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|66.94.120.161|443|United States|Seattle|Contabo Inc.|
 
 
 

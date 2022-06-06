@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3299** proxies at the latest update. Usable proxies are below.
+> Scraper found **3433** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|96|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|96|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|96|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|150|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|150|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|150|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|66|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|212|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|183|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|293|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|69|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|71|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1786|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|43.130.47.100|8081|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|2|18.196.224.91|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|3|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|4|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|5|54.93.165.96|30000|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|6|213.32.75.44|9300|France|Paris|OVH SAS|
-|7|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
-|8|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|9|88.255.64.88|1981|Turkey|Gaziantep|Turk Telekomunikasyon Anonim Sirketi|
-|10|18.196.224.91|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|11|54.93.165.96|30000|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|12|94.23.241.200|3128|France|Roubaix|OVH SAS|
-|13|35.157.249.83|30001|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|14|54.93.165.96|30000|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|15|54.93.165.96|30000|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|45.167.125.209|9992|Colombia|Popayán|Sepcom Comunicaciones SAS|
-|17|88.198.93.51|8080|Germany|Falkenstein|Hetzner Online GmbH|
-|18|18.196.224.91|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|19|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|20|35.157.249.83|30001|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|1|150.136.166.93|3128|United States|Ashburn|Oracle Corporation|
+|2|193.122.151.62|3128|United States|Ashburn|Oracle Corporation|
+|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|4|66.196.238.179|3128|United States|Tomball|Logix|
+|5|150.136.166.93|3128|United States|Ashburn|Oracle Corporation|
+|6|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|7|193.122.151.62|3128|United States|Ashburn|Oracle Corporation|
+|8|35.157.249.83|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|9|18.196.224.91|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|10|102.38.5.161|8080|Libya|Tripoli|GKA|
+|11|185.177.249.211|8080|Germany|Sangerhausen|Stadtwerke Lutherstadt Eisleben GmbH|
+|12|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|88.255.64.88|1981|Turkey|Gaziantep|Turk Telekomunikasyon Anonim Sirketi|
+|14|200.116.198.222|9812|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
+|15|190.217.101.79|999|Colombia|San Vicente del Caguan|Level 3 Colombia S.A|
+|16|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|47.74.24.169|80|Japan|Tokyo|Alibaba.com LLC|
+|18|190.63.35.30|9812|Ecuador|Ambato|CONECEL|
+|19|35.157.249.83|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|45.61.188.154|3128|United States|Miami|FranTech Solutions|
 
 
 

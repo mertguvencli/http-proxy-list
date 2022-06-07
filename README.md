@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3668** proxies at the latest update. Usable proxies are below.
+> Scraper found **3431** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|126|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|126|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|126|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|74|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|287|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|250|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|114|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1910|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|75|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1823|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|18.196.224.91|36776|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|2|43.130.47.100|8081|United States|Santa Clara|Shenzhen Tencent Computer Systems Company Limited|
-|3|94.155.221.220|3128|Bulgaria|Sofia|"Cooolbox" AD|
-|4|35.157.249.83|33128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|5|180.183.100.214|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|6|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|7|103.101.81.193|9812|Cambodia|Phnom Penh|Turbotech CO.|
-|8|64.138.255.146|80|United States|Myrtle Beach|Horry Telephone Cooperative, Inc.|
-|9|170.254.28.186|8080|Ecuador|Cuenca|María Teresa Vivar|
-|10|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|11|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
-|12|104.37.102.181|8181|United States|Attica|ALTIUS Broadband, LLC|
-|13|46.101.82.76|8080|United Kingdom|London|DigitalOcean|
-|14|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|15|54.93.165.96|30000|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|16|54.93.165.96|30000|Germany|Frankfurt am Main|Amazon Technologies Inc.|
-|17|34.252.22.222|3128|Ireland|Dublin|Amazon Technologies Inc.|
-|18|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
-|19|103.144.90.35|8880|Indonesia|Ponorogo|BEAT|
-|20|190.113.43.66|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
+|1|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|2|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|3|170.254.28.186|8080|Ecuador|Cuenca|María Teresa Vivar|
+|4|88.255.65.118|8080|Turkey|Kayseri|Turk Telekomunikasyon Anonim Sirketi|
+|5|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|6|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|7|85.209.2.204|3128|Finland|Helsinki|Network Management Ltd|
+|8|1.20.169.236|8080|Thailand|Phan Thong|TOT Public Company Limited|
+|9|181.64.11.121|3128|Peru|Rioja|Telefonica del Peru|
+|10|61.4.102.151|3128|Malaysia|Ampang|Gigabit Hosting Sdn Bhd|
+|11|88.250.210.100|38271|Turkey|Bursa|Turk Telekomunikasyon A.S|
+|12|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|13|194.169.167.204|8080|Albania|Cerrik|Kadri Haxhiaj trading as "B.I."|
+|14|202.51.124.138|9812|Indonesia|Jakarta|PT iForte Global Internet|
+|15|181.224.207.19|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|16|35.157.249.83|33128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|17|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|18|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|19|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|20|54.93.165.96|39593|Germany|Frankfurt am Main|Amazon Technologies Inc.|
 
 
 

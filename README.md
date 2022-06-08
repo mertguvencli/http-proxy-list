@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3541** proxies at the latest update. Usable proxies are below.
+> Scraper found **3448** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|76|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|76|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|76|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|74|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|74|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|74|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|69|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|224|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|302|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|300|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|74|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|52|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1889|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|2|94.155.221.220|3128|Bulgaria|Sofia|"Cooolbox" AD|
-|3|47.74.0.7|80|Japan|Tokyo|Alibaba.com LLC|
-|4|46.188.53.7|8008|Russia|Moscow|2COM|
-|5|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|6|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|7|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|8|101.200.127.149|3129|China|Beijing|Hangzhou Alibaba Advertising Co|
-|9|64.138.255.146|80|United States|Myrtle Beach|Horry Telephone Cooperative, Inc.|
-|10|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|11|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
-|12|111.225.152.157|8089|China|Beijing|Chinanet|
-|13|192.158.15.201|60684|Canada|Mississauga|Ontario Inc.|
-|14|62.171.150.51|5566|Germany|Nuremberg|Research Machines|
-|15|123.163.55.123|3128|China|Zhoukou|Chinanet|
-|16|162.150.62.93|443|United States|Kincaid|Comcast Cable Communications, LLC|
-|17|103.180.119.50|8080|Indonesia|Gresik|PT Persada Data Multimedia|
-|18|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|19|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
-|20|66.196.238.179|3128|United States|Tomball|Logix|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|192.99.144.208|8080|Canada|Beauharnois|OVH SAS|
+|3|94.155.221.220|3128|Bulgaria|Sofia|"Cooolbox" AD|
+|4|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|5|194.233.69.126|443|Singapore|Singapore|Contabo Asia Private Limited|
+|6|143.47.105.75|3128|United States|Ashburn|Oracle Corporation|
+|7|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|8|115.96.208.124|8080|India|Kalyan|Hathway IP over Cable Internet Access|
+|9|94.23.241.200|3128|France|Roubaix|OVH SAS|
+|10|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|195.39.233.18|8080|Ukraine|Kharkiv|Active Operations LLC|
+|12|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|13|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
+|14|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|15|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|16|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|17|115.96.208.124|8080|India|Kalyan|Hathway IP over Cable Internet Access|
+|18|45.70.14.58|999|Ecuador|Baba|Nedetel S.A.|
+|19|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|45.62.243.2|3128|Canada|Toronto|DataCity|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3730** proxies at the latest update. Usable proxies are below.
+> Scraper found **3716** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|172|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|172|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|172|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|166|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|166|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|166|
 
 ## Sources
 
@@ -31,12 +31,12 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxyscan.io](https://www.proxyscan.io)|82|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|365|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|356|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|109|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1873|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|130|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1865|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|187.188.167.30|3128|Mexico|Veracruz|Total Play Telecomunicaciones SA De CV|
-|3|110.78.138.59|8080|Thailand|Samphanthawong|CAT-BB|
-|4|47.74.0.7|80|Japan|Tokyo|Alibaba.com LLC|
-|5|200.60.124.118|999|Peru|Juanjuí|Telefonica del Peru S.A.A.|
-|6|86.109.3.23|80|United States|Southfield|Packet Host, Inc.|
-|7|66.196.238.179|3128|United States|Tomball|Logix|
-|8|43.132.200.137|9812|Hong Kong|Central|Shenzhen Tencent Computer Systems Company Limited|
-|9|181.224.207.18|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|10|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
-|11|172.105.24.224|3128|Canada|Toronto|Linode, LLC|
-|12|95.217.72.253|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|181.224.207.20|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|14|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|15|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
-|16|111.1.139.96|80|China|Hangzhou|China Mobile communications corporation|
-|17|172.105.24.224|3128|Canada|Toronto|Linode, LLC|
-|18|18.231.133.109|3128|Brazil|São Paulo|Amazon Technologies Inc.|
-|19|116.203.201.82|8443|Germany|Nuremberg|Hetzner Online GmbH|
-|20|190.121.140.233|999|Colombia|Caqueza|Media Commerce Partners S.A|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|176.9.162.107|443|Germany|Falkenstein|Hetzner Online GmbH|
+|4|95.217.72.253|3128|Finland|Helsinki|Hetzner Online GmbH|
+|5|190.97.226.236|999|Venezuela|Barinas|NetLink América C.A.|
+|6|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|7|110.78.138.59|8080|Thailand|Samphanthawong|CAT-BB|
+|8|103.144.115.197|8080|India|Nawada|Wandoor Multiventures Pvt Ltd|
+|9|102.68.128.211|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|10|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
+|12|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|13|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|14|188.166.228.110|8080|Singapore|Singapore|DigitalOcean, LLC|
+|15|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|16|86.109.3.23|80|United States|Southfield|Packet Host, Inc.|
+|17|66.196.238.179|3128|United States|Tomball|Logix|
+|18|8.218.69.97|8000|Hong Kong|Central|Alibaba (US) Technology Co., Ltd.|
+|19|45.118.151.25|3128|Vietnam|Ho Chi Minh City|Viet Online trading service corporation|
+|20|139.255.136.171|8080|Indonesia|Jakarta|PT. First Media, Tbk|
 
 
 

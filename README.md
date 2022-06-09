@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3382** proxies at the latest update. Usable proxies are below.
+> Scraper found **3274** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|92|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|92|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|92|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|56|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|56|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|56|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|65|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|215|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|240|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|268|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|141|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|39|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1840|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|43|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1839|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|61.7.191.202|8080|Thailand|Wiset Chaichan|CAT-BB|
-|2|5.189.229.42|1081|Russia|St Petersburg|OOO "Network of data-centers "Selectel"|
-|3|117.20.216.218|8080|South Korea|Gumi|HYUNDAI COMMUNICATIONS & NETWORK|
-|4|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|5|183.89.64.182|8080|Thailand|Amphoe Sikhiu|Triple T Broadband Public Company Limited|
-|6|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
-|7|183.88.18.69|8080|Thailand|Ban Du|Triple T Broadband Public Company Limited|
-|8|176.9.162.107|443|Germany|Falkenstein|Hetzner Online GmbH|
-|9|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|10|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|11|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
-|12|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
-|13|95.217.72.253|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|103.175.237.9|3127|Indonesia|Malang|PT Marva Global Telekomunikasi|
-|15|176.9.162.107|443|Germany|Falkenstein|Hetzner Online GmbH|
-|16|45.118.151.25|3128|Vietnam|Ho Chi Minh City|Viet Online trading service corporation|
-|17|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|18|95.217.72.253|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|20|5.39.189.39|3128|Netherlands|Rotterdam|ColoCenter b.v.|
+|1|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|2|176.9.162.107|443|Germany|Falkenstein|Hetzner Online GmbH|
+|3|61.7.191.202|8080|Thailand|Wiset Chaichan|CAT-BB|
+|4|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|5|190.97.226.236|999|Venezuela|Barinas|NetLink América C.A.|
+|6|79.104.197.58|8080|Russia|Krasnoyarsk|PJSC "Vimpelcom"|
+|7|194.233.69.126|443|Singapore|Singapore|Contabo Asia Private Limited|
+|8|103.214.9.13|3128|Vietnam|Hanoi|MEGACORE|
+|9|103.214.9.13|3128|Vietnam|Hanoi|MEGACORE|
+|10|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|11|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|12|176.9.162.107|443|Germany|Falkenstein|Hetzner Online GmbH|
+|13|176.9.162.107|443|Germany|Falkenstein|Hetzner Online GmbH|
+|14|167.172.6.161|443|Singapore|Singapore|DigitalOcean, LLC|
+|15|176.56.107.229|51528|Spain|Elche|Aire Networks|
+|16|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|17|190.94.199.14|999|Venezuela|Caracas|IFX Networks Venezuela C.A.|
+|18|47.74.0.7|80|Japan|Tokyo|Alibaba.com LLC|
+|19|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|20|185.208.172.196|8080|Germany|Frankfurt am Main|BitCommand|
 
 
 

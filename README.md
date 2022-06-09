@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3763** proxies at the latest update. Usable proxies are below.
+> Scraper found **3778** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|154|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|154|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|154|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|476|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|382|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|139|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|148|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1865|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
-|4|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
-|5|91.151.89.32|1697|Turkey|Sisli|Talha Bogaz|
-|6|68.183.185.62|80|Singapore|Singapore|DigitalOcean, LLC|
-|7|95.217.72.253|3128|Finland|Helsinki|Hetzner Online GmbH|
-|8|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|9|183.88.3.16|8080|Thailand|Nakhon Ratchasima|Triple T Broadband Public Company Limited|
-|10|188.166.228.110|8080|Singapore|Singapore|DigitalOcean, LLC|
-|11|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
-|12|187.216.93.20|55443|Mexico|Ciudad Obregón|Uninet S.A. de C.V.|
-|13|190.97.226.236|999|Venezuela|Barinas|NetLink América C.A.|
-|14|183.88.18.206|8080|Thailand|Ban Du|Triple T Broadband Public Company Limited|
-|15|203.150.113.57|8080|Thailand|Bangkok|Internet Thailand Company Ltd.|
-|16|194.233.73.109|443|Singapore|Singapore|Contabo Asia Private Limited|
-|17|178.47.139.151|35102|Russia|Osa|PJSC Rostelecom|
-|18|200.42.203.96|8080|Dominican Republic|Santo Domingo|Altice Dominicana S.A.|
-|19|182.52.83.48|8080|Thailand|Bangkok|TOT Public Company Limited|
-|20|91.107.15.221|53281|Russia|Lytkarino|AVK-computer ltd|
+|1|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|2|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|3|183.88.135.113|8080|Thailand|Chiang Mai|Triple T Broadband Public Company Limited|
+|4|169.1.68.220|8080|South Africa|East London|Afrihost (Pty) Ltd|
+|5|115.96.208.124|8080|India|Kalyan|Hathway IP over Cable Internet Access|
+|6|31.3.169.53|8081|Italy|Cesena|Cesena NET S.R.L.|
+|7|171.6.78.222|8080|Thailand|Si Racha|Triple T Broadband Public Company Limited|
+|8|181.224.207.19|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|9|88.255.101.230|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|10|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|11|125.26.192.220|8080|Thailand|Bang Pakong|TOT Public Company Limited|
+|12|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|13|36.66.103.75|8080|Indonesia|Serang|PT. Telekomunikasi Indonesia|
+|14|185.132.196.218|8080|Russia|St Petersburg|JSC Avantel|
+|15|185.142.43.217|8080|Lebanon|Bednâyel|Net Pro sarl|
+|16|109.201.9.100|8080|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|17|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
+|18|45.167.95.184|8085|Mexico|La Canada|Lantointernet SA De CV|
+|19|45.114.118.81|3128|Indonesia|Jakarta|CLDREU|
+|20|146.120.174.149|8989|Ukraine|Ivanykivka|Gargat Igor Vasilevich|
 
 
 

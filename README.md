@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3278** proxies at the latest update. Usable proxies are below.
+> Scraper found **3413** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|64|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|64|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|64|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|83|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|83|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|83|
 
 ## Sources
 
@@ -31,12 +31,12 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|93|✅|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|195|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|211|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|233|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|82|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1714|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1832|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|4|36.37.160.242|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE.|
-|5|217.197.249.22|8080|Russia|Peresvet|CJSC TSI Service|
-|6|183.89.112.12|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|7|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
-|8|101.108.207.155|8080|Thailand|Khwaeng Thung Song Hong|TOT Public Company Limited|
-|9|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
-|10|124.156.100.83|8118|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
-|11|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|12|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|13|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|14|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|15|95.216.12.141|22214|Finland|Helsinki|Hetzner Online GmbH|
-|16|203.210.84.171|8181|Indonesia|Bandung|Infrastruktur STARNET|
-|17|103.102.14.150|3125|Indonesia|Gombong|GLOBALMEDIANET|
-|18|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
-|19|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
-|20|119.15.86.30|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|2|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|3|18.189.228.38|8000|United States|Dublin|Amazon.com, Inc.|
+|4|185.134.29.31|8080|Denmark|Skanderborg|team.blue Denmark A/S|
+|5|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|6|91.241.49.252|3128|Turkey|Istanbul|Teknotel Telekomunikasyon Sanayi VE Ticaret A.S.|
+|7|190.97.226.236|999|Venezuela|Barinas|NetLink América C.A.|
+|8|183.88.176.11|8080|Thailand|Chiang Rai|Triple T Broadband Public Company Limited|
+|9|14.241.39.165|19132|Vietnam|Hanoi|VNPT|
+|10|176.57.188.32|443|Germany|Düsseldorf|Contabo GmbH|
+|11|95.154.64.101|8080|Russia|Vladivostok|OCTOPUSNET-SUBSCRIBERS|
+|12|47.74.0.7|80|Japan|Tokyo|Alibaba.com LLC|
+|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|14|186.159.23.154|8080|Colombia|Medellín|Edatel S.a. E.S.P|
+|15|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|16|188.133.152.125|8080|Russia|Moscow|Enforta-MSK|
+|17|121.101.132.6|8080|Indonesia|Klaten|TERABIT|
+|18|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|19|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|20|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

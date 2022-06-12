@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3098** proxies at the latest update. Usable proxies are below.
+> Scraper found **3126** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|67|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|67|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|67|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|77|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|77|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|77|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|81|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|169|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|126|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|38|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|28|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1908|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.42.177.51|3128|United States|Ashburn|PeaceWeb|
-|2|159.197.250.134|3128|United States|Mount Prospect|Sprint|
-|3|149.19.224.38|3128|United States|Sterling|SPRINT|
-|4|209.126.0.154|8118|United States|St Louis|Contabo Inc.|
-|5|149.19.224.38|3128|United States|Sterling|SPRINT|
+|1|149.19.224.38|3128|United States|Sterling|SPRINT|
+|2|45.42.177.51|3128|United States|Ashburn|PeaceWeb|
+|3|159.197.250.134|3128|United States|Mount Prospect|Sprint|
+|4|149.19.224.38|3128|United States|Sterling|SPRINT|
+|5|159.197.250.134|3128|United States|Mount Prospect|Sprint|
 |6|45.42.177.51|3128|United States|Ashburn|PeaceWeb|
-|7|159.197.250.134|3128|United States|Mount Prospect|Sprint|
-|8|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|9|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
-|10|187.44.167.78|60786|Brazil|Salvador|ITS TELECOMUNICACOES LTDA|
-|11|124.158.167.173|8080|Indonesia|Tangerang|ICON+|
-|12|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|13|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
+|7|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|8|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|9|45.42.177.51|3128|United States|Ashburn|PeaceWeb|
+|10|159.197.250.134|3128|United States|Mount Prospect|Sprint|
+|11|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|12|149.19.224.38|3128|United States|Sterling|SPRINT|
+|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
 |14|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
-|15|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
-|16|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|17|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|18|47.51.51.190|8080|United States|Glendale|Charter Communications|
-|19|200.32.51.179|8080|Argentina|Mar del Plata|Telefonica de Argentina|
-|20|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|15|176.9.162.107|443|Germany|Falkenstein|Hetzner Online GmbH|
+|16|177.53.153.168|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|17|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|18|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|19|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|20|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3532** proxies at the latest update. Usable proxies are below.
+> Scraper found **3519** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|132|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|132|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|132|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|75|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|75|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|75|
 
 ## Sources
 
@@ -31,12 +31,12 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|64|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|256|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|236|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|66|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1863|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|108|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1892|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|149.19.224.31|3128|United States|Sterling|SPRINT|
-|2|216.126.231.237|8080|United States|Miami|anyNode|
-|3|149.19.224.31|3128|United States|Sterling|SPRINT|
-|4|216.126.231.237|8080|United States|Miami|anyNode|
-|5|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|6|91.106.65.107|9812|Iran|Bandar-e Māhshahr|PJSC "Badr Rayan Jonoob"|
-|7|217.169.209.198|6666|Serbia|Belgrade|Orion Telekom Network|
-|8|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|9|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
-|10|207.154.206.91|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|202.6.227.174|3888|Indonesia|Surabaya|PADINET - Padi Internet|
-|12|134.122.58.174|80|Netherlands|Amsterdam|DigitalOcean, LLC|
-|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|14|194.233.73.107|443|Singapore|Singapore|Contabo Asia Private Limited|
-|15|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
-|16|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|213.241.205.1|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|18|95.216.194.46|1080|Finland|Helsinki|Hetzner Online GmbH|
-|19|213.241.205.1|8080|Russia|Rostov-on-Don|RTCOMM-YUG|
-|20|66.94.97.238|443|United States|New York|Contabo Inc.|
+|2|149.19.224.31|3128|United States|Sterling|SPRINT|
+|3|207.154.206.91|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|4|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|213.6.227.38|45730|Palestine|Hebron|Palestine Telecommunications Company|
+|6|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|7|179.184.224.91|3128|Brazil|Salvador|TELEFÔNICA BRASIL S.A|
+|8|170.79.12.72|9090|Brazil|Teresina|I T Tecnologia e InformaÔÔo Ltda|
+|9|181.224.207.21|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|10|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|11|124.226.194.135|808|China|Lilancun|Chinanet|
+|12|177.53.153.171|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|13|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|14|120.26.14.114|8888|China|Hangzhou|Addresses CNNIC|
+|15|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|16|54.39.102.233|3128|Canada|Beauharnois|OVH SAS|
+|17|111.225.153.56|8089|China|Beijing|Chinanet|
+|18|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|19|170.239.222.89|8080|Brazil|Alvinopolis|Companhia Itabirana TelecomunicaÔÔes Ltda|
+|20|192.158.15.201|60684|Canada|Mississauga|Ontario Inc.|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3729** proxies at the latest update. Usable proxies are below.
+> Scraper found **3717** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|53|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|53|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|53|
 
 ## Sources
 
@@ -35,7 +35,7 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|446|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|61|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|49|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1939|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.42.177.51|3128|United States|Ashburn|PeaceWeb|
-|2|159.197.250.167|3128|United States|Mount Prospect|Sprint|
-|3|45.42.177.51|3128|United States|Ashburn|PeaceWeb|
-|4|47.252.3.228|27003|United States|Charlottesville|Alibaba.com LLC|
-|5|207.154.206.91|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|6|47.252.3.228|27003|United States|Charlottesville|Alibaba.com LLC|
-|7|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|8|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
-|9|159.197.250.134|3128|United States|Mount Prospect|Sprint|
-|10|159.197.250.167|3128|United States|Mount Prospect|Sprint|
-|11|37.120.192.154|8080|Netherlands|Amsterdam|M247 Ltd|
-|12|159.197.250.134|3128|United States|Mount Prospect|Sprint|
-|13|144.126.134.140|8118|United States|St Louis|Contabo Inc.|
-|14|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|15|183.89.94.188|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|16|103.6.52.35|3128|Indonesia|Sampora|ARDH|
-|17|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
-|18|45.226.28.1|999|Argentina|Presidencia Roque Sáenz Peña|Getcom SAS|
-|19|190.90.154.36|999|Colombia|Pasto|Internexa S.a. E.S.P|
-|20|176.56.107.223|52210|Spain|Elche|Aire Networks|
+|1|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
+|2|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|3|182.253.175.23|8080|Indonesia|Jakarta|Biznet Metronet|
+|4|190.160.181.220|8118|Chile|Valdivia|VTR BANDA ANCHA S.A.|
+|5|110.77.180.39|8080|Thailand|Ban Pho|CAT-BB|
+|6|207.154.206.91|3128|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
+|8|202.164.152.229|8080|India|Kochi|Asianet Satellite Communications Pvt Ltd|
+|9|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|10|177.53.153.168|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|11|79.142.95.90|55443|Kazakhstan|Nur-Sultan|Obit Telecommunications|
+|12|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|13|181.118.158.131|999|Colombia|Paipa|Media Commerce Partners S.A|
+|14|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|15|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
+|16|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
+|17|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|18|91.214.31.234|8080|Ukraine|Zaporizhzhya|TOV "Telza"|
+|19|177.53.153.168|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|20|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3728** proxies at the latest update. Usable proxies are below.
+> Scraper found **3708** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|68|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|68|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|68|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|49|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|49|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|49|
 
 ## Sources
 
@@ -35,34 +35,34 @@ Click the file format that you want and copy the URL.
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
 |[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|446|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|56|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1943|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|30|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1949|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|37.233.102.184|3128|Poland|Warsaw|Techstorage sp. z o.o.|
-|2|37.233.102.189|3128|Poland|Warsaw|Techstorage sp. z o.o.|
-|3|182.253.174.156|8080|Indonesia|Jakarta|Biznet Metronet|
-|4|183.89.94.188|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|5|45.80.148.190|23456|Netherlands|Amsterdam|Hostgw SRL|
-|6|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
-|7|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|8|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|9|91.144.140.125|8080|Russia|Kazan’|CJSC "ER-Telecom Holding" Kazan' branch|
-|10|123.56.175.31|3128|China|Beijing|Hangzhou Alibaba Advertising Co|
-|11|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|12|181.224.207.18|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|13|161.22.34.98|999|Venezuela|Caracas|MDS TELECOM C.A.|
-|14|110.164.59.98|8080|Thailand|Pak Kret|Triple T Internet Company Limited|
-|15|185.103.181.43|8080|Spain|Lleida|Vola los del Internet S.L.|
-|16|1.13.21.26|33080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|17|212.64.72.199|8080|China|Haidian|Shenzhen Tencent Computer Systems Company Limited|
-|18|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|19|112.215.178.14|9812|Indonesia|Jakarta|XL-AXIATA Tbk GSM|
-|20|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
+|1|45.226.28.1|999|Argentina|Presidencia Roque Sáenz Peña|Getcom SAS|
+|2|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|3|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|4|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|5|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|6|167.172.178.193|39593|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|7|181.224.207.18|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
+|8|167.172.178.193|39593|Germany|Frankfurt am Main|DigitalOcean, LLC|
+|9|202.56.163.110|8080|Indonesia|Tangerang|Varnion Technology Semesta|
+|10|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|11|80.106.247.145|53410|Greece|Peristeri|Ote SA (Hellenic Telecommunications Organisation)|
+|12|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|201.71.2.107|999|Venezuela|Caracas|Inversiones Rdn3 C.A|
+|14|152.231.29.47|8080|Colombia|Sibundoy|Colombiatel Telecomunicaciones|
+|15|177.53.153.168|999|Peru|Lima|Moreno Yanoc Nemias Bernardo|
+|16|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
+|17|171.103.58.122|8080|Thailand|Bangkok|True Internet Co., Ltd.|
+|18|140.227.61.156|23456|Japan|Chiyoda|NTT PC Communications, Inc.|
+|19|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|20|183.88.219.206|41564|Thailand|Samut Prakan|Triple T Broadband Public Company Limited|
 
 
 

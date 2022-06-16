@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3755** proxies at the latest update. Usable proxies are below.
+> Scraper found **3720** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|223|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|223|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|223|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|218|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|218|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|218|
 
 ## Sources
 
@@ -31,12 +31,12 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|81|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|310|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|383|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|143|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1938|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|126|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1928|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -47,22 +47,22 @@ Click the file format that you want and copy the URL.
 |2|34.145.226.144|8080|United States|Washington|Google LLC|
 |3|170.39.118.187|3128|United States|Ashburn|Rackdog, LLC|
 |4|34.145.226.144|8080|United States|Washington|Google LLC|
-|5|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
-|6|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|7|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
-|8|66.94.97.238|443|United States|New York|Contabo Inc.|
-|9|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
-|10|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|11|194.233.73.103|443|Singapore|Singapore|Contabo Asia Private Limited|
-|12|91.192.24.177|41890|Italy|San Giovanni Valdarno|T&T Tecnologie e Telecomunicazioni Srl|
-|13|88.255.102.116|8080|Turkey|İskenderun|TurkTelekom|
-|14|187.193.60.137|8080|Mexico|Irapuato|Uninet S.A. de C.V.|
-|15|65.21.206.151|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|183.111.25.253|80|South Korea|Seongnam-si|Korea Telecom|
-|17|178.128.121.57|3128|Singapore|Singapore|DigitalOcean, LLC|
-|18|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
-|19|182.23.35.242|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
-|20|201.222.40.123|8080|Colombia|Santa Marta|Megaport (Bulgaria) EAD|
+|5|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|103.180.164.14|3128|Indonesia|Banjarmasin|CV. NATANETWORK SOLUTION|
+|7|67.212.83.53|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
+|8|176.57.188.32|443|Germany|Düsseldorf|Contabo GmbH|
+|9|46.246.12.3|8888|Sweden|Stockholm|Portlane Network|
+|10|194.233.73.108|443|Singapore|Singapore|Contabo Asia Private Limited|
+|11|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
+|12|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|13|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|14|66.94.116.111|3128|United States|New York|Contabo Inc.|
+|15|170.39.118.187|3128|United States|Ashburn|Rackdog, LLC|
+|16|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|17|161.97.129.98|3128|Germany|Düsseldorf|Contabo GmbH|
+|18|45.70.236.123|999|Ecuador|Palestina|Nedetel S.A.|
+|19|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|20|193.168.227.203|3128|Russia|Moscow|Network Management Ltd|
 
 
 

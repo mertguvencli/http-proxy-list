@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4685** proxies at the latest update. Usable proxies are below.
+> Scraper found **4373** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|637|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|637|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|637|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|753|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|753|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|753|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|847|✅|
+|[proxyscan.io](https://www.proxyscan.io)|98|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|763|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|370|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2185|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|392|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2137|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|34.145.226.144|8080|United States|Washington|Google LLC|
-|3|170.39.118.187|3128|United States|Ashburn|Rackdog, LLC|
-|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|5|34.145.226.144|8080|United States|Washington|Google LLC|
-|6|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|7|207.148.118.14|3128|Singapore|Singapore|The Constant Company|
-|8|170.39.118.187|3128|United States|Ashburn|Rackdog, LLC|
-|9|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|10|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|119.76.142.167|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|12|194.233.73.104|443|Singapore|Singapore|Contabo Asia Private Limited|
-|13|103.11.106.3|8181|Indonesia|Madiun|PT. Pascal Indonesia|
-|14|159.223.51.74|8080|Singapore|Singapore|DigitalOcean, LLC|
-|15|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|16|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|17|200.110.168.159|8080|Colombia|Trujillo|Media Commerce Partners S.A|
-|18|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|19|191.242.230.135|8080|Brazil|Farroupilha|Domi Informatica|
-|20|103.78.36.163|46977|Indonesia|Jakarta|MORATELINDO|
+|1|170.39.118.187|3128|United States|Ashburn|Rackdog, LLC|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|34.145.226.144|8080|United States|Washington|Google LLC|
+|4|66.196.238.178|3128|United States|Houston|Logix|
+|5|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|6|170.39.118.187|3128|United States|Ashburn|Rackdog, LLC|
+|7|152.231.29.51|8080|Colombia|Sibundoy|Colombiatel Telecomunicaciones|
+|8|34.145.226.144|8080|United States|Washington|Google LLC|
+|9|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|10|207.148.118.14|3128|Singapore|Singapore|The Constant Company|
+|11|186.5.5.125|8080|Ecuador|Guayaquil|Telconet S.A|
+|12|200.125.223.142|9812|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|13|165.154.233.46|8080|Philippines|Manila|Scloud Pte Ltd|
+|14|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|15|190.110.214.38|9812|Ecuador|Guayaquil|Puntonet S.A.|
+|16|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|17|62.183.81.38|8080|Russia|Kenzhe|Kabardian-Balkar Telecommunications Company|
+|18|202.141.233.66|8080|Pakistan|Karachi|Multinet Broadband|
+|19|188.75.64.38|3128|Iran|Tehran|Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS|
+|20|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4477** proxies at the latest update. Usable proxies are below.
+> Scraper found **4151** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|578|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|578|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|578|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|454|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|454|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|454|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|573|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|609|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|360|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|298|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2161|✅|
 
 
@@ -46,23 +46,23 @@ Click the file format that you want and copy the URL.
 |1|170.39.118.187|3128|United States|Ashburn|Rackdog, LLC|
 |2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
 |3|34.145.226.144|8080|United States|Washington|Google LLC|
-|4|170.39.118.187|3128|United States|Ashburn|Rackdog, LLC|
-|5|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|6|5.189.140.161|3128|Germany|Nuremberg|Contabo GmbH|
-|7|34.145.226.144|8080|United States|Washington|Google LLC|
-|8|165.154.233.46|8080|Philippines|Manila|Scloud Pte Ltd|
-|9|163.44.197.179|8080|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
-|10|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|11|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
-|12|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|13|194.233.77.110|1111|Singapore|Singapore|Contabo Asia Private Limited|
-|14|143.208.57.58|8080|Guatemala|Guatemala City|Comunicaciones Metropolitanas Cablecolor|
-|15|200.110.168.159|8080|Colombia|Trujillo|Media Commerce Partners S.A|
-|16|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
-|17|131.161.53.38|1994|Honduras|San Pedro Sula|INET Communication|
-|18|183.89.117.211|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|19|222.253.48.253|8080|Vietnam|Ho Chi Minh City|VietNam Post and Telecom Corporation|
-|20|41.205.24.231|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|4|35.170.197.3|8888|United States|Ashburn|Amazon.com, Inc.|
+|5|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|6|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
+|7|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|8|170.39.118.187|3128|United States|Ashburn|Rackdog, LLC|
+|9|66.196.238.178|3128|United States|Houston|Logix|
+|10|200.110.168.159|8080|Colombia|Trujillo|Media Commerce Partners S.A|
+|11|35.170.197.3|8888|United States|Ashburn|Amazon.com, Inc.|
+|12|34.145.226.144|8080|United States|Washington|Google LLC|
+|13|95.217.72.253|3128|Finland|Helsinki|Hetzner Online GmbH|
+|14|173.212.245.135|3128|Germany|Nuremberg|Contabo GmbH|
+|15|207.148.118.14|3128|Singapore|Singapore|The Constant Company|
+|16|161.97.129.98|3128|Germany|Düsseldorf|Contabo GmbH|
+|17|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|18|165.154.233.46|8080|Philippines|Manila|Scloud Pte Ltd|
+|19|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|20|194.233.77.110|1111|Singapore|Singapore|Contabo Asia Private Limited|
 
 
 

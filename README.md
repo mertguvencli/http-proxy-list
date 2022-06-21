@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3923** proxies at the latest update. Usable proxies are below.
+> Scraper found **4044** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|210|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|210|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|210|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|339|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|339|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|339|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|359|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|390|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|99|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|189|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2082|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|110.77.171.34|8080|Thailand|Hat Yai|CAT-BB|
-|3|45.71.115.203|999|Ecuador|Guayaquil|Nedetel S.A.|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|186.202.57.95|8888|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
 |4|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|5|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|6|67.212.83.55|1080|Canada|Saint-Hyacinthe|eStruxture Data Centers Inc.|
-|7|152.32.218.99|8000|Singapore|Singapore|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|8|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
-|9|183.111.25.253|80|South Korea|Seongnam-si|Korea Telecom|
-|10|186.97.182.3|999|Colombia|Medellín|Colombia Móvil|
-|11|35.170.197.3|8888|United States|Ashburn|Amazon.com, Inc.|
-|12|95.217.72.253|3128|Finland|Helsinki|Hetzner Online GmbH|
-|13|95.217.72.247|3128|Finland|Helsinki|Hetzner Online GmbH|
-|14|183.111.25.253|80|South Korea|Seongnam-si|Korea Telecom|
-|15|66.94.116.111|3128|United States|New York|Contabo Inc.|
-|16|65.21.206.151|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|62.171.161.88|2018|Germany|Nuremberg|Contabo GmbH|
-|18|66.94.116.111|3128|United States|New York|Contabo Inc.|
-|19|95.217.72.247|3128|Finland|Helsinki|Hetzner Online GmbH|
-|20|161.97.129.98|3128|Germany|Düsseldorf|Contabo GmbH|
+|5|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
+|6|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|7|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|8|194.233.69.41|443|Singapore|Singapore|Contabo Asia Private Limited|
+|9|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
+|10|45.71.115.203|999|Ecuador|Guayaquil|Nedetel S.A.|
+|11|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|12|157.100.12.138|999|Ecuador|Quito|Telconet S.A|
+|13|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
+|14|152.32.218.99|8000|Singapore|Singapore|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|15|189.4.184.34|8080|Brazil|Caraguatatuba|Claro S.A.|
+|16|96.27.152.115|8080|United States|Evansville|WideOpenWest Finance LLC|
+|17|59.15.28.112|3128|South Korea|Gangseo-gu|Korea Telecom|
+|18|103.111.82.82|9812|Indonesia|Wagir|ICONPLN|
+|19|95.167.29.50|8080|Russia|St Petersburg|PJSC Rostelecom|
+|20|94.127.219.99|8080|Russia|Moscow|ISP-company COMPLAT|
 
 
 

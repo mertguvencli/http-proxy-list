@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|340|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|340|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|340|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|317|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|317|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|317|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|580|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|456|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|144|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|268|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2057|✅|
 
 
@@ -45,24 +45,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
 |2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|140.83.38.252|8080|Japan|Tokyo|Oracle Corporation|
-|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|5|181.49.100.190|8080|Colombia|Pitalito|Telmex Colombia S.A.|
-|6|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|7|183.88.21.131|8080|Thailand|Chiang Rai|Triple T Broadband Public Company Limited|
-|8|175.144.48.229|9812|Malaysia|Kuantan|Tmnet, Telekom Malaysia Bhd.|
-|9|77.46.138.233|8080|Serbia|Presevo|TELEKOM-SRBIJA|
-|10|200.81.187.18|9812|Argentina|El Jagueel|Sion S.A|
-|11|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|12|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|13|140.227.127.205|80|Japan|Chiyoda|NTT PC Communications, Inc.|
-|14|200.110.168.159|8080|Colombia|Trujillo|Media Commerce Partners S.A|
-|15|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|16|103.126.87.86|3127|Indonesia|Klaten|BINTANGPERKASAORION|
-|17|194.233.73.105|443|Singapore|Singapore|Contabo Asia Private Limited|
-|18|95.217.72.247|3128|Finland|Helsinki|Hetzner Online GmbH|
-|19|183.111.25.253|8080|South Korea|Seongnam-si|Korea Telecom|
-|20|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
+|3|143.198.242.86|8048|United Kingdom|London|DigitalOcean, LLC|
+|4|206.189.23.38|8048|United Kingdom|London|DigitalOcean, LLC|
+|5|64.138.255.146|80|United States|Conway|Horry Telephone Cooperative, Inc.|
+|6|64.138.255.146|80|United States|Conway|Horry Telephone Cooperative, Inc.|
+|7|158.69.64.142|9300|Canada|Montreal|OVH SAS|
+|8|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|9|45.7.64.248|999|Mexico|Huasca de Ocampo|Maysnet SA De CV|
+|10|182.253.235.85|8080|Indonesia|Jakarta|BIZNET|
+|11|180.94.69.66|8080|Afghanistan|Herat|Government Communications Network|
+|12|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|13|103.4.94.12|3128|Pakistan|Kamoke|HEC|
+|14|183.88.21.131|8080|Thailand|Chiang Rai|Triple T Broadband Public Company Limited|
+|15|45.65.236.177|10101|Brazil|Macaubal|Jefferson Mantovani ltda me|
+|16|190.109.205.253|999|Honduras|Tegucigalpa|Metrored S.a. De C.V.|
+|17|112.109.20.106|6060|Indonesia|South Tangerang|DATAUTAMANET|
+|18|195.250.92.58|8080|Armenia|Dsegh|GNC-Alfa CJSC|
+|19|188.133.136.57|1256|Russia|Moscow|Enforta-MSK|
+|20|181.113.135.254|52058|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
 
 
 

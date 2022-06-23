@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4003** proxies at the latest update. Usable proxies are below.
+> Scraper found **3976** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|242|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|242|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|242|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|252|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|252|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|252|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|80|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|384|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|373|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|167|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2089|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|198|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2122|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|45.131.251.234|3129|United States|Los Angeles|DediPath|
+|1|216.37.138.177|3128|United States|Pittsburgh|Frontier Communications of America|
+|2|66.196.238.180|3128|United States|Houston|Logix|
 |3|81.4.102.223|8081|Netherlands|Amsterdam|WeservIT|
-|4|179.97.51.242|80|Brazil|Sao Goncalo|Vipnet Baixada Telecom. e InformÔtica Ltda|
-|5|206.189.23.38|8048|United Kingdom|London|DigitalOcean, LLC|
+|4|81.4.102.233|8081|Netherlands|Amsterdam|WeservIT|
+|5|80.85.86.240|1235|United Kingdom|London|Linode, LLC|
 |6|45.131.251.234|3129|United States|Los Angeles|DediPath|
-|7|203.150.113.248|8080|Thailand|Watthana|Internet Thailand Company Ltd.|
-|8|101.109.24.105|8080|Thailand|Chon Buri|TOT Public Company Limited|
-|9|200.110.168.159|8080|Colombia|Trujillo|Media Commerce Partners S.A|
-|10|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|11|186.248.89.6|5005|Brazil|Belo Horizonte|Cemig Telecomunicações SA|
-|12|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|13|190.109.11.44|6969|Colombia|Santiago de Cali|Lazus Medellin|
-|14|177.22.36.92|3130|Brazil|Fortaleza|Conecta Tecnologia LTDA|
-|15|66.94.97.238|443|United States|New York|Contabo Inc.|
-|16|85.105.139.53|8090|Turkey|Cankaya|TurkTelecom|
-|17|85.15.152.39|3128|Russia|Tyumen|Rostelecom networks|
-|18|181.209.77.130|8080|Argentina|Paraná|ARSAT - Empresa Argentina de Soluciones Satelitales S.A|
-|19|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
-|20|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|8|183.111.25.253|80|South Korea|Seongnam-si|Korea Telecom|
+|9|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
+|10|181.129.243.100|999|Colombia|Santiago de Cali|EPM Telecomunicaciones S.A. E.S.P.|
+|11|200.110.168.159|8080|Colombia|Trujillo|Media Commerce Partners S.A|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|220.132.0.156|8787|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|14|176.62.188.10|8123|Russia|Moscow|OOO Istranet|
+|15|37.29.74.117|8080|Russia|Kuznechikha|MegaFon|
+|16|216.37.138.177|3128|United States|Pittsburgh|Frontier Communications of America|
+|17|179.97.51.242|80|Brazil|Sao Goncalo|Vipnet Baixada Telecom. e InformÔtica Ltda|
+|18|103.211.219.58|3128|India|Mumbai|PDRO1|
+|19|147.75.113.231|8080|Colombia|Quibdó|TV AZTECA SUCURSAL COLOMBIA|
+|20|212.112.127.20|8080|Kyrgyzstan|Bishkek|AKNET Ltd.|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3626** proxies at the latest update. Usable proxies are below.
+> Scraper found **3756** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|240|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|240|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|240|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|283|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|283|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|283|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|423|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|389|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|160|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2060|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|171|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2113|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
-|2|177.104.127.122|3130|Brazil|Eusebio|Mob Servicos de Telecomunicacoes Ltda|
-|3|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|4|136.226.32.241|443|United States|Chicago|ZSCALER, INC.|
-|5|136.226.32.241|443|United States|Chicago|ZSCALER, INC.|
-|6|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|7|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|8|200.116.198.177|35184|Colombia|Manizales|EPM Telecomunicaciones S.A. E.S.P|
-|9|5.189.184.6|80|Germany|Nuremberg|Contabo GmbH|
-|10|24.106.221.230|53281|United States|Pine Knoll Shores|Spectrum|
-|11|43.133.200.35|59394|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
-|12|5.58.110.249|8080|Ukraine|Ternopil|Columbus|
-|13|180.94.69.66|8080|Afghanistan|Herat|Government Communications Network|
-|14|202.44.208.178|8080|Thailand|Chiang Mai|Internet Thailand Company Ltd.|
-|15|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|16|41.60.238.179|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|17|41.222.209.12|808|Nigeria|Abuja|Galaxy Backbone PLC|
-|18|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|19|41.222.209.9|808|Nigeria|Abuja|Galaxy Backbone PLC|
-|20|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|1|136.226.32.241|443|United States|Chicago|ZSCALER, INC.|
+|2|136.226.32.241|443|United States|Chicago|ZSCALER, INC.|
+|3|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|4|45.131.251.224|3129|United States|Los Angeles|DediPath|
+|5|45.131.251.250|3129|United States|Los Angeles|DediPath|
+|6|93.84.65.72|3128|Belarus|Gomel|Republican Unitary Telecommunication Enterprise Beltelecom|
+|7|195.189.123.213|3128|Russia|Moscow|Iptp LTD|
+|8|189.164.118.26|3128|Mexico|Coronango|Uninet S.A. de C.V|
+|9|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|10|200.24.207.196|8080|Ecuador|Guayaquil|Otecel S.A.|
+|11|108.187.44.171|3129|United States|Los Angeles|Leaseweb USA, Inc.|
+|12|45.131.251.245|3129|United States|Los Angeles|DediPath|
+|13|45.131.251.211|3129|United States|Los Angeles|DediPath|
+|14|121.151.223.96|1337|South Korea|Suseong-gu|Korea Telecom|
+|15|103.55.38.247|3128|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
+|16|103.31.251.97|9191|Indonesia|Jakarta|ARGON|
+|17|43.133.200.35|59394|Japan|Tokyo|Shenzhen Tencent Computer Systems Company Limited|
+|18|170.0.54.239|8080|Brazil|Bacabal|Telecom Scae Ltda|
+|19|202.44.208.178|8080|Thailand|Chiang Mai|Internet Thailand Company Ltd.|
+|20|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
 
 
 

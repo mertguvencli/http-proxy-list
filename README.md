@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4032** proxies at the latest update. Usable proxies are below.
+> Scraper found **4123** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|282|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|282|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|282|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|434|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|513|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|193|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2022|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|151|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2076|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|1|216.74.246.194|3129|United States|Houston|Logix|
 |2|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|4|216.74.246.194|3129|United States|Houston|Logix|
-|5|66.196.238.178|3128|United States|Houston|Logix|
-|6|216.74.246.194|3129|United States|Houston|Logix|
-|7|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|8|144.76.241.45|7890|Germany|Falkenstein|Hetzner Online GmbH|
-|9|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|10|201.120.27.15|53281|Mexico|Guaymas|Uninet S.A. de C.V|
-|11|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|13|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|14|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|15|118.99.73.160|8080|Indonesia|Jakarta|BIZNET|
-|16|176.36.20.67|61935|Ukraine|Kyiv|Lanet Network|
-|17|80.90.141.31|8080|Czechia|Boretice|Oxid - III|
-|18|91.236.156.30|8282|Ukraine|Yares'ki|Limited Liability Company AVATOR ISP|
-|19|202.50.53.107|8080|Nepal|Kathmandu|NetMax Technologies Pvt. Ltd.|
-|20|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
+|3|50.17.76.20|3128|United States|Ashburn|Amazon.com|
+|4|50.17.41.16|8080|United States|Ashburn|Amazon.com|
+|5|34.220.50.208|3128|United States|Portland|Amazon.com, Inc.|
+|6|54.234.116.166|3128|United States|Ashburn|Amazon.com, Inc.|
+|7|216.74.246.194|3129|United States|Houston|Logix|
+|8|50.17.41.16|8080|United States|Ashburn|Amazon.com|
+|9|54.234.116.166|3128|United States|Ashburn|Amazon.com, Inc.|
+|10|50.17.76.20|3128|United States|Ashburn|Amazon.com|
+|11|34.220.50.208|3128|United States|Portland|Amazon.com, Inc.|
+|12|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
+|13|3.127.33.188|3128|Germany|Frankfurt am Main|Amazon Technologies Inc.|
+|14|162.55.166.114|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|168.119.58.120|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|16|213.136.72.147|3128|Germany|Nuremberg|Contabo GmbH|
+|17|65.108.55.63|3128|Finland|Helsinki|Hetzner Online GmbH|
+|18|185.76.9.123|3128|Sweden|Stockholm|DataCamp Limited|
+|19|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|20|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
 
 
 

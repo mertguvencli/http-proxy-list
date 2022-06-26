@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3641** proxies at the latest update. Usable proxies are below.
+> Scraper found **3665** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|156|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|156|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|156|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|235|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|320|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|150|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|89|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1873|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|136.226.32.241|443|United States|Chicago|ZSCALER, INC.|
-|2|136.226.32.233|443|United States|Chicago|ZSCALER, INC.|
-|3|136.226.33.106|443|United States|Chicago|ZSCALER, INC.|
-|4|136.226.33.104|80|United States|Chicago|ZSCALER, INC.|
-|5|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|6|136.226.32.239|80|United States|Chicago|ZSCALER, INC.|
-|7|136.226.32.232|80|United States|Chicago|ZSCALER, INC.|
-|8|136.226.33.108|80|United States|Chicago|ZSCALER, INC.|
-|9|136.226.32.235|80|United States|Chicago|ZSCALER, INC.|
-|10|136.226.32.237|80|United States|Chicago|ZSCALER, INC.|
-|11|136.226.32.234|80|United States|Chicago|ZSCALER, INC.|
-|12|136.226.32.241|443|United States|Chicago|ZSCALER, INC.|
-|13|136.226.33.106|443|United States|Chicago|ZSCALER, INC.|
-|14|38.108.119.43|59394|United States|New York|Cogent Communications|
-|15|185.221.134.234|3129|United States|Los Angeles|DediPath|
-|16|136.226.32.233|443|United States|Chicago|ZSCALER, INC.|
-|17|136.226.32.237|80|United States|Chicago|ZSCALER, INC.|
-|18|136.226.33.104|80|United States|Chicago|ZSCALER, INC.|
+|2|35.234.248.49|3128|Canada|Montreal|Google LLC|
+|3|38.108.119.43|59394|United States|New York|Cogent Communications|
+|4|185.221.134.234|3129|United States|Los Angeles|DediPath|
+|5|162.215.22.187|59394|United States|Provo|Unified Layer|
+|6|162.215.22.229|59394|United States|Provo|Unified Layer|
+|7|136.226.32.241|443|United States|Chicago|ZSCALER, INC.|
+|8|176.9.220.108|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|9|38.108.119.43|59394|United States|New York|Cogent Communications|
+|10|162.215.22.190|59394|United States|Provo|Unified Layer|
+|11|185.221.134.234|3129|United States|Los Angeles|DediPath|
+|12|108.187.44.89|3129|United States|Los Angeles|Leaseweb USA, Inc.|
+|13|144.76.241.45|7890|Germany|Falkenstein|Hetzner Online GmbH|
+|14|148.251.45.123|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|15|149.28.161.173|80|Australia|Sydney|The Constant Company|
+|16|162.215.22.132|59394|United States|Provo|Unified Layer|
+|17|143.244.133.78|80|India|Bengaluru|DigitalOcean, LLC|
+|18|136.226.33.108|80|United States|Chicago|ZSCALER, INC.|
 |19|136.226.33.108|80|United States|Chicago|ZSCALER, INC.|
-|20|136.226.32.234|80|United States|Chicago|ZSCALER, INC.|
+|20|136.226.32.235|80|United States|Chicago|ZSCALER, INC.|
 
 
 

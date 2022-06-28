@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3899** proxies at the latest update. Usable proxies are below.
+> Scraper found **3794** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|274|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|274|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|274|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|213|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|213|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|213|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|412|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|347|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|164|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|124|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2040|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|35.234.248.49|3128|Canada|Montreal|Google LLC|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|4|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
-|5|38.108.119.176|59394|United States|New York|Cogent Communications|
-|6|66.196.238.179|3128|United States|Houston|Logix|
-|7|210.179.58.236|80|South Korea|Goyang-si|Korea Telecom|
-|8|104.131.109.98|3128|United States|Clifton|DigitalOcean, LLC|
-|9|103.55.38.247|3128|Indonesia|Cicurug|PT Cloud Hosting Indonesia|
-|10|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|11|38.108.119.176|59394|United States|New York|Cogent Communications|
-|12|178.124.189.174|3128|Belarus|Borisov|Republican Unitary Telecommunication Enterprise Beltelecom|
-|13|193.5.149.18|8080|Iraq|Al Maḩmūdīyah|Net Max for communication Services and General Trading Co. LTD|
-|14|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|15|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|16|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|17|217.153.211.98|8080|Poland|Warsaw|T-Mobile PL ICT|
-|18|125.26.153.78|8080|Thailand|Don Chedi|TOT Public Company Limited|
-|19|143.198.182.218|80|United States|North Bergen|DigitalOcean, LLC|
-|20|216.37.138.177|3128|United States|Pittsburgh|Frontier Communications of America|
+|2|66.196.238.179|3128|United States|Houston|Logix|
+|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|5|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|6|185.76.9.123|3128|Sweden|Stockholm|DataCamp Limited|
+|7|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|8|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|9|170.178.214.106|59394|United States|Santa Clarita|Multacom Corporation|
+|10|200.137.134.131|3128|Brazil|São Luís|Rede Nacional de Ensino e Pesquisa|
+|11|93.63.78.7|3128|Italy|Milan|Fastweb SpA|
+|12|154.13.5.42|59394|United States|San Jose|Zhihua Lu trading as HostHub|
+|13|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
+|14|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
+|15|116.90.229.186|35561|Nepal|Kathmandu|Websurfer Nepal Communication System Pvt. Ltd|
+|16|151.237.40.65|8080|Bulgaria|Kazanlak|Nastech OOD|
+|17|207.180.217.107|3128|Germany|Nuremberg|Contabo GmbH|
+|18|154.13.5.41|59394|United States|San Jose|Zhihua Lu trading as HostHub|
+|19|80.252.5.34|7001|Poland|Warsaw|GWNET Autonomus System|
+|20|181.205.116.218|9812|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
 
 
 

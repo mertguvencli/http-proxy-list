@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3691** proxies at the latest update. Usable proxies are below.
+> Scraper found **3673** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|234|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|225|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|152|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1922|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|111|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1954|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
-|3|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|4|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|5|203.150.128.8|8080|Thailand|Watthana|Internet Thailand Company Ltd|
-|6|212.23.217.66|8080|Iraq|Baghdad|Optimum Line for Internet Services Ltd.|
-|7|157.100.53.106|999|Ecuador|Machala|Nedetel S.A.|
-|8|125.25.32.179|8080|Thailand|San Sai|TOT Public Company Limited|
-|9|8.242.207.202|8080|Chile|Santiago|Level 3 Communications, Inc.|
-|10|103.68.62.11|80|Hong Kong|Wanchai|Layerstack Services Limited|
-|11|185.221.134.234|3129|United States|Los Angeles|DediPath|
-|12|14.207.206.27|8080|Thailand|Kantharawichai|Triple T Broadband Public Company Limited|
-|13|143.198.182.218|80|United States|North Bergen|DigitalOcean, LLC|
-|14|154.13.5.42|59394|United States|San Jose|Zhihua Lu trading as HostHub|
-|15|116.253.208.239|33080|China|Guangxi|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
-|16|104.131.109.98|3128|United States|Clifton|DigitalOcean, LLC|
-|17|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|18|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|19|69.160.192.139|8080|United States|Francesville|Intelligent Fiber Network|
-|20|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|1|198.211.28.18|59394|United States|Santa Clarita|Multacom Corporation|
+|2|173.82.84.167|59394|United States|Santa Clarita|Multacom Corporation|
+|3|162.215.22.108|59394|United States|Provo|Unified Layer|
+|4|185.221.134.234|3129|United States|Los Angeles|DediPath|
+|5|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|6|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|7|51.158.59.249|3128|France|Paris|SCALEWAY|
+|8|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|9|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|10|131.161.44.146|8083|Brazil|Brasília|Teranet comunicacoes multimidia ltda|
+|11|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|12|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|13|198.211.28.19|59394|United States|Santa Clarita|Multacom Corporation|
+|14|45.64.99.235|8080|Indonesia|Jakarta|ARGON|
+|15|103.68.62.11|80|Hong Kong|Wanchai|Layerstack Services Limited|
+|16|200.146.77.133|80|Brazil|Curitiba|Vivo|
+|17|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|18|212.23.217.66|8080|Iraq|Baghdad|Optimum Line for Internet Services Ltd.|
+|19|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|20|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
 
 
 

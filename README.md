@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3880** proxies at the latest update. Usable proxies are below.
+> Scraper found **3375** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,52 +17,52 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|234|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|234|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|234|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
 |Source|Found Proxies|Succeed|
 |------|-------------|-------|
 |[free-proxy-list.net](https://free-proxy-list.net)|300|✅|
-|[us-proxy.org](https://www.us-proxy.org)|200|✅|
+|[us-proxy.org](https://www.us-proxy.org)|0|🚫|
 |[proxydb.net](http://proxydb.net)|15|✅|
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|359|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|241|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|158|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2080|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|89|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1962|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|35.234.248.49|3128|Canada|Montreal|Google LLC|
-|2|209.182.235.252|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|3|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|4|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
-|5|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
-|6|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|7|119.17.232.29|8080|Vietnam|Hanoi|Netnam Corporation|
-|8|209.182.235.252|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|9|93.63.78.7|3128|Italy|Milan|Fastweb SpA|
-|10|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|11|68.183.235.131|8080|Singapore|Singapore|DigitalOcean, LLC|
-|12|173.212.229.53|3128|Germany|Nuremberg|Contabo GmbH|
-|13|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|14|185.221.134.234|3129|United States|Los Angeles|DediPath|
-|15|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|16|207.180.236.72|3128|Germany|Nuremberg|Contabo GmbH|
-|17|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|18|181.129.2.90|8081|Colombia|Caldas|EPM Telecomunicaciones S.A. E.S.P.|
-|19|184.82.15.83|8080|Thailand|Bangkok|AIS-Fibre|
-|20|88.208.34.131|18081|Netherlands|Amsterdam|DataWeb Global Group B.V.|
+|1|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|2|171.244.170.205|8080|Vietnam|Ho Chi Minh City|Viettel Corporation|
+|3|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|4|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|5|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|6|62.75.206.151|3128|France|Strasbourg|PlusServer GmbH|
+|7|34.215.30.215|3128|United States|Portland|Amazon.com, Inc.|
+|8|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|9|62.75.206.151|3128|France|Strasbourg|PlusServer GmbH|
+|10|35.234.248.49|3128|Canada|Montreal|Google LLC|
+|11|210.179.58.236|80|South Korea|Goyang-si|Korea Telecom|
+|12|34.215.30.215|3128|United States|Portland|Amazon.com, Inc.|
+|13|182.253.105.123|8080|Indonesia|Cirebon|Biznet Networks|
+|14|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|15|119.15.86.130|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
+|16|95.38.80.36|8050|Iran|Tehran|Fanava Group|
+|17|46.36.132.23|8080|Kazakhstan|Almaty|JSC Alma Telecommunications|
+|18|61.7.141.30|8080|Thailand|Khlong Luang|CAT-BB|
+|19|103.4.116.233|8080|Bangladesh|Dhaka|ADN Telecom Ltd.|
+|20|111.225.152.235|8089|China|Gaocheng|Chinanet|
 
 
 

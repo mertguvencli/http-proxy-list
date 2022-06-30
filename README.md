@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3617** proxies at the latest update. Usable proxies are below.
+> Scraper found **3691** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|174|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|174|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|174|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|193|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|193|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|193|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|273|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|336|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1904|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|124|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1948|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|23.226.117.66|8080|United States|Anaheim|ContentKeeper Technologies|
-|2|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|3|23.226.117.66|8080|United States|Anaheim|ContentKeeper Technologies|
-|4|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
-|5|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|6|5.58.110.249|8080|Ukraine|Ternopil|Columbus|
-|7|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|8|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
-|9|71.25.47.187|8080|United States|Baltimore|Comcast Cable Communications, LLC|
-|10|103.145.253.237|3128|Vietnam|Hanoi|Enterprise Sortware Company Limited|
-|11|200.110.168.159|8080|Colombia|Trujillo|Media Commerce Partners S.A|
-|12|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
-|13|185.221.134.234|3129|United States|Los Angeles|DediPath|
-|14|36.37.160.242|8080|Cambodia|Phnom Penh|VIETTEL (CAMBODIA) PTE.|
-|15|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|16|167.99.239.89|8888|United States|North Bergen|DigitalOcean, LLC|
-|17|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
-|18|3.144.110.240|3128|United States|Dublin|Amazon.com, Inc.|
-|19|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|20|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|4|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|5|185.221.134.234|3129|United States|Los Angeles|DediPath|
+|6|167.172.156.8|3128|United States|North Bergen|DigitalOcean, LLC|
+|7|110.138.4.19|8080|Indonesia|Rawa Buaya|PT. TELKOM INDONESIA|
+|8|154.13.5.41|59394|United States|San Jose|Zhihua Lu trading as HostHub|
+|9|181.78.18.25|999|Colombia|Barranquilla|IFX Networks Argentina S.R.L|
+|10|185.221.134.234|3129|United States|Los Angeles|DediPath|
+|11|38.108.119.176|59394|United States|New York|Cogent Communications|
+|12|189.203.10.116|999|Mexico|Mexico City|Total Play Telecomunicaciones SA De CV|
+|13|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|14|5.44.54.16|8080|Russia|Perm|JSC "ER-Telecom Holding"|
+|15|167.172.156.8|3128|United States|North Bergen|DigitalOcean, LLC|
+|16|176.57.188.32|443|Germany|Düsseldorf|Contabo GmbH|
+|17|209.182.235.252|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|18|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|19|104.131.109.98|3128|United States|Clifton|DigitalOcean, LLC|
+|20|207.180.199.65|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 

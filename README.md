@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3806** proxies at the latest update. Usable proxies are below.
+> Scraper found **3730** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|170|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|170|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|170|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxyscan.io](https://www.proxyscan.io)|87|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|291|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|294|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|123|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|57|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2009|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
-|2|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|3|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
-|4|5.58.110.249|8080|Ukraine|Ternopil|Columbus|
-|5|186.248.89.6|5005|Brazil|Belo Horizonte|Cemig Telecomunicações SA|
-|6|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|7|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|8|103.75.27.58|8087|Indonesia|Jakarta|PT. Mora Telematika Indonesia|
-|9|185.221.134.234|3129|United States|Los Angeles|DediPath|
-|10|85.195.104.71|80|Germany|Frankfurt am Main|Host Europe GmbH|
-|11|182.253.170.227|3128|Indonesia|Jakarta|BIZNET|
-|12|91.205.172.113|3120|Germany|Munich|Contabo GmbH|
-|13|41.205.24.250|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
-|14|171.5.132.153|8080|Thailand|Uthumphon Phisai|Triple T Broadband Public Company Limited|
-|15|66.94.120.161|443|United States|Seattle|Contabo Inc.|
-|16|154.13.5.41|59394|United States|San Jose|Zhihua Lu trading as HostHub|
-|17|202.148.28.243|8080|Indonesia|Jakarta|PT. Core Mediatech|
-|18|104.131.109.98|3128|United States|Clifton|DigitalOcean, LLC|
-|19|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|20|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|1|23.226.117.66|8080|United States|Anaheim|ContentKeeper Technologies|
+|2|23.226.117.66|8080|United States|Anaheim|ContentKeeper Technologies|
+|3|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|4|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
+|5|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|6|45.70.236.124|999|Ecuador|Puebloviejo|Nedetel S.A.|
+|7|46.188.53.7|8004|Russia|Moscow|2COM|
+|8|103.236.135.74|3128|Pakistan|Karachi|Eureka Net Pvt Ltd|
+|9|103.144.79.186|8080|Indonesia|Jakarta|PT. Indonesia Comnets Plus|
+|10|13.95.107.107|80|Netherlands|Amsterdam|Microsoft Corporation|
+|11|122.3.41.154|8090|Philippines|Mandaluyong City|Philippine Long Distance Telephone Co.|
+|12|185.221.134.234|3129|United States|Los Angeles|DediPath|
+|13|182.253.170.227|3128|Indonesia|Jakarta|BIZNET|
+|14|50.233.228.147|8080|United States|Woodstock|Comcast Cable Communications, LLC|
+|15|182.253.159.164|8080|Indonesia|Bandung|BIZNET|
+|16|181.49.217.254|8080|Colombia|La Montañita|Telmex Colombia S.A.|
+|17|41.180.68.195|8080|South Africa|Johannesburg|X-DSL Networking Solutions|
+|18|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|19|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
+|20|116.253.208.239|33080|China|Guangxi|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
 
 
 

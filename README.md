@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3708** proxies at the latest update. Usable proxies are below.
+> Scraper found **3814** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|173|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|173|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|173|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|238|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|238|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|238|
 
 ## Sources
 
@@ -33,10 +33,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|293|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|348|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|93|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1939|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|106|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1977|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -45,24 +45,24 @@ Click the file format that you want and copy the URL.
 |-|--|----|-------|----|-------------------------|
 |1|45.152.188.246|3128|United States|Ashburn|Sprint|
 |2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|5|45.152.188.246|3128|United States|Ashburn|Sprint|
-|6|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|7|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|8|144.217.240.185|9300|Canada|Beauharnois|OVH SAS|
-|9|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|10|154.13.5.41|59394|United States|San Jose|Zhihua Lu trading as HostHub|
-|11|117.241.128.80|9812|India|Jaipur|BSNL Internet|
-|12|80.252.5.34|7001|Poland|Warsaw|GWNET Autonomus System|
-|13|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|14|80.235.9.243|3128|Estonia|Viimsi|Telia Eesti AS|
-|15|171.97.16.98|8080|Thailand|Thanyaburi|True Internet Corporation CO. Ltd.|
-|16|13.95.107.107|80|Netherlands|Amsterdam|Microsoft Corporation|
-|17|185.69.153.28|3128|Ukraine|Kyiv|Hosting Ukraine LTD|
-|18|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|19|51.159.24.255|3128|France|Paris|SCALEWAY|
-|20|207.180.217.107|3128|Germany|Nuremberg|Contabo GmbH|
+|3|209.37.250.19|80|United States|Chicago|AT&T Services, Inc.|
+|4|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|5|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|6|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|7|209.37.250.19|80|United States|Chicago|AT&T Services, Inc.|
+|8|45.152.188.246|3128|United States|Ashburn|Sprint|
+|9|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
+|10|45.15.16.212|8118|Sweden|Stockholm|Obehosting AB|
+|11|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|12|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|13|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|14|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|15|45.70.236.124|999|Ecuador|Puebloviejo|Nedetel S.A.|
+|16|191.242.178.209|3128|Brazil|Lauro de Freitas|Conect Telecom|
+|17|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|18|59.124.224.205|3128|Taiwan|Bade District|Chunghwa Telecom Co., Ltd.|
+|19|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|20|170.178.214.108|59394|United States|Santa Clarita|Multacom Corporation|
 
 
 

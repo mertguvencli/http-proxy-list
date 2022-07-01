@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3814** proxies at the latest update. Usable proxies are below.
+> Scraper found **3754** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|217|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|217|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|217|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|348|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|383|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|106|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|111|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1977|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.152.188.246|3128|United States|Ashburn|Sprint|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|209.37.250.19|80|United States|Chicago|AT&T Services, Inc.|
-|4|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
-|5|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|6|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|7|209.37.250.19|80|United States|Chicago|AT&T Services, Inc.|
-|8|45.152.188.246|3128|United States|Ashburn|Sprint|
-|9|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
-|10|45.15.16.212|8118|Sweden|Stockholm|Obehosting AB|
-|11|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|12|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|13|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
-|14|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|15|45.70.236.124|999|Ecuador|Puebloviejo|Nedetel S.A.|
-|16|191.242.178.209|3128|Brazil|Lauro de Freitas|Conect Telecom|
-|17|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|18|59.124.224.205|3128|Taiwan|Bade District|Chunghwa Telecom Co., Ltd.|
-|19|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|20|170.178.214.108|59394|United States|Santa Clarita|Multacom Corporation|
+|2|51.161.61.51|9090|Canada|Montreal|OVH Hosting|
+|3|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|4|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|5|45.152.188.246|3128|United States|Ashburn|Sprint|
+|6|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|7|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|8|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|9|101.51.164.251|8080|Thailand|Bang Lamung|TOT Public Company Limited|
+|10|45.170.100.34|999|Chile|Buin|Fibernet SPA|
+|11|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|12|66.94.120.161|443|United States|Seattle|Contabo Inc.|
+|13|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|14|209.37.250.19|80|United States|Chicago|AT&T Services, Inc.|
+|15|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|16|35.86.85.128|3128|United States|Portland|Amazon.com, Inc.|
+|17|209.182.235.252|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|18|13.95.107.107|80|Netherlands|Amsterdam|Microsoft Corporation|
+|19|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
+|20|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
 
 
 

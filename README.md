@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3701** proxies at the latest update. Usable proxies are below.
+> Scraper found **3648** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|159|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|159|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|159|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|228|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|228|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|228|
 
 ## Sources
 
@@ -33,10 +33,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|298|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|295|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|123|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1997|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|131|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1939|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.152.188.246|3128|United States|Ashburn|Sprint|
-|2|66.196.238.178|3128|United States|Houston|Logix|
-|3|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|2|45.152.188.246|3128|United States|Ashburn|Sprint|
+|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
 |4|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|5|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
-|6|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
-|7|45.152.188.246|3128|United States|Ashburn|Sprint|
-|8|186.189.216.180|3128|Guatemala|Guatemala City|Comcel Guatemala S.A.|
-|9|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
-|10|185.76.9.87|3128|Sweden|Stockholm|DataCamp Limited|
-|11|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|12|123.253.34.82|3128|Malaysia|Kuala Lumpur|Furcop Technology PLT|
-|13|183.89.61.61|3128|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|14|45.136.4.3|3128|Turkey|Gungoren|Talha Bogaz|
-|15|89.208.219.121|8080|Netherlands|Amsterdam|My.com B.V.|
-|16|198.211.28.18|59394|United States|Santa Clarita|Multacom Corporation|
-|17|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
-|18|202.180.20.10|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|19|139.59.5.27|443|India|Bengaluru|DIGITALOCEAN|
-|20|197.232.82.243|41890|Kenya|Nairobi|Jamii Telecommunications Limited|
+|5|178.124.189.174|3128|Belarus|Borisov|Republican Unitary Telecommunication Enterprise Beltelecom|
+|6|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|7|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|8|178.62.229.28|3128|Netherlands|Amsterdam|DigitalOcean, LLC|
+|9|184.105.182.254|3128|United States|Gilroy|Hurricane Electric LLC|
+|10|200.146.77.133|80|Brazil|Curitiba|Vivo|
+|11|154.13.5.42|59394|United States|San Jose|Zhihua Lu trading as HostHub|
+|12|76.81.164.246|8080|United States|Garden Grove|Spectrum|
+|13|210.179.58.236|80|South Korea|Goyang-si|Korea Telecom|
+|14|163.44.196.36|3128|Thailand|Bangkok|GMO-Z.COM PTE. LTD.|
+|15|173.82.45.238|59394|United States|Santa Clarita|Multacom Corporation|
+|16|173.212.245.135|3128|Germany|Nuremberg|Contabo GmbH|
+|17|161.35.15.237|3128|United States|North Bergen|DigitalOcean, LLC|
+|18|116.253.208.239|33080|China|Guangxi|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
+|19|201.218.91.20|999|Panama|Panama City|Cable Onda|
+|20|173.249.23.102|3128|Germany|Nuremberg|Contabo GmbH|
 
 
 

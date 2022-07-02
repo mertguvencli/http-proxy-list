@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3393** proxies at the latest update. Usable proxies are below.
+> Scraper found **3432** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|106|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|106|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|106|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|228|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|247|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|66|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|86|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2016|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.246|3128|United States|Ashburn|Sprint|
-|2|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
-|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|4|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
-|5|45.152.188.246|3128|United States|Ashburn|Sprint|
-|6|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|7|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|8|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|9|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|10|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|11|200.24.157.121|999|Ecuador|Azogues|Nedetel S.A.|
-|12|38.108.119.176|59394|United States|New York|Cogent Communications|
-|13|202.180.20.11|55443|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|14|170.245.56.195|999|Honduras|San Pedro Sula|Asociacion De Servicio De Internet S. De RL.|
-|15|190.187.201.26|8080|Peru|Lima|Americatel Peru S.A.|
-|16|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
-|17|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|18|49.0.39.186|8080|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
-|19|190.113.43.66|999|Dominican Republic|Santo Domingo Este|MR Networking, SRL|
-|20|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|3|216.37.138.177|3128|United States|Pittsburgh|Frontier Communications of America|
+|4|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|5|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|6|216.37.138.177|3128|United States|Pittsburgh|Frontier Communications of America|
+|7|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|8|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|9|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
+|10|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|11|190.2.210.116|999|Colombia|Santander de Quilichao|TV AZTECA SUCURSAL COLOMBIA|
+|12|13.125.247.113|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|13|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|14|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|15|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|16|12.31.246.5|8080|United States|Saint Helena|AT&T Services, Inc.|
+|17|62.75.206.151|3128|France|Strasbourg|PlusServer GmbH|
+|18|125.209.88.46|8080|Pakistan|Karachi|Multinet 125-88/24|
+|19|80.244.226.92|8080|Russia|Moscow|Enforta-MSK|
+|20|111.225.153.173|8089|China|Gaocheng|Chinanet|
 
 
 

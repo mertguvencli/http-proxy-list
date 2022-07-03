@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3639** proxies at the latest update. Usable proxies are below.
+> Scraper found **3791** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|148|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|148|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|148|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|225|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|225|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|225|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|152|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|199|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|384|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|88|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2117|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|215|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1957|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|162.243.159.46|3128|United States|San Francisco|DigitalOcean, LLC|
-|2|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|3|45.152.188.246|3128|United States|Ashburn|Sprint|
-|4|209.182.235.252|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|5|162.243.159.46|3128|United States|San Francisco|DigitalOcean, LLC|
-|6|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
-|7|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
-|8|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|9|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|10|209.182.235.252|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|11|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|12|45.152.188.246|3128|United States|Ashburn|Sprint|
-|13|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|14|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|15|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
-|16|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|1|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
+|2|98.154.21.253|3128|United States|Los Angeles|Charter Communications Inc|
+|3|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
+|4|45.230.169.129|999|Venezuela|Caracas|Level 3 Communications, Inc.|
+|5|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|6|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|7|45.153.165.118|999|United States|Miami|Telery Networks|
+|8|183.88.18.223|8080|Thailand|Dok Kham Tai|Triple T Broadband Public Company Limited|
+|9|190.189.188.174|8080|Argentina|Tigre|Telecom Argentina S.A.|
+|10|103.160.201.85|7001|Indonesia|Banyumas|PT Viriya Surya Abadi|
+|11|103.221.254.102|48146|Bangladesh|Dhaka|Dhaka University|
+|12|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|13|209.182.235.252|3128|United States|Los Angeles|HIVELOCITY, Inc.|
+|14|207.180.236.72|3128|Germany|Nuremberg|Contabo GmbH|
+|15|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|16|103.11.106.148|8181|Indonesia|Madiun|PT. Pascal Indonesia|
+|17|181.224.207.18|999|Dominican Republic|Castanuelas|BW TELECOM|
 |18|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
-|19|103.4.94.12|3128|Pakistan|Lahore|HEC|
-|20|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|19|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
+|20|154.13.5.41|59394|United States|San Jose|Zhihua Lu trading as HostHub|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3661** proxies at the latest update. Usable proxies are below.
+> Scraper found **3867** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|229|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|229|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|229|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|270|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|270|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|270|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|152|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|337|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|498|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|166|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|211|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1923|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|2|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|3|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|4|128.199.193.26|8080|Singapore|Singapore|DigitalOcean, LLC|
-|5|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|6|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|7|209.97.152.208|8888|United States|Clifton|DigitalOcean, LLC|
-|8|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
-|9|170.178.214.117|59394|United States|Santa Clarita|Multacom Corporation|
-|10|38.108.119.176|59394|United States|New York|Cogent Communications|
-|11|190.97.247.210|999|Venezuela|Caja Seca|NetLink América C.A.|
-|12|14.207.121.169|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|13|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
-|14|194.233.69.90|443|Singapore|Singapore|Contabo Asia Private Limited|
-|15|158.69.52.218|9300|Canada|Montreal|OVH SAS|
-|16|92.60.238.12|80|Serbia|Niš|Moja Supernova Doo Beograd|
-|17|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|18|109.108.68.144|41890|Ukraine|Chaiky|ISP KievNet|
-|19|47.51.51.190|8080|United States|Glendale|Charter Communications|
-|20|45.248.41.216|9812|India|Jaipur|Ankit Wi-fi Solution Private Limited|
+|2|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
+|3|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|4|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
+|5|190.98.1.99|3128|Suriname|Paramaribo|Telecommunicationcompany Suriname - TeleSur|
+|6|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|7|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|8|201.217.247.3|8080|Argentina|Resistencia|Ecom Chaco S.A|
+|9|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
+|10|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|11|188.166.188.156|8080|Singapore|Singapore|DigitalOcean, LLC|
+|12|59.124.224.205|3128|Taiwan|Bade District|Chunghwa Telecom Co., Ltd.|
+|13|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|14|103.145.253.237|3128|Vietnam|Hanoi|Enterprise Sortware Company Limited|
+|15|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|16|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|17|173.82.188.82|9090|United States|Santa Clarita|Multacom Corporation|
+|18|172.97.119.193|8181|United States|Swayzee|ALTIUS Broadband, LLC|
+|19|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|20|66.94.97.238|443|United States|New York|Contabo Inc.|
 
 
 

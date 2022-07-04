@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3695** proxies at the latest update. Usable proxies are below.
+> Scraper found **3982** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|152|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|152|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|152|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|198|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|198|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|198|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|250|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|379|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|121|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2041|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|175|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2045|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.246|3128|United States|Ashburn|Sprint|
-|2|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|4|66.196.238.181|3128|United States|Houston|Logix|
-|5|45.152.188.246|3128|United States|Ashburn|Sprint|
-|6|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|7|45.236.170.9|999|Ecuador|Guayaquil|Codgrec S.A.|
-|8|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|9|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|10|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|11|46.99.183.154|1234|Albania|Tirana|IPKO Telecommunications LLC|
-|12|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|13|179.49.117.226|999|Honduras|Yore|Asociacion De Servicio De Internet S. De RL.|
-|14|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|15|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
-|16|185.76.9.87|3128|Sweden|Stockholm|DataCamp Limited|
-|17|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|18|195.201.111.241|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
-|19|204.137.241.253|3129|United States|Towson|Apogee Telecom Inc.|
-|20|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|3|45.152.188.246|3128|United States|Ashburn|Sprint|
+|4|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
+|5|179.49.117.226|999|Honduras|Yore|Asociacion De Servicio De Internet S. De RL.|
+|6|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|7|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|8|45.152.188.246|3128|United States|Ashburn|Sprint|
+|9|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
+|10|51.159.24.255|3128|France|Paris|SCALEWAY|
+|11|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|12|66.70.178.214|9300|Canada|Beauharnois|OVH SAS|
+|13|204.137.241.253|3129|United States|Towson|Apogee Telecom Inc.|
+|14|204.137.241.253|3129|United States|Towson|Apogee Telecom Inc.|
+|15|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|16|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|17|143.198.242.86|8048|United Kingdom|London|DigitalOcean, LLC|
+|18|183.89.162.185|8080|Thailand|Ban Ang Sila|Triple T Broadband Public Company Limited|
+|19|45.167.124.5|9992|Colombia|Guapi|Sepcom Comunicaciones SAS|
+|20|217.109.83.201|8080|France|Asnieres-sur-Seine|Orange Business Services|
 
 
 

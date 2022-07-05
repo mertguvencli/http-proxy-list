@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3799** proxies at the latest update. Usable proxies are below.
+> Scraper found **3857** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|226|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|226|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|226|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|253|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|253|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|253|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|357|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|397|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|171|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|89|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1988|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|4|148.251.45.123|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|5|200.110.173.118|8080|Colombia|Santiago de Cali|Media Commerce Partners S.A|
-|6|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|7|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|8|154.13.5.42|59394|United States|San Jose|Zhihua Lu trading as HostHub|
-|9|66.196.238.181|3128|United States|Houston|Logix|
-|10|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|11|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|12|64.138.255.146|80|United States|Conway|Horry Telephone Cooperative, Inc.|
-|13|204.137.241.253|3129|United States|Towson|Apogee Telecom Inc.|
-|14|195.201.111.241|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
-|15|51.159.24.255|3128|France|Paris|SCALEWAY|
-|16|38.108.119.176|59394|United States|New York|Cogent Communications|
-|17|204.137.241.253|3129|United States|Towson|Apogee Telecom Inc.|
-|18|103.37.141.69|80|China|Beijing|IDC, China Telecommunications Corporation|
-|19|5.44.54.16|8080|Russia|Perm|JSC "ER-Telecom Holding"|
-|20|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|2|66.196.238.181|3128|United States|Houston|Logix|
+|3|45.152.188.246|3128|United States|Ashburn|Sprint|
+|4|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
+|5|195.201.111.241|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
+|6|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
+|7|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|8|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|9|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|10|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|11|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|12|51.159.24.255|3128|France|Paris|SCALEWAY|
+|13|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
+|14|74.82.50.155|3128|Japan|Shinagawa|Hurricane Electric|
+|15|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|16|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|17|201.91.82.155|3128|Brazil|São Paulo|Vivo|
+|18|157.100.53.99|999|Ecuador|Machala|Nedetel S.A.|
+|19|45.70.236.124|999|Ecuador|Puebloviejo|Nedetel S.A.|
+|20|201.222.45.69|999|Chile|La Pintana|GRUPO ULLOA SpA|
 
 
 

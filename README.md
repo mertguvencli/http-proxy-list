@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3583** proxies at the latest update. Usable proxies are below.
+> Scraper found **3784** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|110|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|110|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|110|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|116|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|116|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|116|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|254|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|277|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|492|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|70|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|156|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1899|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|3|45.152.188.246|3128|United States|Ashburn|Sprint|
+|1|45.152.188.246|3128|United States|Ashburn|Sprint|
+|2|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|3|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
 |4|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
-|5|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|6|178.128.200.129|3128|Germany|Frankfurt am Main|DigitalOcean|
-|7|66.196.238.181|3128|United States|Houston|Logix|
-|8|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
-|9|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|10|36.94.17.138|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|11|204.137.241.253|3129|United States|Towson|Apogee Telecom Inc.|
-|12|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
-|13|179.49.117.226|999|Honduras|Yore|Asociacion De Servicio De Internet S. De RL.|
-|14|198.229.231.13|8080|United States|Spring Valley|MTCO Communications|
-|15|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
-|16|66.196.238.181|3128|United States|Houston|Logix|
-|17|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
-|18|204.137.241.253|3129|United States|Towson|Apogee Telecom Inc.|
-|19|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
-|20|204.137.241.253|3129|United States|Towson|Apogee Telecom Inc.|
+|5|37.233.102.184|3128|Poland|Warsaw|Techstorage sp. z o.o.|
+|6|37.233.103.130|3128|Poland|Warsaw|Techstorage sp. z o.o.|
+|7|37.233.102.89|3128|Poland|Warsaw|Techstorage sp. z o.o.|
+|8|12.231.44.251|3128|United States|Racine|AT&T Services, Inc.|
+|9|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
+|10|45.152.188.246|3128|United States|Ashburn|Sprint|
+|11|47.240.160.90|10001|Hong Kong|Central|Alibaba.com LLC|
+|12|154.13.5.42|59394|United States|San Jose|Zhihua Lu trading as HostHub|
+|13|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|14|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
+|15|190.214.27.46|8080|Ecuador|Guayaquil|Corporacion Nacional De Telecomunicaciones - CNT EP|
+|16|182.253.169.247|8080|Indonesia|Jakarta|BIZNET|
+|17|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|18|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
+|19|59.124.224.205|3128|Taiwan|Bade District|Chunghwa Telecom Co., Ltd.|
+|20|139.59.5.27|443|India|Bengaluru|DIGITALOCEAN|
 
 
 

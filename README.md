@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3703** proxies at the latest update. Usable proxies are below.
+> Scraper found **3707** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|100|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|100|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|100|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|133|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|133|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|133|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|217|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|225|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|147|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|143|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1956|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|202.180.20.66|8080|Indonesia|Bandung|PT. HIPERNET INDODATA|
-|2|177.99.206.218|3128|Brazil|Cuiabá|Vivo|
-|3|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|4|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|5|45.152.188.246|3128|United States|Ashburn|Sprint|
-|6|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
-|7|45.152.188.246|3128|United States|Ashburn|Sprint|
-|8|116.253.208.239|33080|China|Guangxi|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
-|9|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|10|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
-|11|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
-|12|195.201.111.241|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
-|13|116.253.208.239|33080|China|Guangxi|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
-|14|80.244.230.86|8080|Russia|Moscow|ArtCommunications Ltd.|
-|15|1.32.49.253|8080|Malaysia|Masai|Telekom Malaysia Berhad|
-|16|46.188.53.7|8001|Russia|Moscow|2COM|
-|17|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
-|18|85.14.243.31|3128|Germany|Meerbusch|myLoc managed IT AG|
-|19|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
-|20|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|1|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|4|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
+|5|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|7|101.51.165.91|8080|Thailand|Bang Lamung|TOT Public Company Limited|
+|8|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|9|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|10|185.221.134.234|3129|United States|Los Angeles|DediPath|
+|11|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|12|45.152.188.246|3128|United States|Ashburn|Sprint|
+|13|144.91.127.126|3128|Germany|Nuremberg|Contabo GmbH|
+|14|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|15|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|16|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|17|116.253.208.239|33080|China|Guangxi|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
+|18|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|19|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
+|20|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
 
 
 

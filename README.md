@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3580** proxies at the latest update. Usable proxies are below.
+> Scraper found **3708** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|116|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|116|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|116|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|104|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|104|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|104|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|278|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|182|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|324|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2039|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|187|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1936|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.246|3128|United States|Ashburn|Sprint|
-|2|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|3|45.152.188.246|3128|United States|Ashburn|Sprint|
-|4|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|5|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|6|188.127.237.151|3128|Russia|Moscow|LLC Smart Ape|
-|7|118.99.122.178|8080|Indonesia|Bekasi|BIZNET|
-|8|185.221.134.234|3129|United States|Los Angeles|DediPath|
-|9|157.185.163.54|59394|United States|Monrovia|Quantil Networks Inc|
-|10|103.252.1.137|3128|Vietnam|Hanoi|CMCMIENBAC|
-|11|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|12|157.185.163.54|59394|United States|Monrovia|Quantil Networks Inc|
-|13|103.84.178.59|3128|India|Kovilpatti|Glo Internet Services Pvt Ltd|
-|14|185.221.134.234|3129|United States|Los Angeles|DediPath|
-|15|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
-|16|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|17|177.55.245.198|8080|Brazil|Jijoca de Jericoacoara|VAS Freitas Servicos de Internet Ltda|
-|18|200.146.77.133|80|Brazil|Curitiba|Vivo|
-|19|103.252.1.137|3128|Vietnam|Hanoi|CMCMIENBAC|
-|20|49.0.39.10|8080|Bangladesh|Dhaka|Always On Network Bangladesh Ltd.|
+|1|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|2|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|3|113.53.61.138|8080|Thailand|Chanthaburi|TOT Public Company Limited|
+|4|216.238.76.66|59394|Mexico|Mexico City|The Constant Company|
+|5|188.127.237.151|3128|Russia|Moscow|LLC Smart Ape|
+|6|41.205.24.228|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|7|186.5.5.126|999|Ecuador|Guayaquil|Telconet S.A|
+|8|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
+|9|185.221.134.234|3129|United States|Los Angeles|DediPath|
+|10|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|11|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|12|201.174.239.18|8080|Mexico|General Escobedo|Transtelco Inc|
+|13|179.49.117.226|999|Honduras|Yore|Asociacion De Servicio De Internet S. De RL.|
+|14|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
+|15|202.44.193.49|8080|Thailand|Chiang Mai|Internet Thailand Company Ltd.|
+|16|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
+|17|36.93.75.154|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
+|18|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
+|19|208.109.188.198|3128|United States|Scottsdale|GoDaddy.com, LLC|
+|20|157.185.163.54|59394|United States|Monrovia|Quantil Networks Inc|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3750** proxies at the latest update. Usable proxies are below.
+> Scraper found **3769** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|111|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|111|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|111|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|138|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|138|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|138|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|321|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|318|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|185|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|207|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1861|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|2|45.152.188.246|3128|United States|Ashburn|Sprint|
+|1|45.152.188.246|3128|United States|Ashburn|Sprint|
+|2|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
 |3|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
-|4|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|5|171.96.231.242|8080|Thailand|Bangkok|True Internet Corporation CO. Ltd.|
-|6|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
-|7|183.89.164.7|8080|Thailand|Bang Lamung|Triple T Broadband Public Company Limited|
-|8|115.124.92.42|8080|Indonesia|Jakarta|PT Remala Abadi|
-|9|185.190.38.150|8080|Kosovo|Istok|Kadri Haxhiaj trading as "B.I."|
-|10|36.92.109.147|8080|Indonesia|Jakarta|Telekomunikasi Indonesia|
-|11|180.180.171.123|8080|Thailand|Huai Khwang|TOT Public Company Limited|
-|12|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
-|13|118.179.52.55|8080|Bangladesh|Tongi|Dhakacom Limited|
-|14|45.152.188.246|3128|United States|Ashburn|Sprint|
-|15|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
-|16|45.152.188.246|3128|United States|Ashburn|Sprint|
-|17|85.25.91.141|15333|Germany|Cologne|PlusServer GmbH|
-|18|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
-|19|89.107.197.165|3128|Russia|Tula|LLC TK Altair|
-|20|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|4|45.152.188.246|3128|United States|Ashburn|Sprint|
+|5|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|6|109.127.82.126|8080|Iraq|Erbil|Newroz Telecom|
+|7|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
+|8|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
+|9|45.152.188.246|3128|United States|Ashburn|Sprint|
+|10|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
+|11|179.49.117.226|999|Honduras|Yore|Asociacion De Servicio De Internet S. De RL.|
+|12|179.49.117.226|999|Honduras|Yore|Asociacion De Servicio De Internet S. De RL.|
+|13|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
+|14|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
+|15|5.167.141.239|3128|Russia|Tula|CJSC "ER-Telecom Holding" Tula branch|
+|16|98.164.130.195|8080|United States|Jeanerette|Cox Communications Inc.|
+|17|47.93.239.66|1080|China|Beijing|Hangzhou Alibaba Advertising Co|
+|18|31.131.67.14|8080|Ukraine|Yevpatoriya|PE Zinstein Hariton Vladimirovich|
+|19|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|20|116.253.208.239|33080|China|Lilancun|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
 
 
 

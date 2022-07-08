@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3421** proxies at the latest update. Usable proxies are below.
+> Scraper found **3679** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|127|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|127|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|127|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|240|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|240|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|240|
 
 ## Sources
 
@@ -33,36 +33,36 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|181|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|368|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|104|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1853|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|232|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1915|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.246|3128|United States|Ashburn|Sprint|
-|2|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|3|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|4|159.192.249.226|8080|Thailand|Bangkok|CAT-BB|
-|5|206.189.195.74|8080|United States|North Bergen|DigitalOcean, LLC|
-|6|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|7|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
-|8|119.42.86.79|8080|Thailand|Samphanthawong|CAT-BB|
-|9|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
-|10|94.181.48.171|1256|Russia|Moscow|Enforta-MSK|
-|11|203.112.74.35|8080|Bangladesh|Dhaka|OptiMax Communication Ltd|
-|12|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
-|13|45.152.188.246|3128|United States|Ashburn|Sprint|
-|14|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|15|103.252.1.137|3128|Vietnam|Hanoi|CMCMIENBAC|
-|16|116.253.208.239|33080|China|Lilancun|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
-|17|79.143.179.141|3128|Germany|Munich|Contabo GmbH|
-|18|140.227.80.237|3180|Japan|Chiyoda|NTT PC Communications, Inc.|
-|19|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
-|20|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|1|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|2|157.185.163.54|59394|United States|Monrovia|Quantil Networks Inc|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|5|119.42.86.79|8080|Thailand|Samphanthawong|CAT-BB|
+|6|157.185.163.54|59394|United States|Monrovia|Quantil Networks Inc|
+|7|45.152.188.246|3128|United States|Ashburn|Sprint|
+|8|45.152.188.246|3128|United States|Ashburn|Sprint|
+|9|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|10|116.71.139.73|8080|Pakistan|Zahir Pir|PTCL Triple Play Project|
+|11|208.109.188.198|3128|United States|Scottsdale|GoDaddy.com, LLC|
+|12|143.198.182.218|80|United States|North Bergen|DigitalOcean, LLC|
+|13|180.191.22.200|8080|Philippines|Baguio City|Globe Telecom|
+|14|160.19.155.51|8080|Sierra Leone|Freetown|PCS Holdings Limited|
+|15|212.3.135.57|8080|Russia|Smolensk|Smolensk branch of the JSC "CenterTelecom"|
+|16|103.133.26.107|8181|Indonesia|Pajajaran|PT PHATRIA INTI PERSADA|
+|17|103.241.227.108|6666|India|Ahmedabad|GTPL SMC Network PVT LTD|
+|18|179.49.117.226|999|Honduras|Yore|Asociacion De Servicio De Internet S. De RL.|
+|19|195.154.70.151|3128|France|Paris|Online S.A.S.|
+|20|185.76.9.123|3128|Sweden|Stockholm|DataCamp Limited|
 
 
 

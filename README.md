@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4030** proxies at the latest update. Usable proxies are below.
+> Scraper found **4196** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|255|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|255|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|255|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|316|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|316|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|316|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|386|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|479|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|305|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|378|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1956|✅|
 
 
@@ -46,23 +46,23 @@ Click the file format that you want and copy the URL.
 |1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
 |2|45.152.188.246|3128|United States|Ashburn|Sprint|
 |3|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|4|192.227.160.214|11111|United States|Los Angeles|ColoCrossing|
-|5|165.22.250.146|8888|Singapore|Singapore|DigitalOcean, LLC|
-|6|5.188.136.52|8080|Russia|St Petersburg|Selectel|
-|7|125.99.58.110|3128|India|Mumbai|Hathway IP over Cable Internet Access|
-|8|47.74.226.8|5001|Singapore|Singapore|Alibaba Cloud (Singapore) Private Limited|
-|9|213.178.39.170|8080|Russia|Tolyatti|AIST Networks|
-|10|206.189.195.74|8080|United States|North Bergen|DigitalOcean, LLC|
-|11|77.105.12.101|6666|Serbia|Novi Sad|Orion Telekom ISP IP network|
-|12|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|13|91.230.199.174|61440|Ukraine|Kryvyi Rih|Elektron-Service LLC|
-|14|124.156.100.105|8118|Hong Kong|Central|Tencent Cloud Computing (Beijing) Co|
-|15|36.90.61.83|8080|Indonesia|Blitar|PT. Telekomunikasi Indonesia|
-|16|46.188.53.7|8010|Russia|Moscow|2COM|
-|17|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|18|190.119.211.42|9812|Peru|La Victoria|America Movil Peru S.A.C.|
-|19|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
-|20|103.145.253.237|3128|Vietnam|Hanoi|Enterprise Sortware Company Limited|
+|4|23.229.21.138|3128|United States|Piscataway|Server Mania Inc|
+|5|188.40.15.7|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|6|154.13.5.42|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
+|7|157.185.163.54|59394|United States|Monrovia|Quantil Networks Inc|
+|8|45.152.188.246|3128|United States|Ashburn|Sprint|
+|9|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|10|95.165.187.202|45396|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
+|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|12|23.229.21.138|3128|United States|Piscataway|Server Mania Inc|
+|13|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
+|14|181.49.217.254|8080|Colombia|La Montanita|Telmex Colombia S.A.|
+|15|176.62.178.247|47556|Russia|Moscow|OOO Istranet|
+|16|103.70.79.2|8080|Indonesia|Jombor|Diskominfo Kabupaten Sukoharjo|
+|17|43.154.161.208|59394|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|18|45.58.168.186|59394|Netherlands|Amsterdam|Sharktech|
+|19|31.3.169.53|8081|Italy|Cesena|Cesena NET S.R.L.|
+|20|148.251.45.123|3128|Germany|Falkenstein|Hetzner Online GmbH|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3548** proxies at the latest update. Usable proxies are below.
+> Scraper found **3607** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|149|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|149|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|149|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|99|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|99|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|99|
 
 ## Sources
 
@@ -31,38 +31,38 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|260|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|246|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|144|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1861|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|157|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1821|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|2|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
-|3|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|4|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
-|7|185.221.134.234|3129|United States|Los Angeles|DediPath|
-|8|185.221.134.234|3129|United States|Los Angeles|DediPath|
-|9|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
-|10|187.188.171.73|6969|Mexico|Veracruz|Total Play Telecomunicaciones SA De CV|
-|11|190.119.174.190|999|Peru|La Victoria|America Movil Peru S.A.C.|
-|12|200.58.87.195|8080|Bolivia|Cochabamba|Comteco Ltda|
-|13|199.66.157.113|8080|United States|Haileyville|SCT Broadband|
-|14|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
-|15|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|1|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
+|2|45.152.188.246|3128|United States|Ashburn|Sprint|
+|3|188.76.188.172|8118|Spain|Madrid|Orange Spain|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|6|45.152.188.246|3128|United States|Ashburn|Sprint|
+|7|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|8|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|9|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
+|10|213.136.101.40|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|11|179.49.117.226|999|Honduras|Yore|Asociacion De Servicio De Internet S. De RL.|
+|12|187.190.0.205|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|212.46.230.102|6969|Russia|Moscow|PJSC "Vimpelcom"|
+|14|195.211.219.146|5555|Russia|St Petersburg|OOO "Sestroretskoe Cable Television"|
+|15|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
 |16|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|17|116.253.208.239|33080|China|Lilancun|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
-|18|103.152.232.233|8080|Indonesia|Subang|PT Kingpolah Network Solutions|
-|19|199.66.157.113|8080|United States|Haileyville|SCT Broadband|
-|20|122.155.165.191|3128|Thailand|Ratchathewi|CAT Telecom Public Company Limited|
+|17|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|18|192.195.57.72|3128|Brazil|Maceió|AS|
+|19|45.152.188.246|3128|United States|Ashburn|Sprint|
+|20|47.252.4.64|8888|United States|Charlottesville|Alibaba.com LLC|
 
 
 

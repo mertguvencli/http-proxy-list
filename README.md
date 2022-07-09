@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3943** proxies at the latest update. Usable proxies are below.
+> Scraper found **4003** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|178|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|178|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|178|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|206|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|206|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|206|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|313|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|388|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|223|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|308|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2024|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|2|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|3|103.146.20.17|3130|Vietnam|Ho Chi Minh City|International Distribution Corporation|
-|4|157.185.145.59|59394|United States|Los Angeles|Quantil Networks Inc|
-|5|46.246.86.12|8080|Sweden|Stockholm|Portlane Network|
-|6|125.25.32.135|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|7|213.136.101.36|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
-|8|45.63.23.136|8088|United States|Matawan|The Constant Company|
-|9|58.147.186.230|3125|Indonesia|Pontianak|PT. Transhybrid Communication|
-|10|139.59.5.27|443|India|Bengaluru|DIGITALOCEAN|
-|11|45.4.85.136|999|Honduras|Morazan|Asociacion De Servicio De Internet S. De RL|
-|12|157.185.145.59|59394|United States|Los Angeles|Quantil Networks Inc|
-|13|209.166.175.201|3128|United States|Pittsburgh|CONTINENTAL BROADBAND PENNSYLVANIA, INC.|
-|14|45.167.90.21|999|Argentina|Yerba Buena|Sircom S.R.L.|
-|15|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|16|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|17|61.19.145.66|8080|Thailand|Chiang Mai|CAT Telecom Public Company Limited|
-|18|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
-|19|167.114.96.27|9300|Canada|Montreal|OVH SAS|
-|20|162.214.193.59|3128|United States|Provo|Unified Layer|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|3|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|4|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|5|95.217.208.163|8118|Finland|Helsinki|Hetzner Online GmbH|
+|6|210.115.46.228|3128|South Korea|Chuncheon|Kangwon National University|
+|7|49.48.114.180|8080|Thailand|Kuchinarai|Triple T Broadband Public Company Limited|
+|8|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|9|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
+|10|188.40.15.7|8080|Germany|Falkenstein|Hetzner Online GmbH|
+|11|8.210.66.212|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|12|43.154.161.208|59394|Hong Kong|Hong Kong|Shenzhen Tencent Computer Systems Company Limited|
+|13|41.186.44.106|3128|Rwanda|Kigali|MTN Rwandacell|
+|14|206.189.195.74|8080|United States|North Bergen|DigitalOcean, LLC|
+|15|103.75.35.202|53281|India|Faridabad|Elyzium Softech|
+|16|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
+|17|191.6.133.22|2356|Brazil|Inconfidentes|NET.COM TELECOMUNICACOES EIRELI|
+|18|154.13.5.41|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
+|19|154.13.5.41|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
+|20|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
 
 
 

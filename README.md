@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3694** proxies at the latest update. Usable proxies are below.
+> Scraper found **3391** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|238|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|238|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|238|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|80|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|80|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|80|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|352|✅|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|235|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|204|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|218|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1855|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.246|3128|United States|Ashburn|Sprint|
-|2|45.152.188.246|3128|United States|Ashburn|Sprint|
-|3|209.182.235.252|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|4|85.14.243.31|3128|Germany|Kamp-Lintfort|myLoc managed IT AG|
-|5|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|6|185.76.9.87|3128|Sweden|Stockholm|DataCamp Limited|
-|7|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|8|139.59.228.95|8118|Singapore|Singapore|DIGITALOCEAN|
+|1|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|2|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|3|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|4|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|5|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|6|8.210.66.212|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
+|7|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|8|209.182.235.252|3128|United States|Los Angeles|HIVELOCITY, Inc.|
 |9|209.182.235.252|3128|United States|Los Angeles|HIVELOCITY, Inc.|
-|10|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
-|12|154.13.5.41|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
-|13|62.75.206.151|3128|France|Strasbourg|PlusServer GmbH|
-|14|95.165.182.230|45396|Russia|Moscow|Moscow Local Telephone Network (OAO MGTS)|
-|15|8.210.66.212|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|190.107.224.150|3128|Chile|Santiago|WOM S.A.|
-|17|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
-|18|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|19|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|20|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
+|10|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|11|130.185.122.92|3535|Netherlands|Dronten|Softqloud GmbH|
+|12|185.76.9.123|3128|Sweden|Stockholm|DataCamp Limited|
+|13|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|14|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|15|103.252.1.137|3128|Vietnam|Hanoi|CMCMIENBAC|
+|16|186.97.182.3|999|Colombia|Medellín|Colombia Móvil|
+|17|123.182.58.230|8089|China|Zhangjiakou|Chinanet|
+|18|123.171.42.137|57114|China|Liaocheng|Chinanet|
+|19|210.115.46.228|3128|South Korea|Chuncheon|Kangwon National University|
+|20|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
 
 
 

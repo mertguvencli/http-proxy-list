@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4080** proxies at the latest update. Usable proxies are below.
+> Scraper found **3963** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|312|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|312|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|312|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|365|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|365|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|365|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|459|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|397|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|344|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|289|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1920|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.152.188.246|3128|United States|Ashburn|Sprint|
-|2|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|3|66.196.238.178|3128|United States|Cypress|Logix|
-|4|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|5|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|6|45.152.188.246|3128|United States|Ashburn|Sprint|
-|7|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|8|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|9|185.76.9.87|3128|Sweden|Stockholm|DataCamp Limited|
-|10|210.115.46.228|3128|South Korea|Chuncheon|Kangwon National University|
-|11|178.32.148.251|8080|France|Gravelines|OVH SAS|
-|12|157.185.163.54|59394|United States|Monrovia|Quantil Networks Inc|
-|13|162.214.193.59|3128|United States|Provo|Unified Layer|
-|14|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|15|103.252.1.137|3128|Vietnam|Hanoi|CMCMIENBAC|
-|16|103.135.14.176|8181|Indonesia|Malang|Dinas Komunikasi dan Informatika Kota Malang|
-|17|66.94.116.111|3128|United States|New York|Contabo Inc.|
-|18|154.13.5.41|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
-|19|157.185.145.59|59394|United States|Los Angeles|Quantil Networks Inc|
-|20|154.13.5.42|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
+|2|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|3|45.152.188.246|3128|United States|Ashburn|Sprint|
+|4|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
+|5|178.32.148.251|8080|France|Gravelines|OVH SAS|
+|6|162.214.193.59|3128|United States|Provo|Unified Layer|
+|7|66.196.238.178|3128|United States|Cypress|Logix|
+|8|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|9|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|10|185.76.9.87|3128|Sweden|Stockholm|DataCamp Limited|
+|11|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
+|12|185.76.9.123|3128|Sweden|Stockholm|DataCamp Limited|
+|13|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|14|179.51.162.8|9812|Peru|Íllimo|Telecable Central Network Sociedad Anonima Cerrada|
+|15|185.157.161.85|8118|Sweden|Stockholm|OVPN|
+|16|66.94.116.111|3128|United States|New York|Contabo Inc.|
+|17|163.47.11.211|12358|Singapore|Singapore|DigitalOcean|
+|18|181.10.117.254|999|Argentina|La Cocha|Telecom Argentina S.A.|
+|19|157.185.163.54|59394|United States|Monrovia|Quantil Networks Inc|
+|20|103.252.1.137|3128|Vietnam|Hanoi|CMCMIENBAC|
 
 
 

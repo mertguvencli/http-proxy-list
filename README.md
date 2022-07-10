@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3598** proxies at the latest update. Usable proxies are below.
+> Scraper found **3777** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|509|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|509|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|509|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|118|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|118|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|118|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|211|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|276|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|117|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|231|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1913|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|45.152.188.246|3128|United States|Ashburn|Sprint|
-|2|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|4|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|5|45.152.188.246|3128|United States|Ashburn|Sprint|
-|6|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|7|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|8|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|9|181.78.12.46|7070|Colombia|Chapinero|IFX Networks Argentina S.R.L|
-|10|191.97.60.126|999|Peru|Chiclayo|Internexa Peru S.A|
-|11|157.185.145.59|59394|United States|Los Angeles|Quantil Networks Inc|
-|12|178.124.189.174|3128|Belarus|Minsk|Republican Unitary Telecommunication Enterprise Beltelecom|
-|13|45.184.73.114|40033|Brazil|Queimadas|A2 TELECOM PROVEDOR DE INTERNET LTDA|
-|14|152.32.218.99|8000|Singapore|Singapore|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
-|15|190.85.253.142|8080|Colombia|Bogotá|Telmex Colombia S.A.|
-|16|195.154.70.151|3128|France|Paris|Online S.A.S.|
-|17|45.172.108.41|999|Argentina|Caucete|GPS SANJUAN SRL.|
-|18|101.51.243.157|8080|Thailand|Ban Ang Sila|TOT Public Company Limited|
-|19|36.90.62.119|8080|Indonesia|Blitar|PT. Telekomunikasi Indonesia|
-|20|80.235.9.243|3128|Estonia|Viimsi|Telia Eesti AS|
+|2|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|3|45.152.188.246|3128|United States|Ashburn|Sprint|
+|4|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|5|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|6|154.13.5.42|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
+|7|144.76.241.45|7890|Germany|Falkenstein|Hetzner Online GmbH|
+|8|206.54.182.179|3128|Netherlands|Amsterdam|Webzilla B.V.|
+|9|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|10|163.47.11.211|12358|Singapore|Singapore|DigitalOcean|
+|11|152.32.218.99|8000|Singapore|Singapore|UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED|
+|12|84.54.191.22|8080|Bulgaria|Burgas|ComNet Bulgaria Ltd.|
+|13|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
+|14|121.229.132.241|9999|China|Qinnan|Chinanet|
+|15|195.201.111.241|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
+|16|45.152.188.246|3128|United States|Ashburn|Sprint|
+|17|199.58.128.75|8080|United States|Kingsville|Foremost Telecommunications|
+|18|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|19|195.201.111.241|3128|Germany|Gunzenhausen|Hetzner Online GmbH|
+|20|116.253.208.239|33080|China|Lilancun|CHINATELECOM Guangxi Nanning IDC networkdescr: Nanning, Guangxi Province, P.R.|
 
 
 

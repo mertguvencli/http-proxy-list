@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **4281** proxies at the latest update. Usable proxies are below.
+> Scraper found **4187** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|514|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|514|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|514|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|371|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|371|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|371|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|603|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|444|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|341|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|406|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1954|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|45.152.188.246|3128|United States|Ashburn|Sprint|
-|2|66.196.238.179|3128|United States|Cypress|Logix|
-|3|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|4|45.152.188.246|3128|United States|Ashburn|Sprint|
-|5|157.185.145.59|59394|United States|Los Angeles|Quantil Networks Inc|
-|6|116.203.72.47|8118|Germany|Nuremberg|Hetzner Online GmbH|
-|7|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|8|181.113.60.204|8080|Ecuador|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|
-|9|66.196.238.179|3128|United States|Cypress|Logix|
-|10|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|11|157.185.163.54|59394|United States|Monrovia|Quantil Networks Inc|
-|12|85.14.243.31|3128|Germany|Kamp-Lintfort|myLoc managed IT AG|
-|13|185.76.9.87|3128|Sweden|Stockholm|DataCamp Limited|
-|14|185.76.9.123|3128|Sweden|Stockholm|DataCamp Limited|
-|15|65.108.145.53|3128|Finland|Helsinki|Hetzner Online GmbH|
-|16|65.108.244.191|3128|Finland|Helsinki|Hetzner Online GmbH|
-|17|157.185.145.59|59394|United States|Los Angeles|Quantil Networks Inc|
-|18|62.75.206.151|3128|France|Strasbourg|PlusServer GmbH|
-|19|157.185.163.54|59394|United States|Monrovia|Quantil Networks Inc|
-|20|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|1|104.225.239.249|3128|United States|Los Angeles|IT7 Networks Inc|
+|2|157.185.145.59|59394|United States|Los Angeles|Quantil Networks Inc|
+|3|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|4|157.185.145.59|59394|United States|Los Angeles|Quantil Networks Inc|
+|5|206.54.182.179|3128|Netherlands|Amsterdam|Webzilla B.V.|
+|6|104.225.239.249|3128|United States|Los Angeles|IT7 Networks Inc|
+|7|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|8|66.196.238.179|3128|United States|Cypress|Logix|
+|9|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|10|13.125.238.23|3128|South Korea|Seoul|Amazon Technologies Inc.|
+|11|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
+|12|139.99.203.235|80|Australia|Sydney|OVH SAS|
+|13|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
+|14|178.32.148.251|8080|France|Gravelines|OVH SAS|
+|15|206.54.182.179|3128|Netherlands|Amsterdam|Webzilla B.V.|
+|16|154.13.5.41|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
+|17|154.13.5.42|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
+|18|206.189.195.74|8080|United States|North Bergen|DigitalOcean, LLC|
+|19|37.120.192.154|8080|Netherlands|Amsterdam|M247 Ltd|
+|20|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
 
 
 

@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|138|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|138|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|138|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|117|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|117|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|117|
 
 ## Sources
 
@@ -33,35 +33,35 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|166|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|200|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|126|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1914|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|119|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1887|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
-|2|170.39.194.184|3128|United States|Ashburn|Rackdog, LLC|
-|3|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|4|139.178.85.219|3128|United States|Dallas|PACKET-HOST|
-|5|206.125.41.132|80|United States|Santa Clarita|Multacom Corporation|
-|6|35.234.248.49|3128|Canada|Montreal|Google LLC|
-|7|139.178.85.219|3128|United States|Dallas|PACKET-HOST|
-|8|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
-|9|170.39.194.184|3128|United States|Ashburn|Rackdog, LLC|
-|10|178.32.148.251|8080|France|Gravelines|OVH SAS|
-|11|206.125.41.132|80|United States|Santa Clarita|Multacom Corporation|
-|12|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|13|204.199.174.67|999|Peru|Arequipa|Level 3 Communications, Inc.|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|36.67.241.26|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|206.189.195.74|8080|United States|North Bergen|DigitalOcean, LLC|
-|17|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|18|216.238.70.190|59394|Mexico|Mexico City|The Constant Company|
-|19|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
+|1|170.39.194.184|3128|United States|Ashburn|Rackdog, LLC|
+|2|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
+|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|4|38.146.52.236|3128|United States|Boston|Charles River Operation|
+|5|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|6|139.178.85.219|3128|United States|Dallas|PACKET-HOST|
+|7|178.32.148.251|8080|France|Gravelines|OVH SAS|
+|8|170.39.194.184|3128|United States|Ashburn|Rackdog, LLC|
+|9|206.189.195.74|8080|United States|North Bergen|DigitalOcean, LLC|
+|10|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
+|11|139.178.85.219|3128|United States|Dallas|PACKET-HOST|
+|12|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|13|38.146.52.236|3128|United States|Boston|Charles River Operation|
+|14|85.14.243.31|3128|Germany|Kamp-Lintfort|myLoc managed IT AG|
+|15|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|16|154.13.5.42|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
+|17|204.199.174.67|999|Peru|Arequipa|Level 3 Communications, Inc.|
+|18|182.23.77.122|8080|Indonesia|Jakarta|PT Aplikanusa Lintasarta|
+|19|216.238.70.136|59394|Mexico|Mexico City|The Constant Company|
 |20|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
 
 

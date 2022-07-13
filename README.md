@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3763** proxies at the latest update. Usable proxies are below.
+> Scraper found **4009** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|272|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|272|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|272|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|188|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|188|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|188|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxyscan.io](https://www.proxyscan.io)|100|✅|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|280|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|362|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|165|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|229|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|2035|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|38.146.52.234|3128|United States|Boston|Charles River Operation|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
 |2|38.146.52.236|3128|United States|Boston|Charles River Operation|
-|3|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|4|66.196.238.180|3128|United States|Cypress|Logix|
-|5|38.146.52.236|3128|United States|Boston|Charles River Operation|
-|6|38.146.52.234|3128|United States|Boston|Charles River Operation|
-|7|178.32.148.251|8080|France|Gravelines|OVH SAS|
-|8|139.99.203.235|80|Australia|Sydney|OVH SAS|
-|9|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|10|190.60.36.61|8080|Colombia|Cartagena|IFX NETWORKS COLOMBIA|
-|11|143.198.242.86|8048|United Kingdom|London|DigitalOcean, LLC|
-|12|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|13|103.169.186.86|3125|Indonesia|Pasuruan|PT. PRATAMA HASTA UTAMA SOLUSINDO|
-|14|46.17.249.245|35782|Kazakhstan|Rudnyy|Eurasia-Star LLP|
-|15|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
-|16|113.160.209.113|19132|Vietnam|Bac Ninh|VietNam Post and Telecom Corporation|
-|17|38.146.52.234|3128|United States|Boston|Charles River Operation|
-|18|38.146.52.236|3128|United States|Boston|Charles River Operation|
-|19|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|20|163.47.11.211|12358|Singapore|Singapore|DigitalOcean|
+|3|66.196.238.180|3128|United States|Cypress|Logix|
+|4|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
+|5|178.32.148.251|8080|France|Gravelines|OVH SAS|
+|6|38.146.52.236|3128|United States|Boston|Charles River Operation|
+|7|135.181.108.20|3128|Finland|Helsinki|Hetzner Online GmbH|
+|8|110.170.126.13|3128|Thailand|Din Daeng|True Internet Corporation CO. Ltd.|
+|9|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|10|178.22.198.124|53281|Russia|Kstovo|Svyazist LLC|
+|11|45.4.201.17|999|Ecuador|Guayaquil|Eliana Vanessa Morocho Oña|
+|12|180.183.174.87|8668|Thailand|Narathiwat|Triple T Broadband Public Company Limited|
+|13|213.136.101.36|3128|Ivory Coast|Abidjan|ORANGE COTE D'IVOIRE|
+|14|51.79.50.22|9300|Canada|Beauharnois|OVH SAS|
+|15|45.79.223.53|18888|United States|Atlanta|Linode, LLC|
+|16|45.7.132.194|999|Colombia|Bogotá|TV AZTECA SUCURSAL COLOMBIA|
+|17|50.231.95.3|8080|United States|Marietta|Comcast Cable Communications, LLC|
+|18|154.13.5.41|59394|Canada|Montreal|Zhihua Lu trading as HostHub|
+|19|220.247.171.90|81|Indonesia|Gandul|PT Indonesia Comnets Plus|
+|20|103.169.186.147|3125|Indonesia|Pasuruan|PT. PRATAMA HASTA UTAMA SOLUSINDO|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3881** proxies at the latest update. Usable proxies are below.
+> Scraper found **3853** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|268|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|268|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|268|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|259|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|259|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|259|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|401|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|370|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|250|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|253|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1947|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|216.238.68.96|59394|Mexico|Mexico City|The Constant Company|
-|4|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|5|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
-|6|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|201.76.56.127|3128|Brazil|Itacoatiara|Locaweb Serviços de Internet S/A|
-|9|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|2|216.238.81.217|59394|Mexico|Mexico City|The Constant Company|
+|3|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|4|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|7|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|8|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|9|20.203.160.74|3128|Switzerland|Zurich|Microsoft Corporation|
 |10|13.125.238.23|3128|South Korea|Seoul|Amazon Technologies Inc.|
-|11|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
-|12|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|13|204.10.89.26|3128|United States|Phoenix|Spry Servers, LLC|
-|14|209.81.120.182|8080|United States|Sauk Centre|Arvig Enterprises Inc.|
-|15|36.67.241.26|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|16|152.169.106.145|8080|Argentina|Neuquén|Telecom Argentina S.A|
-|17|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
-|18|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
-|19|216.238.81.217|59394|Mexico|Mexico City|The Constant Company|
-|20|95.0.90.243|8080|Turkey|Istanbul|Turk Telekomunikasyon Anonim Sirketi|
+|11|159.65.133.175|31280|Singapore|Singapore|DigitalOcean, LLC|
+|12|216.238.70.136|59394|Mexico|Mexico City|The Constant Company|
+|13|150.230.149.126|8118|Germany|Frankfurt am Main|Oracle Corporation|
+|14|109.235.188.191|58294|Russia|Sochi|Dmitriy V. Kozmenko|
+|15|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
+|16|157.245.222.183|80|United States|Clifton|DigitalOcean, LLC|
+|17|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|18|141.147.95.36|3128|United Kingdom|London|Oracle Corporation|
+|19|157.230.34.219|3128|Singapore|Singapore|DigitalOcean, LLC|
+|20|45.70.236.124|999|Ecuador|Puebloviejo|Nedetel S.A.|
 
 
 

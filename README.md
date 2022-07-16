@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3603** proxies at the latest update. Usable proxies are below.
+> Scraper found **3407** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|218|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|218|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|218|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|141|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|141|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|141|
 
 ## Sources
 
@@ -33,10 +33,10 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|260|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|232|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|200|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1860|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|124|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1768|✅|
 
 
 ## Sample Proxies With Geolocation Info
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|2|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
 |4|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
-|5|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|6|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
-|7|102.68.129.30|8080|Libya|Tripoli|LTT Autonomous System|
-|8|216.238.80.71|59394|Mexico|Mexico City|The Constant Company|
-|9|216.238.80.50|59394|Mexico|Mexico City|The Constant Company|
-|10|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
-|11|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|12|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
-|13|216.238.83.123|59394|Mexico|Mexico City|The Constant Company|
-|14|149.34.2.39|8080|Spain|Cassà de la Selva|Adamo Telecom Iberia S.A.|
-|15|95.217.72.247|3127|Finland|Helsinki|Hetzner Online GmbH|
-|16|95.217.72.247|3127|Finland|Helsinki|Hetzner Online GmbH|
-|17|209.166.175.201|8080|United States|Pittsburgh|CONTINENTAL BROADBAND PENNSYLVANIA, INC.|
-|18|179.49.113.230|999|Honduras|Pinalejo|Asociacion De Servicio De Internet S. De RL.|
-|19|167.71.199.228|8080|Singapore|Singapore|DigitalOcean, LLC|
-|20|140.227.58.238|3180|Japan|Chiyoda|NTT PC Communications, Inc.|
+|5|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|6|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|7|198.59.191.234|8080|United States|Carlsbad|TDS TELECOM|
+|8|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|9|47.241.165.133|443|Singapore|Singapore|Alibaba.com LLC|
+|10|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|11|149.34.2.39|8080|Spain|Cassà de la Selva|Adamo Telecom Iberia S.A.|
+|12|46.53.191.60|3128|Belarus|Borovlyany|FE "ALTERNATIVNAYA ZIFROVAYA SET" Minsk|
+|13|202.21.110.82|8020|Mongolia|Ulan Bator|Mobinet LLC|
+|14|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|15|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|16|187.190.0.205|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|17|45.70.15.2|8080|Ecuador|Alausi|Nedetel S.A.|
+|18|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|19|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
+|20|111.73.46.94|3128|China|Dunhou|Chinanet|
 
 
 

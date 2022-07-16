@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3343** proxies at the latest update. Usable proxies are below.
+> Scraper found **3653** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|208|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|208|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|208|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|142|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|142|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|142|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|280|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|278|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|170|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|182|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1910|✅|
 
 
@@ -44,25 +44,25 @@ Click the file format that you want and copy the URL.
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
 |1|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
-|2|216.238.66.150|59394|Mexico|Mexico City|The Constant Company|
-|3|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|4|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|5|216.238.80.71|59394|Mexico|Mexico City|The Constant Company|
-|6|216.238.73.171|59394|Mexico|Mexico City|The Constant Company|
-|7|134.209.243.148|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|8|134.209.242.176|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|9|216.238.80.50|59394|Mexico|Mexico City|The Constant Company|
-|10|134.209.241.216|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|11|134.209.236.202|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|12|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|13|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
-|14|134.209.245.209|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|15|134.209.242.64|80|Germany|Frankfurt am Main|DigitalOcean, LLC|
-|16|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
-|17|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
-|18|78.46.123.202|80|Germany|Falkenstein|Hetzner Online GmbH|
-|19|216.238.82.206|59394|Mexico|Mexico City|The Constant Company|
-|20|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
+|2|216.238.73.171|59394|Mexico|Mexico City|The Constant Company|
+|3|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
+|4|178.32.148.251|8080|France|Gravelines|OVH SAS|
+|5|216.238.70.136|59394|Mexico|Mexico City|The Constant Company|
+|6|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|8|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|9|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|10|216.238.80.50|59394|Mexico|Mexico City|The Constant Company|
+|11|216.238.82.41|59394|Mexico|Mexico City|The Constant Company|
+|12|45.13.59.136|3128|Germany|Düsseldorf|Contabo GmbH|
+|13|216.238.68.96|59394|Mexico|Mexico City|The Constant Company|
+|14|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|15|170.39.194.16|3128|United States|Ashburn|Rackdog, LLC|
+|16|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
+|17|198.41.67.18|8080|United States|Lafayette|Cox Communications Inc.|
+|18|23.239.26.69|3128|United States|Richardson|Linode, LLC|
+|19|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
+|20|85.14.243.31|3128|Germany|Kamp-Lintfort|myLoc managed IT AG|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3384** proxies at the latest update. Usable proxies are below.
+> Scraper found **3118** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|109|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|109|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|109|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|123|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|123|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|123|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|187|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|199|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|98|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|120|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1816|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|46.53.191.60|3128|Belarus|Borovlyany|FE "ALTERNATIVNAYA ZIFROVAYA SET" Minsk|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|6|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|7|204.199.174.67|999|Peru|Arequipa|Level 3 Communications, Inc.|
-|8|66.196.238.181|3128|United States|Cypress|Logix|
-|9|181.205.20.197|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
-|10|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|11|46.53.191.60|3128|Belarus|Borovlyany|FE "ALTERNATIVNAYA ZIFROVAYA SET" Minsk|
-|12|62.75.206.151|3128|France|Strasbourg|PlusServer GmbH|
-|13|95.217.72.247|3127|Finland|Helsinki|Hetzner Online GmbH|
-|14|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|15|158.51.107.240|8080|United States|Fredericksburg|4 ip Technology and Media, LLC|
-|16|189.193.230.158|999|Mexico|Comitán|Mega Cable, S.A. de C.V.|
-|17|204.199.174.69|999|Peru|Arequipa|Level 3 Communications, Inc.|
-|18|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
-|19|204.199.174.67|999|Peru|Arequipa|Level 3 Communications, Inc.|
-|20|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|1|216.238.81.28|59394|Mexico|Mexico City|The Constant Company|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|177.141.99.50|8080|Brazil|São Paulo|Claro S.A.|
+|4|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|5|204.199.174.67|999|Peru|Arequipa|Level 3 Communications, Inc.|
+|6|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
+|7|46.53.191.60|3128|Belarus|Borovlyany|FE "ALTERNATIVNAYA ZIFROVAYA SET" Minsk|
+|8|181.205.20.197|999|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|9|103.81.84.118|22884|Vietnam|Hanoi|HOSTINGVIET|
+|10|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
+|11|188.133.136.116|8090|Russia|Moscow|Enforta-MSK|
+|12|103.10.22.236|8080|Mongolia|Ulan Bator|Kewiko LLC|
+|13|138.68.238.19|31028|United States|Santa Clara|DigitalOcean, LLC|
+|14|64.225.8.192|80|United States|Clifton|DigitalOcean, LLC|
+|15|200.105.215.18|33630|Bolivia|La Paz|AXS Bolivia S. A.|
+|16|162.219.119.225|8080|United States|Cave City|Hillbilly Wireless INC.|
+|17|190.104.142.78|8080|Paraguay|Asunción|Núcleo S.A.|
+|18|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
+|19|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|20|66.196.238.181|3128|United States|Cypress|Logix|
 
 
 

@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3618** proxies at the latest update. Usable proxies are below.
+> Scraper found **3625** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|200|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|200|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|200|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -33,9 +33,9 @@ Click the file format that you want and copy the URL.
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|210|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|247|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|234|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|204|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1891|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|187.188.143.100|999|Mexico|Guadalajara|Total Play Telecomunicaciones SA De CV|
-|2|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|1|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|2|46.53.191.60|3128|Belarus|Borovlyany|FE "ALTERNATIVNAYA ZIFROVAYA SET" Minsk|
 |3|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|4|46.53.191.60|3128|Belarus|Borovlyany|FE "ALTERNATIVNAYA ZIFROVAYA SET" Minsk|
-|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|6|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
-|7|178.66.182.76|3128|Russia|Polyarnyy|PJSC Rostelecom|
-|8|206.189.195.74|8080|United States|North Bergen|DigitalOcean, LLC|
-|9|200.37.199.186|999|Peru|Lima|Telefonica del Peru S.A.A.|
-|10|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
-|11|190.26.201.194|8080|Colombia|Bogotá|ETB - Colombia|
-|12|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
-|13|85.14.243.31|3128|Germany|Kamp-Lintfort|myLoc managed IT AG|
-|14|5.61.44.89|3128|Germany|Frankfurt am Main|LeaseWeb DE|
-|15|47.242.84.173|3128|Hong Kong|Hong Kong|Alibaba.com LLC|
-|16|209.166.175.201|3128|United States|Pittsburgh|CONTINENTAL BROADBAND PENNSYLVANIA, INC.|
-|17|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|18|14.141.209.11|8080|India|Chennai|Tata Communications Limited|
-|19|185.190.38.154|8080|Kosovo|Istok|Kadri Haxhiaj trading as "B.I."|
-|20|117.4.115.169|8080|Vietnam|Hanoi|Viettel Corporation|
+|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|5|183.89.160.204|8080|Thailand|Pattaya|Triple T Broadband Public Company Limited|
+|6|206.189.195.74|8080|United States|North Bergen|DigitalOcean, LLC|
+|7|102.68.128.212|8080|Libya|Tripoli|Aljeel Aljadeed For Technology|
+|8|181.78.19.197|999|Colombia|Fonseca|IFX Networks Argentina S.R.L|
+|9|206.54.182.179|3128|Netherlands|Amsterdam|Webzilla B.V.|
+|10|206.54.182.179|3128|Netherlands|Amsterdam|Webzilla B.V.|
+|11|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|12|115.96.208.124|8080|India|Mumbai|Hathway IP over Cable Internet Access|
+|13|40.67.252.70|8080|Ireland|Dublin|Microsoft Corporation|
+|14|78.47.223.55|5566|Germany|Nuremberg|Hetzner Online GmbH|
+|15|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
+|16|200.146.77.133|80|Brazil|Curitiba|Vivo|
+|17|5.61.44.89|3128|Germany|Frankfurt am Main|LeaseWeb DE|
+|18|85.14.243.31|3128|Germany|Kamp-Lintfort|myLoc managed IT AG|
+|19|41.205.24.38|8080|Cameroon|Douala|MTN Network Solutions (Cameroon)|
+|20|93.171.192.28|8080|Russia|Moscow|Pvonet LTD|
 
 
 

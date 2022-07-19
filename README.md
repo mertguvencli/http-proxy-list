@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3770** proxies at the latest update. Usable proxies are below.
+> Scraper found **3625** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|192|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|192|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|192|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|130|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|130|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|130|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|0|🚫|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|99|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
 |[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|311|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|297|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|225|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|193|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1878|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|2|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
-|3|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|4|144.202.61.154|8888|United States|Elk Grove Village|The Constant Company|
-|5|203.150.113.97|8080|Thailand|Watthana|Internet Thailand Company Ltd.|
-|6|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|7|144.202.61.154|8888|United States|Elk Grove Village|The Constant Company|
-|8|136.243.124.244|3128|Germany|Nuremberg|Hetzner Online GmbH|
-|9|5.167.141.239|3128|Russia|Tula|CJSC "ER-Telecom Holding" Tula branch|
-|10|216.176.187.99|8886|United States|Los Angeles|Wowrack.com|
-|11|119.76.142.172|8080|Thailand|Nakhon Ratchasima|True Internet Co., Ltd.|
-|12|209.45.111.194|45729|Peru|Lima|Red Cientifica Peruana|
-|13|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|14|12.144.254.185|9080|United States|Clinton|AT&T Services, Inc.|
-|15|193.123.104.244|3128|Brazil|Vinhedo|Oracle Corporation|
-|16|103.17.213.98|8080|Cambodia|Phnom Penh|WiCAM Corporation Ltd|
-|17|140.227.58.238|3180|Japan|Chiyoda|NTT PC Communications, Inc.|
-|18|171.6.148.44|8080|Thailand|Bangkok|Triple T Broadband Public Company Limited|
-|19|118.89.176.33|8118|China|Shenzhen|Shenzhen Tencent Computer Systems Company Limited|
-|20|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|1|159.65.198.235|443|Netherlands|Amsterdam|DigitalOcean, LLC|
+|2|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|3|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|4|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|5|174.138.116.12|80|United States|Clifton|DigitalOcean, LLC|
+|6|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|7|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
+|8|144.202.61.154|8888|United States|Elk Grove Village|The Constant Company|
+|9|114.4.104.254|3128|Indonesia|Jakarta|PT. INDOSAT Tbk|
+|10|105.112.191.250|3128|Nigeria|Lagos|Airtel Networks Limited|
+|11|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
+|12|37.120.192.154|8080|Netherlands|Amsterdam|M247 Ltd|
+|13|192.195.57.72|3128|Brazil|Maceió|AS|
+|14|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|15|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|16|110.44.113.105|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
+|17|5.161.105.105|80|United States|Ashburn|Hetzner Online GmbH|
+|18|187.190.0.205|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|19|46.53.191.60|3128|Belarus|Borovlyany|FE "ALTERNATIVNAYA ZIFROVAYA SET" Minsk|
+|20|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
 
 
 

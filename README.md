@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3653** proxies at the latest update. Usable proxies are below.
+> Scraper found **3369** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|137|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|137|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|137|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|153|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|153|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|153|
 
 ## Sources
 
@@ -32,37 +32,37 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|232|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|236|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|176|✅|
-|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1862|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|219|✅|
+|[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1831|✅|
 
 
 ## Sample Proxies With Geolocation Info
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|2|198.59.191.234|8080|United States|Carlsbad|TDS TELECOM|
-|3|198.59.191.234|8080|United States|Carlsbad|TDS TELECOM|
-|4|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|5|40.67.252.70|8080|Ireland|Dublin|Microsoft Corporation|
-|6|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|7|45.175.160.141|999|Argentina|Tunuyan|OSORIO SERGIO ANGELINO(NETVDU).|
-|8|151.181.91.10|80|United States|Buffalo|Fibertech Networks|
-|9|41.60.235.185|8080|Kenya|Nairobi|Maintainer Liquid Telecommunications Operations Limited|
-|10|64.138.255.146|80|United States|Conway|Horry Telephone Cooperative, Inc.|
-|11|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|12|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|13|36.67.241.26|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
-|14|179.49.113.230|999|Honduras|Pinalejo|Asociacion De Servicio De Internet S. De RL.|
-|15|82.200.80.118|8080|Russia|Barnaul|ZSTTK|
-|16|20.84.106.205|8214|United States|Boydton|Microsoft Corporation|
-|17|181.224.207.19|999|Dominican Republic|Santiago de los Caballeros|BW TELECOM|
-|18|113.160.235.248|19132|Vietnam|Da Nang|VietNam Post and Telecom Corporation|
-|19|47.89.185.178|8888|United States|Charlottesville|Alibaba.com LLC|
-|20|198.59.191.234|8080|United States|Carlsbad|TDS TELECOM|
+|1|35.230.142.201|8080|United Kingdom|London|Google LLC|
+|2|40.67.252.70|8080|Ireland|Dublin|Microsoft Corporation|
+|3|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|4|193.123.104.244|3128|Brazil|Vinhedo|Oracle Corporation|
+|5|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|6|113.53.47.189|8080|Thailand|Lopburi|TOT Public Company Limited|
+|7|181.205.69.2|8080|Colombia|Medellín|EPM Telecomunicaciones S.A. E.S.P.|
+|8|103.28.149.165|4747|Indonesia|Jakarta|ARGON|
+|9|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|10|36.67.241.26|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|11|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|12|151.181.91.10|80|United States|Buffalo|Fibertech Networks|
+|13|51.75.5.209|32648|France|Gravelines|OVH SAS|
+|14|200.146.77.133|80|Brazil|Curitiba|Vivo|
+|15|144.202.61.154|8888|United States|Elk Grove Village|The Constant Company|
+|16|46.53.191.60|3128|Belarus|Borovlyany|FE "ALTERNATIVNAYA ZIFROVAYA SET" Minsk|
+|17|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|18|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|19|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|20|187.188.147.170|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 

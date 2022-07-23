@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3905** proxies at the latest update. Usable proxies are below.
+> Scraper found **3586** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|225|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|225|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|225|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|249|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|249|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|249|
 
 ## Sources
 
@@ -32,10 +32,10 @@ Click the file format that you want and copy the URL.
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
 |[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|401|✅|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|372|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|250|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|260|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1871|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|144.202.61.154|8888|United States|Elk Grove Village|The Constant Company|
-|2|187.188.147.170|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|3|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
-|4|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|5|107.172.73.179|7890|Canada|Hamilton|ColoCrossing|
-|6|144.202.61.154|8888|United States|Elk Grove Village|The Constant Company|
-|7|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
-|8|187.216.93.20|55443|Mexico|Mexico City|Uninet S.A. de C.V.|
-|9|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
-|10|125.25.33.218|8080|Thailand|Chiang Mai|TOT Public Company Limited|
-|11|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
-|12|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
-|13|107.172.73.179|7890|Canada|Hamilton|ColoCrossing|
-|14|192.163.206.200|3128|United States|Provo|Unified Layer|
-|15|209.166.175.201|8080|United States|Pittsburgh|CONTINENTAL BROADBAND PENNSYLVANIA, INC.|
-|16|123.56.13.137|80|China|Beijing|Hangzhou Alibaba Advertising Co|
-|17|38.123.207.246|999|Mexico|Mexico City|Cogent Communications|
-|18|187.188.147.170|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
-|19|85.14.243.31|3128|Germany|Kamp-Lintfort|myLoc managed IT AG|
-|20|180.178.189.102|3127|Pakistan|Lahore|KK Networks (Pvt.) Limited|
+|1|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|2|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|3|122.102.118.83|8080|Iraq|Baghdad|Al Lawn Al Akhdar International Company for Communications and Information Tech|
+|4|203.150.128.141|8080|Thailand|Watthana|Internet Thailand Company Ltd|
+|5|62.3.30.26|8080|Georgia|Tbilisi|Enbinet Ltd.|
+|6|107.172.73.179|7890|Canada|Hamilton|ColoCrossing|
+|7|193.138.178.6|8282|Russia|Chelyabinsk|New Communication Technologies|
+|8|107.172.73.179|7890|Canada|Hamilton|ColoCrossing|
+|9|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
+|10|181.31.225.234|3128|Argentina|Cipolletti|Telecom Argentina S.A|
+|11|160.3.168.70|8080|United States|Long Beach|CABLE ONE, INC.|
+|12|187.188.147.170|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
+|13|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
+|14|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|15|190.119.211.42|9812|Peru|La Victoria|America Movil Peru S.A.C.|
+|16|110.44.113.105|8080|Nepal|Kathmandu|Vianet Communications Pvt. Ltd|
+|17|103.148.195.22|8080|Indonesia|Tabanan|Dinas Komunikasi DAN Informatika Kabupaten Tabanan|
+|18|85.14.243.31|3128|Germany|Kamp-Lintfort|myLoc managed IT AG|
+|19|103.159.90.14|83|India|Bhagwangola|Pegasuswave Private Limited|
+|20|103.248.93.5|8080|India|Delhi|Ani Network Pvt Ltd|
 
 
 

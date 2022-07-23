@@ -8,7 +8,7 @@
 It is a lightweight project that hourly scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.
 
 
-> Scraper found **3476** proxies at the latest update. Usable proxies are below.
+> Scraper found **3691** proxies at the latest update. Usable proxies are below.
 
 ## Usage
 
@@ -17,9 +17,9 @@ Click the file format that you want and copy the URL.
 
 |File|Content|Count|
 |----|-------|-----|
-|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|158|
-|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|158|
-|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|158|
+|[data.txt](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.txt)|`ip_address:port` combined (seperated new line)|147|
+|[data.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data.json)|`ip, port`|147|
+|[data-with-geolocation.json](https://raw.githubusercontent.com/mertguvencli/http-proxy-list/main/proxy-list/data-with-geolocation.json)|`ip, port, geolocation`|147|
 
 ## Sources
 
@@ -31,11 +31,11 @@ Click the file format that you want and copy the URL.
 |[free-proxy-list.com](https://free-proxy-list.com/?page=&port=&type%5B%5D=http&type%5B%5D=https&up_time=0&search=Search)|10|✅|
 |[proxy-list.download](https://www.proxy-list.download/HTTP)|26|✅|
 |[vpnoverview.com](https://vpnoverview.com/privacy/anonymous-browsing/free-proxy-servers)|32|✅|
-|[proxyscan.io](https://www.proxyscan.io)|100|✅|
-|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|0|🚫|
-|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|306|✅|
+|[proxyscan.io](https://www.proxyscan.io)|0|🚫|
+|[proxylist.geonode.com](https://proxylist.geonode.com/api/proxy-list?limit=300&page=1&sort_by=lastChecked&sort_type=desc&protocols=http,https)|300|✅|
+|[proxyscrape.com](https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=all&ssl=all&anonymity=all)|307|✅|
 |[github.com/clarketm/proxy-list](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)|400|✅|
-|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|270|✅|
+|[github.com/monosans/proxy-list](https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt)|284|✅|
 |[github.com/TheSpeedX/PROXY-List](https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt)|1817|✅|
 
 
@@ -43,26 +43,26 @@ Click the file format that you want and copy the URL.
 
 |#|Ip|Port|Country|City|Internet Service Provider|
 |-|--|----|-------|----|-------------------------|
-|1|81.4.102.233|8081|Netherlands|Amsterdam|WeservIT|
-|2|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|3|144.202.61.154|8888|United States|Elk Grove Village|The Constant Company|
-|4|182.253.141.88|8080|Indonesia|Semarang|Biznet Networks|
-|5|95.216.224.238|8118|Finland|Helsinki|Hetzner Online GmbH|
-|6|144.202.61.154|8888|United States|Elk Grove Village|The Constant Company|
-|7|107.172.73.179|7890|Canada|Hamilton|ColoCrossing|
-|8|81.4.102.223|8081|Netherlands|Amsterdam|WeservIT|
-|9|165.16.27.30|1981|Libya|Tripoli|Aljeel Aljadeed For Technology|
-|10|177.91.98.252|8080|Brazil|Bom Jesus da Lapa|Pollynet - MP Telecom Servicos E Comercio Ltda|
-|11|81.4.102.223|8081|Netherlands|Amsterdam|WeservIT|
-|12|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
-|13|85.14.243.31|3128|Germany|Kamp-Lintfort|myLoc managed IT AG|
-|14|149.34.2.39|8080|Spain|Roses|Adamo Telecom Iberia S.A.|
-|15|96.27.152.115|8080|United States|Evansville|WideOpenWest Finance LLC|
-|16|45.70.236.123|999|Ecuador|Puebloviejo|Nedetel S.A.|
-|17|20.47.108.204|8888|United States|Boydton|Microsoft Corporation|
-|18|64.189.24.250|3129|United States|Chicago|WhiteSky Communications, LLC.|
-|19|157.100.12.138|999|Ecuador|Loja|Telconet S.A|
-|20|8.9.3.19|1993|United States|Piscataway|The Constant Company, LLC|
+|1|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|2|81.4.102.223|8081|Netherlands|Amsterdam|WeservIT|
+|3|20.81.62.32|3128|United States|Boydton|Microsoft Corporation|
+|4|144.202.61.154|8888|United States|Elk Grove Village|The Constant Company|
+|5|8.219.97.248|80|Singapore|Singapore|Alibaba (US) Technology Co., Ltd.|
+|6|167.235.63.238|3128|Germany|Falkenstein|Hetzner Online GmbH|
+|7|103.145.253.237|3128|Vietnam|Hanoi|Enterprise Sortware Company Limited|
+|8|193.123.104.244|3128|Brazil|Vinhedo|Oracle Corporation|
+|9|81.4.102.233|8081|Netherlands|Amsterdam|WeservIT|
+|10|132.226.163.28|3128|Brazil|São Paulo|Oracle Corporation|
+|11|185.20.198.108|8080|Iraq|Basrah|Horizon Scope Mobile Telecom WLL|
+|12|185.15.172.212|3128|Russia|Moscow|SafeData LLC|
+|13|121.156.109.108|8080|South Korea|Seongnam-si|Korea Telecom|
+|14|209.166.175.201|3128|United States|Pittsburgh|CONTINENTAL BROADBAND PENNSYLVANIA, INC.|
+|15|159.255.188.134|41258|Poland|Belzec|TOM-NET s.c. Dariusz Koper|
+|16|159.255.188.134|41258|Poland|Belzec|TOM-NET s.c. Dariusz Koper|
+|17|36.67.241.26|8080|Indonesia|Jakarta|PT. Telekomunikasi Indonesia|
+|18|59.124.224.205|3128|Taiwan|Taipei|Chunghwa Telecom Co., Ltd.|
+|19|51.250.80.131|80|Russia|Moscow|Yandex.Cloud LLC|
+|20|187.188.147.170|999|Mexico|San Luis Potosí City|Total Play Telecomunicaciones SA De CV|
 
 
 
